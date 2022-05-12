@@ -1,0 +1,2123 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>First-Year Seminar Selection | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="First-Year Seminar Selection">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/admissions/">Admissions</a></li><li class="linkitem"><a href="/newstudents/">New Students</a></li><li class="linkitem"><a href="/newstudents/first-yearstudents/">First-Year Students</a></li><li class="linkitem"><a href="/incoming/summer-advising/">Summer Advising</a></li><li class="linkitem"><a href="/incoming/summer-advising/first-yearseminarselection/">First-Year Seminar Selection</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">First-Year Seminar Selection</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="First-Year Seminar Selection">
+							<span class="sub_nav_handle_label">First-Year Seminar Selection</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/incoming/summer-advising/beforeyouradvisingday/">Before Your Advising Day</a></li><li class="sub_nav_item"><a href="/newstudents/first-yearstudents/checklist/">Pre-arrival Checklist</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/admissions/">Admissions</a></li><li class="linkitem"><a href="/newstudents/">New Students</a></li><li class="linkitem"><a href="/newstudents/first-yearstudents/">First-Year Students</a></li><li class="linkitem"><a href="/incoming/summer-advising/">Summer Advising</a></li><li class="linkitem"><a href="/incoming/summer-advising/first-yearseminarselection/">First-Year Seminar Selection</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong>What are First-Year Seminars?</strong></p>
+<p>First-Year Seminars are small, discussion-oriented courses that introduce students to what it means to think deeply, to talk, read and write critically about ideas. Required of all first-year students, First-Year Seminars provide the opportunity to work closely with a faculty member and to read and write about a topic in depth.</p>
+<p>Taught by faculty from departments throughout the College, seminars vary in subject.&nbsp; Some examine a topic from an interdisciplinary perspective; others focus on particular issues within a discipline.&nbsp; What all First-Year Seminars share is an emphasis on writing and thinking critically about the values and assumptions underlying various approaches to knowledge.</p>
+<p>All First-Year Seminars are designated writing-intensive, and therefore, they require frequent writing and reading. Seminars teach students how to formulate a thesis and develop an argument or an interpretation. In addition, students learn how to collect, evaluate and cite evidence that supports and qualifies a thesis.&nbsp; With the help of the professor‚s comments on preliminary drafts, students also learn how to revise their work.<br><br></p>
+<p><strong>What distinguishes First-Year Seminars from other courses at Muhlenberg?</strong></p>
+<p>First-Year Seminars are limited in size to fifteen. This small size creates a community of inquiry where participants share ideas. Often the professor serves as the academic advisor to the seminar participants. This arrangement enhances the effectiveness of the advising process and helps ease the transition to college life.</p>
+<p>In addition, First-Year Seminars are assigned a <strong>Writing Assistant</strong>, a trained writing tutor who assists first-year students with their writing, reading and critical thinking skills. Writing Assistants (WAs) are highly motivated Muhlenberg students; all are skilled writers. They attend seminar classes and arrange one-on-one and small group conferences with students. Because WAs and professors work together closely, these peers provide first-year students with a writing specialist who understands the course material and the expectations of the seminar.</p></div>
+
+</div>
+</div>
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><h3>Fall 2022</h3><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-why-we-write2" 
+     aria-expanded="false" 
+     aria-controls="fys-why-we-write2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-why-we-write">
+      <p class="panel-title pull-left">
+          FYS 103: Why We Write
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-why-we-write2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-why-we-write">
+    <div class="panel-body">
+        <p><strong>Dr. Jim Bloom //&nbsp;TR 12:30-1:45</strong></p>
+<p>This seminar will appeal to students who care about writing and who wonder why we write, how to write, whom to write for. We will focus on writing as performance, both expressive and rhetorical, and on writing as inquiry and an instrument of discovery. Learning how to write more informatively and more persuasively will equip students for academic and career success and for lifelong intellectual engagement. Conversations and assignments will address questions about the motives for writing and the impact of various approaches to writing (styles, genres, strategies, tropes, etc.). We will treat every reading assignment as a writing lesson and every writing and presentation assignment as an opportunity to address the questions about language, identity, relationships, power,aspiration, and ideology raised by the writers whose work we‚ll be studying, including Joan Didion George Orwell, Robert Frost, Gwendolyn Brooks,John Keats, Lydia Davis, James Baldwin, Emily Dickinson, Langston Hughes, Bob Dylan, Anne Patchett, and Paul Fussell.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-travel-writing2" 
+     aria-expanded="false" 
+     aria-controls="fys-travel-writing2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-travel-writing">
+      <p class="panel-title pull-left">
+          FYS 104: Travel Writing
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-travel-writing2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-travel-writing">
+    <div class="panel-body">
+        <p><strong>Dr. Eduardo Olid Guerrero //&nbsp;TR 12:30-1:45</strong></p>
+<p>This seminar is designed to help you develop university-level skills in critical thinking and analytical writing that you will use during your academic life at Muhlenberg and throughout your personal and professional career. In this course we will focus on travel writing and on the many different ways to communicate the travel experience in a variety of written discourses. Students will read different writing styles from Herodotus to Polo, Columbus or Cortes, to Lewis and Clark. They will enter in a critical dialogue with the scholarship and theory on travel writing so that they can develop their critical reading skills and produce their own analytical essay on this topic.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-explorers-of-nature2" 
+     aria-expanded="false" 
+     aria-controls="fys-explorers-of-nature2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-explorers-of-nature">
+      <p class="panel-title pull-left">
+          FYS 109-01, 109-02: Explorers of Nature
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-explorers-of-nature2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-explorers-of-nature">
+    <div class="panel-body">
+        <p><strong>Dr. Erika Iyengar //&nbsp;TR 11:00-12:15, TR 12:30-1:45<br></strong></p>
+<p>What could cause someone to risk life and limb to climb a mountain, cross a country or an ocean, or watch animals? Yet, throughout history (and still today) many people attempted feats that destroyed body parts, ruined their family, or even resulted in death. Is it an attempt to subdue the powerful force of nature, to find something never seen or done before, the love of adventure, the detestation of boredom, the drive to scientifically understand something, a religious calling, something else, or some of all of these? Through this writing-intensive course, we will focus on explorers, historical and contemporary, who forayed into previously uncharted regions of nature, braving the elements, often alone. We will discuss what motivated them, what they aimed to accomplish, and what they did accomplish. While we examine the people themselves, we will also learn about the surrounding ecosystems in which they ventured. In addition to reading traditional texts, we will approach these topics through a variety of media, examining related art, poetry, movies, scientific specimens, and making our own small-scale investigations of local nature.</p>
+<p><em>(Note: This course will be offered in two sections, one of which will be offered at TR 11-12:15 and theother TR 12:30-1:45)</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-batman2" 
+     aria-expanded="false" 
+     aria-controls="fys-batman2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-batman">
+      <p class="panel-title pull-left">
+          FYS 113: Moral and Ethical Dilemmas of the Batman
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-batman2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-batman">
+    <div class="panel-body">
+        <p><strong>Dr.&nbsp;Adam Clark // TR 12:30-1:45</strong></p>
+<p>Batman is a character with nearly universal appeal and enormous cultural prominence. In this First Year Seminar, we will analyze the symbolism of the Caped Crusader and explore the themes of some of the more literary Batman graphic novels. We will examine the unique way graphic novels combine images and text to convey meaning and tell moving stories as well as the meaning and symbolism of Batman, some of his iconic villains, and the particularly unique stories chosen for our reading list, including <em>Batman: White Knight, The Killing Joke, and Batman: Damned</em>. We will also read scholarly works about the graphic novel art form such as Scott McCloud‚s <em>Understanding Comics</em> as well as philosophical works such as Mark D. White‚s <em>Batman and Ethics</em> to guide our analysis. In this course we will closely analyze images and texts in the Batman graphic novels to explore how they represent larger ethical and political dilemmas. We will examine the moral and ethical implications of Batman‚s actions, and we will investigate questions such as the following: To what extent is Batman actually good for Gotham? How do Batman, his villains, and the art used to portray them reflect cultural depictions of mental illness? We will engage critically and analytically with all our texts, whether they be comic books or philosophical treatises. Finally, a warning: Some of the graphic novels we will be analyzing are very dark and heavy.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-idea-wilderness2" 
+     aria-expanded="false" 
+     aria-controls="fys-idea-wilderness2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-idea-wilderness">
+      <p class="panel-title pull-left">
+          FYS 117: The Idea of Wilderness
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-idea-wilderness2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-idea-wilderness">
+    <div class="panel-body">
+        <p><strong>Dr. Matt Moore&nbsp; // TR 12:30-1:45<br></strong></p>
+<p>Is Nature over? Did we destroy it? Don't be so arrogant! Humans are constantly engaged in reproducing and revising the concept of Nature through political and representational acts. That is, Nature is something we write, paint, film, narrate, legislate and philosophize into being rather than something that we see out the window. In this class we will focus on Nature's extreme--wilderness--and the role it plays in our ways of imagining both self and world.</p>
+<p>The value and allure of wilderness, the wild and all its threats, challenges, and mystery, have long been emblems of American independence, thought, and consciousness. But how we relate to the natural world has changed dramatically over the course of our nationhood. Today, catastrophic developments in humanity's relationship to the natural world demand that we rethink and redeploy our rhetorics of<br>Nature and wilderness.</p>
+<p>Readings by Henry David Thoreau, Aldo Leopold, John Muir, Rachel Carson, Roderick Fraser Nash, as<br>well as poetry, paintings, films, short stories, novellas, documentaries, environmental policy, and even<br>reality TV will ground our investigation of the mythos of the natural world, its insistent pull upon the<br>American soul, and the rhetorical practice of constructing Nature.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-new-york-city-history2" 
+     aria-expanded="false" 
+     aria-controls="fys-new-york-city-history2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-new-york-city-history">
+      <p class="panel-title pull-left">
+          FYS 120: New York City: A Global History
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-new-york-city-history2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-new-york-city-history">
+    <div class="panel-body">
+        <p><strong>Dr. Sarah Runcie //&nbsp;TR 12:30-1:45</strong></p>
+<p>If I can make it there, I can make it anywhere: these iconic song lyrics sung by artists from Frank Sinatra to Jay-Z speak to the allure of New York City as a place where dreams can be made, but also the possibility of dreams crushed by the challenges of the city. This seminar explores the idea of ‚making it‚ in New York City as a global history of the 19th and 20th century. African, Asian, Caribbean, European, and South American immigrants have all been central to the history of New York City and the creation of it a uniquely vibrant place. How have immigrants to New York carved out spaces of community and belonging in the city? How have identities of nationality, culture, race, ethnicity, gender and sexuality shaped the experiences, opportunities, and challenges of individuals and communities in the city? Through scholarly works, films, novels, photographs, and music we will explore a global history of trying to survive and thrive in the city. We will also explore the broader theme of understanding one place through attention to multiple perspectives and historical trajectories. Students will explore these topics through in-class reflections, formal essays, and the creation of digital maps.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-conartists-frauds-you2" 
+     aria-expanded="false" 
+     aria-controls="fys-conartists-frauds-you2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-conartists-frauds-you">
+      <p class="panel-title pull-left">
+          FYS 123: Con Artists, Frauds, and You
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-conartists-frauds-you2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-conartists-frauds-you">
+    <div class="panel-body">
+        <p><strong>Dr. Will Gryc //&nbsp;TR 12:30-1:45</strong></p>
+<p>A stranger comes up to you on the street, saying that he lost his wallet and needs $5 for bus fare home. It‚s a small but common con, a touching narrative to part a naive mark with their money. And it works. But there are bigger cons with bigger payoffs and more elaborate schemes. Why are these big cons successful, and what does their success imply about their victims? Related to con artists are frauds, people who misrepresent and lie about themselves to others for personal gain. Why do people believe liars and frauds? What strategies do liars employ to get us to believe them and why does it work? And finally we come to us. While we may think of ourselves as honest, it turns out that it is difficult for humans to be completely honest, particularly with themselves. Self-deception and unconscious bias is so ingrained in us that it is difficult to self-diagnosis it. Can we free ourselves of self-deception and see beyond its veil? In this class, we will view these questions through a lens of behavioral economics, where we see that irrationality appears to be all-too-common part of human thought. In fact, through that lens, we will see that often each individual is both the perpetrator and the mark. However, being conscious of the cognitive pitfalls and traps can help us be vigilant against lies and bias, both external and internal.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-histories-health-labor-sexuality2" 
+     aria-expanded="false" 
+     aria-controls="fys-histories-health-labor-sexuality2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-histories-health-labor-sexuality">
+      <p class="panel-title pull-left">
+          FYS 130: Sweat: Histories of Health, Labor, and Sexuality
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-histories-health-labor-sexuality2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-histories-health-labor-sexuality">
+    <div class="panel-body">
+        <p><strong>Dr. Beatrice Bradley // WF 11-12:15</strong></p>
+<p>Why do humans sweat? What does sweat tell us about the body? This seminar examines a range of narratives surrounding the production of perspiration and its signification, bringing into conversation readings from the sciences, literary studies, and theories of gender and sexuality. From the biblical curse in Genesis‚God‚s injunction to Adam that ‚In the sweat of thy face shalt thou eat bread‚‚to seventeenth-century ‚sweating-chairs‚ that measured perspiration as a sign of health to contemporary sweat patches that collect information about the body, the fluid has long operated in the cultural imaginary as a material marker of what it means to be human. As a class, we will examine anew how sweat informs our understandings of the human (and nonhuman!) and mobilizes categories of identity such as race, disability, gender, sexuality, and class. Syllabus materials will include: premodern writings on medicine; literary works from Shakespeare to Zora Neale Hurston; contemporary papers in bioethics; and pop-culture artifacts such as Britney Spears‚ ‚I‚m a Slave 4 U‚ music video.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-gender-metamorphosis2" 
+     aria-expanded="false" 
+     aria-controls="fys-gender-metamorphosis2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-gender-metamorphosis">
+      <p class="panel-title pull-left">
+          FYS 131: Gender and Sexuality through Metamorphosis
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-gender-metamorphosis2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-gender-metamorphosis">
+    <div class="panel-body">
+        <p><strong>Dr. Joshua Barsczewski //&nbsp;TR 12:30-1:45</strong></p>
+<p>In scientific terms, ‚metamorphosis‚ describes a bodily change where one phase of life ends and a new, often very different, one begins. Think of the butterfly emerging from a chrysalis. In art and literature, the concept of metamorphosis has been used to represent characters coming to terms with their gender or sexual identity. Monsters, superheroes, robots, and vampires‚among other examples we will explore‚have implicitly and at times explicitly represented homosexuality, bisexuality, and transgender or gender nonconforming identities. In this course, we will examine, write about, and sometimes critique depictions of metamorphosis and transformation, interpreting how and why artists depict self-identity through fantastical and mystical processes. As we go along, we will ask questions such as: Do we really become different people when we come to terms with our gender and sexualities? Does revealing our identity to the world change who we are, or just how people see us? What is the relationship between one‚s emotional or intellectual sense of self and one‚s embodied experiences? If a change has occurred, what happened to our previous self? Course material will include academic texts from literary and cultural theory alongside literature (Ovid‚s <em>Metamorphoses</em>, Cal Angus‚s <em>A Natural History of Transition</em>), visual art (the work of Yasumasa Morimura) and pop culture (Harry Potter, X-Men, Shrek).</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-indigenous-people-pa2" 
+     aria-expanded="false" 
+     aria-controls="fys-indigenous-people-pa2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-indigenous-people-pa">
+      <p class="panel-title pull-left">
+          FYS 132: Indigenous People of Eastern Pennsylvania
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-indigenous-people-pa2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-indigenous-people-pa">
+    <div class="panel-body">
+        <p><strong>Dr. Benjamin Carter //&nbsp;TR 12:30-1:45</strong></p>
+<p>This course will begin with the ‚Walking Purchase‚ of 1737, which was the tool used to force indigenous peoples off their land in eastern Pennsylvania. The ‚purchase‚ has been called the most notorious land theft in American history. We will attempt to understand indigenous life prior to the purchase with a focus on perspectives on land use and land rights. We will also address the tactics used by William Penn (the founder of Pennsylvania) and his sons to steal the land. We will address the conditions for both indigenous people, including the distant Haudenosaunee (or Iroquois Empire), and colonialists leading up to the "purchase." We will also attempt to understand the aftermath of the Walking Purchase, which led to increasing disrespect and hatred for indigenous peoples as well as increasing violence. We will read original historical documents (by indigenous peoples and colonialists), modern indigenous works and conduct historical research.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-name-of-justice2" 
+     aria-expanded="false" 
+     aria-controls="fys-name-of-justice2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-name-of-justice">
+      <p class="panel-title pull-left">
+          FYS 141: In the Name of Justice
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-name-of-justice2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-name-of-justice">
+    <div class="panel-body">
+        <p><strong>Dr. Edward Lenzo //&nbsp;TR 12:30-1:45</strong></p>
+<p>When we talk about goodness, fairness, and equality, we are talking about justice. An interesting feature of justice is that it sometimes calls for exactly the kinds of things it is meant to prevent or correct, i.e., violence. Capital punishment, incarceration, riots, and war are all actions arguably made right if carried out with justice. In this class we will consider questions such as: What is justice? What does justice demand? Should we think of justice primarily in terms of punishment, or instead as making amends? We will focus on texts of various kinds (e.g., primary texts, video clips, audio recordings, manga) drawn from various disciplines (e.g., academic philosophy, social psychology, political science, literature). The main activities for this seminar include discussion, writing exploratory/inquiry-based analytical essays, peer-review, and student presentation.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-art-experience-irrational2" 
+     aria-expanded="false" 
+     aria-controls="fys-art-experience-irrational2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-art-experience-irrational">
+      <p class="panel-title pull-left">
+          FYS 158: Art, Experience, and the Irrational
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-art-experience-irrational2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-art-experience-irrational">
+    <div class="panel-body">
+        <p><strong>Prof. Kevin Tuttle //&nbsp;TR 12:30-1:45</strong></p>
+<p>Artists and writers work at the limits of understanding. As they struggle with experiences that seem beyond language, possibly in realms that appear irrational, how do artists and writers invent the language they need to reveal these experiences? What is the nature of language and what is its potential for newfound experience? In what ways have artists and writers created new structures in order to describe their experience? Picasso said "There is no such thing as 'feet' in nature." The French artist Matisse, as an old man, said with satisfaction "At last I've forgotten how to draw." What can these statements have in common? We will examine these and other unusual statements that artists have uttered and analyze how artists think, how they work, and investigate the paradoxical worlds they inhabit. Through reading, weekly informal writing to extended written analyses, discussion, drawing, and working in a sketchbook/journal we will analyze these issues‚issues which haunt artists and may propel their work in unexpected directions. Some of the readings will come from John Dewey‚s <em>Art as Experience</em>, Charles Baudelaire‚s <em>Flowers of Evil</em>, Suzuki‚s <em>Zen Mind, Beginner‚s Mind</em>, Rudolph Arnheim‚s <em>Art and Visual Perception</em>.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-ignorance2" 
+     aria-expanded="false" 
+     aria-controls="fys-ignorance2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-ignorance">
+      <p class="panel-title pull-left">
+          FYS 163: Ignorance
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-ignorance2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-ignorance">
+    <div class="panel-body">
+        <p><strong>Dr. Tad Robinson //&nbsp;TR 12:30-1:45</strong></p>
+<p>We have mixed feelings about ignorance. On the one hand, we regard ignorance as something to be eliminated, dispelled, or overcome. On the other hand, sometimes we are happy to remain ignorant, and to willingly put our heads in the sand. Often we simply do not want to know, for example, how much the gift cost, how many calories the cheeseburger has, or where our products come from. In short, we also know that ignorance can be bliss. In this seminar we will take a close look at our attitudes toward information and knowledge. After considering the nature of ignorance and its relationship to education, we will take up a number of related questions including: what motivates us to ignore certain kinds of information, and does this ever make sense? Do some groups, practices, or institutions strive to keep us ignorant? How so, and for what end? Exploring these questions will involve readings from a variety of disciplines including philosophy, psychology, education, and political science. This seminar is writing intensive.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-wisdom-in-writing2" 
+     aria-expanded="false" 
+     aria-controls="fys-wisdom-in-writing2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-wisdom-in-writing">
+      <p class="panel-title pull-left">
+          FYS 165: Wisdom in Action
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-wisdom-in-writing2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-wisdom-in-writing">
+    <div class="panel-body">
+        <p><strong>Dr. Gabriel Dean&nbsp;//&nbsp;TR 12:30-1:45</strong></p>
+<p>Wisdom encompasses reflection, compassion, and the pursuit of truth. Wisdom enacted means being able to consider multiple perspectives, being open to new ways of thinking that challenge the status quo, holding an optimism that life's problems can be solved, and ultimately, experiencing a certain amount of calm in facing difficult decisions. Broadly speaking, you've come to Muhlenberg to gain wisdom. But how exactly do we become wise? And how can we put that wisdom into action? This course will consider these questions through Krista Tippett's podcast "On Being" and her book Becoming Wise: An Inquiry into the Mystery and Art of Living. We will analyze the concept of wisdom and seek to become wiser ourselves through in-depth class discussion, short written personal reflections, and two longer scholarly essays, all inspired by the wisdom of contemporary writers, musicians, scientists, innovators, and spiritual leaders featured on Tippett's podcast. Our vastly interdisciplinary reading list includes Brene Brown, Jane Goodall, Ta-Nehisi Coates, Paulo Coelho, Eve Ensler, Mary Oliver, Eckhart Tolle, The Indigo Girls, Elie Wiesel, Martin Sheen, and His Holiness The Dalai Lama &amp; Reverend Desmond Tutu, among others.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-haunted-stage2" 
+     aria-expanded="false" 
+     aria-controls="fys-haunted-stage2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-haunted-stage">
+      <p class="panel-title pull-left">
+          FYS 179: The Haunted Stage
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-haunted-stage2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-haunted-stage">
+    <div class="panel-body">
+        <p><strong>Dr. Jim Peck //&nbsp;MW 12:30-1:45</strong></p>
+<p>Perhaps it's not an accident that when we leave a lamp on overnight in a theatre, we call at a ghost light. In many times and places, theatre has trafficked in ghosts. Many prominent playwrights (e.g. August Strindberg, Samuel Beckett, Suzan-Lori Parks, Rajiv Joseph, Annie Baker) count ghost stories among their most admired works. Why do ghosts walk the stage in so many theatrical traditions, spread across time, space, and culture? This course examines the confluence between theatre and the spectral. What happens when ghosts appear onstage? Often, theatrical ghosts impel the living to answer the claims of a traumatic, unresolved past. What do these hauntings reveal about the shape of personal memory? Of collective memory? We will focus on theatre but will also consider writings about ghostliness from other disciplines. Encounters with psychoanalysis, sociology, and philosophy will inform our interpretation of the stage ghost. Why is the theatre a persistently haunted space? How do these visitations of the dead facilitate processes of remembering, mourning, and reckoning for the living? Towards what future?</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-epistolary-explorations2" 
+     aria-expanded="false" 
+     aria-controls="fys-epistolary-explorations2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-epistolary-explorations">
+      <p class="panel-title pull-left">
+          FYS 183: Epistolary Explorations: The History, Psychology, & Art of Letter Writing
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-epistolary-explorations2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-epistolary-explorations">
+    <div class="panel-body">
+        <p><strong>Prof. Tina Hertel //&nbsp;TR 12:30-1:45</strong></p>
+<p>When was the last time you sat down and wrote‚not typed but ‚pen and paper‚ wrote‚a letter to someone? Received a letter? This seminar will examine the history, psychology, and art of letter writing and other epistolary formats. We will discuss the extent to which, as some cultural critics claim, letter writing is dying and what implications that might have for our culture. But we will also consider alternative possibilities‚that, rather than dying, letter writing is assuming new and vital forms. We will look at letter writing as a cultural practice, explore famous letters in their historical context, learn about who writes letters and why, appreciate epistolary fiction, and analyze the impact of digital technology on the epistolary format. We will use the epistolary practice of journaling to deepen our understanding as we will explore, analyze and discuss a wide range of letters and other epistolary practices. And yes, there will be some actual letter writing!</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-global-humanitarians2" 
+     aria-expanded="false" 
+     aria-controls="fys-global-humanitarians2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-global-humanitarians">
+      <p class="panel-title pull-left">
+          FYS 184: Global Humanitarians
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-global-humanitarians2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-global-humanitarians">
+    <div class="panel-body">
+        <p><strong>Dr. John Ramsay //&nbsp;MW 12:30-1:45</strong></p>
+<p>Leaders of non-profit organizations work daily on what is often called "humanitarian relief" for children and youth throughout the world. We'll read case studies of Malala, Doctors Without Borders, the International Red Cross, Paul Farmer and others who have earned global admiration for their work. And we will study less acclaimed leaders and organizations who have dedicated themselves to problems such as poverty, hunger/malnutrition, political violence, stigmatization of ethnic and racial minorities, child labor, human trafficking. Importantly, we will use these case studies to write about complex questions: What is "humanitarianism"? What inspires "humanitarians" to do this difficult work? What codes of conduct inform their behavior? How do their organizations actually work? How are they funded? How should their effectiveness be evaluated? How should we reckon with their successes and failures? How and why does their work matter?</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-cuisine-as-culture2" 
+     aria-expanded="false" 
+     aria-controls="fys-cuisine-as-culture2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-cuisine-as-culture">
+      <p class="panel-title pull-left">
+          FYS 205: Cuisine as Culture: Exploring Allentown's Hispanic Communities
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-cuisine-as-culture2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-cuisine-as-culture">
+    <div class="panel-body">
+        <p><strong>Dr. Erika M. Sutherland&nbsp;//&nbsp;TR 3:30-4:45</strong></p>
+<p>From the earliest recorded history, humans have thought about food as something much more than physical sustenance. Proof of this can be found in nearly any context or medium, but in this course we will explore the concept of food as a marker of culture and change. In the Lehigh Valley‚s large and surprisingly diverse Hispanic immigrant communities, food is at once a marker of assimilation and a nostalgic link to a distant homeland or disappearing culture. Looking at food through the eyes of filmmakers and the words of poets, historians, visionaries, and activists, we will learn to consider food ourselves as an object of study and a lens through which broader issues can be analyzed. Exploring local restaurants and food stores, you will be able to add your own sensorial and analytical impressions to this mix.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-bilingual2" 
+     aria-expanded="false" 
+     aria-controls="fys-bilingual2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-bilingual">
+      <p class="panel-title pull-left">
+          FYS 251: Bilingual: Life in More than One Language
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-bilingual2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-bilingual">
+    <div class="panel-body">
+        <p><strong>Dr. Mark Emerick //&nbsp;TR 12:30-1:45</strong></p>
+<p>Bilingualism is extraordinary! Or is it just ordinary? More than half of the world‚s population speaks more than one language and in many countries it is normal to speak three or more. In Papua New Guinea, over 830 languages are spoken and most people speak at least 2 languages. By contrast, in the United States, bilingualism is relatively rare; only about 20% of the U.S. population use two or more languages in their daily lives. But why are so few people in the United States bilingual? What is it like to live life as a bilingual? How do people become bilingual? And does speaking two or more languages affect students in (U.S.) schools? In this First Year Seminar, we will explore issues about bilingualism in society. In doing so, we will address some of these questions and more. Throughout the course we will consider three core topics related to bilingualism: (a) the lived experiences of bilinguals, (b) bilingual language development, and (c) bilingualism in U.S. schooling. The goal is to gain a deeper understanding of bilingualism as you develop your skills as a college-level reader, writing, and thinker.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-arabian-nights-disney-nights2" 
+     aria-expanded="false" 
+     aria-controls="fys-arabian-nights-disney-nights2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-arabian-nights-disney-nights">
+      <p class="panel-title pull-left">
+          FYS 252: Arabian Nights, Disney Nights
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-arabian-nights-disney-nights2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-arabian-nights-disney-nights">
+    <div class="panel-body">
+        <p><strong>Professor Sharon Albert //&nbsp;TR 12:30-1:45</strong></p>
+<p>Aladdin. Sinbad the Sailor. Ali Baba. We all know the Disney versions, but what are the real stories? Where do they come from? How did they reach us? And how have they affected our perceptions of Arabs, Islam, and the exotic, mysterious, and potentially threatening East? This course will focus on the collection of stories known as the Arabian Nights. We will begin by examining the stories themselves and how they reflect the medieval MiddleEastern societies in which they were first compiled. We will then consider the translation and transmission of these stories to the West. Finally we will investigate how these stories have shaped and how they continue to inform our perceptions and responses to non- Western societies. Readings will include a variety of translations of the Arabian Nights, secondary studies of the Nights, and works assessing how Western conceptions of the East have been constructed, including Edward Said‚s Orientalism. We will particularly focus on the presentation of images of the Nights in popular films such as Disney‚s Aladdin, Michael Powell‚s <em>Thief of Baghdad</em>, Valentino‚s <em>The Sheik</em>, and <em>The 7th Voyage of Sinbad</em>.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-do-robots-dream2" 
+     aria-expanded="false" 
+     aria-controls="fys-do-robots-dream2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-do-robots-dream">
+      <p class="panel-title pull-left">
+          FYS 266: Do Robots Dream?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-do-robots-dream2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-do-robots-dream">
+    <div class="panel-body">
+        <p><strong>Dr. Irene Chien //&nbsp;TR 12:30-1:45</strong></p>
+<p>From 19th century mechanical automata to C3PO to Siri, our concept of humanoid machines has shifted from the alien to the personal. And as technologies have interpenetrated our bodies and daily lives, it becomes harder to maintain the boundaries between what is natural and what is artificially constructed. What distinguishes humans from machines? Do new technologies open up our human potential or dehumanize us? Should we care if our machines are smarter than us? In this course, we will trace how artificial intelligence has been represented in literature, film, visual art, and popular culture to discover how robot identities have challenged our concepts of human identity. With a particular focus on the figure of the female, racialized, and/or queer robot, we will critically examine how gender, race, and sexuality intersect with technology to destabilize our ideas of what it means to be human.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-les-miserables2" 
+     aria-expanded="false" 
+     aria-controls="fys-les-miserables2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-les-miserables">
+      <p class="panel-title pull-left">
+          FYS 298: Les Miserables in Literature, Film, and History
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-les-miserables2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-les-miserables">
+    <div class="panel-body">
+        <p><strong>Dr. Tom Cragin //&nbsp;TR 12:30-1:45</strong></p>
+<p>Every work of art has a history. This course explores who tells the story of <em>Les Miserables</em>, and how -- from Victor Hugo‚s novel to the recent 2012 musical film. Instead of moving forward in time, we will move backward. We will begin with the 2012 musical, reach back to Hugo‚s novel in Second Empire France, and then back to the historical events that inspired the novel. At each of our three stages we will investigate the texts‚ cultural and social contexts, uncovering meanings that alter the story and its cultural significance. How might we interrogate Cosette‚s expressions of fear and pain when considering the condition of children in America today, France in 1862, and France in 1820? Students will develop the ability to interpret scholarly texts and to interact with the voices of experts in film, literature, and history. We will further complicate and deepen our readings by applying theoretical lenses such as feminism and Marxism.</p>
+    </div>
+  </div>
+</div><h3>Spring 2023</h3><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#spring-fys-creative-process2" 
+     aria-expanded="false" 
+     aria-controls="spring-fys-creative-process2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="spring-fys-creative-process">
+      <p class="panel-title pull-left">
+          FYS 152: The Creative Process: Theories on How Artists Work
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="spring-fys-creative-process2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="spring-fys-creative-process">
+    <div class="panel-body">
+        <p><strong> Dr. Linda Miller</strong></p>
+<p>George R.R. Martin tells us that there are two kinds of writers: architects and gardeners. Architects plan, plan, plan; whereas gardeners tend, nurture and watch. What do these two visions of writing and writers say about the creative process? In this seminar, we will investigate and consider how our writing is created. What motivates a writer to create? How do writers do what they do? And why? Throughout the semester, we will read, write and think deeply about how writers create their art and what they hope to accomplish. As part of our investigation, we will read essays on creativity written by artists, philosophers and psychologists. Finally, and most important, we will apply what we have learned about creativity to our own writing and creative endeavors during our semester course.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-spring-forced-from-home2" 
+     aria-expanded="false" 
+     aria-controls="fys-spring-forced-from-home2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-spring-forced-from-home">
+      <p class="panel-title pull-left">
+          FYS 263: Forced From Home
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-spring-forced-from-home2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-spring-forced-from-home">
+    <div class="panel-body">
+        <p><strong>Dr. John Ramsay</strong></p>
+<p>The course will examine the plights of refugee families, forced from their homes by persecution, war, violence, disease or environmental crises. We‚ll study a wide variety of non-fiction case studies, essays, short stories and documentary films, including Matthew Cassel‚s documentary film ‚The Journey,‚ the story of the Shalhoub family‚s three-year struggle to escape war-torn Syria and gain legal entry to The Netherlands. We‚ll read Rachel Aviv‚s ‚Letter from Sweden,‚ about a mysterious medical condition that afflicts refugee children, and Viet Thanh Nguyen‚s collection of short stories <em>The Refugees</em>. We‚ll also consider the humanitarian responses of international organizations, such as the UN General Assembly‚s ‚New York Declaration for Refugees and Migrants,‚ adopted in September, 2016.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-spring-quantum-weirdness2" 
+     aria-expanded="false" 
+     aria-controls="fys-spring-quantum-weirdness2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-spring-quantum-weirdness">
+      <p class="panel-title pull-left">
+          FYS 265: Quantum Weirdness and Probability
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-spring-quantum-weirdness2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-spring-quantum-weirdness">
+    <div class="panel-body">
+        <p><strong>Dr. Adam Clark</strong></p>
+<p>Recently astronomers Adam Frank and Woodruff Sullivan published an article arguing that the existence of intelligent life somewhere else in the universe at some point in time was virtually certain. We will use this as our main focus for studying how probability informs science, pop culture, and things in between. We will learn some basics about probability in ordinary language, which we will then use to understand the claims of Frank and Sullivan. We will also look at some of the famous and famously weird experimental results of quantum mechanics, which makes extensive use of probability. In particular, we will explore the troubling notion that human consciousness somehow plays an important role in assembling quantum probability distributions into the physical reality all around us. Finally, we will look at ways probability and quantum mechanics are represented and misrepresented in popular culture, ranging from Han Solo‚s famous line, ‚Never tell me the odds!‚ in <em>Star Wars: A New Hope</em>, to the many-worlds interpretation of quantum mechanics frequently used in science fiction to justify ‚alternate realities.‚ While this is primarily a writing class, our subject matter necessitates a certain degree of mathematical proficiency. Students considering this FYS should be proficient with algebra. No calculus is necessary, nor is any prior experience with probability.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-spring-middle-earth-stories2" 
+     aria-expanded="false" 
+     aria-controls="fys-spring-middle-earth-stories2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-spring-middle-earth-stories">
+      <p class="panel-title pull-left">
+          FYS 287: Middle Earth Stories
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-spring-middle-earth-stories2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-spring-middle-earth-stories">
+    <div class="panel-body">
+        <p><strong>Dr. William Tighe</strong></p>
+<p>J. R. R. Tolkien‚s <em>The Lord of the Rings</em> trilogy became something of a craze in the 1960s, and has maintained its popularity ever since, and almost twenty years ago became the subject of a film trilogy which attracted a vast audience. Tolkien‚s trilogy actually emerged as almost a by-product of his professional (and professorial) interest in language, philology (the study of words, their origins and changes in meaning), myth and legend and Anglo-Saxon England and its literature. In this course we will study the sources of Tolkien‚s creative imagination and its origins in his own life experiences, and how it has been received and purveyed as a work of popular culture, working our way backwards from the films through the stories to their sources and origins. We will also look at the historical and biographical contexts of LOTR (and ancillary works), and at Tolkien‚s own ideological, cultural and aesthetic commitments.</p>
+    </div>
+  </div>
+</div><h3>Scholars&nbsp;Seminars ‚ 2022-2023</h3><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-scholars-global-pop2" 
+     aria-expanded="false" 
+     aria-controls="fys-scholars-global-pop2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-scholars-global-pop">
+      <p class="panel-title pull-left">
+          DNA 123 : The Ethics and Aesthetics of Global Pop (Dana Scholars)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-scholars-global-pop2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-scholars-global-pop">
+    <div class="panel-body">
+        <p><strong>Dr. Kassie Hartford //&nbsp;TR 12:30-1:45</strong></p>
+<p>The technologies of the 21st century have created a world at our fingertips, and they have the potential to radically open our ears: the sounds of Indian ragas, Brazilian samba, Japanese shakuhachi, and Appalachian dulcimer are a click away on Youtube. Popular composers over the last 40 years, both within the U.S. and beyond its boundaries, have taken note: if Michael Jackson and Paul Simon have collaborated with the Brazilian samba-reggae ensemble Olodum in works intended primarily for U.S. audiences, Olodum‚s own samba-reggae fuses the Brazilian samba to the Jamaican reggae in an entirely new idiom that reimagines connections across the African diaspora both in a rich set of symbols and in sound itself. In this FYS, we will consider the ethical and aesthetic questions that these attempts at cross-cultural borrowings raise: What stakes are there in attempts to make music across national borderlines? What gives a ‚foreign‚ genre both symbolic and musical appeal? What happens when gaps in musical understanding reveal that music is a less universal language that it initially appears to be? What does it mean to engage in cross-cultural collaborations in view of differing levels of economic, social, and political power, shaped by global economic trends?</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-scholars-proving-the-unprovable2" 
+     aria-expanded="false" 
+     aria-controls="fys-scholars-proving-the-unprovable2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-scholars-proving-the-unprovable">
+      <p class="panel-title pull-left">
+          DNA 124: Proving the Unprovable: Religion, Science, and the Unknown in Modernity (Dana Scholars)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-scholars-proving-the-unprovable2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-scholars-proving-the-unprovable">
+    <div class="panel-body">
+        <p><strong>Dr. Dustin Nash //&nbsp;TR 12:30-1:45</strong></p>
+<p>While the search for the remains of Noah‚s ark, evidence of alien abductions, or the hunt for the Loch Ness Monster may seem unrelated, they are linked as products of a uniquely modern desire for ‚proof.‚ Indeed, modernity has seen an explosion of interest in scientifically ‚proving‚ elements of the scriptures, folk tales, and myths that have shaped various peoples conceptions of the past and the true nature of the present. In this course, we will question the origin and function of this desire within modern culture. Furthermore, we will read literature produced by authors attempting to prove such arguments, as well as those who challenge their conclusions. In this way, we will discuss the nature of ‚evidence‚ and its interpretation, and think critically about the ways in which we, as writers, interpret evidence in order to make claims and create knowledge.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-scholars-salem-witchcraft2" 
+     aria-expanded="false" 
+     aria-controls="fys-scholars-salem-witchcraft2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-scholars-salem-witchcraft">
+      <p class="panel-title pull-left">
+          MBS 104: Salem Witchcraft (Muhlenberg Scholars)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-scholars-salem-witchcraft2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-scholars-salem-witchcraft">
+    <div class="panel-body">
+        <p><strong>Dr. Lynda Yankaskas //&nbsp;MW 12:30-1:45</strong></p>
+<p>Salem, 1692. Nineteen witches hanged. One man pressed to death. A community in panic. We know this story. But what really happened at Salem in the last decade of the seventeenth century? How can we know, and why does it matter how we tell this story? Why has the same evidence given rise to so many very different interpretations of the events of 1692? In this writing-intensive seminar, we will consider the story of the Salem witch trials from multiple angles, from records produced at the time to historians‚ diverse takes to fiction and art. We will delve deeply into the world of colonial Massachusetts in order to try to understand how religion, economics, gender, and race may have shaped the witchcraft crisis. We will also investigate the different ways that the evidence of the trials has been interpreted‚explained, exploited, and made into art‚over time, and what those retellings might tell us about the interpreters of Salem, including what they might say about us as readers and as writers.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-scholars-the-next-pandemic2" 
+     aria-expanded="false" 
+     aria-controls="fys-scholars-the-next-pandemic2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-scholars-the-next-pandemic">
+      <p class="panel-title pull-left">
+          RJF 111: The Next (and Current) Pandemic (RJ Fellows)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-scholars-the-next-pandemic2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-scholars-the-next-pandemic">
+    <div class="panel-body">
+        <p><strong>Dr. Melissa Dowd //&nbsp;TR 12:30-1:45</strong></p>
+<p>In 1996, microbiologist Rita Corwell suggested the idea that one could use the history of cholera to better understand other emerging diseases and their potential to lead to a pandemic, something she called the Cholera Paradigm. Using Sonia Shah‚s Pandemic, in conjunction with primary literature articles, we will explore the biological, public health, socioeconomic, and political intersections involved in understanding past outbreaks, from the flu to Ebola to HIV/AIDS, and of course cholera. In this course we will analyze our potential ability to learn from past pandemics and explore the way in which it can impact or desire to respond.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-scholars-justice-without-violence2" 
+     aria-expanded="false" 
+     aria-controls="fys-scholars-justice-without-violence2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-scholars-justice-without-violence">
+      <p class="panel-title pull-left">
+          FYS 111: Justice Without Violence (Emerging Leaders)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-scholars-justice-without-violence2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-scholars-justice-without-violence">
+    <div class="panel-body">
+        <p><strong>Dr. Purvi Parikh&nbsp;// TR 12:30-1:45</strong></p>
+<p>Is it possible to achieve justice without violence? Monumental changemakers like Dr. Martin Luther King Jr. and M.K. Gandhi insisted not only that it is possible but that nonviolent methods alone should be used to affect long lasting change in society. What is nonviolent resistance and what does it mean to engage in it? Why do some groups employ while others insist on the use of arms? When and why is it effective? In this seminar, we will examine the philosophy and ethics of nonviolent resistance, explore historical and contemporary nonviolent resistance movements and consider whether it can be effectively employed today to create a more just and equitable world. We will read texts by Henry David Thoreau, Gene Sharp, Judith Butler, M.K. Gandhi, and MLK among others.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#fys-scholars-american-places-dreams2" 
+     aria-expanded="false" 
+     aria-controls="fys-scholars-american-places-dreams2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="fys-scholars-american-places-dreams">
+      <p class="panel-title pull-left">
+          FYS 121: American Places, American Dreams (Emerging Leaders)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="fys-scholars-american-places-dreams2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="fys-scholars-american-places-dreams">
+    <div class="panel-body">
+        <p><strong>Dr. Amy Corbin //&nbsp;TR 12:30-1:45</strong></p>
+<p>The phrase ‚the American Dream‚ is one of the most recognizable phrases in American culture; it has been called our ‚civil religion.‚ The dream promises that everyone has an equal chance at financial security and a happy life, that anything is possible if we work hard enough, and that children should be better off than their parents. These dreams of upward mobility are closely linked to places: in some moments and for some groups, America‚s cities have been glamorous places of opportunity to live out one‚s American Dream, while in others, life in the suburbs beckoned as a garden-like environment where one could escape from the crime and density of the city. Using literature, film, art, and historical sources, this seminar will focus on 3 periods when these dreams lured people to both the city and the suburbs: European immigrants in America‚s expanding cities of the 1930s; the city-suburb rivalry of 1950s-1970s when so-called ‚white flight‚ to the suburbs left many people of color in impoverished urban areas; and finally 21st century contemporary immigrant stories in both cities and suburbs. We will explore how the promises of the dream have clashed with the realities of racism and economic inequality, and how the arts can help us understand these past failures. The art and stories we study will also help us imagine alternative versions of success, both individual and collective.</p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">Contact the Dean</span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Dean of Academic Life</span>
+													</h2>
+													<div class="contact_title" itemprop="jobTitle">
+														<span class="contact_title_label">Michele Deegan</span>
+													</div>
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:micheledeegan@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">micheledeegan@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3130">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3130</span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">Dean of Academic Life</span>
+														
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

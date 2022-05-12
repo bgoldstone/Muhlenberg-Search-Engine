@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Control of Hazardous Energy | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Control of Hazardous Energy">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/campusonly/">Campus Only </a></li><li class="linkitem"><a href="/campusonly/policiesprocedures/">Policies &amp; Procedures</a></li><li class="linkitem"><a href="/campusonly/policiesprocedures/controlofhazardousenergy/">Control of Hazardous Energy</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Control of Hazardous Energy</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Control of Hazardous Energy">
+							<span class="sub_nav_handle_label">Control of Hazardous Energy</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><span class="currentbranch0"><a href="/campusonly/policiesprocedures/">Policies &amp; Procedures</a></span></li><li class="sub_nav_item"><a href="/campusonly/collegegraphics/">College Graphics</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/campusonly/">Campus Only </a></li><li class="linkitem"><a href="/campusonly/policiesprocedures/">Policies &amp; Procedures</a></li><li class="linkitem"><a href="/campusonly/policiesprocedures/controlofhazardousenergy/">Control of Hazardous Energy</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <center>
+<h3 align="center">Control of Hazardous Energy (Lockout/Tagout) Policy<br /><span style="color: #333333;">June 2005<br /></span>Table of Contents</h3>
+<ul>
+<li style="text-align: left;"><a href="#purpose">Purpose</a></li>
+<li style="text-align: left;"><a href="#compliance">Compliance</a></li>
+<li style="text-align: left;"><a href="#sequence">Sequence of Lockout</a></li>
+<li style="text-align: left;"><a href="#restore">Restoring Equipment to Service</a></li>
+<li style="text-align: left;"><a href="#control">Energy Control Procedure</a></li>
+<li style="text-align: left;"><a href="#EnergySources">Energy Sources</a></li>
+<li style="text-align: left;"><a href="#multiple">Multiple Energy Sources</a></li>
+<li style="text-align: left;"><a href="#locked">Sources that can not be Locked Out</a></li>
+<li style="text-align: left;"><a href="#SpecialSituations">Other Requirements/Special Situations</a></li>
+<li style="text-align: left;"><a href="#Definitions">Definitions</a></li>
+<li style="text-align: left;"><a href="#Hardware">Materials &amp; Hardware</a></li>
+<li style="text-align: left;"><a href="#SafePractices">Safe Practices</a></li>
+<li style="text-align: left;"><a href="#audit">Auditing</a></li>
+<li style="text-align: left;"><a href="#train">Training</a></li>
+<li style="text-align: left;"><a href="#ppe">Personal Protective Equipment (PPE)</a></li>
+<li style="text-align: left;"><a href="#Review">Review</a></li>
+<li style="text-align: left;"><a href="#forms">Forms</a></li>
+</ul>
+</center><hr />
+<p><strong><a id="purpose"></a>I. Purpose</strong><br /> This procedure establishes the minimum requirements for the lockout of energy isolating devices whenever maintenance or servicing is done on machines or equipment in which the unexpected energization of start up of the machine or equipment, or release of stored energy could cause injury to employees. It shall be used to ensure that the machine or equipment is stopped, isolated from all potentially hazardous energy sources and locked out before employees perform any servicing or maintenance where the unexpected energization or start-up of the machine or equipment or release of stored energy could cause injury.</p>
+<p><a id="compliance"></a><strong>II. Compliance</strong></p>
+<ol type="A">
+<li><strong>General</strong><br />All employees are required to comply with the restrictions and limitations imposed upon them during the use of lockout. The authorized employees are required to perform the lockout in accordance with this procedure. All employees, upon observing a machine or piece of equipment which is locked out to perform servicing or maintenance shall not attempt to start, energize or use that machine or equipment. Compliance to this procedure is mandatory any and all individuals who are found not to be following the recommended guidelines are subject to disciplinary action.</li>
+<li><strong>Maintenance</strong><br />The Maintenance Supervisor shall be responsible to train all employees who perform lockout/tagout procedures. Each new or transferred employee shall be instructed as part of their initial training.</li>
+<li><strong>Other Departments</strong><br /> Each Department Supervisor shall be responsible to train all employees whose work operations are in an area where the lockout/tagout procedure is used.</li>
+</ol>
+<p><a id="sequence"></a><strong>III. Sequence of Lockout</strong><br /> The basic format that is used to conduct a lockout/tagout procedure is as follows:</p>
+<ul>
+<li><em>Prepare For Shutdown</em> - As an authorized employee, they are instructed of each type of energy source a machine uses, potential hazards and methods or means to control any hazards. Notify affected employees that work requiring lockout/tagout will be performed.</li>
+<li><em>Shutdown</em> - Shut the system down by using its operating controls. Follow the standard operating procedure(SOP) for shutting down the respective machine or equipment.</li>
+<li><em>Isolation</em> - Operate all energy isolating devices so that the machine or equipment is isolated from its energy sources. Be sure to isolate all energy sources--secondary power as well as the min power source.</li>
+<li><em>Control Stored Energy</em> - Relieve, disconnect or restrain any residual hazardous energy that could be present. Inspect the machine or equipment to make sure that all moving parts have stopped. If stored energy can re-accumulate, monitor it to make sure it stays below hazardous levels.</li>
+<li><em>Apply Lockout/Tagout Device</em> - Attach lock or tag that holds operating controls in an "off" or "safe" position. By attaching a lock or tag device to the energy isolating device it prevents someone from restoring the flow of energy to the machine or equipment. All locks and tags must meet 1910.147 (c) (5) (i) through (c) (5) (iii) standardization requirements.</li>
+<li><em>Equipment Isolation Verification</em> - Verify proper isolation and/or de-energization by testing the start button to assure the machine will not operate. Make sure to push the stop button after activating the start button.</li>
+</ul>
+<p><a id="restore"></a><strong>IV. Restoring Equipment to Service</strong></p>
+<p>When the servicing or maintenance is completed and the machine is ready to return to normal operating condition, the following steps shall be taken.</p>
+<ul>
+<li>Inspect the machine or equipment and the immediate area, in addition inspect the machine or equipment to ensure that nonessential items have been removed and that the machine or equipment components are operationally intact.</li>
+<li>Check the work area to ensure that all employees have been safely positioned or removed from the area.</li>
+<li>Verify that the controls are in neutral.</li>
+<li>Remove the lockout devices and re-energize the machine or equipment.</li>
+<li>Notify affected employees that the servicing or maintenance is completed and the machine or equipment is ready for use.</li>
+</ul>
+<p><strong><a id="control"></a>V. Energy Control Procedure</strong><br /> This section delegates that procedures shall be developed, documented and utilized for the control of potentially hazardous energy when employees are engaged in activities dealing with lockout or tagout. A documented procedure is not required for a machine or piece of equipment when all of the following elements exist:</p>
+<ul>
+<li>The machine or equipment has no potential for stored or residual energy or re-accumulation of stored energy after shut down which could endanger employees.</li>
+<li>The machine or equipment has a single energy source which can be readily identified and isolated.</li>
+<li>The isolating and locking out of that energy source will completely de-energize and deactivate the machine or equipment.</li>
+<li>The machine or equipment is isolated from that energy source and locked out during servicing or maintenance.</li>
+<li>A single lockout device will achieve a locked-out condition.</li>
+<li>The lockout device is under exclusive control of the authorized employee performing the servicing or maintenance.</li>
+<li>The servicing or maintenance does not create hazards for other employees.</li>
+<li>The employer, in utilizing this exception, has had no accidents involving the unexpected activation or re-energization of the machine or equipment during servicing or maintenance.</li>
+</ul>
+<p>This procedure shall be clear and specifically outline the scope, purpose, authorization, rules, and techniques to be utilized for the control of hazardous energy, and the means to enforce compliance includes:</p>
+<ul>
+<li>A specific statement of the intended use of the procedure.</li>
+<li>Specific procedural steps for shutting down, isolating, blocking and securing machines or equipment to control hazardous energy.</li>
+<li>Specific procedural steps for the placement, removal and transfer of lockout or tagout devices and the responsibility for them.</li>
+<li>Specific requirements for testing a machine or equipment to determine and verify the effectiveness of lockout devices, tagout devices, and other energy control measures.</li>
+</ul>
+<p><strong><a id="EnergySources"></a>VII. Energy Sources</strong><br />This section will outline the basic definitions of various energy sources and all the energy sources that are present at the College.</p>
+<ul>
+<li>Energy Groups<br /> 1. <em>Electrical Energy</em>: is present in power transmission lines, transformers, circuit breakers and motors, to name a few. Electrical energy can be either direct or indirect. An example would be an Air Handling Unit.<br /> 2. <em>Hydraulic Energy</em>: is fluid under pressure. For example, powered industrial trucks and cylinders are run by hydraulic energy. An example would be a forklift.<br /> 3. <em>Pneumatic Energy:</em> is air under pressure. Pneumatic systems require faster cycles of operation than hydraulic energy. An example would be air hose. <br /> 4.<em> Thermal Energy:</em> includes steam or water present in pipes and supply lines, storage tanks and vessels used to create energy. An example would be the boilers.<br /> 5. <em>Chemical Energy:</em> includes chemicals present in pipes and supply lines, storage tanks and vessels used to create energy.</li>
+<li>Energy Sources Present at the College<br /> &middot; Compressed Air up to 100 psi; Pneumatic<br />&middot; Hot Water up to 90 psi; Thermal<br />&middot; Hot Water 180 0F; Thermal<br /> &middot; Up to 12,000 Volt 3 Phase; Electrical <br />&middot; Steam up to 80 psi; Thermal<br /> &middot; Cold Water up to 90 psi; Thermal<br />&middot; Hydraulic <br />&middot; Pressurized Vessels</li>
+</ul>
+<p><strong><a id="multiple"></a>VIII. Multiple Energy Sources </strong><br /> Any machine or piece of equipment that is supplied with more than one source of energy is considered to have multiple energy sources. In order to maintain a uniform level of safety there are mandatory procedures that shall be followed to insure the safety of all affected associates.<br /> <br /> <strong><a id="locked"></a>IX. Sources That Can Not Be Locked Out</strong><br /> After reviewing our practices and machinery located at Muhlenberg College. All machines or practices can be locked out by any one of the acceptable means.</p>
+<p><strong><a id="SpecialSituations"></a>X. Other Requirements/ Special Situations</strong><br />This section serves as a guideline for lockout/ tagout procedures that shall be followed as they occur in the workplace.</p>
+<ul>
+<li>Testing or Positioning of Machines, Equipment or Components Thereof<br /> In situations in which lockout or tagout devices must be temporarily removed from the energy isolating device and the machine or equipment energized to test or position the machine, equipment or component thereof, the following step by step procedure shall be followed:<br /> 1. Clear the machine or equipment of tools and all other nonessential items to ensure that the machine or equipment's components are operationally intact.<br /> 2. Remove employees from the machine or equipment area to ensure that all employees are safely positioned.<br /> 3. Remove the lockout or tagout devices from each energy isolating device by the employee who applied the device.<br /> 4. Energize and proceed with testing or positioning until the task is completed.<br /> 5. De-energize all systems and reapply energy control measures following basic lockout/ tagout procedure guidelines and continue servicing and/ or maintenance.</li>
+<li>Outside Personnel (Contractors, etc.) <br /> Whenever outside servicing personnel are to be engaged in activities involving lockout/ tagout, the on-site employer and the outside employer shall inform each of their respective lockout or tagout procedures. Furthermore the on-site employer shall ensure that his/ her employees understand and comply with the restrictions and prohibitions of the outside employer's lockout/ tagout program.</li>
+<li>Group Lockout or Tagout. <br /> When servicing and/ or maintenance is performed by a crew, craft, department or other group, they shall utilize a procedure that affords the employees a level of protection equivalent to that provided by a personal lockout or tagout device. Group lockout or tagout devices shall meet the requirements for energy control, but it is not limited to the requirements of energy control and the following specific requirements:<br /> <strong>&middot;</strong> Primary responsibility is vested in an authorized employee for a set number of employees working under the protection of a group lockout or tagout device.<br /> &middot; Provisions for the authorized employee to ascertain the exposure status of individual group members with the regard to the lockout or tagout of the machine or equipment.<br /> &middot; When more than one crew, craft, department, etc. is involved, assignment of overall job-associated lockout or tagout control responsibility to an authorized employee designated to coordinate affected work forces and ensure continuity of protection.<br /> &middot; Each authorized employee shall affix a personal lockout or tagout device to the group lockout device, group lock box, or comparable mechanism when he or she begins work, and shall remove those devices when he or she stops working on the machine or equipment being serviced or maintained.</li>
+<li>Shift or Personnel Changes<br /> This specific procedure was created and shall be utilized during shift and personnel changes to ensure the continuity of lockout or tagout protection between off-going and oncoming personnel to minimize exposure to hazards from the unexpected energization or start-up of the machine or equipment, or the release of stored energy.</li>
+<li>Lock or Tag Removal For an Absent Person(s)</li>
+<li>Whenever it is necessary to remove a lock or tag when one or more authorized individuals who have locked out or tagged out a machine or equipment is absent or in case of an emergency, the following procedure shall be followed:<br /><br /> &middot; The crew leader or shift supervisor must make all possible attempts to locate the person(s). This includes the following techniques: paging the person, checking the break rooms, rest rooms or work stations; looking outside; telephoning the person's home; contacting the person's supervisor.<br /> &middot; If these attempts fail, the person's supervisor or lead person are the only individuals who can give the permission to remove the person's lock or tag. <br /> &middot; Once the permission has been granted to remove the lock or tag the crew leader, maintenance supervisor or shift supervisor shall inspect the machine or equipment to ensure that no one will be injured by the energization of the machine or equipment.<br /> &middot; When removing a lock or tag a supervisor must be present to witness the act for accountability measures. Once the lock or tag has been removed the necessary action for the situation can be taken, an example of the recommended can be found on page 12 of this document.<br /> &middot; The absent or affected person(s) shall be notified as soon as possible that their lock or tag has been removed before they enter the work area or return to work.</li>
+</ul>
+<p>Lockout/Tagout of cord and plug connected equipment.<br /> &middot; Our lockout policy applies to ALL service and maintenance work performed on cord and plug connected equipment.<br /> &middot; Plug lockout devices will be used to lockout plug cord equipment.</p>
+<p><strong><a id="Definitions"></a>XI. Definitions</strong><br />This section describes and defines common phrases or words often used for lockout/ tagout procedures.</p>
+<ul>
+<li><em>Affected Employee</em><br /> An employee whose job requires him/ her to operate or use a machine or equipment on which servicing or maintenance is being performed under lockout or tagout, or whose job requires him/ her to work in an area in which such servicing or maintenance is being performed.</li>
+<li><em>Authorized Employee</em><br /> A person who locks out or tags out machines or equipment in order to perform servicing or maintenance on that machine or equipment. An affected employee becomes an authorized employee when that employee's duties include performing servicing or maintenance.</li>
+<li><em>Capable of Being Locked Out </em><br /> An energy isolating device is capable of being locked out if it has a hasp or other means of attachment to which, or through which, a lock can be affixed, or it has a locking mechanism built into it. Other energy isolating devices are capable of being locked out, if lockout can be achieved without the need to dismantle, rebuild, or replace the energy isolating device or permanently alter its energy control capability.</li>
+<li><em>Energized</em><br /> Connected to an energy source or containing residual or stored energy.</li>
+<li><em>Energy Isolating Device</em><br /> A mechanical device that physically prevents the transmission or release of energy, including but not limited to the following: A manually operated electrical circuit breaker; a disconnect switch; a manually operated switch by which the conductors of a circuit can be disconnected from all ungrounded supply conductors, and in addition, no pole can be operated independently; a line valve; a block; and any similar device used to block or isolate energy. Push buttons, selector switches and other control circuit type devices are not energy isolating devices.</li>
+<li><em>Energy Source</em><br /> Any source of electrical, mechanical, hydraulic, pneumatic, chemical, thermal, or other energy.</li>
+<li><em>Hot Tap</em><br /> A procedure used in the repair, maintenance and services activities which involves welding a piece of equipment (pipelines, vessels, or tanks) under pressure, in order to install connections or appurtenances. It is commonly used to replace or add sections of pipeline without the interruption of service for air, gas, water, steam, and petrochemical distribution systems.</li>
+<li><em>Lockout</em><br /> The placement of a lockout device on an energy isolating device that ensures the energy isolating device and the equipment being controlled cannot be operated until the lockout device is removed.</li>
+<li><em>Lockout Device </em><br /> A device that utilizes a positive means such as a lock, either key or combination type, to hold an energy isolating device in a safe position and prevent the energizing of a machine or equipment. Included are blank flanges and bolted slip blinds.</li>
+<li><em>Normal Operations</em><br /> The utilization of a machine or equipment to perform its intended function.</li>
+<li><em>Servicing and/or Maintenance</em><br /> Work place activities such as constructing, installing, setting up, adjusting, inspecting, modifying, and maintaining and/ or servicing machines or equipment. These activities include lubrication, cleaning or un-jamming of machines or equipment and making adjustments or tool changes, where the employee may be exposed to the unexpected energization or startup of the equipment or release of hazardous energy.</li>
+<li><em>Setting Up</em><br /> Any work performed to prepare a machine or equipment to perform its normal production operation.</li>
+<li><em>Tagout</em><br /> The placement of a tagout device on an energy isolating device, in accordance with an established procedure, to indicate that the energy isolating device and the equipment being controlled may not be operated until the tagout device is removed.</li>
+<li><em>Tagout Device</em><br /> A prominent warning device, such as a tag and a means of attachment, which can be securely fastened to an energy isolating device to indicate that the energy isolating device and the equipment being controlled may not be operated until the tagout device is removed.</li>
+</ul>
+<p><strong><a id="Hardware"></a>XII. Materials &amp; Hardware</strong></p>
+<ul>
+<li>Purpose<br /> This section lists many of the protective materials and hardware that are needed to properly lockout/ tagout machines or equipment. Requirements and guidelines for materials and hardware are defined according to OSHA 29 CFR 1910.147 standards.</li>
+<li>Requirements &amp; Guidelines<br />Various devices can be used during a lockout/ tagout procedure as long as these lockout/tagout devices meet the requirements of 1910.147 (c) (5) (i) through (c) (5) (iii). Lockout devices shall not be used for other purposes then what they are designed for. The following list cites several examples of approved protective materials and hardware that are used as energy isolating devices: locks, tags, chains, wedges, key blocks, adapter pins, self-locking fasteners or other hardware can be used to ensure energy isolating or blocking of machines or equipment from an energy source is achievable. Lockout/ tagout devices shall be singularly identified and these materials or hardware shall be delegated as the only devices used for controlling energy sources shall meet the following requirements:<br />
+<ul>
+<li>&middot; <em>Durable </em>- To ensure durability of a lockout/ tagout device shall be capable of withstanding the environment to which they are exposed for the extent of the lockout/ tagout procedure. In addition, tagout devices shall be constructed and printed so that exposure to any weather condition or degree of moisture will not cause the tag to deteriorate or the message on the tag to become illegible. Furthermore, tags shall not deteriorate when used in or around corrosive environments or chemicals.</li>
+<li>&middot; <em>Standardization </em>- Standardization of lockout/ tagout is required within our facilities to ensure all affected and authorized employees are aware of the lockout/ tagout procedure in an area. OSHA requires that at least one of the following criteria must be met to adhere to the standardization requirement; Color, shape or size. In addition when tagout devices are being used as an energy isolating device the print and format of the tagout devices shall be standardized. By standardizing the lockout/ tagout devices in our facilities the necessary precautionary methods and warning signs concerning lockout/ tagout procedures will be easily identified by all affected and authorized associates.</li>
+<li>&middot; <em>Substantial </em>- Lockout devices shall be substantial enough to prevent removal without the use of excessive force or unusual techniques, such as the use of bolt cutters, blow torches or other metal cutting tools. Tagout devices including and their means of attachment shall be substantial enough to prevent accidental removal. The tagout attachment device shall be of a non-reusable type, attachable by hand, self-locking and non-releasable with a minimum unlocking strength of no less than 50 pounds. The general design of the tagout attachment device must have the basic characteristics of being equivalent to a one-piece all-environment-tolerant nylon cable tie.</li>
+<li>&middot; <em>Identifiable </em>- All lockout/ tagout devices shall indicate the identity of the employee(s) applying the energy isolating device. Tagout devices shall warn against hazardous conditions if the machine or equipment is energized and shall include a legend such as the following: Do Not Start, Do Not Open, Do Not Energize, Do Not Operate and so on.</li>
+</ul>
+</li>
+<li>Material &amp; Hardware Issued <br /> Each authorized associate will be issued the necessary materials and hardware to perform a lockout/tagout. Each associate receiving the proper hardware is required to sign-off verifying that they have received the necessary equipment. Each associate will be issued the following basic equipment (some job classifications are issued additional equipment): <br /> &middot; 1 Lock<br /> &middot; 1 Key<br /> &middot; 2 Tags<br /> &middot; 1 Group Hasp</li>
+</ul>
+<p><strong><a id="SafePractices"></a>XIII. Safe Practices</strong><strong><br /> </strong>The following section outlines 10 basic guidelines that will ensure the safety of all associates affected by lockout/tagout procedures:<br /><br /></p>
+<ul>
+<li>Prepare- prepare for shutdown by notifying all affected employees in the area.</li>
+<li>Shutdown - press all stop buttons or controls.</li>
+<li>Isolate - turn the power off at the lockout switch.</li>
+<li>Inspect - inspect the machine or equipment that all moving parts have stopped.</li>
+<li>Lockout/Tagout - lock the lock, remove the key &amp; position two tags.</li>
+<li>Test - test the equipment press start buttons and depress the stop button again.</li>
+<li>Perform- perform the necessary work or duties.</li>
+<li>Safeguard check - Inspect the machine for tools, parts, etc.</li>
+<li>Notify - alert all affected employees in the area of start-up.</li>
+<li>Remove- each person is to remove their own lockout/tagout devices.</li>
+</ul>
+<p><strong><a id="audit"></a>XIV. Auditing</strong><br /> To adhere to OSHA requirements of 1910.147 all authorized employees can be audited at any time. Random auditing of each authorized employee may be conducted by the Safety Manager. The auditing process can be conducted at any time and is designed to correct any deviations or inadequacies of the lockout/tagout procedure. This auditing process documentation will identify the equipment or machine on which the authorized employee utilized the process, the identity of the authorized employee, the date of the audit, the identity of the associate who conducted the audit and other vital information. An example of an auditing form is supplied at the end of this procedure on page 13.</p>
+<p><strong><a id="train"></a>XV. Training</strong></p>
+<blockquote>
+<p><br /> A. Authorized Employees<br /> Training shall be conducted annually to ensure your knowledge of the lockout/ tagout procedure, energy sources present in the workplace, periodic audits of energy control procedures and your knowledge of the procedures. Authorized employees are required to be retrained every year and can be audited at any time. The training and retraining process includes the following training measures:</p>
+</blockquote>
+<ul>
+<li>Define lockout/ tagout and its presence in the workplace.</li>
+<li>Define the energy sources in the workplace.</li>
+<li>Viewing of an instructional lockout/ tagout video.</li>
+<li>When to use lockout/ tagout.</li>
+<li>Define basic lockout/tagout process and steps.</li>
+<li>Define auditing process and its purpose.</li>
+<li>Review and illustrate the auditing process.</li>
+<li>Lockout/ tagout written test.</li>
+<li>Review the lockout/ tagout written test.</li>
+<li>Things to remember about lockout/ tagout.</li>
+</ul>
+<p><strong><a id="ppe"></a>XVI. Personal Protective Equipment (PPE) </strong><br /> There is not any additional PPE required for lockout/tagout procedures. Each associate is required to wear the designated PPE for the task the are completing as defined by their specific job requirements.</p>
+<p><strong><strong><a id="Review"></a>XVII. Review</strong><br /> A. Causes<br />Failure to control hazardous energy sources is a leading cause for some of the most severe injuries in maintenance operations. Many of the hazardous energy injuries can be traced to one or more of the following reasons:<br /><br /></strong></p>
+<ul>
+<li>Failure to stop machine or equipment.</li>
+<li>Failure to disconnect the machine or equipment from the power source.</li>
+<li>Failure to dissipate residual energy.</li>
+<li>Accidental re-energization, start-up or release of stored energy to the machine or equipment.</li>
+<li>Failure to clear work areas before reactivating.</li>
+</ul>
+<p><br /> B. Things To Remember About Lockout/Tagout <br /> It is a good idea to remember some of the many important rules for controlling hazardous energy or when working around hazardous energy. The following lists states several general rules or ideas to keep in mind when performing a lockout/ tagout procedures.</p>
+<ul>
+<li>Always lock the lock and remove the key.</li>
+<li>Never ignore someone else's lock or tag.</li>
+<li>Always lock or tag a machine or equipment before any type of work is started.</li>
+<li>Follow all lockout/tagout installation and removal steps.</li>
+<li>Never remove anyone else's lock or tag.</li>
+<li>Report lost keys to your supervisor immediately and have the lock destroyed.</li>
+<li>Your actions affect other associates, by protecting yourself you also protect those associates around you.</li>
+</ul>
+<p><strong><a id="forms"></a>XVIII. Forms</strong><br /> All mandatory forms that are required for the lockout/tagout procedure are supplied at the end of the procedure. All completed forms are to be sent to the Safety Department where they will be kept on file for auditing and accountability purposes.<span style="font-family: Arial; font-size: small;">(**These forms are only accessible to individuals with a Network account.</span>)</p>
+<ul>
+<li><a>Lockout/Tagout Removal Form For Absent Person(s) or Emergency Situations</a></li>
+<li><a>Lockout/Tagout Auditing Form </a></li>
+</ul>
+<p>&nbsp;</p></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

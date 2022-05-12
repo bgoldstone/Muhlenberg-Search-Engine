@@ -1,0 +1,1628 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Notetaking Strategies | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Notetaking Strategies">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/pageheaders/campus-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/student-life/studentservices/">Student Services</a></li><li class="linkitem"><a href="/offices/disabilities/">Disability Services</a></li><li class="linkitem"><a href="/offices/disabilities/notetakingstrategies/">Notetaking Strategies</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Notetaking Strategies</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/campus-740x317.jpg","500px":"/media/contentassets/images/pageheaders/campus-740x555.jpg","740px":"/media/contentassets/images/pageheaders/campus-980x420.jpg","980px":"/media/contentassets/images/pageheaders/campus-1220x523.jpg","1220px":"/media/contentassets/images/pageheaders/campus-1440x617.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/campus-740x317.jpg","500px":"/media/contentassets/images/pageheaders/campus-740x555.jpg","740px":"/media/contentassets/images/pageheaders/campus-980x420.jpg","980px":"/media/contentassets/images/pageheaders/campus-1220x523.jpg","1220px":"/media/contentassets/images/pageheaders/campus-1440x617.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_6">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/student-life/studentservices/">Student Services</a></li><li class="linkitem"><a href="/offices/disabilities/">Disability Services</a></li><li class="linkitem"><a href="/offices/disabilities/notetakingstrategies/">Notetaking Strategies</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Notetaking Strategies</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Notetaking Strategies">
+							<span class="sub_nav_handle_label">Notetaking Strategies</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/offices/disabilities/accessibility/">Accessibility</a></li><li class="sub_nav_item"><a href="/offices/disabilities/accommodations/">Accommodations</a></li><li class="sub_nav_item"><a href="/offices/disabilities/advising/">Advising</a></li><li class="sub_nav_item"><a href="/offices/disabilities/assistivetechnology/">Assistive Technology</a></li><li class="sub_nav_item"><a href="/offices/disabilities/disabilitydeterminationchecklist/">Disability Determination Checklist</a></li><li class="sub_nav_item"><a href="/offices/disabilities/disabilitydisclosure/">Disability Disclosure</a></li><li class="sub_nav_item"><a href="/offices/disabilities/disabilityguideforfacultyandstaff/">Disability Guide for Faculty and Staff</a></li><li class="sub_nav_item"><a href="/offices/disabilities/documentationguidelines/">Documentation Guidelines</a></li><li class="sub_nav_item"><a href="/offices/disabilities/emotionalsupportanimalpolicy/">Emotional Support Animal Policy</a></li><li class="sub_nav_item"><a href="/offices/disabilities/exceptionstopolicy/">Exceptions to Policy</a></li><li class="sub_nav_item"><a href="/offices/disabilities/faq/">FAQ</a></li><li class="sub_nav_item"><a href="/offices/disabilities/grievanceprocedures/">Grievance Procedures</a></li><li class="sub_nav_item"><a href="/offices/disabilities/missionstatement/">Mission Statement</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/offices/disabilities/notetakingstrategies/">Notetaking Strategies</a></span></li><li class="sub_nav_item"><a href="/offices/disabilities/personalcareattendantpolicies/">Personal Care Attendant Policies</a></li><li class="sub_nav_item"><a href="/offices/disabilities/personalmobilitydevices/">Personal Mobility Devices</a></li><li class="sub_nav_item"><a href="/offices/disabilities/recordsretentionandrequestpolicy/">Records, Retention, and Request Policy</a></li><li class="sub_nav_item"><a href="/offices/disabilities/resources/">Resources</a></li><li class="sub_nav_item"><a href="/offices/disabilities/serviceanimalpolicy/">Service Animal Policy</a></li><li class="sub_nav_item"><a href="/offices/disabilities/specialdiningservicesrequest/">Special Dining Services Request</a></li><li class="sub_nav_item"><a href="/offices/disabilities/specialhousingrequests/">Special Housing Requests</a></li><li class="sub_nav_item"><a href="/offices/disabilities/technologytoolbox/">Technology Toolbox</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/student-life/studentservices/">Student Services</a></li><li class="linkitem"><a href="/offices/disabilities/">Disability Services</a></li><li class="linkitem"><a href="/offices/disabilities/notetakingstrategies/">Notetaking Strategies</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <div class="content-add05">
+<p><strong><a href="https://www.youtube.com/watch?v=E7CwqNHn_Ns&amp;index=2&amp;list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W">Check out this YouTube video from Crash Course for a good note taking overview.</a></strong></p>
+<p><strong><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/arc/strategies/Note%20Taking%20in%20Lecture%20and%20Discussion-Based%20Classes.pdf">Printer-friendly handout from the Academic Resource Center</a></strong></p>
+<p style="text-align: justify;"><strong><br>Introduction</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Effective note taking is an essential learning skill for college students to implement </span><strong>before, during, </strong><span style="font-weight: 400;">and </span><strong>after</strong><span style="font-weight: 400;"> class sessions. An organized, efficient system of note taking is important for several reasons.</span></p>
+<ol>
+<li style="text-align: justify;">The faculty member may present material that is not found in your readings, but is critical for you to learn. &nbsp;Class sessions will make connections to prior knowledge and introduce new material. Your classmates will also make important and interesting points and you will think of new ideas during class sessions.<br><br></li>
+<li style="text-align: justify;">The information presented within a class session may be used for future assessments and assignments. &nbsp;Effective note taking will assist in preparing for upcoming class activities.<br><br></li>
+<li style="text-align: justify;">Actively listening and taking notes during class increases your comprehension and retention of the material. The act of taking notes helps you learn!<br><br></li>
+<li style="text-align: justify;">Reviewing the notes immediately after class and several times later on adds additional opportunities for clarification and retention. &nbsp;Frequent review of your notes helps significantly in remembering what you have learned!</li>
+</ol>
+<p>&nbsp;</p>
+</div></div>
+
+</div>
+</div>
+<script type="text/javascript">
+function toggleContent(id) {
+  // Get the DOM reference
+  var contentId = document.getElementById(id);
+  // Toggle 
+  contentId.style.display == "block" ? contentId.style.display = "none" : 
+contentId.style.display = "block"; 
+}
+</script>
+ <script type="text/javascript">
+
+
+
+
+
+
+
+function toggleContent(id) {
+
+
+
+
+
+
+
+  // Get the DOM reference
+
+
+
+
+
+
+
+  var contentId = document.getElementById(id);
+
+
+
+
+
+
+
+  // Toggle 
+
+
+
+
+
+
+
+  contentId.style.display == "block" ? contentId.style.display = "none" : 
+
+
+
+
+
+
+
+contentId.style.display = "block"; 
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+</script><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#12" 
+     aria-expanded="false" 
+     aria-controls="12">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="1">
+      <p class="panel-title pull-left">
+          Getting Organized
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="12" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="1">
+    <div class="panel-body">
+        <p style="text-align: justify; line-height: 1em;"><span style="font-weight: 400;">Early in the semester, develop a system to keep your notes and other class materials organized. &nbsp;In addition to your notes, you will need to be able to easily locate the class syllabus, handouts, readings, and assignments. &nbsp;You may want to integrate your notes and other materials by date, topic, or another method. Some professors will organize and distribute these materials electronically via Canvas, while others will provide you with hard copies. &nbsp;Your organizational system will vary depending on your preferences and the format and demands of each class.</span></p>
+<ul>
+<li><span style="font-weight: 400; line-height: 1em;">If your class materials are mostly on paper, you can use 3-ring binders, notebooks, and/or folders. &nbsp;Schedule some time each week to check your bag and desk for stray papers and file them away. You also may need to print out any materials distributed electronically that you need or prefer to have in hard copy.</span></li>
+<li><span style="font-weight: 400; line-height: 1em;">If you organize your materials electronically, you can create folders on your computer, utilize note taking apps and software, and/or use cloud-based systems, such as Google Docs. &nbsp;You may want to consider scanning or taking clear pictures of any papers or notes you get in hard copy, to ensure that they are with the rest of your class materials when you need them. Some professors limit computers in class or want you to have hard copies of materials in class, so you may need to have some systems for organizing papers as well. </span></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#22" 
+     aria-expanded="false" 
+     aria-controls="22">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="2">
+      <p class="panel-title pull-left">
+          Before Class
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="22" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="2">
+    <div class="panel-body">
+        <ul>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;">Check your syllabus for clues (Is there a lecture/discussion topic indicated? How does the topic relate to the course description/objectives and previous topics?)</span></li>
+</ul>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><span style="font-weight: 400;">Look over your notes from the previous class.</span></li>
+</ul>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><span style="font-weight: 400;">Complete reading and other assignments actively. </span><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/arc/strategies/Reading.pdf"><span style="font-weight: 400;">&nbsp;</span><em><span style="font-weight: 400;">(See this handout from the Muhlenberg College Academic Resource Center about reading strategies!)</span></em></a></li>
+</ul>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><span style="font-weight: 400;">Preview any materials that the professor has posted (PowerPoint slides, video clips, etc.).</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;">Make notes about any questions you have.</span></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#32" 
+     aria-expanded="false" 
+     aria-controls="32">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="3">
+      <p class="panel-title pull-left">
+          During Class
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="32" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="3">
+    <div class="panel-body">
+        <ul>
+<li style="font-weight: 400; text-align: justify;">
+<div><span style="font-weight: 400;">Put a date and topic heading on the top of each page.</span></div>
+</li>
+<li style="font-weight: 400;">
+<div><span style="font-weight: 400;">Leave space for questions and clarifications when you are reviewing later.</span></div>
+</li>
+<li style="font-weight: 400;">
+<div><span style="font-weight: 400;">Highlight anything your instructor implies will be on a test or emphasizes through tone of voice, verbal cues, or repetition.</span></div>
+</li>
+<li style="font-weight: 400;">
+<div><span style="font-weight: 400;">Put a question mark next to anything that needs clarification.</span></div>
+</li>
+<li style="font-weight: 400;">
+<div><span style="font-weight: 400;">Put ideas in your own words, so they make sense to you.&nbsp; &nbsp;&nbsp;</span></div>
+</li>
+<li style="font-weight: 400;">
+<div><span style="font-weight: 400;">Write the main ideas and just enough detail that the ideas make sense. &nbsp;Donât try to transcribe everything! Use short phrases, abbreviations, and symbols where you can.</span></div>
+</li>
+<li style="font-weight: 400;">
+<div><span style="font-weight: 400;">If you fall behind, stop and leave a space on the page. &nbsp;Listen to get caught up and start taking notes again at that point. &nbsp;Check in with a classmate later to get the missing information.</span></div>
+</li>
+<li>
+<div>Considerations for discussion-based classes:</div>
+</li>
+</ul>
+<p style="padding-left: 30px;">â Write down the QUESTION being discussed.</p>
+<p style="padding-left: 30px;">â Try concept mapping, since discussions arenât always sequential.</p>
+<p style="padding-left: 30px;">â Listen for themes, issues, relationships, definitions, and the âbig picture.â</p>
+<p style="padding-left: 30px;">â Pay attention to ideas the professor expands upon, repeats, or emphasizes.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#42" 
+     aria-expanded="false" 
+     aria-controls="42">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="4">
+      <p class="panel-title pull-left">
+          After Class
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="42" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="4">
+    <div class="panel-body">
+        <ul>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;">Schedule time for several brief, active reviews of your notes to improve retention and recall. </span></li>
+</ul>
+<p style="padding-left: 30px; text-align: justify;">â Within 24 hours</p>
+<p style="padding-left: 30px; text-align: justify;">â Before the next class session</p>
+<p style="padding-left: 30px; text-align: justify;">â Within the week</p>
+<p style="padding-left: 30px; text-align: justify;">â Within the month or before an exam</p>
+<ul style="text-align: justify;">
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;">Connect with a classmate to compare notes and discuss the material.</span></li>
+<li style="font-weight: 400; text-align: justify;"><span style="font-weight: 400;">Visit your professor during office hours to ask questions.</span></li>
+<li style="font-weight: 400;"><strong>Ideas for review activities:</strong></li>
+</ul>
+<p style="padding-left: 30px; text-align: justify;"><span style="font-weight: 400;">â Fill in missing information, highlight important information, and clarify anything that seems confusing. </span></p>
+<p style="padding-left: 30px; text-align: justify;"><span style="font-weight: 400;">â Write out questions based on the notes.</span></p>
+<p style="padding-left: 30px; text-align: justify;"><span style="font-weight: 400;">â Compare the information to what you already know. &nbsp;If possible, include page numbers from the readings that support/refute ideas discussed in class. </span></p>
+<p style="padding-left: 30px; text-align: justify;"><span style="font-weight: 400;">â Predict potential exam questions. </span></p>
+<p style="padding-left: 30px; text-align: justify;"><span style="font-weight: 400;">â Summarize information and connect it to the âbig pictureâ of the class.</span></p>
+<p style="padding-left: 30px; text-align: justify;"><span style="font-weight: 400;">â Reflect on and record your reaction to points in the discussion.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#52" 
+     aria-expanded="false" 
+     aria-controls="52">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="5">
+      <p class="panel-title pull-left">
+          Common Note-taking Methods
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="52" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="5">
+    <div class="panel-body">
+        <p style="text-align: justify;">You will develop your own methods of taking notes, depending on your preferences and the type of class youâre taking. &nbsp;Here are some guidelines to get you started.</p>
+<p style="text-align: justify;"><strong><span style="font-weight: 400;"><a href="https://youtu.be/E7CwqNHn_Ns?t=5m6s" target="_blank">This video from Crash Course</a>&nbsp;</span></strong><span style="font-weight: 400;">covers various note-taking methods including outlining, the Cornell Method, and mind mapping.</span>&nbsp;</p>
+<p style="text-align: justify;"><strong>Cornell Method</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">The Cornell Method is a systematic and simple method for note taking that breaks the note page into three sections to allow for organized recording and review. &nbsp;You can use this method while reading your texts or taking lecture notes. Use the largest section on the right to record notes in the way that works best for you. &nbsp;Use the cue section at the left to pull out main ideas, questions, prompts, and key points. Use the summary section at the bottom to summarize the main points after class.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/disabilities/Cornell%20Note.pdf" target="_blank">Cornell Note Taking Template</a></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/disabilities/Cornell%20Notes2.pdf" target="_blank">Cornell Notes Example</a></span></p>
+<p style="text-align: justify;"><strong>Outlining</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">This is a straightforward way of organizing main ideas, subpoints, and supporting ideas logically. &nbsp;To use this method, record main ideas to the far left of the page. Indent more specific information underneath, and further indent examples.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/disabilities/Outlining.pdf" target="_blank">Outlining Example</a></span></p>
+<p style="text-align: justify;"><strong>Mind Mapping</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">This is a way of organizing information visually. &nbsp;Write the main idea or question in the center of the page, and connect key words and ideas around it to represent relationships. &nbsp;This method makes it easier to use pictures or colors in representing ideas.</span></p>
+<p style="text-align: justify;"><a class="tmpmarker"></a><a class="tmpmarker"></a><a href="/media/contentassets/pdf/about/disabilities/mind mapping example Civil War.pdf">Mind Mapping Example</a></p>
+<p style="text-align: justify;"><strong>Charting</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Charting is a good strategy for courses that require comparison/contrast of specific dates, places, people, events, importance, and relationships.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;"><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/disabilities/Charting.pdf" target="_blank">Charting Example</a></span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#62" 
+     aria-expanded="false" 
+     aria-controls="62">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="6">
+      <p class="panel-title pull-left">
+          Additional Resources
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="62" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="6">
+    <div class="panel-body">
+        <ul>
+<li>
+<p style="text-align: justify;"><strong><a href="https://www.muhlenberg.edu/main/aboutus/arc/tipsforcollegesuccess/">Tips for College Success from the Muhlenberg College Academic Resource Center</a></strong></p>
+</li>
+<li style="text-align: justify;">
+<p><strong><a href="https://www.muhlenberg.edu/main/aboutus/arc/tipsforcollegesuccess/"></a><a href="https://www.muhlenberg.edu/main/aboutus/disabilities/technologytoolbox/">Technology Toolbox on the Office of Disability Services website</a></strong></p>
+</li>
+<li style="text-align: justify;"><strong><a onclick="toggleContent('apptable')">Note Taking Apps</a></strong></li>
+</ul>
+<div id="apptable" style="display: none;">
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="middle">
+<p><strong>General</strong></p>
+<p>&nbsp;</p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<p><a href="https://evernote.com/?var=c" target="_blank">Evernote</a><br><a href="https://evernote.com/?var=c" target="_blank"><img src="/media/contentassets/images/about/disabilities/1-70x70.png" alt="1" style="     " /></a>â<br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>For note-taking, research, creating to-dos, lists and attaching images, and PDF's. Instantly synchronizes from computer to smartphone, tablet and the web.</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS and Android compatible.</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<p><a href="https://www.dropbox.com/" target="_blank">Dropbox</a><br><a href="https://www.dropbox.com/" target="_blank"><img src="/media/contentassets/images/about/disabilities/2-70x70.png" alt="2" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>Free service that lets you store your photos, docs, and videos in the cloud and share them easily. Synchronizes from computer to smartphone, tablet and the web..</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS and Android compatible</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<p><a href="http://www.bridworks.com/anote/" target="_blank">Awesome Note</a><br><a href="http://www.bridworks.com/anote/" target="_blank"><img src="/media/contentassets/images/about/disabilities/3-70x70.png" alt="3" style="     " /></a><br><br>â</p>
+</td>
+<td align="center" valign="middle">
+<p>Note-taking application and to-do manager that allow you to combine notes with to-do flexibility</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS and GalaxyNote compatible.</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<p><strong>Mapping</strong></p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<p><a href="http://www.inspiration.com/" target="_blank">Inspiration</a><br><a href="http://www.inspiration.com/" target="_blank">â<img src="/media/contentassets/images/about/disabilities/4-70x70.png" alt="4" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>App for mind maps and graphic organizers to help you: brainstorm and visualize ideas with maps and diagrams; organize thoughts and information; make sense of complex concepts and projects.</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS compatibility only.</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<p><a href="http://www.simpleapps.eu/simplemind/" target="_blank">Simple Mind</a><br><a href="http://www.simpleapps.eu/simplemind/" target="_blank"><img src="/media/contentassets/images/about/disabilities/5-70x70.jpg" alt="5" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>Mind mapping tool that turns your iPad, iPhone or iPod Touch into a brainstorming, idea collection and thought structuring device.</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS compatibility only.</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<p><a href="https://coggle.it/" target="_blank">Coggle</a><br><a href="https://coggle.it/" target="_blank"><img src="/media/contentassets/images/about/disabilities/6-70x70.png" alt="6" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>Mapping tool allows users several advanced features to diagram information and use it for collaborative aspects project management, report writing, and just brainstorming.</p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="text-align: justify;">
+<td align="center" valign="middle">
+<p><strong>Note Taking</strong></p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: justify;">
+<td align="center" valign="middle">
+<p><a href="http://gingerlabs.com/" target="_blank">Noteability</a><br><a href="http://gingerlabs.com/" target="_blank"><img src="/media/contentassets/images/about/disabilities/7-70x70.png" alt="7" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>Note-Taking app that allows you to create, illustrate, outline, annotate, record, capture photos. Automatic cloud synchronizing to iPhone and iPad..</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS compatibility only</p>
+</td>
+</tr>
+<tr style="text-align: justify;">
+<td align="center" valign="middle">
+<p><a href="http://notesplusapp.com/" target="_blank">Notesplus</a><br><a href="http://notesplusapp.com/" target="_blank"><img src="/media/contentassets/images/about/disabilities/8-70x70.png" alt="8" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>Note-Taking app that allows you to type, draw or record notes. Import and annotate and highlight on PDF's. Easily allows for exporting to various outlets.</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS compatibility only.</p>
+</td>
+</tr>
+<tr style="text-align: justify;">
+<td align="center" valign="middle">
+<p><a href="http://www.iannotate.com/" target="_blank">iAnnotate PDF</a><br><a href="http://www.iannotate.com/" target="_blank"><img src="/media/contentassets/images/about/disabilities/9-70x70.png" alt="9" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>PDF document reader that allows for reading, annotating and sharing PDF documents, Word/PowerPoint files and images.</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS and Android compatible.</p>
+</td>
+</tr>
+<tr style="text-align: justify;">
+<td align="center" valign="middle">
+<p><a href="http://www.adobe.com/" target="_blank">Adobe Acrobat Reader</a><br><a href="http://www.adobe.com/" target="_blank"><img src="/media/contentassets/images/about/disabilities/10-70x70.jpg" alt="10" style="     " /></a><br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>PDF document reader app that allows for reading and annotating PDF's across various platforms.</p>
+</td>
+<td align="center" valign="middle">
+<p>iOS and Android compatible.</p>
+</td>
+</tr>
+<tr style="text-align: justify;">
+<td align="center" valign="middle">
+<p><strong>Other Technology</strong></p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: justify;">
+<td align="center" valign="middle">
+<p><a href="https://www.livescribe.com/en-us/smartpen/" target="_blank">Smart Pen<img src="/media/contentassets/images/about/disabilities/11-70x70.jpg" alt="11" style="     " /></a>â<br><br></p>
+</td>
+<td align="center" valign="middle">
+<p>A smartpen that synchronizes handwritten notes with recorded audio and converts them into digital format.</p>
+</td>
+<td align="center" valign="middle">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: justify;" align="center" valign="middle">
+<p>Digital Voice Recorder</p>
+</td>
+<td align="center" valign="middle">
+<p style="text-align: justify;">Digital voice recorders convert sound into a digital file that can be moved from one electronic device to another, played back by a computer, tablet or smartphone and stored as a digital file.</p>
+</td>
+<td align="center" valign="middle">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

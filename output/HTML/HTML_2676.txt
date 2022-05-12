@@ -1,0 +1,1080 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Ingersoll Christine | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Ingersoll Christine">
+	<meta property="og:type" content="website">
+	
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+   <!-- old css  used by Messageboard on Gateways -->
+   <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+  <!-- old slideshow --> 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+
+  
+  <!----------------------------------------------->
+  <!-- start Animated Collapse
+  Global library to show/hide content; used by Gateways for Commonly Used Web Pages
+
+    /media/contentassets/js/it/animatedcollapse.js
+  -->
+   <script type="text/javascript" src="/media/contentassets/js/it/animatedcollapse.js"></script>
+  
+   <!-- Custom settings for and placed after animatedcollapse.js specific to content for show/hide -->
+    <script type="text/javascript">
+
+/*Animated Collapsible DIV v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+var toggleStatus="hide";
+ function setToggle () {
+   if (this.toggleStatus == "hide") {
+     animatedcollapse.show('links-more');
+     var sml=document.getElementById('showMoreLess');
+     sml.innerHTML='(Show Less)'
+     this.toggleStatus="show";
+     document.getElementById('toggleArrow').src="images/upArrow.png";
+     return;
+   } 
+   if (this.toggleStatus == "show") {
+     animatedcollapse.hide('links-more');
+     var sml=document.getElementById('showMoreLess');
+     sml.innerHTML='(Show More)'
+     this.toggleStatus="hide";
+     document.getElementById('toggleArrow').src="images/downArrow.png";
+   }
+ }
+animatedcollapse.addDiv('links-more', 'fade=0, hide=1');
+animatedcollapse.addDiv('alerts', 'fade=0, hide=0');
+animatedcollapse.addDiv('announce', 'fade=0, hide=1');
+animatedcollapse.addDiv('nod', 'fade=0, hide=0');
+animatedcollapse.addDiv('inthenews', 'fade=0, hide=0');
+animatedcollapse.addDiv('promos', 'fade=0, hide=0');
+animatedcollapse.addDiv('postings', 'fade=0, hide=0');
+animatedcollapse.addDiv('general', 'fade=0, hide=0');
+      
+
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+        //$: Access to jQuery
+        //divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+        //state: "block" or "none", depending on state
+}
+animatedcollapse.init();
+</script>
+<!-- end animated collapse -->
+<!-- start calendarEvents.css for calendar event listing used on Gateways -->
+   <link rel="stylesheet" type="text/css"  href="/media/styleassets/css/dynamiccustomcode/calendarEvents.css" />
+<!-- end calendarEvents.css  -->
+</head>
+
+<body class="preload fs-grid page_layout_full  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header"  >
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+
+						<div class="page_header_content">
+							<h1 class="page_title">Faculty Profiles</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+    <!-- Page Content -->
+		<div class="page_content">
+      <div class="page_content_inner clearfix">
+				<main class="page_main_content" id="page_main_content" itemprop="mainContentOfPage">
+        
+					
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>	
+      <!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+  
+				<!-- WYSIWYG -->
+<div class="breakByCell">
+<div class="wysiwyg_block">
+  <div class="fs-row">
+	  <div id="name" class="fs-cell fs-lg-11 typography">
+        
+
+<table><tr><td><p style='text-align:center;' class='topic_title'><strong>Christine  Ingersoll</strong></p><p style='text-align:center;'>Professor, Chemistry<br/>Chemistry<br/>Main Campus &gt; Shankweiler Biology Building &gt; 337<br/>484-664-3261<br/><p style='text-align:center;'><A HREF=mailto:christineingersoll@muhlenberg.edu>christineingersoll@muhlenberg.edu</A></p></td><td><img class='_image' src='https://muhlenbergcollege.zenfolio.com/img/s/v-10/p3910031643.jpg' alt='image of faculty member' style='margin: 0px auto; display: block;'></td></tr></table><hr/>
+	 
+    
+
+
+
+<p><strong>Education</strong></p>
+ <p><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ph.D., State University of New York at Buffalo</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">B.S., magna cum laude, State University of New York, College at Oswego</span></li>
+</ul></p><hr/>
+        <p><strong>Teaching Interests</strong></p>
+  <p><p><span style="font-weight: 400;">My teaching interests are primarily in the field of analytical chemistry and I regularly teach the two-course sequence, Analytical Chemistry I and II.&nbsp;Students in these courses develop their skills in advanced equilibrium, uncertainty propagation, calibration methods, statistical experimental design and data analysis, electrochemistry, analytical separations/chromatography and spectroscopy.&nbsp;We engage together in learning about the theory and applications of instrumentation, both in the classroom and in the laboratory.</span></p>
+<p><span style="font-weight: 400;">I am also passionate about teaching introductory chemistry and general chemistry.&nbsp;Students in introductory chemistry come from a variety of backgrounds and plan to pursue majors in the natural sciences.&nbsp;We work to develop problem solving skills needed to succeed in general chemistry and upper-level courses in the sciences.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Other courses I have taught include fluorescence spectroscopy and laboratory automation and robotics, and I plan to offer a course in mass spectrometry in the future.&nbsp;In these upper-level, literature-based courses, students help shape the content and direction of the course and we visit industry laboratories to gain multiple perspectives on what we are learning in the classroom.</span></p>
+<p><span style="font-weight: 400;">In all my courses, my students and I share the commitment to a culture of academic rigor, inclusivity, effective communication and collaboration.</span></p></p><hr/>
+
+
+<p><strong>Research, Scholarship or Creative/Artistic Interests</strong></p><p><p><span style="font-weight: 400;">Collaboration<strong>‚</strong>with my students, colleagues and industrial partners<strong>‚</strong>has been at the heart of my research program at Muhlenberg. Together, we leverage analytical chemistry to work with other scientists on cross-disciplinary research questions.&nbsp;Here at Muhlenberg, a collaboration with Dr. Richard Niesenbaum (professor of biology), investigated plant-insect interactions. We used HPLC to quantify phenolic compounds in plants to correlate light environment, plant chemistry and herbivory in the field.&nbsp; Currently, we work alongside Dr. Jeremy Teissere (professor of neuroscience) and his students to better understand modulation of the GABAA receptor in the brain. Using LC-MS and GC-MS, our goal is to develop and implement methods to identify and quantify constituents in herbal extracts.&nbsp; Our collective results to date suggest a chemical basis for the modulation of the GABAA receptor.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Our extensive work with external researchers include a collaboration with scientists at Johnson &amp; Johnson, where we developed novel approaches using design of experiments (DOE) to prepare cell culture media samples for GC-MS characterization. Currently we are working with chemists from The Mentholatum Company on the GC-MS characterization of forced-degradation of natural pharmaceutical ingredients.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Our work together on these research endeavors has resulted in co-authored publications and conference presentations.</span></p>
+<p>&nbsp;</p></p>
+  
+  
+  
+  <div class="sidebar-links collapsible-accordian">
+  <div class="panel-group" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+
+    
+<div class='panel panel-default'><a data-toggle='collapse'data-parent='#collapse-accordion'href='#courses2'aria-expanded=&'false'aria-controls='courses2'><div class='panel-heading' role='tab' id='courses'><p class='panel-title pull-left'>Courses Taught Include:</p><p class='panel-title pull-right'><span class='fa fa-plus-square-o'></span></p><div class='clearfix'></div></div></a><div id='courses2'class='panel-colla
+pse collapse' role='tabpanel' aria-labelledby='courses'><div class='panel-body'><ul><li>Analytical Chemistry I: </li><li>Analytical Chemistry II: </li><li>Chemistry Independent Study/Research: GC-MS Acetal Analysis: </li><li>Chemistry Internship: Muhlenberg College: </li><li>Introductory Chemistry: </li><li>Project Lab: Community-Engaged Chemistry: </li></div></div></div>
+
+    
+    <div class="panel panel-default"><a data-toggle="collapse"data-parent="#collapse-accordion"href="#honors2"aria-expanded="false"aria-controls="honors2"><div class="panel-heading" role="tab" id="honors"><p class="panel-title pull-left">College Honors & Awards</p><p class="panel-title pull-right"><span class="fa fa-plus-square-o"></span></p><div class="clearfix"></div></div></a><div id="honors2"class="panel-collapse collapse" role="tabpanel" aria-labelledby="honors"><div class="panel-body"><ul>
+<li>American Chemical Society Women Chemists Committee Rising Star Award (2012)</li>
+<li>Open Educational Resources (OER) Grant (2017-2018)&nbsp;</li>
+<li>Faculty Summer Research Grants (1999, 2000, 2004, 2014, 2017, 2018)</li>
+<li>Donald B. Hoffman Research Fellowship (2009-2010)</li>
+</ul></div></div></div>
+    
+    
+
+<div class="panel panel-default"><a data-toggle="collapse"data-parent="#collapse-accordion"href="#research2"aria-expanded="false"aria-controls="research2"><div class="panel-heading" role="tab" id="research"><p class="panel-title pull-left">Student Research/Conference Collaboration</p><p class="panel-title pull-right"><span class="fa fa-plus-square-o"></span></p><div class="clearfix"></div></div></a><div id="research2"class="panel-collapse collapse" role="tabpanel" aria-labelledby="research"><div class="panel-body"><p>See below.&nbsp;(* student co-author)</p>
+<p>&nbsp;</p></div></div></div>    
+    
+
+    
+<div class="panel panel-default"><a data-toggle="collapse"data-parent="#collapse-accordion"href="#abstract2"aria-expanded="false"aria-controls="abstract2"><div class="panel-heading" role="tab" id="abstract"><p class="panel-title pull-left">Recent Publications, Presentations & Abstracts</p><p class="panel-title pull-right"><span class="fa fa-plus-square-o"></span></p><div class="clearfix"></div></div></a><div id="abstract2"class="panel-collapse collapse" role="tabpanel" aria-labelledby="abstract"><div class="panel-body"><p><span style="font-weight: 400;"><strong>Peer-Reviewed Publications (* student co-author)<br></strong></span>C.M. Ingersoll, R.A. Niesenbaum, C.E.Weigle*, and J.H. Lehman* ‚Total Phenolics and Individual Phenolic Acids Vary with Light Environment in Lindera benzoin,‚ <em>Botany</em>, 2010, 88:11, 1007-1010.</p>
+<p><span style="font-weight: 400;">C.M. Ingersoll and C.M. Strollo*, ‚Steady State Fluorescence Anisotropy to Investigate Flavonoids Binding to Proteins,‚ <em>Journal of Chemical Education,</em> 2007, 84, 1313-1315.<br><br>R.A. Niesenbaum, J.F. Cahill, and C.M. Ingersoll, ‚Light, Wind, and Touch Influence Leaf Chemistry and Rates of Herbivory in Apocynum cannabinum (apocynaceae),‚ <em>International Journal of Plant Sciences</em>, 2006, 167:5, 969-978.<br><br>C.M. Ingersoll, K.A. Widmann*, C.W. Szakal*, A.M. Fermier, and J.M. Troisi, ‚Incorporating Automation in Undergraduate Laboratories,‚ <em>Journal of the Association for Laboratory Automation</em>, 2003, 8:4, 31-34.<br><br>C.M. Ingersoll, D.E. Roland, Jr.*, A.M. Kacuba*, C.L. Wilkinson*, and J.M. Berty, ‚Removal of Sulfur Oxides from Diesel Exhaust Gases,‚ <em>Environmental Progress </em>2003, 22:3, 199-205.<br><br>M. Ciubotaru, F.V. Bright, C.M. Ingersoll, and G.B. Koudelka, ‚DNA-Induced Conformational Changes in Bacteriophage 434 Receptor,‚ <em>Journal of Molecular Biology</em> 1999, 294, 859-873.<br><br>M.K. Carroll, M.A. Unger, A.M. Leach, M.J. Morris, C.M. Ingersoll and F.V. Bright, ‚Investigation of Dye-Surfactant Interactions Using Molecular Spectroscopy,‚ <em>Applied Spectroscopy</em> 1999, 53, 780-784.<br><br>A.M. Hartnett, C.M. Ingersoll, G.A. Baker and F.V. Bright, ‚Kinetics and Thermodynamics of Free Flavins and the Flavin-Based Redox Active Site Within Glucose Oxidase Dissolved in Solution or Sequestered Within a Sol-Gel-Derived Glass,‚ <em>Analytical Chemistry</em> 1999, 71, 1215-1224.<br><br>A.N. Watkins, C.M. Ingersoll, G.A. Baker and F.V. Bright, ‚A Parallel Multiharmonic Frequency-Domain Fluorometer for Measuring Excited-State Intensity Decay Kinetics Following One-, Two-, or Three-Photon Excitation,‚ <em>Analytical Chemistry</em> 1998, 70, 3384-3396.<br><br>C.M. Ingersoll, A.N. Watkins, G.A. Baker and F.V. Bright, ‚Tracking Nanosecond and Sub-Nanosecond Protein Dynamics On-The-Fly Using Frequency-Domain Fluorescence,‚ <em>Applied Spectroscopy</em> 1998, 52, 933-942.<br><br>C.M. Ingersoll and F.V. Bright, ‚Sol-Gel-Derived Chemical Sensing Platforms: Effects of Dopant Addition Time on Sensor Performance,‚ <em>Journal of Sol-Gel Science and Technology</em> 1998, 11, 169-176.<br><br>C.M. Ingersoll and F.V. Bright, ‚Using Fluorescence to Probe Biosensor Interfacial Dynamics,‚ <em>Analytical Chemistry </em>1997, 69, 403A-408A.<br><br>C.M. Ingersoll and F.V. Bright, ‚Sol-Gel-Based Platforms for Chemical Sensors,‚ <em>CHEMTECH</em>, 1997, 27, 26-31.<br><br>C.M. Ingersoll and F.V. Bright, ‚Sol-Gel-Based Biosensors,‚ in 1997 McGraw-Hill Yearbook of Science and Technology, <em>Encyclopedia of Science &amp; Technology</em>, 1997, p. 47-48.<br><br>C.M. Ingersoll, J.D. Jordan and F.V. Bright, ‚Probing Accessibility of the Fluorescent Reporter Group in Native, Silica-Adsorbed and Covalently Attached Acrylodan-Labeled Serum Albumins,‚ <em>Analytical Chemistry</em> 1996, 68, 3194-3198.</span></p>
+<p><strong>Book Review</strong><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll. Book Review on The Practice of Chemistry by Wink, Fetzer-Gislason, and McNicholas. </span><em><span style="font-weight: 400;">Journal of Chemical Education</span></em><span style="font-weight: 400;">, 2004, 81, 36-37.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><strong>Publicity Articles</strong><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Chemical &amp; Engineering News recognizing the recipients of the ACS WCC Rising Star Award, April 2012. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">‚Industry Teams Up With Academia at Muhlenberg College‚ Feature Story following technical article in the August 2003 issue of the </span><em><span style="font-weight: 400;">Journal of the Association for Laboratory Automation</span></em><span style="font-weight: 400;">, (p. 35-36) includes cover photo with students.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">‚Identifying Bacteria: Looking for a Fast Track‚ Special Report in March 29, 1999 issue of </span><em><span style="font-weight: 400;">Chemical and Engineering News,</span></em><span style="font-weight: 400;"> includes collaboration on the detection of E. coli using tellurium-based dyes.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><strong>Invited Presentations</strong><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, ‚A Collaborative, Interdisciplinary Undergraduate Research Program in Analytical Chemistry‚ Lehigh Valley ACS WCC Meeting (Sept. 2014).</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, Keynote address for PAGES (Philadelphia Area Girls Engaged in Science) program for 130 6th grade girls at a day-long science symposium, Chestnut Hill College (Nov. 2012)</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, ‚A Collaborative Undergraduate Research Program in Analytical Chemistry at a Liberal Arts College‚ 243rd National Meeting of the American Chemical Society, San Diego, CA (Mar. 2012).</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, ‚From Plants to Cell Culture Media: An Undergraduate Research Program in Analytical Chemistry‚ State University of New York at Buffalo Chemistry Department, Buffalo, NY (Aug. 2011).</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, ‚Molecule Day: Laboratory Projects Based on an Interdisciplinary Theme‚ Mid-Atlantic Regional Meeting of the American Chemical Society, New Brunswick, NJ (May 2005).</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, ‚Automation in the Undergraduate Analytical Laboratory‚ Moravian College Seminar Series, Bethlehem, PA (Feb. 2003).</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, ‚Automation in the Undergraduate Analytical Laboratory‚ William Paterson University Seminar Series, Wayne, NJ (Feb. 2003).</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll, ‚Characterization of Biorecognition Processes and Immobilization Methods in the Development of Chemical Sensors‚ Buffalo State College Seminar Series, Buffalo, NY (Nov. 1997). &nbsp;</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><strong>Other presentations</strong><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">R.A. Niesenbaum, J.F. Cahill and C.M. Ingersoll, ‚The Effects of Light, Wind, Competition, and Handling on Leaf Chemistry and Herbivory in Apocynum cannabinum‚ 90th Meeting of the Ecological Society of America, Montreal, Canada (Aug. 2005). </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">C.M. Ingersoll and R.A. Niesenbaum, ‚A Cross-Disciplinary Undergraduate Research Program: Applying Analytical Chemistry to Investigate Ecological Behaviors‚ Eastern Analytical Symposium, Somerset, NJ (Nov. 2009).</span></p>
+<p>&nbsp;</p></div></div></div>  
+    
+    
+</div></div>
+  
+  
+  
+      
+  
+
+
+
+        <br/><p><strong><a href="javascript:history.back()">Go Back to Search >></strong></a></p>
+
+    </div></div></div>
+
+
+</div>			
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+<!-- old bootstrap  used by Messageboard -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+</body>
+
+</html>

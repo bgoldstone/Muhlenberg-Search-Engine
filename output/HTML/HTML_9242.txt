@@ -1,0 +1,562 @@
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Trexler Library | Muhlenberg College</title>
+        <link rel="shortcut icon" href="/library/media/contentassets/library/images/aboutus/Muhlenberg-M.png">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css'>
+        <script src="/library/media/styleassets/library/trexlerredesign/js/testscripts.js"></script>
+        <!--<script src="/library/media/styleassets/library/trexlerredesign/js/scripts.js"></script>
+        <script src="/library/media/styleassets/library/trexlerredesign/js/hours.js"></script>-->
+        <!--test styles-->
+        <!--<link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/update.css">-->
+        <!--live styles-->
+        <link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/teststyles.css">
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+      	<!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19177219-2"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-19177219-2');
+        </script>
+
+
+
+        <script>
+            var d = document
+                , l = d.location
+                , t = d.title
+                , p = l.pathname
+                , s
+                ;
+            if (p === '/' || p === '/library/' || p === '/library/index.html' || p === '/library/testforlibrary/newwebsite/libraryhome/' || p === '/library/testforlibrary/libraryhome/' || p === '/library/testforlibrary/newwebsite/libraryhome/home2/') {
+                s = d.createElement('style');
+                s.innerHTML = 'ul.breadcrumb{display: none;}';
+                d.getElementsByTagName('head')[0].appendChild(s);
+                t = t.replace(/Library Home \| /, '');
+
+                document.addEventListener('DOMContentLoaded', function () {
+                    var c = document.getElementById('content')
+                        , sl = document.getElementById('slide')
+                        , imgPath = '/library/media/contentassets/library/archived/searchbox-backgrounds/05.jpg'.replace('05.jpg', '')
+                        , totalImages = 11
+                        , isMobile = (window.getComputedStyle(document.querySelector('.bb-opt')).display === 'block')
+                        , num;
+                    if (c) c.id = 'content-index';
+
+                });
+            }
+        </script>
+      
+      	<style type="text/css">
+            a.drop-list-item {
+                display: block;
+            }
+        </style>
+    
+    </head>
+
+    <body>
+        <div class="home-container">
+            <a class="link-skip" id="skip-to-content" href="#main_content">Skip to Main Content</a>
+
+            <header id="header">
+                <div class="header-wrap">
+                    <div class="h-row">
+
+                      <div class="h-cell">
+                            <a href="http://trexler.muhlenberg.edu">
+                                <img src="/library/media/contentassets/library/images/home/trexler-sitelogo-transparent-white.png" alt="Visit Trexler Library Home"class="lib-logo" />
+                            </a>
+                        </div>
+                 
+                      <div class="m-cell">
+    <div id="hoursHeader" class="hoursHeader">
+      <i class="fas fa-clock"></i>
+        <a href="/library/about/hours/" class="btn btn-link link-uw">  
+            <div class="hhours">
+                <h3 class="hoursTitle">Today's Hours</h3>
+                <div id="api_hours_today_iid814_lid0"class="hours-today" role="presentation hours-row hours-today-row hours-library loc2229">
+                    <p class="hours-col-loc">Trexler Library</p><p class="hours-col-time"><span class="s-lc-time">8am – 10pm</span></p>
+                </div>
+            </div>        
+            <script src="https://muhlenberg.libcal.com/api_hours_today.php?iid=814&lid=0&format=js&systemTime=1&context=object"></script>
+        </a>
+    </div>
+     <div class="libAcct"><i class="fas fa-user-circle"></i><a href="https://muhlenberg.account.worldcat.org/account" id="acc-link" class="link-uw top-link">My Library Account</a></div> 
+    <div class="collegeNav">
+        <nav aria-label="Sub Navigation" rold="navigation">
+            <div class="dropdownx">
+                <button class="dropbtnx"><a href="#" id="port-link" class="link-uw top-link">College Links</a><i class="fas fa-caret-down dropbtnx"></i></button>
+                <div class="dropdown-contentx">
+                    <a href="https://www.muhlenberg.edu/" id="col-link" class="link-w top-link" target="_blank">College Home</a>
+                    <a href="https://muhlenberg-college.onelogin.com/login" id="col-link" id="port-link" class="link-w top-link" target="_blank">College Portal</a>
+                  	<a href="https://www.muhlenberg.edu/directory/" id="col-link" id="port-link" class="link-w top-link" target="_blank">College Directory</a>
+                </div>
+            </div>  
+        </nav>
+    </div>
+
+                            <div id="sm-menu" class="t-menu top-menu-small">
+                                <nav role="navigation" aria-label="Main Navigation">
+                                    <a id="ham" class="link-w" data-ol-has-click-handler=""><i class="fas fa-bars"></i></a>
+                                </nav>
+
+                                <a href="https://muhlenberg.account.worldcat.org/account" class="link-w" target="_blank" id="acc-btn"><i class="fas fa-user-circle"><span class="visuallyhidden">My Library Account</span></i></a>
+                            </div>
+                            
+                        </div>
+
+                  </div>       
+
+
+                    <div class="sm-drop-list" id="expand-menu">
+                        
+                        <ul class="menu">
+                          <li class="top-menu-item drop"><a href="#">2021 Updates<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/onlineresources/levelsandservices.html">COVID-19 Alert Levels & Services</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/visitingthelibrary/">Visiting the Library</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/accessingprintresources/">Accessing Print Resources</a></li>                              
+                                    <li><a class="drop-list-item" href="/library/onlineresources/accessingonlineresources/">Accessing Online Resources</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/off-campusaccess/">Off-Campus Access</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/research/">Research Support</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/faculty/">Faculty Resources</a></li>
+                                </ul>
+                            </li>  
+                          
+                          <li class="top-menu-item drop"><a href="#">About Us<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>
+                                    <!--<li><a class="drop-list-item" href="">Library Floor Plans</a></li>-->                              
+                                    <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/forms/">Form Directory</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/policies/">Library Policies</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/forms/comments/">Comments</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="top-menu-item drop"><a href="#">Research<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/getstartedguides" target="_blank">Get Started with Research</a></li>
+                                    <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/content.php?pid=356743" target="_blank">Subject Guides</a></li>
+                                    <li><a class="drop-list-item" href="/library/research/citationguides/">Citation Guides</a></li>
+                                    <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright Information</a></li>
+                                    <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/az.php" target="_blank">Databases A-Z</a></li>
+                                    <li><a class="drop-list-item" href="/library/research/askalibrarian/">Ask a Librarian</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="top-menu-item drop"><a href="#">Borrowing<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/myaccount" target="_blank">My Library Account</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/borrowingpolicies/">Borrowing Policies</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/">Interlibrary Loan</a></li>
+                                    <!--<li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/courseReserves/landing/">Search Reserves</a></li>-->
+                                    <li><a class="drop-list-item" href="/library/borrowing/coursereserves/">Course Reserves</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/filmscreenings/">Film Screenings</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/technologytoborrow/">Technology to Borrow</a></li>   
+                                </ul>
+                            </li>
+
+                            <li class="top-menu-item drop"><a href="#">Spaces & Technology<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/libraryspaces/">Library Spaces</a></li>
+                                    <li><a class="drop-list-item tier-two" href="/library/libraryspaces/reservearoom/">Reserve a Room</a></li>
+                                    <li><a class="drop-list-item" href="/library/librarytechnology/collaborationtechnology/">Collaboration Technology</a></li>
+                                    <li><a class="drop-list-item" href="/library/librarytechnology/onebuttonstudio/">One Button Studio</a></li>
+                                    <li><a class="drop-list-item" href="/library/librarytechnology/printcopyscan/">Print/Copy/Scan</a></li>
+                                    <li><a class="drop-list-item" href="/library/librarytechnology/">Library Technology</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="top-menu-item drop"><a href="#">Faculty Resources<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/facultyresources/teachingandlearning/">Teaching and Learning</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/">Collection Development</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/copyrightatmuhlenberg/">Copyright at Muhlenberg</a></li>                      
+                                    <li><a class="drop-list-item" href="/library/facultyresources/facultylendingpolicy/">Faculty Borrowing Policy</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/policies/faculty-studies-policy.html">Faculty Studies</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/">Information Literacy &<br>Instructional Support</a></li> 
+                                    <li><a class="drop-list-item" href="/library/facultyresources/librarycommittee/">Library Committee</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/libraryliaisons/">Library Liaisons</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/openaccess/">Open Access</a></li>                       
+                                    <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>                      
+                                    <li><a class="drop-list-item tier-two" href="/library/facultyresources/suggestapurchaseform/">Suggest a Purchase</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="top-menu-item drop"><a href="#">Special Collections<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/specialcollections/">Special Collections & Archives</a></li>
+                                    <li><a class="drop-list-item" href="http://sal.muhlenberg.edu:8080/librarydspace/">Muhlenberg College<br>Digital Repository</a></li>
+                                    <li><a class="drop-list-item" href="/library/honorsthesis/">Student Honors Theses</a></li>
+                                </ul>
+                            </li>   
+                        </ul>
+
+                    </div>
+                </div>
+                    
+                <nav class="top-menu t-menu h-row" id="full-menu" role="navigation" aria-label="Main Navigation">
+                    <ul class="menu">
+                        <li class="top-menu-item drop"><a href="#">2021 Updates<i class="fas fa-caret-down"></i></a>
+                             <ul class="drop-list">
+                                  <li><a class="drop-list-item" href="/library/onlineresources/levelsandservices.html">COVID-19 Alert Levels & Services</a></li>
+                                  <li><a class="drop-list-item" href="/library/onlineresources/visitingthelibrary/">Visiting the Library</a></li>
+                                  <li><a class="drop-list-item" href="/library/onlineresources/accessingprintresources/">Accessing Print Resources</a></li>                              
+                                  <li><a class="drop-list-item" href="/library/onlineresources/accessingonlineresources/">Accessing Online Resources</a></li>
+                                  <li><a class="drop-list-item" href="/library/onlineresources/off-campusaccess/">Off-Campus Access</a></li>
+                                  <li><a class="drop-list-item" href="/library/onlineresources/research/">Research Support</a></li>
+                                  <li><a class="drop-list-item" href="/library/onlineresources/faculty/">Faculty Resources</a></li>
+                              </ul>
+                         </li>  
+                        <li class="top-menu-item drop"><a href="#">About Us<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>
+                                <!--<li><a class="drop-list-item" href="">Library Floor Plans</a></li>-->                              
+                                <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                                <li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li>
+                                <li><a class="drop-list-item" href="/library/about/forms/">Form Directory</a></li>
+                                <li><a class="drop-list-item" href="/library/about/policies/">Library Policies</a></li>
+                                <li><a class="drop-list-item" href="/library/about/forms/comments/">Comments</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="top-menu-item drop"><a href="#">Research<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/getstartedguides" target="_blank">Get Started with Research</a></li>
+                                <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/content.php?pid=356743" target="_blank">Subject Guides</a></li>
+                                <li><a class="drop-list-item" href="/library/research/citationguides/">Citation Guides</a></li>
+                                <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright Information</a></li>
+                                <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/az.php" target="_blank">Databases A-Z</a></li>
+                                <li><a class="drop-list-item" href="/library/research/askalibrarian/">Ask a Librarian</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="top-menu-item drop"><a href="#">Borrowing<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/myaccount" target="_blank">My Library Account</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/borrowingpolicies/">Borrowing Policies</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/">Interlibrary Loan</a></li>
+                                <!--<li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/courseReserves/landing/">Search Reserves</a></li>-->
+                                <li><a class="drop-list-item" href="/library/borrowing/coursereserves/">Course Reserves</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/filmscreenings/">Film Screenings</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/technologytoborrow/">Technology to Borrow</a></li>   
+                            </ul>
+                        </li>
+
+                        <li class="top-menu-item drop"><a href="#">Spaces & Technology<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/libraryspaces/">Library Spaces</a></li>
+                                <li><a class="drop-list-item tier-two" href="/library/libraryspaces/reservearoom/">Reserve a Room</a></li>
+                                <li><a class="drop-list-item" href="/library/librarytechnology/collaborationtechnology/">Collaboration Technology</a></li>
+                                <li><a class="drop-list-item" href="/library/librarytechnology/onebuttonstudio/">One Button Studio</a></li>
+                                <li><a class="drop-list-item" href="/library/librarytechnology/printcopyscan/">Print/Copy/Scan</a></li>
+                                <li><a class="drop-list-item" href="/library/librarytechnology/">Library Technology</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="top-menu-item drop"><a href="#">Faculty Resources<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/facultyresources/teachingandlearning/">Teaching and Learning</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/">Collection Development</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/copyrightatmuhlenberg/">Copyright at Muhlenberg</a></li>                      
+                                <li><a class="drop-list-item" href="/library/facultyresources/facultylendingpolicy/">Faculty Borrowing Policy</a></li>
+                                <li><a class="drop-list-item" href="/library/about/policies/faculty-studies-policy.html">Faculty Studies</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/">Information Literacy &<br>Instructional Support</a></li> 
+                                <li><a class="drop-list-item" href="/library/facultyresources/librarycommittee/">Library Committee</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/libraryliaisons/">Library Liaisons</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/openaccess/">Open Access</a></li>                       
+                                <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>                      
+                                <li><a class="drop-list-item tier-two" href="/library/facultyresources/suggestapurchaseform/">Suggest a Purchase</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="top-menu-item drop"><a href="#">Special Collections<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/specialcollections/">Special Collections & Archives</a></li>
+                                <li><a class="drop-list-item" href="http://sal.muhlenberg.edu:8080/librarydspace/">Muhlenberg College<br>Digital Repository</a></li>
+                                <li><a class="drop-list-item" href="/library/honorsthesis/">Student Honors Theses</a></li>
+                            </ul>
+                        </li>   
+                    </ul>  
+                </nav>
+            </header>
+
+            <div id="content" class="container-fluid">
+                <nav aria-label="Breadcrumb" class="bc" role="navigation">
+                    <ul class="breadcrumb">
+                        <li class="bread"><a href="/library/">Library Home</a></li><li class="bread"><a href="/library/librarytechnology/">Library Technology</a></li><li class="bread">Wireless-Computers-Software</li>
+                    </ul>
+                </nav><a id="d.en.440140"></a>
+<style type="text/css">
+#pageBanner{
+    position: relative;
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 8em;
+    padding-top: 3%;
+    padding-bottom: 3%; 
+    background-image: url('/library/media/contentassets/library/images/decorativebannerpictures/Spaces-Tech_banner.jpg');
+          background-position: center;
+          background-size: cover;
+  }
+  .branding{
+    position: absolute;
+    color: white;
+    top: 35%;
+    left: 3%; 
+    font-size: 1.7em;
+    text-shadow: 2px 2px 5px black;
+  }
+  .primaryBrand{
+    font-size: 2.0em;
+  }
+  .secondaryBrand{
+    font-size: 1.5em;
+  }
+  @media (max-width: 445px){
+    .primaryBrand{
+    	font-size: 1.2em;
+  	}
+  }
+</style>
+
+<div id="pageBanner">
+  <h1 class="branding"><span class="primaryBrand">Computers/Software and Wireless</span></h1>
+</div><a id="d.en.414914"></a>
+
+<main class="sub" id="main_content">
+  <div class="sub-content">
+<!--<h1>Computers/Software and Wireless</h1>-->
+
+      
+            <section class="col2">
+              <h2>Computers/Software</h2>
+<p><span>Computers can be found dispersed around the Reference Area on the A-level concourse and the B-01 Computer Lab (B-level). These computers are reserved for Muhlenberg personnel and require Muhlenberg credentials.<span>&nbsp;</span><br></span></p>
+<p><span>Please note that B-01 Lab is sometimes used for classes, but may be used by students when not otherwise booked. Reserved times are posted outside the lab daily.</span></p>
+<p><span>Please also note that anything saved to library computers will be lost. Please use a flash drive, Google Drive, or another method to save your work.<br></span></p>
+<p><span>Trexler Library computers are equipped with the following software:</span></p>
+<ul>
+<li><span>MS Office 2016</span></li>
+<li><span>Browsers - Google Chrome (default), Firefox and IE</span></li>
+<li><span>IBM SPSS</span></li>
+<li><span>Maple</span></li>
+<li><span>Acrobat Reader DC</span></li>
+<li><span>Corel WinDVD</span></li>
+<li><span>Roxio Creator</span><span></span></li>
+<li><span>Samanage Inventory Agent</span><span></span></li>
+<li><span>Zotero</span></li>
+<li><span>Software that is standard to the operating system is also included.</span></li>
+</ul>
+<p><span>While the majority of Trexler Library computers are only available to Muhlenberg personnel, the two quick lookup kiosks that are located opposite of the Lending Services desk are available to the public. These kiosks are available on a first come, first served basis and have a 20-minute time limit.</span></p>
+            </section>
+            <section class="col3">
+              <h2>Wireless Access</h2>
+<p>Muhlenberg Campus has 100% wireless coverage. Patrons will have access to wireless service on any floor of Trexler Library.</p>
+<p>If you are a Muhlenberg patron (current student, staff, or faculty):</p>
+<ul>
+<li>Register your personal and College-assigned mobile devices (laptop, smartphone, etc) with the campus MuhlenbergWiFi network.&nbsp;<span>Please see the instructions on the&nbsp;</span><a href="https://www.muhlenberg.edu/offices/oit/campustechnology/wireless/" target="_blank">Office of Information Technology's webpage</a><span><span>&nbsp;</span>for help connecting a device.</span></li>
+</ul>
+<p>If you are a campus visitor:&nbsp;</p>
+<ul>
+<li><span>Register your personal devices (laptop, smartphone, etc) with the MuhlenbergGuest network.&nbsp;</span><span>Please see the&nbsp;provided&nbsp;</span><a href="https://docs.google.com/document/d/1qJLYTXLtoS7KiHnJ39quMIKQrh-HybgdQoi40atAsm8/edit?usp=sharing" target="_blank">Office of Information Technology's instructions</a>&nbsp;<span>for help connecting a device.</span></li>
+</ul>
+
+            </section>
+  </div>
+<a id="d.en.414232"></a>
+<aside><div class="inner">
+	<nav class="left-menu">
+		 <h3><a href="/library/librarytechnology/">Library Technology</a></h3>
+		    <ul class="aside-menu">
+		<a href="/library/librarytechnology/collaborationtechnology/">Collaboration Technology</a>
+
+		<a href="/library/librarytechnology/onebuttonstudio/">One Button Studio</a>
+		 
+		<a href="/library/librarytechnology/printcopyscan/">Print/Copy/Scan</a>
+
+		<a href="/library/librarytechnology/technologytoborrow/">Technology to Borrow</a>
+
+		<a href="/library/librarytechnology/filmscreenings/">Film Screenings</a>		
+
+		<a href="/library/librarytechnology/wifi-computers-software">Wireless/Computers/Software</a>
+</ul>
+	</nav></div><a id="d.en.426223"></a>
+<div class="box">
+        <p>Have a question? Call Us!</p>
+        <p class="phone"><i class="material-icons phone-icon icon24">call</i>484-664-3500</p>
+        <a href="https://www.facebook.com/muhlenbergtrexlerlibrary/" target="_blank" class="inline">
+            <i class="fab fa-facebook icons-f36"><span class="visuallyhidden"></span></i></a><a href="https://www.instagram.com/muhlenbergtrexlerlibrary" target="_blank" class="inline"><i class="fab fa-instagram icons-f36"><span class="visuallyhidden"></span></i></a>
+    </div>	
+
+</aside></div>
+<footer>
+    <div class="footer_ribbon">
+        <div class="fs-row">
+            <div class="fs-cell">
+                <div class="footer_ribbon_inner">
+                    <div class="footer_group footer_group_hat">
+                        <div class="logo logo_footer logo_icon" itemscope="" itemtype="http://schema.org/Organization">
+                            <a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+                                <span class="logo_link_label">Muhlenberg College</span>
+                                <img src="https://www.muhlenberg.edu/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo">
+                            </a>
+                        </div>
+                        <div class="footer_address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                            <a class="footer_address_link footer_address_location" href="#">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_marker">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">
+                                    <span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+                                    <span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+                                    <span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+                                    <span class="footer_address_state" itemprop="addressRegion">PA</span>
+                                    <span class="footer_address_zip" itemprop="postalCode">18104</span>
+                                </span>
+                            </a>
+                            <a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_phone">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">484-664-3100</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="footer_group footer_group_sole">
+                        <nav class="footer_nav">
+                            <ul class="footer_nav_list">
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/campus-map/">
+                                        <span class="footer_nav_link_label">Maps &amp; Directions</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/offices/oit/webresources/accessibility/">
+                                        <span class="footer_nav_link_label">Accessibility</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+
+
+                                    <a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+                                        <span class="footer_nav_link_label">Library</span>
+                                    </a>
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/equityandtitleix/">
+                                        <span class="footer_nav_link_label">Title IX</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/eventservices/">
+                                        <span class="footer_nav_link_label">Conference &amp; Event Services</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/tactical/azfind.htm">
+                                        <span class="footer_nav_link_label">A-Z Index</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="social_nav" itemscope="" itemtype="http://schema.org/Organization">
+                            <link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+                            <div class="social_nav_header">
+                                <h2 class="social_nav_title">Social</h2>
+                            </div>
+                            <div class="social_nav_list">
+                                <div class="social_nav_item facebook">
+                                    <a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_facebook">
+                                            
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Facebook</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item instagram">
+                                    <a class="social_nav_link" href="https://www.instagram.com/explore/locations/5194184/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_instagram">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Instagram</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item twitter">
+                                    <a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_twitter">
+                                          
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Twitter</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item youtube">
+                                    <a class="social_nav_link" href="https://www.youtube.com/user/muhlsid" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_youtube">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">YouTube</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item linkedin">
+                                    <a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_linkedin">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">LinkedIn</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="footer_credit">
+                    <span class="footer_credit_icon">
+                        <a class="t4Edit-page" href="https://t4.muhlenberg.edu/terminalfour/page/directEdit#edit/8/en/82623">©</a>
+                    </span>
+                    <span class="footer_credit_label">2019 Muhlenberg College</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</div>
+
+  </body>
+</html>

@@ -1,0 +1,2442 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Employee Benefits | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Employee Benefits">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/hr/">Human Resources</a></li><li class="linkitem"><a href="/offices/hr/currentemployees/">Current Employees</a></li><li class="linkitem"><a href="/offices/hr/currentemployees/employeebenefits/">Employee Benefits</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Employee Benefits</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_1">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/hr/">Human Resources</a></li><li class="linkitem"><a href="/offices/hr/currentemployees/">Current Employees</a></li><li class="linkitem"><a href="/offices/hr/currentemployees/employeebenefits/">Employee Benefits</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Employee Benefits</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Employee Benefits">
+							<span class="sub_nav_handle_label">Employee Benefits</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="https://www.capbluecross.com/" target="_blank">Capital Blue PPO (Medical)</a></li><li class="sub_nav_item"><a href="https://www.highmarkblueshield.com/home/" target="_blank">Highmark Blue Shield (Vision)</a></li><li class="sub_nav_item"><a href="https://www.unitedconcordia.com/dental-insurance/" target="_blank">United Concordia (Dental)</a></li><li class="sub_nav_item"><a href="https://www.padmin.com/" target="_blank">P&amp;A Group (Flexible Spending)</a></li><li class="sub_nav_item"><a href="http://www1.tiaa-cref.org/tcm/muhlenberg/" target="_blank">TIAA Website</a></li><li class="sub_nav_item"><a href="/offices/hr/currentemployees/employeebenefits/summaryplandescriptions/">Summary Plan Descriptions</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/hr/">Human Resources</a></li><li class="linkitem"><a href="/offices/hr/currentemployees/">Current Employees</a></li><li class="linkitem"><a href="/offices/hr/currentemployees/employeebenefits/">Employee Benefits</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p class="center"><img src="/media/contentassets/images/about/hr/header-logo-300x59.png" alt="Human resources" style="   margin : 0px auto; display: block; " /></p>
+<p><strong>Note:</strong>&nbsp;The information outlined below represents a summary only. Benefit plans &amp; other opportunities are subject to change. Specific plan documents or contracts prevail. For more information, please contact <a href="mailto:HR@muhlenberg.edu">HR@Muhlenberg.edu</a> or (484) 664-3165.&nbsp;</p>
+<p>Workday guides to assist you in updating your benefit information can be found&nbsp;<a href="https://sites.google.com/muhlenberg.edu/workdaytraining/human-resources-hcm">here</a> (please note, you will need to sign in using your OneLogin credentials).</p>
+<p><strong>Last Updated: April 12, 2022</strong></p></div>
+
+</div>
+</div>
+<!-- Topic Block -->
+						<div class="related_program_block">
+							<div class="fs-row">
+								<div class="fs-cell fs-lg-8">
+									<article class="related_program">
+										<div class="related_program_inner">
+											<div class="related_program_media" aria-hidden="true">
+												<figure class="related_program_figure">
+													<img class="related_program_image" src="/media/contentassets/images/topicrow/ReferralProgram.jpg" alt="Image for Employee Referral Program" itemprop="image" data-caption="Muhlenberg employees may earn a $1000 bonus for the referral of candidates for certain open positions.">
+												</figure>
+											</div>
+											<div class="related_program_wrapper">
+												<header class="related_program_header">
+													<span class="related_program_label">Muhlenberg Jobs</span>
+													<h2 class="related_program_title">Employee Referral Program</h2>
+												</header>
+												<div class="related_program_body">
+													<div class="related_program_description">
+														<p>Muhlenberg employees may earn a $1000 bonus for the referral of candidates for certain open positions.</p>
+													</div>
+												</div>
+												<footer class="related_program_links">
+													
+                                                  
+                                                    <a class="related_program_link" target="_blank" href="/media/contentassets/pdf/about/hr/ReferralProgram.pdf">
+														<span class="related_program_link_label">Learn More</span>
+														<span class="related_program_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+								</div>
+							</div>
+						</div>
+						<!-- END: Topic Block --><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#dental2" 
+     aria-expanded="false" 
+     aria-controls="dental2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="dental">
+      <p class="panel-title pull-left">
+          Dental Insurance
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="dental2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="dental">
+    <div class="panel-body">
+        <p><strong>Available to employees in positions budgeted for at least 1,248 hours per year:</strong></p>
+<p>The College offers<span>&nbsp;</span><a href="https://www.unitedconcordia.com/dental-insurance/">United Concordia</a>, a Dental Preferred Provider Plan, through payroll deduction.&nbsp; The College does not make a contribution to this plan.&nbsp; An open enrollment period is held from mid-November through the first of December each year.&nbsp;</p>
+<p>Plan Information:</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/Medical & Vision Grid 2022.pdf">Dental Grid (Summary & Pricing) 2022</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/United Concordia Dental Benefit Summary 2022.pdf">United Concordia Benefit Summary - 2022</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/MDB flyer w Live Chat.pdf">My Dental Benefits Information</a>&nbsp;- Information on setting up an account, using the app and&nbsp;accessing your United Concordia insurance card.</li>
+</ul>
+<p>Other Helpful Information:</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/Holiday Eating Habit.pdf">Healthy Holiday Eating Habits</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Concordia Oral Health Habits.pdf">Oral Health Habits</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Oral Wellness - Eating Habits.pdf">Oral Wellness - Eating Habits</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Children's Dental Health.pdf">Children's Dental Timeline</a></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#STD2" 
+     aria-expanded="false" 
+     aria-controls="STD2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="STD">
+      <p class="panel-title pull-left">
+          Disability Plan (Short-Term)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="STD2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="STD">
+    <div class="panel-body">
+        <p><span><strong>After 1 year of service - A<strong>vailable to employees in positions budgeted for at least 1,248 hours per year</strong>:</strong></span></p>
+<p>The Collegeâs short-term disability plan provides for replacement of all or part of income due to an employeeâs temporary disability stemming from a non-work related illness or injury.</p>
+<p>In order to receive short-term disability benefits, an eligible employee must apply for leave under the Family &amp; Medical Leave Act (FMLA) by contacting the Office of Human Resources. Short-term disability benefits will be paid on approved claims during the employeeâs FMLA leave. All short-term disability absences require a physicianâs certification, submittal of a leave application, and physicianâs clearance to return to work.&nbsp;</p>
+<p>Full-time employees receive 10 days of short-term disability upon hire and accrue five days at the start of each additional year of service, up to a maximum of 26 weeks (130 days). Note: This accrual is pro-rated to reflect annual budgeted hours for those working less than 2,080 hours per year or on an hourly basis.&nbsp;</p>
+<p>Short-term disability benefits commence on the sixth business day for approved claims (employees are required to use sick leave, if available, for the first five days.)&nbsp; Based on the duration of an approved, physician-certified absence, salary is paid at 100% of the budgeted base salary during a short-term disability absence for the number of working days (or hours) that have been accumulated in the employeeâs short-term disability leave bank. Once accumulated short-term disability time has been exhausted, the College will continue short-term disability pay at 60% of the individual's current base salary, up to a maximum of $4,000 per month (whichever is less). Short-term disability pay may not exceed 26 weeks. &nbsp;The College reserves the right to request periodic updates to the physicianâs certification of disability.</p>
+<p>Benefits (health insurance, dental insurance, life insurance, retirement contributions, etc.) may be continued during a short-term disability absence as long as the employee remains eligible under the terms of the benefit plan document. The College will continue to make the regular employer contribution for benefits as if the employee were in active service during any month in which leave is being used under the Family and Medical Leave Act (FMLA) and in which the College is continuing salary payments under the terms of the short-term disability plan. Employee contributions equal to those paid by active employees will be withheld from short-term disability checks issued by the College, while employees on unpaid FMLA will need to remit payment monthly in the amount equal to the normal payroll deduction for benefits they elect to continue.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#LTD2" 
+     aria-expanded="false" 
+     aria-controls="LTD2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="LTD">
+      <p class="panel-title pull-left">
+          Disability Plan (Long-Term)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="LTD2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="LTD">
+    <div class="panel-body">
+        <p><strong>Coverage begins on the 1st of the month following completion of 1 year of service -&nbsp;Available to employees in positions budgeted for at least 1,248 hours per year:</strong></p>
+<p>The Long-Term Disability plan of the College is an insurance plan provided by an external vendor.&nbsp; The College pays the entire long-term disability insurance premium, with no required employee contribution.</p>
+<p>If an absence is expected to continue beyond 26 weeks, application for benefits must be initiated prior to the first day of the fifth consecutive month of disability. Applications filed for long-term disability require a physicianâs certification. Eligibility for benefits is determined by the insurance company, subject to the provisions of the plan.&nbsp; Approved long-term disability claims are paid by the insurer, not the College.</p>
+<p>If a long-term disability claim is approved by the insurer, benefits begin on the first of the month following 26 weeks of total disability and continue for the duration of such disability until the attainment of age 65. However, if the disability commences after age 60, benefit continuation is governed by the terms of the policy; benefits will continue no longer than twelve months if the disability commences at age 69 and over.&nbsp; Continuation of long-term disability payments require periodic physician certification of continued disability in satisfaction of the carrier's policy guidelines. Complete details are available in the Human Resources Office.</p>
+<p>No College contributions will be made toward benefits during a long-term disability absence and all College benefits will cease upon&nbsp;conversion to long-term disability. Employees may be eligible for continuation of benefits through COBRA and/or policy conversions.&nbsp; Any questions, please contact Human Resources at ext. 3165.</p>
+<p><a href="/media/contentassets/pdf/about/hr/2020 Summary LTD Plan.pdf">Summary of Long Term Disability Plan</a></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#EAP2" 
+     aria-expanded="false" 
+     aria-controls="EAP2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="EAP">
+      <p class="panel-title pull-left">
+          Employee Assistance Program
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="EAP2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="EAP">
+    <div class="panel-body">
+        <p><strong>Employee Assistance Program - Available to employees in positions budgeted for at least 850 hours per year:<span></span><br></strong></p>
+<p>The college offers an Employee Assistance Program (EAP), which is available&nbsp;to you, your spouse, your dependents, and other family members residing with you. The EAP&nbsp;offers confidential advice, support, and practical solutions to real-life issues, including health and&nbsp;wellness, child and elder care, college planning, financial and legal resources, and more. Our plan&nbsp;offers unlimited phone consultations 365/24/7, referrals to local counselors for up to three&nbsp;sessions, free of charge, and a website with thousands of helpful articles and training courses. Click<span>&nbsp;<a class="tmpmarker"></a><a href="/media/contentassets/pdf/about/hr/EAP Flyer 2021-11-04.pdf">here</a></span><span>&nbsp;</span>for more information.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#FSA2" 
+     aria-expanded="false" 
+     aria-controls="FSA2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="FSA">
+      <p class="panel-title pull-left">
+          Flexible Spending Accounts
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="FSA2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="FSA">
+    <div class="panel-body">
+        <p><strong>Available to employees in positions budgeted for at least 1,248 hours per year:<span></span><br></strong></p>
+<p>The College offers Flexible Spending Accounts (FSA), a tax-advantaged way to pay for certain healthcare and/or dependent care expenses.&nbsp; By setting aside pre-tax dollars in an FSA for these expenses, you save on taxes and end up with higher take-home pay.&nbsp;</p>
+<p>P&amp;A Group is&nbsp;our provider for&nbsp;Flexible Spending Accounts. Visit P&amp;A group at&nbsp;<a href="http://www.padmin.com/">www.padmin.com</a>&nbsp;for more information about submitting claims, your Flex Spending Card or with any other questions you may have.&nbsp;Click&nbsp;<a href="https://www.padmin.com/employee-participants/benefit-programs/tools-and-resources/fsa-eligible-expenses/index.php3">here</a><span>&nbsp;</span>for P&amp;A's FSA eligibility list.</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/FSA Brochure Compressed.pdf">FSA Brochure</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/How To Log Into Your P&A Account.pdf">How to Log Into Your P&A FSA Account</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Muhlenberg College FSA Cheat Sheet 2022.pdf">Muhlenberg College FSA Cheat Sheet</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/P&A Mobile App Information.pdf">P&A Mobile App Information</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/FSA Upload a Claim Instructions.pdf">FSA Instructions to Upload a Claim</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/FSA How To Enroll in Direct Deposit.pdf">FSA How To Enroll in Direct Deposit</a></li>
+<li><a href="https://padmin.com/tools/fsa-calculator/">P&amp;A FSA Calculator</a>&nbsp;-&nbsp;Click here to see an approximate tax savings when enrolled in our FSA.</li>
+<li><a href="https://www.youtube.com/watch?v=pD4-sKTfsRc&amp;list=PLd9vlJ8RemPiTMhMR0ulztvM8xCKH15qB">Penny Panda Video</a>&nbsp;- Click here to visit P&amp;A's youtube channel where a number of video tutorials are available.</li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#medical2" 
+     aria-expanded="false" 
+     aria-controls="medical2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="medical">
+      <p class="panel-title pull-left">
+          Health Insurance
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="medical2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="medical">
+    <div class="panel-body">
+        <p><strong>Available to employees working in positions budgeted for at least 1,248 hours per year:</strong></p>
+<p>Muhlenberg offers a robust, comprehensive health insurance plan to eligible employees. Coverage will begin on the 1st day of the month following date of hire unless your date of hire coincides with the 1st business day of the month.&nbsp;</p>
+<p>Our health plan provider is Capital BlueCross PPO. Capital BlueCross offers an extensive network of providers and robust coverage for your medical and prescription needs. Vision benefits are&nbsp; offered as a seperate plan.</p>
+<p>Plan Information:</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/Capital BlueCross Certificate of Coverage 2021 Minimized.pdf">Capital BlueCross Certificate of Coverage 2021</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Capital Blue Benefit Summary 2022.pdf">Capital BlueCross Summary of Benefits 2022</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Capital Blue SBC (Summary Benefits & Coverage) 2022.pdf">Capital BlueCross Summary of Benefits & Coverage 2022</a></li>
+</ul>
+<p>Other Helpful Information:</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/Capital BlueCross Preventative Care Information.pdf">Capital BlueCross Preventative Care Information</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Captial Blue Corss Preauthorization Program (2022).pdf">Capital Blue Cross Preauthorization Program (2022)</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Capital Blue Cross Preventive Schedule (2022).pdf">Preventative Schedule (2022)</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Capital BlueCross Join Blue365 Flyer (2021).pdf">Capital BlueCross Blue365 Member Benefits</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/NURSE LINE INFO.pdf">Capital BlueCross Nurse Line Information</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Capital BlueCross MyCare Finder Flyer without MyCare Rewards (2021).pdf">Capital BlueCross MyCare Finder</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Capital Blue Cross Virtual Care Information.pdf">Capital BlueCross Virtual Care Information</a></li>
+</ul>
+<p>Magellan RX is our prescription provider. If you need Pharmacy Customer Assistance, please call 1-800-424-0472. For website support, please call 1-800-424-5878.</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/MRxPrecisionFormulary_PrintableList_2021.pdf">Magellan RX Formulary Printable List</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/MRxPrecisionFormulary_ExclusionsList_2021.pdf">Magellan RX Formulary Exclusions List</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/2021 Home Delivery Member Overview_MRX1019_1020 (1).pdf">Magellan RX Home Delivery Overview 2021</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Member Portal Guide_MRX1025_1020 (1).pdf">Magellan RX Member Portal Guide</a></li>
+</ul>
+<p>You may make changes to your health insurance plan when a qualifying event takes place (i.e. marriage, birth of a child, divorce, change in spouse's employment status, etc.), and/or during the annual open enrollment period, which typically runs in the November time frame, with changes taking effect January 1.</p>
+<p>(<a href="/media/contentassets/pdf/about/hr/Muhlenberg Medicare Part D Creditable Coverage Disclosure Notice 2021.pdf">Medicare Part D Creditable Coverage Notice 2021</a>)</p>
+<p>You may choose to cover just yourself or you may add your spouse and/or eligible dependents to your health insurance coverage. &nbsp;The College pays approximately 80% of the premium each month. The remaining 20% of the cost of coverage is deducted from your paycheck on a pre-tax basis so that this portion of your income is not subject to federal income tax or social security tax.&nbsp; If your spouse is eligible for medical coverage elsewhere, either through their own employer or Medicare, we encourage your spouse to enroll in that coverage. You may add your spouse who is eligible for their own employerâs coverage (or eligible for Medicare) to your health insurance by paying a spousal surcharge. To request a waiver of this surcharge, complete the Request for Waiver of Spousal Surcharge form, listed below.</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/Medical & Vision Grid 2022.pdf">Medical/Vision Grid (Summary and Pricing) 2022</a></li>
+<li><a href="/media/contentassets/pdf/about/hr/Request for Waiver of Spousal Surcharge 2022-1.pdf">Request for Waiver of Spousal Surcharge 2022</a></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#holidays2" 
+     aria-expanded="false" 
+     aria-controls="holidays2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="holidays">
+      <p class="panel-title pull-left">
+          Holidays
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="holidays2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="holidays">
+    <div class="panel-body">
+        <p><strong>Available to employees working in positions budgeted for at least 850 hours per year:</strong>&nbsp;</p>
+<p><strong>College offices are closed in observance of the following holidays:</strong></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Holiday</strong></p>
+</td>
+<td width="205">
+<p><strong>Date Observed</strong></p>
+</td>
+</tr>
+<tr>
+<td width="292">
+<p>New Year's Day 2022</p>
+</td>
+<td width="205">
+<p>January 3, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Good Friday</p>
+</td>
+<td width="205">
+<p>April 15, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Memorial Day</p>
+</td>
+<td width="205">
+<p>May 30, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Juneteenth</p>
+</td>
+<td width="205">
+<p>June 20, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Independence Day</p>
+</td>
+<td width="205">
+<p>July 4, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Thanksgiving Day</p>
+</td>
+<td width="205">
+<p>November 24, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Thanksgiving Friday</p>
+</td>
+<td width="205">
+<p>November 25, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Winter Break Holiday</p>
+</td>
+<td width="205">
+<p>December 26, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Winter Break Holiday</p>
+</td>
+<td width="205">
+<p>December 27, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Winter Break Holiday</p>
+</td>
+<td width="205">
+<p>December 28, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Winter Break Holiday</p>
+</td>
+<td width="205">
+<p>December 29, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Winter Break Holiday</p>
+</td>
+<td width="205">
+<p>December 30, 2022</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>New Yearâs Day 2023</p>
+</td>
+<td width="205">
+<p>January 2, 2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>Limited office coverage is provided on other holidays (see department-specific list below). As a result, some offices may be open on a particular holiday while other offices are closed. Holidays that fall into this category include:</p>
+<table style="height: 127px; width: 513px;">
+<tbody>
+<tr>
+<td width="188">
+<p>Martin Luther King Jr. Day*</p>
+</td>
+<td width="178">
+<p>January 17, 2022</p>
+</td>
+</tr>
+<tr>
+<td width="188">
+<p>Easter Monday*</p>
+</td>
+<td width="178">
+<p>April 18, 2022</p>
+</td>
+</tr>
+<tr>
+<td width="188">
+<p>Labor Day**</p>
+</td>
+<td width="178">
+<p>September 5, 2022</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*Martin Luther King Jr. Day &amp; Easter Monday</strong>: If your office is open on both of these holidays and you are required to work both days, you will be given a total of one floating holiday to be used in the same calendar year. If your office is closed on either of these days, you will record the time off as a floating holiday and will not be eligible for a second floating holiday. NOTE: Floating holidays must be used in the calendar year in which they are earned or will be forfeited at year-end.</p>
+<p><strong>**Labor Day</strong>: If your office is open on Labor Day and you are required to work, you will be given one floating holiday to be used in the same calendar year. If your office is closed on Labor Day, you will record the time off as a floating holiday. NOTE: Floating holidays must be used in the calendar year in which they are earned or will be forfeited at year-end.</p>
+<p>Offices listed below are expected to be open for business on the holidays indicated. Senior Staff/management will determine staffing coverage specific to their departments, as needed.</p>
+<table width="659">
+<tbody>
+<tr>
+<td width="272">
+<p><strong>Office</strong></p>
+</td>
+<td width="118">
+<p style="text-align: center;"><strong>Martin Luther King Jr. Day</strong></p>
+</td>
+<td style="text-align: center;" width="130">
+<p><strong>Easter Monday</strong></p>
+</td>
+<td width="129">
+<p style="text-align: center;"><strong>Labor Day</strong></p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Academic Departments</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td width="130">
+<p style="text-align: center;">Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Academic Resources &amp; Disability Services</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Admissions</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td width="130">
+<p style="text-align: center;">Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Advancement</p>
+</td>
+<td width="118">
+<p style="text-align: center;">&nbsp;Closed</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>&nbsp;Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Art Gallery</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Closed: Sunday, Monday, Tuesday</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed: Sunday, Monday, Tuesday</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed: Sunday, Monday, Tuesday</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Bookstore</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Business Office</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Campus Safety</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Career Center</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Chapel</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Communications</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Copy Center</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Counseling Services</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Dean of Students</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Financial Aid</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Human Resources</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Life Sports Center</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Mail Room</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Media Services</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Office of Information Technology</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Plant Operations</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>President's Office</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Provost's Office</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Purchasing</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Closed</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Registrar</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Residential Services</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Seegers Union</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Student Health Services</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Graduate &amp; Continuing Education (GCE)</p>
+<p>&nbsp;</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Closed<br> <em>(Open if classes <br> are in session)</em></p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Treasurer</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Closed</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Closed</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Trexler Library</p>
+</td>
+<td width="118">
+<p style="text-align: center;">Open</p>
+</td>
+<td style="text-align: center;" width="130">
+<p>Open 6 pm - 1 am</p>
+</td>
+<td width="129">
+<p style="text-align: center;">Open</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#life-LTD2" 
+     aria-expanded="false" 
+     aria-controls="life-LTD2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="life-LTD">
+      <p class="panel-title pull-left">
+          Life Insurance
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="life-LTD2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="life-LTD">
+    <div class="panel-body">
+        <p class="content-add05"><strong>Coverage begins on the 1st of the month following completion of 1 year of&nbsp;service - Available to employees in positions budgeted for at least 1,248 hours per year:</strong></p>
+<p>I. <span style="text-decoration: underline;">Group Life Insurance</span>: During active employment, eligible employees are covered for group term life insurance, up to a maximum of $75,000, using this schedule:</p>
+<blockquote>
+<p>Up to Age 40 - 2.50 times salary</p>
+<p>Age 40 to 49 - 2.00 times salary</p>
+<p>Age 50 to 59 - 1.34 times salary</p>
+<p>Age 60 to 69 - 0.90 times salary</p>
+<p>Age 70 and over - 0.67 times salary</p>
+</blockquote>
+<p>Premiums are paid by the College. Immediate participation may be arranged for those new employees who present evidence of similar coverage by their previous employer within 90 days prior to hire at Muhlenberg.&nbsp; The cost of the life insurance benefit provided above $50,000 is considered a taxable benefit by the Internal Revenue Service. For more information, please review the&nbsp;<a href="/media/contentassets/pdf/about/hr/2020 Summary Plan Group Life Insurance - Class 1.pdf">Summary of Group Life Insurance Plan</a>.</p>
+<p>II. <span style="text-decoration: underline;">Optional Life Insurance</span>: After meeting eligibility requirements, as part of a one-time âguaranteed issueâ enrollment window, newly eligible employees may elect to enroll in Optional Life Insurance (with or without Accidental Death &amp; Dismemberment coverage) for yourself, your spouse and/or your dependent children. Newly eligible employees will have 30 days to elect up to $250,000 in optional life coverage and up to $50,000 in optional spouse coverage without providing evidence of insurability. Thereafter, any employee who chooses not to enroll during the guaranteed issue enrollment window, will be limited to benefit elections of no more than $20,000 (employee coverage) and $10,000 (spouse coverage) during the annual open enrollment period. Any coverage requested above these amounts will require evidence of insurability.<span>&nbsp;</span><strong><em>Note</em></strong><em>: To elect spousal life insurance, the employee must also elect employee coverage.</em>&nbsp; Premiums vary based on age and coverage amounts. For more information, please review the <a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=66995e5d93e8e7ace4dd24947c7d138c245cd907">Summary of Optional Life &amp; AD&amp;D Plan</a>.<br><a class="tmpmarker"></a></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#lsc2" 
+     aria-expanded="false" 
+     aria-controls="lsc2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="lsc">
+      <p class="panel-title pull-left">
+          Life Sports Center Membership
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="lsc2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="lsc">
+    <div class="panel-body">
+        <p>Employees enjoy&nbsp;full access to the Life Sports Center, including a&nbsp;<span>free weights facility, expanded cardio-fitness area, swimming pool, basketball courts, indoor track,</span>&nbsp;and more.&nbsp;</p>
+<ul>
+<li><a href="https://muhlenbergsports.com/sports/2014/12/12/facilities.aspx?path=facilities_">Life Sports Facilities</a></li>
+<li><a href="https://muhlenbergsports.com/sports/2014/12/12/LSC%20tower.aspx">Life Sports Center Policies</a></li>
+<li><a href="https://form.jotform.com/220755912621049">Application for LSC Membership</a></li>
+</ul>
+<p>Please contact the Life Sports Center team if you have any questions: 484-664-3379 or&nbsp;<a href="mailto:nicolelandis@muhlenberg.edu">nicolelandis@muhlenberg.edu</a>.</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#parental2" 
+     aria-expanded="false" 
+     aria-controls="parental2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="parental">
+      <p class="panel-title pull-left">
+          Parental Leave
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="parental2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="parental">
+    <div class="panel-body">
+        <p style="text-align: left;" align="right"><strong>After 1 year of employment - minimum of 1,248 budgeted hours per year:</strong></p>
+<p>Following the birth or adoption of a child, parents are eligible for leave under the Family Medical Leave Act (FMLA) to be home with their new family member.&nbsp; Family Medical Leave is available for 12 weeks, and is unpaid. At the parentâs request, the College will provide full pay for up to four weeks of an approved parental FMLA absence as a Parental Leave benefit. Full-time faculty may choose a one course reduction in lieu of paid time off, if desired.&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#pslf2" 
+     aria-expanded="false" 
+     aria-controls="pslf2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="pslf">
+      <p class="panel-title pull-left">
+          Public Service Loan Forgiveness Program
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="pslf2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="pslf">
+    <div class="panel-body">
+        <p><strong>Public Service Loan Forgiveness Program (PSLF):</strong></p>
+<p><em>Note</em>: This is not a College benefit. The following is provided for information purposes only: Do you have federal direct student loans? Muhlenberg College is a tax-exempt employer under Section 501(c)(3) of the Internal Revenue Code (IRC), which means the College is a qualifying employer under PSLF. Under this Program, if you work for the College in a position budgeted for at least 1,560 hours per year, you<span>&nbsp;</span><span>may</span><span>&nbsp;</span>be eligible to participate in PSLF. If you qualify, the Program forgives the remaining balance on your eligible Direct Loans after you have made 120 qualifying monthly payments under a qualifying repayment plan while working full-time for Muhlenberg College.</p>
+<p>Only certain types of student loans are eligible. For information on which loans qualify, eligibility details on the program, and how to begin, please visit the<span>&nbsp;</span><a href="https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service">Public Service Loan Forgiveness Program (PSLF)</a>.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#retirement2" 
+     aria-expanded="false" 
+     aria-controls="retirement2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="retirement">
+      <p class="panel-title pull-left">
+          Retirement Plan
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="retirement2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="retirement">
+    <div class="panel-body">
+        <p><strong>Available to employees working in positions budgeted for at least 1000 hours per year:</strong></p>
+<p>The College offers a 403(b) retirement plan admininstered by<span>&nbsp;</span><a href="https://www.tiaa.org/public/">TIAA</a>. Click <a href="/media/contentassets/pdf/about/hr/TIAA Summary Plan Description 2022.pdf">TIAA Summary Plan Description</a> for the summary plan description.<span></span></p>
+<p><span style="text-decoration: underline;">Employee Contribution</span>: Employees working in positions budgeted for a minimum of 1,000 hours per year are eligible to contribute to the College's Supplemental Retirement Plan (SRA) immediately upon hire. Employees may contribute through pre-tax payroll deductions, up to the maximum IRS annual limits. Effective September 1, 2021, all new employees who are eligible to contribute to the Plan will be automatically enrolled to contribute 3% of base compensation on a pre-tax basis. This contribution will be invested in a&nbsp;<a href="https://www.tiaa.org/public/retire/financial-products/target-date-funds">Lifecycle Target Date Fund</a><span>&nbsp;</span>unless moved to another fund or funds by the employee. Employees are encouraged to contribute more than the minimum contribution, if possible, because every dollar makes a difference. Any new employee who wishes to opt out of auto-enrollment may do so by contacting<span>&nbsp;</span><a href="https://www.muhlenberg.edu/offices/hr/">Human Resources</a>.</p>
+<p><span><span style="text-decoration: underline;">Employer Contribution</span> (After 2 years of employment - minimum 1,000 budgeted hours/year)</span>: The College contributes to the&nbsp; retirement plan following completion of the waiting period of two consecutive years (at 1,000 budgeted hours each&nbsp;year). This waiting period&nbsp;may be waived if your previous employer contributed to a fully vested retirement plan on your behalf within 90 days of your first day of employment at Muhlenberg.&nbsp; Effective September 1, 2020, the College's retirement contribution decreased from 10% to 4% in response to the economic impact of COVID-19. Effective September 1, 2021, the College's retirement contribution increased from 4% to 5% of base salary, up to the current Social Security wage base, and 9% of any salary beyond that base.</p>
+<p>Contact Human Resources at&nbsp;<span>&nbsp;</span><a href="mailto:HR@Muhlenberg.edu">HR@Muhlenberg.edu</a>&nbsp;or ext. 3165 for information regarding individual appointments with&nbsp;a TIAA representative.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#sick2" 
+     aria-expanded="false" 
+     aria-controls="sick2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="sick">
+      <p class="panel-title pull-left">
+          Sick Leave
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="sick2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="sick">
+    <div class="panel-body">
+        <p><strong>Available to employees working in positions budgeted for at least 850 hours per year:</strong></p>
+<p>Employees accumulate ten days (pro-rated based on annual budgeted hours) of sick time annually. The sick bank provides full pay during occasional brief absences due to an employee's illness or injury. Sick bank accumulation is capped at twenty days. Employees who are eligible for the short-term disability plan may roll a maximum of five days of unused annual sick leave accumulation into their short-term disability bank each year.&nbsp;</p>
+<p><strong>***Temporary Expansion of Sick-Leave Benefits, Effective March 12, 2020:<span>&nbsp;</span></strong>Employees who need to stay home to care for a family member due to COVID-19 concerns or reasons such as school/daycare closings, and are unable to work remotely, may use time from their sick leave bank. If sick leave has been exhausted, you may request an advancement of up to 10 additional days by contacting Human Resources. Absences for those not eligible for paid sick leave will be addressed on a case-by-case basis.&nbsp;<span>&nbsp;</span>This is a temporary expansion to policy in response to the COVID-19 pandemic and will end on June 30, 2022 for non-exempt staff and August 31, 2022 for exempt employees. Normally, sick leave may only be used for the employeeâs own illness or injury.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#tuition2" 
+     aria-expanded="false" 
+     aria-controls="tuition2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="tuition">
+      <p class="panel-title pull-left">
+          Tuition Programs
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="tuition2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="tuition">
+    <div class="panel-body">
+        <p><strong>After 1 year of employment -&nbsp;<strong>Available to employees in positions budgeted for at least 1,248 hours per year:</strong></strong></p>
+<h3>SECTION I.<span>&nbsp;</span><span>UNDERGRADUATE TUITION</span>:</h3>
+<p><strong><em>&nbsp; &nbsp;I) Undergraduate Tuition Remission Program for dependent children at Muhlenberg College</em>:</strong><span>&nbsp;</span>For dependents of eligible employees, full undergraduate tuition scholarships are available to dependents accepted for admission to Muhlenberg College.&nbsp;For more information, review Section I of the&nbsp;<a href="/media/contentassets/pdf/about/hr/Undergradate Tuition Scholarship Programs 2021-05-05.pdf">Undergraduate Tuition Scholarship Programs</a>&nbsp;and complete the<span>&nbsp;<a href="/media/contentassets/pdf/about/hr/Tuition Request Form Undergrad 2021.pdf">Tuition Remission Form - Undergraduate Studies</a></span><span>&nbsp;</span>form to submit your request for dependent tuition remission.</p>
+<p><strong><em>&nbsp; &nbsp;2) Tuition Exchange Scholarship Program for dependent children at other institutions</em></strong>:&nbsp; Eligible dependent children may apply for consideration of undergraduate scholarships through Tuition Exchange. Certification of eligibility by Muhlenberg allows dependent children to compete for generous scholarship awards (minimum $40,000 for academic year 2022-2023) at more than 700 institutions. Decisions on scholarship awards are not made by Muhlenberg College (the "export" school); they are made by the institution your child applies to (the "import" school). Please visit the&nbsp;<a href="https://www.tuitionexchange.org/">Tuition Exchange</a><span>&nbsp;</span>site for a list of participating schools and application requirements. More information is available through Human Resources and you may also click&nbsp;<a href="/media/contentassets/pdf/about/hr/Tuition Scholarship Plan.pdf">Tuition Scholarship Plan</a><span>&nbsp;</span>to review additional details on the TE Scholarship Program.&nbsp;</p>
+<p><strong><em>&nbsp;&nbsp; 3) Undergraduate Tuition Remission for employees and their spouses at Muhlenberg College</em></strong>:Full tuition scholarships are available at Muhlenberg for eligible employees and their spouses for a maximum of 2 courses per semester, on a space available basis. For more information, review Section II of the<span>&nbsp;</span><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/hr/Undergradate%20Tuition%20Scholarship%20Programs%202021-05-05.pdf"></a><a href="/media/contentassets/pdf/about/hr/Undergradate Tuition Scholarship Programs 2021-05-05.pdf">Undergraduate Tuition Scholarship Programs</a>&nbsp;and complete the to submit your request for Employee &amp; Spouse undergraduate tuition requests.</p>
+<p><strong><em>&nbsp;&nbsp; 4) Undergraduate Tuition Remission for employees and their spouses at LVAIC Institutions</em></strong>: As an alternative to Muhlenberg tuition remission, you and your spouse are eligible for cross-registration of up to 2 undergraduate courses per term through the LVAIC Cross Registration program, tuition free, on a space available basis at any of the LVAIC member institutions (Lehigh University, Lafayette College, Cedar Crest College, DeSales University and Moravian College). Click&nbsp;<a href="/media/contentassets/pdf/about/hr/LVAIC Cross Registration Policy for Employees & Spouses.pdf">LVAIC Cross Registration Policy for Employees & Spouses</a><span>&nbsp;</span>for the LVAIC Cross Registration Policy and<span>&nbsp;<a href="/media/contentassets/pdf/about/hr/LVAIC CROSS REGISTRATION EMPLOYEE FORM 6-19.pdf">LVAIC Cross Registration Form</a></span>&nbsp;for the LVAIC Cross Registration Form.</p>
+<h3>SECTION II.<span>&nbsp;</span><span>GRADUATE TUITION ASSISTANCE PROGRAM</span>:</h3>
+<p>We're thrilled to introduce a graduate tuition assistance program for faculty and staff. Please click&nbsp;<a href="/media/contentassets/pdf/about/hr/Graduate Tuition Assistance Program-1.pdf">Tuition Assistance - Graduate Programs</a>&nbsp;to review program eligibility and information on how to apply. Click&nbsp;<a href="/media/contentassets/pdf/about/hr/Tuition Request Form Grad Programs 2021.pdf">Tuition Remission Form - Graduate Studies</a><span>&nbsp;</span>for the Tuition Remission Form for Graduate Studies.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#worklife2" 
+     aria-expanded="false" 
+     aria-controls="worklife2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="worklife">
+      <p class="panel-title pull-left">
+          Work Life Balance
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="worklife2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="worklife">
+    <div class="panel-body">
+        <p style="text-align: left;" align="right">The College&nbsp;offers flexible working practices<span>&nbsp;to help find meaningful balance between professional and personal lives.&nbsp;</span></p>
+<ul>
+<li style="text-align: left;"><span></span><span><a href="/media/contentassets/pdf/about/hr/Flextime Policy 2021-07-09 FINAL.pdf">Flextime Policy</a>&nbsp;</span>- After 6 months of employment - minimum 1,820 budgeted hours per year.</li>
+<li><span><a href="/media/contentassets/pdf/about/hr/Telework Policy 2021-07-09 FINAL.pdf">Telework Policy</a>&nbsp;</span>- After 6 months of employment - minimum 1,560 budgeted hours per year.</li>
+</ul>
+<p>Absent&nbsp;an emergency, employees are encouraged to be respectful of one another's time, taking advantage of the "Schedule Send" feature to&nbsp;schedule delivery of&nbsp;emails during standard business hours, and limiting after-hours calls, texts, and other communciations, wherever possible.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#vacation2" 
+     aria-expanded="false" 
+     aria-controls="vacation2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="vacation">
+      <p class="panel-title pull-left">
+          Vacation
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="vacation2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="vacation">
+    <div class="panel-body">
+        <p><strong>Available to&nbsp;Staff working in positions budgeted for at least 850 hours per year:</strong><span>&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><strong>I.&nbsp;</strong><span style="text-decoration: underline;"><strong>STAFF ASSOCIATES &amp; SERVICE PERSONNEL</strong></span>: Non-exempt Staff paid on a biweekly basis earn vacation, as follows:</p>
+<p><em>CURRENT VACATION ACCRUAL POLICY - EXPIRING 6/30/22:</em></p>
+<ul>
+<li>Less than&nbsp;4&nbsp;years of service: 10 days per year</li>
+<li>4 - 8 years of service: 15 days per year</li>
+<li>9+ years of service: 20 days per year</li>
+</ul>
+<p><em>NEW VACATION ACCRUAL POLICY - EFFECTIVE 7/1/22:</em></p>
+<ul>
+<li>Less than 5&nbsp;years of service: 15 days per year</li>
+<li>5+&nbsp;years of service: 22&nbsp;days per year</li>
+</ul>
+<p>The amount of vacation charged is based on&nbsp;the staff member's average work day in accordance with the position's annual&nbsp;budgeted hours. For example:</p>
+<ul>
+<li>A part-time staff member who normally works&nbsp;4 hours a day in a position budgeted for 1000 hours per year, would charge 4&nbsp;hours to vacation. (50% of the full-time equivalent)&nbsp;</li>
+<li><span><span>A&nbsp;full-time staff member who normally works 7 hours a day in a position budgeted for&nbsp;1820 hours per year, would charge&nbsp;7 hours per day to vacation. (87.5% of the full-time equivalent)</span></span></li>
+<li>A&nbsp;full-time staff member who normally works 8 hours a day in a position budgeted for 2080 hours per year, would charge 8 hours per day to vacation. (100% full-time)</li>
+</ul>
+<p><span>As always, requests for vacation leave require your managerâs pre- approval.</span></p>
+<p>Accumulation of vacation leave for staff associates and service personnel runs from July 1 of one year through June 30 of the next year. Carryover each July 1 is capped at the amount of vacation time earned in the preceding 12 months plus 10 additional days. For example, a staff member earning 15&nbsp;days of vacation per year may carry-over a maximum of 25 days&nbsp;vacation into the next year.</p>
+<p>&nbsp;</p>
+<p><strong>II. <span style="text-decoration: underline;">EXEMPT STAFF</span></strong>: Exempt Staff paid on a monthly basis earn vacation each year from September 1 through August 31, up to a maximum of 22 days per year (pro-rated for those working less than 2,080 hours per year). A maximum of fifteen&nbsp;vacation days may be carried forward into the next year.</p>
+<p>As always, requests for vacation leave require your managerâs pre- approval.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#vision2" 
+     aria-expanded="false" 
+     aria-controls="vision2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="vision">
+      <p class="panel-title pull-left">
+          Vision Benefits
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="vision2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="vision">
+    <div class="panel-body">
+        <p><strong>Available to employees in positions budgeted for at least 1,248 hours per year:</strong></p>
+<p>Vision Benefits are administered by Highmark/Davis Vision.&nbsp; Click&nbsp;<a href="https://idoc.davisvision.com/DavisVision.Member/FindAProvider/Index">here</a><span>&nbsp;</span>to go to Davis Vision's website to find a participating provider.</p>
+<ul>
+<li><a href="/media/contentassets/pdf/about/hr/2020 Highmark Vision Benefits Grid.pdf">Highmark Vision Benefits Grid</a></li>
+<li><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/hr/highmark_vision_claim_form.pdf">Vision Claim Form</a></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#other2" 
+     aria-expanded="false" 
+     aria-controls="other2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="other">
+      <p class="panel-title pull-left">
+          Other Benefits & Opportunities
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="other2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="other">
+    <div class="panel-body">
+        <ul>
+<li><a href="https://bergbookshop.com/home">Berg Bookshop</a>&nbsp;- Employees save 10% on most bookstore items.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Bereavement Leave</strong> - When a death occurs in your family, you may receive time off with pay as outlined&nbsp;below:&nbsp;
+<div class="page" title="Page 22">
+<div class="layoutArea">
+<div class="column">
+<p><span>-Loss of spouse, child or parent: 4 days<br>-Loss of brother or sister: 3 days<br>-Loss of an aunt, uncle, grandparent or grandchild: 2 days<br>-Loss of father-, mother-, brother-, sister-, son-, daughter- or grandparent-in-law: 1 day</span></p>
+</div>
+</div>
+</div>
+</li>
+<li><a href="https://www.muhlenberg.edu/offices/hr/currentemployees/discountperks/">Discounts &amp; Perks</a>&nbsp;- Click here to check out other programs available to Muhlenberg employees.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://trexler.muhlenberg.edu/">Library Privileges</a>&nbsp;- Employees enjoy full access to Muhlenberg's Trexler Library.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><a href="http://muhlenbergsports.com/sports/2014/12/12/facilities.aspx?path=facilities_">Life Sports Center privileges</a>&nbsp;- Employees enjoy&nbsp;full access to the Life Sports Center, including a&nbsp;<span>free weights facility, expanded cardio-fitness area, swimming pool, basketball courts, indoor track,</span>&nbsp;and more.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://muhlenberg.omnigo.one/CESIReportExec/OPR/OPRMain.aspx?IsAuth=1&amp;groupid=104&amp;groupname=CAMPUS+SAFETY%2fPOLICE">Vehicle Registration</a>&nbsp;-&nbsp;Employees&nbsp;have access to free parking on campus.&nbsp; Online&nbsp;vehicle registration is required. For more information, visit the&nbsp;<a href="https://www.muhlenberg.edu/offices/campus-safety/parking/">Campus Safety - Parking</a> page.</li>
+</ul>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

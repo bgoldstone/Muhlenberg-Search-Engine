@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <title>Apply to Muhlenberg College School of Graduate Studies</title>
+
+  <!-- Meta Tags -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Config Values -->
+    <meta name="assetPathLocal" content="https://admiss.info/assets/lp-dev/1284-muh-g-dev/">
+  <meta name="trackingString" content="utm_campaign=eab_AM21&utm_source=LP&utm_medium=web_link&">
+  <meta name="lpCode" content="APP">
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer', 'GTM-P3TG96V');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Favicon -->
+	<link href="https://admiss.info/assets/lp-live/1284-muh-g-live/mc-favicon.ico" rel="shortcut icon">
+
+  <!-- Fancybox Default Styles -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css">
+
+  <!-- School Styles -->
+  <link href="https://admiss.info/assets/lp-live/1284-muh-g-live/style-apply.css" rel="stylesheet" togglelocal="true">
+  
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+<script src="https://go.muhlenberg-graduate.org/mtc.js" async data-source="mautic"></script>
+<script data-source="mautic">
+disable_notification = true;
+</script>
+
+</head>
+
+<body class="lp-type-apply">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3TG96V" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!--[if lte IE 9]>
+  <div style="background:yellow;color:black;padding:0.5em;text-align:center;">You are using an outdated browser. <a href="http://browsehappy.com/" style="color:blue;text-decoration:underline;">Upgrade your browser today</a> to better experience this site.</div>
+  <![endif]-->
+
+  <div class="page-wrap">
+
+    <header fr-original-class="school-header" fr-original-style="display: block;" style="display: block; box-sizing: border-box;"><div fr-original-class="center" style="box-sizing: border-box;"><div fr-original-class="school-name-wrap" style="box-sizing: border-box;"><div fr-original-class="logo-container" style="box-sizing: border-box;"><h1 fr-original-class="school-logo" fr-original-style="font-size: 2em; margin: 0.67em 0px;" style="font-size: 2em; margin: 0.67em 0px; box-sizing: border-box; font-family: inherit; font-weight: 400; line-height: 1.2; color: inherit;">Muhlenberg College School of Graduate Studies</h1></div></div></div></header>
+
+    <main role="main" class="lp-main page-main">
+
+      <section class="lp-apply">
+        <div class="slide1"></div>
+            <div class="slide2"></div>
+            <div class="slide3"></div>
+            <div class="slide4"></div>
+          <div class="center lp-apply-wrapper">
+            <div class="lp-apply-content">
+              <div class="lp-apply-copy">
+                <h2 class="lp-apply-title">Apply today!
+                </h2>
+                <p>We encourage you to apply to Muhlenberg College School of Graduate Studies today. When you do, you'll be given special advantages, including:
+                </p>
+                <ul>
+                  <li>
+                    <strong>An admissions interview decision in just one week
+                      <br>
+                    </strong>
+                  </li>
+                  <li>
+                    <strong>A waived application fee 
+                    </strong>
+                  </li>
+                  <li><strong>No GRE or GMAT scores required</strong></li>
+                </ul>
+              </div>
+              <div class="apply-form lp-apply-form">
+                
+<script type="text/javascript">
+    /** This section is only needed once per page if manually copying **/
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var head            = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'https://go.muhlenberg-graduate.org/mautic/media/js/mautic-form.js?v96c909e1';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        head.appendChild(script);
+        var MauticDomain = 'https://go.muhlenberg-graduate.org';
+        var MauticLang   = {
+            'submittingMessage': "Please wait..."
+        }
+    }else if (typeof MauticSDK != 'undefined') {
+        MauticSDK.onLoad();
+    }
+</script>
+
+
+
+<style type="text/css" scoped>
+    .mauticform-field-hidden { display:none }
+</style>
+
+<div id="mauticform_wrapper_applyformformapp" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="https://go.muhlenberg-graduate.org/form/submit?formId=15" id="mauticform_applyformformapp" data-mautic-form="applyformformapp" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_applyformformapp_error"></div>
+        <div class="mauticform-message" id="mauticform_applyformformapp_message"></div>
+        <div class="mauticform-innerform">
+            
+          <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+            <div id="mauticform_applyformformapp_email_address" data-validate="email_address" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_applyformformapp_email_address" for="mauticform_input_applyformformapp_email_address" class="mauticform-label">Email Address</label>
+                <input id="mauticform_input_applyformformapp_email_address" name="mauticform[email_address]" value="" placeholder="Email Address" class="mauticform-input" type="email">
+                <span class="mauticform-errormsg" style="display: none;">A valid email address is required. For example: address@yourdomain.com</span>
+            </div>
+
+                <input id="mauticform_input_applyformformapp_attribution_campaign" name="mauticform[attribution_campaign]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_applyformformapp_attribution_source" name="mauticform[attribution_source]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_applyformformapp_attribution_medium" name="mauticform[attribution_medium]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_applyformformapp_attribution_content" name="mauticform[attribution_content]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_applyformformapp_attribution_term" name="mauticform[attribution_term]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_applyformformapp_attribution_segment" name="mauticform[attribution_segment]" value="" class="mauticform-hidden" type="hidden">
+            <div id="mauticform_applyformformapp_qstn_hp_field" class="mauticform-row mauticform-text mauticform-field-8">
+                <label id="mauticform_label_applyformformapp_qstn_hp_field" for="mauticform_input_applyformformapp_qstn_hp_field" class="mauticform-label">Preferred Name</label>
+                <input id="mauticform_input_applyformformapp_qstn_hp_field" name="mauticform[qstn_hp_field]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
+
+            <div id="mauticform_applyformformapp_hp_css" class="mauticform-row mauticform-freehtml mauticform-field-9">
+                <h3 id="mauticform_label_applyformformapp_hp_css" for="mauticform_input_applyformformapp_hp_css" class="mauticform-label">
+                    Honeypot CSS
+                </h3>
+                <div id="mauticform_input_applyformformapp_hp_css" name="mauticform[hp_css]" value="" class="mauticform-freehtml">
+                    <style>
+div[id*="hp_css"],
+.mauticform-field-qstn_hp_field{display:none;}
+</style>
+                </div>
+            </div>
+
+            <div id="mauticform_applyformformapp_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-10">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_applyformformapp_submit" value="" class="mauticform-button btn btn-default">Apply Today</button>
+            </div>
+            </div>
+        </div>
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_applyformformapp_id" value="15">
+        <input type="hidden" name="mauticform[return]" id="mauticform_applyformformapp_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_applyformformapp_name" value="applyformformapp">
+
+        
+<input type="hidden" name="mauticform[mauticpage]" value="2" />
+</form>
+</div>
+
+              </div>
+              <div class="lp-apply-footer">
+                <div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+      <section class="page-section lp-deferral">
+        <div class="center lp-deferral-wrapper">              
+          <div class="content-container visual-container lp-deferral-content">
+            <div class="lp-deferral-initial form-initial" id="deferral-initial">
+              
+              <div class="lp-form-intro" data-slot="dwcqs" data-param-slot-name="form-intro" data-param-qs-key="utm_campaign">
+                 <h3 class="lp-deferral-title">Not ready to apply right now?
+                  </h3>
+                  <p>If you're interested in Muhlenberg College School of Graduate Studies but not ready to apply quite yet, simply fill out the requested information to let us know more about your plans. We'd love to keep in touch.
+                  </p>
+              </div>
+
+              <div class="lp-form-fields">
+                <div data-slot="dwcqs" data-param-qs-key="utm_campaign" data-param-qs-val="awareness" data-param-qs-show="false">
+                  
+<script type="text/javascript">
+    /** This section is only needed once per page if manually copying **/
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var head            = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'https://go.muhlenberg-graduate.org/mautic/media/js/mautic-form.js?v96c909e1';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        head.appendChild(script);
+        var MauticDomain = 'https://go.muhlenberg-graduate.org';
+        var MauticLang   = {
+            'submittingMessage': "Please wait..."
+        }
+    }else if (typeof MauticSDK != 'undefined') {
+        MauticSDK.onLoad();
+    }
+</script>
+
+
+
+<style type="text/css" scoped>
+    .mauticform-field-hidden { display:none }
+</style>
+
+<div id="mauticform_wrapper_deferralformformdef" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="https://go.muhlenberg-graduate.org/form/submit?formId=26" id="mauticform_deferralformformdef" data-mautic-form="deferralformformdef" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_deferralformformdef_error"></div>
+        <div class="mauticform-message" id="mauticform_deferralformformdef_message"></div>
+        <div class="mauticform-innerform">
+            
+          <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+            <div id="mauticform_deferralformformdef_c_deferral_period" data-validate="c_deferral_period" data-validation-type="select" class="mauticform-row mauticform-select mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_deferralformformdef_c_deferral_period" for="mauticform_input_deferralformformdef_c_deferral_period" class="mauticform-label">When do you plan to apply?</label>
+                <select id="mauticform_input_deferralformformdef_c_deferral_period" name="mauticform[c_deferral_period]" value="" class="mauticform-selectbox">                    <option value=""></option>                    <option value="0">Within 3 months</option>                    <option value="3">3-6 months</option>                    <option value="6">6-12 months</option>                    <option value="12">Over 12 months</option>                    <option value="NS">Not sure</option>
+                </select>
+                <span class="mauticform-errormsg" style="display: none;">"When do you plan to apply?" is required.</span>
+            </div>
+
+            <div id="mauticform_deferralformformdef_c_intended_program" class="mauticform-row mauticform-select mauticform-field-2">
+                <label id="mauticform_label_deferralformformdef_c_intended_program" for="mauticform_input_deferralformformdef_c_intended_program" class="mauticform-label">Intended Program</label>
+                <select id="mauticform_input_deferralformformdef_c_intended_program" name="mauticform[c_intended_program]" value="" class="mauticform-selectbox">                    <option value="" selected></option>                    <option value="1">Masters of Applied Analytics</option>                    <option value="2">Masters of Organizational Leadership</option>                    <option value="NS">Not Sure</option>
+                </select>
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
+
+            <div id="mauticform_deferralformformdef_first_name" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required mauticform-row-partial-half" data-validate="first_name" data-validation-type="text">
+                <label id="mauticform_label_deferralformformdef_first_name" for="mauticform_input_deferralformformdef_first_name" class="mauticform-label">First Name</label>
+                <input id="mauticform_input_deferralformformdef_first_name" name="mauticform[first_name]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">First Name is required.</span>
+            </div>
+
+            <div id="mauticform_deferralformformdef_last_name" class="mauticform-row mauticform-text mauticform-field-4 mauticform-required mauticform-row-partial-half" data-validate="last_name" data-validation-type="text">
+                <label id="mauticform_label_deferralformformdef_last_name" for="mauticform_input_deferralformformdef_last_name" class="mauticform-label">Last Name</label>
+                <input id="mauticform_input_deferralformformdef_last_name" name="mauticform[last_name]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">Last Name is required.</span>
+            </div>
+
+            <div id="mauticform_deferralformformdef_preferred_email_address" data-validate="preferred_email_address" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-5 mauticform-required">
+                <label id="mauticform_label_deferralformformdef_preferred_email_address" for="mauticform_input_deferralformformdef_preferred_email_address" class="mauticform-label">Preferred Email Address</label>
+                <input id="mauticform_input_deferralformformdef_preferred_email_address" name="mauticform[preferred_email_address]" value="" class="mauticform-input" type="email">
+                <span class="mauticform-errormsg" style="display: none;">A valid email address is required. For example: address@yourdomain.com</span>
+            </div>
+
+            <div id="mauticform_deferralformformdef_phone" class="mauticform-row mauticform-tel mauticform-field-6">
+                <label id="mauticform_label_deferralformformdef_phone" for="mauticform_input_deferralformformdef_phone" class="mauticform-label">Phone Number</label>
+                <input id="mauticform_input_deferralformformdef_phone" name="mauticform[phone]" value="" class="mauticform-input" type="tel">
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
+
+            <div id="mauticform_deferralformformdef_c_sms_opt_in_ind" class="mauticform-row mauticform-checkboxgrp mauticform-field-7">
+                <div class="mauticform-checkboxgrp-row">
+                    <label id="mauticform_checkboxgrp_label_c_sms_opt_in_ind_Yes0" for="mauticform_checkboxgrp_checkbox_c_sms_opt_in_ind_Yes0" class="mauticform-checkboxgrp-label">
+                        <input class="mauticform-checkboxgrp-checkbox" name="mauticform[c_sms_opt_in_ind][]" id="mauticform_checkboxgrp_checkbox_c_sms_opt_in_ind_Yes0" type="checkbox" value="Yes">
+                        I give permission to Muhlenberg College School of Graduate Studies	 to send me important updates via text messaging. (Standard message charges apply.)
+                    </label>
+                </div>
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
+
+                <input id="mauticform_input_deferralformformdef_attribution_campaign" name="mauticform[attribution_campaign]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_deferralformformdef_attribution_source" name="mauticform[attribution_source]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_deferralformformdef_attribution_medium" name="mauticform[attribution_medium]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_deferralformformdef_attribution_content" name="mauticform[attribution_content]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_deferralformformdef_attribution_term" name="mauticform[attribution_term]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_deferralformformdef_attribution_segment" name="mauticform[attribution_segment]" value="" class="mauticform-hidden" type="hidden">
+            <div id="mauticform_deferralformformdef_qstn_hp_field" class="mauticform-row mauticform-text mauticform-field-14">
+                <label id="mauticform_label_deferralformformdef_qstn_hp_field" for="mauticform_input_deferralformformdef_qstn_hp_field" class="mauticform-label">Preferred Name</label>
+                <input id="mauticform_input_deferralformformdef_qstn_hp_field" name="mauticform[qstn_hp_field]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
+
+            <div id="mauticform_deferralformformdef_hp_css" class="mauticform-row mauticform-freehtml mauticform-field-15">
+                <h3 id="mauticform_label_deferralformformdef_hp_css" for="mauticform_input_deferralformformdef_hp_css" class="mauticform-label">
+                    Honeypot CSS
+                </h3>
+                <div id="mauticform_input_deferralformformdef_hp_css" name="mauticform[hp_css]" value="" class="mauticform-freehtml">
+                    <style>
+div[id*="hp_css"],
+.mauticform-field-qstn_hp_field{display:none;}
+</style>
+                </div>
+            </div>
+
+            <div id="mauticform_deferralformformdef_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-16">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_deferralformformdef_submit" value="" class="mauticform-button btn btn-default">Submit</button>
+            </div>
+            </div>
+        </div>
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_deferralformformdef_id" value="26">
+        <input type="hidden" name="mauticform[return]" id="mauticform_deferralformformdef_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_deferralformformdef_name" value="deferralformformdef">
+
+        
+<input type="hidden" name="mauticform[mauticpage]" value="2" />
+</form>
+</div>
+
+                </div>
+
+                <div data-slot="dwcqs" data-param-qs-key="utm_campaign" data-param-qs-val="awareness" data-param-qs-show="true">
+                  
+<script type="text/javascript">
+    /** This section is only needed once per page if manually copying **/
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var head            = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'https://go.muhlenberg-graduate.org/mautic/media/js/mautic-form.js?v96c909e1';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        head.appendChild(script);
+        var MauticDomain = 'https://go.muhlenberg-graduate.org';
+        var MauticLang   = {
+            'submittingMessage': "Please wait..."
+        }
+    }else if (typeof MauticSDK != 'undefined') {
+        MauticSDK.onLoad();
+    }
+</script>
+
+
+
+<style type="text/css" scoped>
+    .mauticform-field-hidden { display:none }
+</style>
+
+<div id="mauticform_wrapper_inquiryformforminq" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="https://go.muhlenberg-graduate.org/form/submit?formId=17" id="mauticform_inquiryformforminq" data-mautic-form="inquiryformforminq" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_inquiryformforminq_error"></div>
+        <div class="mauticform-message" id="mauticform_inquiryformforminq_message"></div>
+        <div class="mauticform-innerform">
+            
+          <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+            <div id="mauticform_inquiryformforminq_c_intended_program" class="mauticform-row mauticform-select mauticform-field-1">
+                <label id="mauticform_label_inquiryformforminq_c_intended_program" for="mauticform_input_inquiryformforminq_c_intended_program" class="mauticform-label">Which of the following programs interests you the most?</label>
+                <select id="mauticform_input_inquiryformforminq_c_intended_program" name="mauticform[c_intended_program]" value="" class="mauticform-selectbox">                    <option value="" selected></option>                    <option value="1">Masters of Applied Analytics</option>                    <option value="2">Masters of Organizational Leadership</option>                    <option value="NS">Not Sure</option>
+                </select>
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
+
+            <div id="mauticform_inquiryformforminq_first_name" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required mauticform-row-partial-half" data-validate="first_name" data-validation-type="text">
+                <label id="mauticform_label_inquiryformforminq_first_name" for="mauticform_input_inquiryformforminq_first_name" class="mauticform-label">First Name</label>
+                <input id="mauticform_input_inquiryformforminq_first_name" name="mauticform[first_name]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">First Name is required.</span>
+            </div>
+
+            <div id="mauticform_inquiryformforminq_last_name" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required mauticform-row-partial-half" data-validate="last_name" data-validation-type="text">
+                <label id="mauticform_label_inquiryformforminq_last_name" for="mauticform_input_inquiryformforminq_last_name" class="mauticform-label">Last Name</label>
+                <input id="mauticform_input_inquiryformforminq_last_name" name="mauticform[last_name]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">Last Name is required.</span>
+            </div>
+
+            <div id="mauticform_inquiryformforminq_preferred_email_address" data-validate="preferred_email_address" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-4 mauticform-required">
+                <label id="mauticform_label_inquiryformforminq_preferred_email_address" for="mauticform_input_inquiryformforminq_preferred_email_address" class="mauticform-label">Preferred Email Address</label>
+                <input id="mauticform_input_inquiryformforminq_preferred_email_address" name="mauticform[preferred_email_address]" value="" class="mauticform-input" type="email">
+                <span class="mauticform-errormsg" style="display: none;">A valid email address is required. For example: address@yourdomain.com</span>
+            </div>
+
+                <input id="mauticform_input_inquiryformforminq_attribution_campaign" name="mauticform[attribution_campaign]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_inquiryformforminq_attribution_source" name="mauticform[attribution_source]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_inquiryformforminq_attribution_medium" name="mauticform[attribution_medium]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_inquiryformforminq_attribution_content" name="mauticform[attribution_content]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_inquiryformforminq_attribution_term" name="mauticform[attribution_term]" value="" class="mauticform-hidden" type="hidden">
+                <input id="mauticform_input_inquiryformforminq_attribution_segment" name="mauticform[attribution_segment]" value="" class="mauticform-hidden" type="hidden">
+            <div id="mauticform_inquiryformforminq_qstn_hp_field" class="mauticform-row mauticform-text mauticform-field-11">
+                <label id="mauticform_label_inquiryformforminq_qstn_hp_field" for="mauticform_input_inquiryformforminq_qstn_hp_field" class="mauticform-label">Preferred Name</label>
+                <input id="mauticform_input_inquiryformforminq_qstn_hp_field" name="mauticform[qstn_hp_field]" value="" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;"></span>
+            </div>
+
+            <div id="mauticform_inquiryformforminq_hp_css" class="mauticform-row mauticform-freehtml mauticform-field-12">
+                <h3 id="mauticform_label_inquiryformforminq_hp_css" for="mauticform_input_inquiryformforminq_hp_css" class="mauticform-label">
+                    Honeypot CSS
+                </h3>
+                <div id="mauticform_input_inquiryformforminq_hp_css" name="mauticform[hp_css]" value="" class="mauticform-freehtml">
+                    <style>
+div[id*="hp_css"],
+.mauticform-field-qstn_hp_field{display:none;}
+</style>
+                </div>
+            </div>
+
+            <div id="mauticform_inquiryformforminq_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-13">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_inquiryformforminq_submit" value="" class="mauticform-button btn btn-default">Submit</button>
+            </div>
+            </div>
+        </div>
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_inquiryformforminq_id" value="17">
+        <input type="hidden" name="mauticform[return]" id="mauticform_inquiryformforminq_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_inquiryformforminq_name" value="inquiryformforminq">
+
+        
+<input type="hidden" name="mauticform[mauticpage]" value="2" />
+</form>
+</div>
+
+                </div>
+              </div>
+              
+            </div>
+
+            <div class="lp-form-thanks form-thanks" id="form-thanks" style="display: none;">
+             <h3 class="lp-deferral-thanks-title">
+                    Thank you!
+                  </h3>
+                  <p>
+                    We'll be sure to keep in touch with important news and updates.
+                  </p>
+            </div>
+            
+          </div>
+        </div>
+      </section>
+
+           <section class="lp-school">
+          <div class="center lp-school-wrapper">
+            <div class="lp-school-content-intro">
+              <h3 class="lp-school-content-title">Explore Muhlenberg College School of Graduate Studies.
+              </h3>
+            </div>
+            <div class="lp-school-content-main">
+              <ul fr-original-class="lp-school-link-list" fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 9px;"><li fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;"><a fr-original-style="user-select: auto;" href="https://www.muhlenberg.edu/graduatestudies/graduateacademics/graduatedegreesandcertificates/?" id="link_programs" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;" target="_blank"><span fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;">Discover our Applied Analytics and Organizational Leadership programs.</span></a></li><li fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;"><a fr-original-style="user-select: auto;" href="https://www.muhlenberg.edu/graduatestudies/tuition?" id="link_tuition" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;" target="_blank"><span fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;">Learn about our competitive tuition and financial aid options.</span></a></li><li fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;"><a fr-original-style="user-select: auto;" href="https://www.muhlenberg.edu/gce/events?" id="link_infosession" rel="noopener noreferrer" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;" target="_blank"><span fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;">Attend an information session.</span></a></li></ul>
+            </div>
+          </div>
+        </section>
+    </main>
+
+  </div>
+
+  <footer fr-original-class="school-footer" fr-original-style="display: block;" style="display: block; box-sizing: border-box;"><div fr-original-class="school-footer-wrapper center" style="box-sizing: border-box;"><div fr-original-class="school-footer-content" style="box-sizing: border-box;"><div fr-original-class="school-footer-name" style="box-sizing: border-box;">Muhlenberg College School of Graduate Studies</div><address fr-original-class="school-footer-address" fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin-bottom: 18px; font-style: normal; line-height: 1.3856;">2400 Chew St.<br style="box-sizing: border-box;">Allentown, PA 18104</address></div><ul fr-original-class="school-footer-links" fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 9px;"><li style="box-sizing: border-box;"><a data-fancybox="help-modal" data-modal="true" data-src="#help-modal" fr-original-style="user-select: auto;" href="javascript%3A;" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;">Technical Help</a></li><li style="box-sizing: border-box;"><a data-fancybox="privacy-modal" data-modal="true" data-src="#privacy-modal" fr-original-style="user-select: auto;" href="javascript%3A;" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;">Privacy Policy</a></li></ul></div></footer>
+  
+  <div class="modal-text" id="help-modal" style="display: none;"><div fr-original-style="box-sizing: border-box;" id="help-modal-content" style="box-sizing: border-box;" tabindex="0"><h3 fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; font-family: inherit; font-weight: 400; line-height: 1.2; color: inherit; margin-top: 0px; margin-bottom: 0px; font-size: 20px;">Help</h3><p fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;">If you require assistance in using this site, please contact the Help Center at <a fr-original-style="user-select: auto;" href="mailto:help@Muhlenberg-Graduate.org?subject=Help%20Request%20-%20Muhlenberg%20College%20School%20of%20Graduate%20Studies%20-%20Location%3A%20https%3A//go.muhlenberg-graduate.org/apply.html%20(please%20keep%20this%20as%20your%20subject)" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;">help@Muhlenberg-Graduate.org</a>.</p><p fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;"><button data-fancybox-close="" fr-original-class="fancybox-close" fr-original-style="color: inherit; font: inherit; margin: 0px;" style="color: inherit; font: inherit; margin: 0px; overflow: visible; text-transform: none; appearance: button; cursor: pointer; box-sizing: border-box;"><span fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;">Close Window</span></button></p></div></div>
+  <div class="modal-text" id="privacy-modal" style="display: none;"><div fr-original-style="box-sizing: border-box;" id="privacy-modal-content" style="box-sizing: border-box;" tabindex="0"><h3 fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; font-family: inherit; font-weight: 400; line-height: 1.2; color: inherit; margin-top: 0px; margin-bottom: 0px; font-size: 20px;">Privacy Policy</h3><h4 fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; font-family: inherit; font-weight: 400; line-height: 1.2; color: inherit; margin-top: 0px; margin-bottom: 0px; font-size: 16px;">Cookies</h4><p fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;">This website uses a "cookie," a small text file that is sent to your computer when you first visit. The cookie is stored on your computer and allows you to be recognized when you visit again later. We use cookies to enhance your visits, most often by prefilling your name and other information on forms you submit to us.</p><p fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;">This website uses remarketing services, such as Google, Facebook and Adroll, to advertise on third-party websites to previous visitors of our site. Third-party vendors place cookies on users' browsers for targeted advertising purposes and serve ads to locations such as the Google search results page or any site in the Google Display Network based on someone's past visits to the website.</p><p fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;">Data such as identification of your internet browser or computer operating system may be collected for targeted advertising. This information is collected to track usage behavior and compile aggregate data to facilitate content improvements. You may opt out of Google's use of cookies by visiting <a fr-original-style="user-select: auto;" href="https://www.google.com/settings/u/0/ads/authenticated" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;" target="_blank">Google's Ads Settings</a> and <a fr-original-style="user-select: auto;" href="http://www.networkadvertising.org/choices/" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;" target="_blank">opt out of the additional use of cookies by visiting this site</a>.</p><p fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;">You can <a fr-original-style="user-select: auto;" href="https://www.muhlenberg.edu/offices/oit/about/policies_procedures/webprivacystatement/?" style="user-select: auto; background-color: transparent; box-sizing: border-box; color: rgb(78, 93, 157); text-decoration: none;" target="_blank">view the complete privacy policy for Muhlenberg College School of Graduate Studies here</a>.</p><p fr-original-class="copyright" fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;">© 2019 EAB Global, Inc. Patent Pending. All Rights Reserved.</p><p fr-original-style="box-sizing: border-box;" style="box-sizing: border-box; margin: 0px 0px 9px;"><button data-fancybox-close="" fr-original-class="fancybox-close" fr-original-style="color: inherit; font: inherit; margin: 0px;" style="color: inherit; font: inherit; margin: 0px; overflow: visible; text-transform: none; appearance: button; cursor: pointer; box-sizing: border-box;"><span fr-original-style="box-sizing: border-box;" style="box-sizing: border-box;">Close Window</span></button></p></div></div>
+  
+  <!-- Template JS -->
+  <script src="https://admiss.info/acquia-template/alr-plugins.js"></script>
+  <script src="https://admiss.info/acquia-template/alr-global.js"></script>
+  <script src="https://admiss.info/acquia-template/alr-landing-page.js"></script>
+  
+  <!-- Custom JS -->
+  <script src="https://admiss.info/assets/lp-live/1284-muh-g-live/school-custom.js" togglelocal="true"></script>
+
+</body>
+</html>

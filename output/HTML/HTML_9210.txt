@@ -1,0 +1,826 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trexler Library | Muhlenberg College</title>
+    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css'>
+    
+  <!--<link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/update.css">-->
+		 <!--new test special collection style (sc_test.css) 2/19-->
+    <link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/specialcollections/sc_test.css">
+  	
+  	<!--Styles for timelines-->
+    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    
+  <!--Test main sc scripts (sc.js)-->
+    <script src="/library/media/styleassets/library/trexlerredesign/js/scripts_sc.js"></script>
+  <style>.drop-list li {list-style: none;}</style>
+  	
+</head>
+<style type="text/css">
+            a.drop-list-item {
+                display: block;
+            }
+            .subDrop {
+              position: relative;
+              display: block;
+            }
+            .subDrop-content {
+              display: none;
+              position: absolute;
+              top: 5px;
+              left: 60px;
+              background-color: #FAFAFA;
+              min-width: 160px;
+              box-shadow: 0px 15px 15px 5px rgba(0,0,0,0.3);
+              z-index: 2;
+            }
+            .subDrop:hover .subDrop-content {display: block;
+            }
+            ul.subDrop-content {
+                margin: 0;
+                padding: 5px;
+                list-style-type: none;
+            }
+        </style>
+<body>
+    <div class="home-container">
+        <a class="link-skip" id="skip-to-content" href="#main_content">Skip to Main Content</a>
+
+        <header id="header">
+            <div class="header-wrap">
+                <div class="h-row">
+
+                    <div class="h-cell">
+                        <a href="http://trexler.muhlenberg.edu">
+                            <img src="/library/media/contentassets/library/images/home/trexler-sitelogo-transparent-white.png" alt="Visit Trexler Library Home"class="lib-logo" />
+                        </a>
+                    </div>
+
+                    <div class="m-cell">
+                        
+                        <nav aria-label="Sub Navigation" role="navigation">
+                            <a href="https://www.muhlenberg.edu/" id="col-link" class="link-w top-link" target="_blank">College Home</a>
+
+                            <a href="https://muhlenberg-college.onelogin.com/login" id="port-link" class="link-w top-link" target="_blank">College Portal</a>
+
+                            <a href="https://muhlenberg.account.worldcat.org/account" class="link-w top-link"><i class='fas fa-user-circle mi--w48'></i>My Library Account</a>	
+                        </nav>
+                        
+                    </div>
+                </div>                
+            </div>
+                
+            <nav class="top-menu t-menu h-row" id="full-menu" role="navigation" aria-label="Main Navigation">
+                <ul class="menu">
+                    <li class="top-menu-item drop"><a href="#">2021-2022 Updates<i class="fas fa-caret-down"></i></a>
+                      <ul class="drop-list">
+                        <li><a class="drop-list-item" href="https://www.muhlenberg.edu/offices/healthcenter/coronavirus/" target="_blank">Campus Pandemic Information</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/visitingthelibrary/">Visiting the Library</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/accessingprintresources/">Accessing Print Resources</a></li>                              
+                        <li><a class="drop-list-item" href="/library/onlineresources/accessingonlineresources/">Accessing Online Resources</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/off-campusaccess/">Off-Campus Access</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/research/">Research Support</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/faculty/">Faculty Resources</a></li>
+                      </ul>
+                  </li>  
+                    <!--<li class="top-menu-item drop"><a href="#">About Us<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>
+                            <!--<li><a class="drop-list-item" href="">Library Floor Plans</a></li>                           
+                            <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                            <li><a class="drop-list-item" href="">Form directory</a></li>
+                            <li><a class="drop-list-item" href="/library/about/policies/">Library Policies</a></li>
+                            <li><a class="drop-list-item" href="/library/about/comments/">Comments</a></li>
+                            <!--<li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li><
+                        </ul>
+                    </li>-->
+										 <li class="top-menu-item drop"><a href="/library/about/">About Us<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/about/#contactus">Contact Us</a></li>
+                                <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>                             
+                                <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                                <li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li>
+                                <li><a class="drop-list-item" href="/library/about/spaces/">Library Spaces &<br>Room Reservations</a></li>
+                                <li><a class="drop-list-item" href="/library/about/technology/">Library Technology</a></li>
+                                <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestions</a></li>                                
+                                <div class="subDrop">
+                                    <li><a class="drop-list-item" href="#">Forms<i class="dropdown-caret fas fa-caret-right" style="color:black;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="subDrop-content">
+                                            <li><a class="drop-list-item" href="/library/about/comments/">Comments</a></li>
+                                            <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/facultystudies/facultystudyrequestform/">Faculty Study Request</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/#forms">Interlibrary Loan Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/libraryinstructionrequestform/">Library Instruction Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestion Request</a></li>
+                                        </ul>
+                                    </li>
+                                </div>
+                                <div class="subDrop">
+                                    <li><a class="drop-list-item" href="#">Policies<i class="dropdown-caret fas fa-caret-right" style="color:black;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="subDrop-content">
+                                            <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/collection-development-policy.html">Collection Development</a></li>
+                                            <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/gift-materials-policy.html">Gift Materials</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/lost-and-found-policy.html">Lost & Found</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/about/policies/privacy-and-confidentiality.html">Privacy & Confidentiality</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-relations-policy.html">Public Relations Policy</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-service-policy.html">Public Service Policy</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/safety-and-emergency-policy.html">Safety and Emergency Policy</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/textbook-policy.html">Textbook Policy</a></li>
+                                        </ul>
+                                    </li>   
+                                </div>
+                            </ul>
+                        </li>
+                    <li class="top-menu-item drop"><a href="#">Research<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/getstartedguides">Get Started with Research</a></li>
+                            <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/content.php?pid=356743">Subject Guides</a></li>
+                            <li><a class="drop-list-item" href="/library/research/citationguides/">Citation Guides</a></li>
+                            <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright Information</a></li>
+                            <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/az.php">Databases A-Z</a></li>
+                            <li><a class="drop-list-item" href="/library/research/askalibrarian/">Ask a Librarian</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="top-menu-item drop"><a href="#">Borrowing<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/myaccount">My Library Account</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/borrowingpolicies/">Lending Policies</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/">Interlibrary Loan</a></li>
+                            <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/courseReserves/landing/">Search Reserves</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/coursereserves/">Course Reserves Home</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/filmscreenings/">Film Screenings</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/equipmenttoborrow/">Technology to Borrow</a></li>   
+                        </ul>
+                    </li>
+
+                    <li class="top-menu-item drop"><a href="">Library Spaces<i class="fas fa-caret-down"></i></a>
+                      <ul class="drop-list">
+                        <li><a class="drop-list-item" href="/library/spaces/">Library Spaces</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/classrooms/">Classrooms</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/studentspaces/">Student Spaces</a></li>                              
+                        <li><a class="drop-list-item" href="/library/spaces/specialresourcerooms/">Special Resource Rooms</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/#floorplans">Floor Plans</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/facultystudies/">Faculty Studies</a></li>
+                      </ul>
+                  </li>
+
+                    <li class="top-menu-item drop"><a href="#">Faculty Resources<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                          <li><a class="drop-list-item" href="/library/facultyresources/teachingandlearning/">Teaching and Learning</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/">Collection Development</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/copyrightatmuhlenberg/">Copyright at Muhlenberg</a></li>                      
+                            <li><a class="drop-list-item" href="">Faculty Lending Policy</a></li>
+                            <li><a class="drop-list-item" href="">Faculty Studies</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/">Information Literacy & Instructional Support</a></li> 
+                            <li><a class="drop-list-item" href="/library/facultyresources/librarycommittee/">Library Committee</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/libraryliaisons/">Library Liaisons</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/openaccess/">Open Access</a></li>                       
+                            <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Place an Item on Reserve</a></li>                      
+                            <li><a class="drop-list-item tier-two" href="/library/facultyresources/purchasesuggestions/">Suggest a Purchase</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="top-menu-item drop"><a href="#">Special Collections<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="/library/specialcollections/">Special Collections & Archives</a></li>
+                            <li><a class="drop-list-item" href="/library/specialcollections/digitalrepository/">Muhlenberg College Digital Repository</a></li>
+                            <li><a class="drop-list-item" href="/library/honorsthesis/">Student Honors Theses</a></li>
+                        </ul>
+                    </li>   
+                </ul>  
+            </nav>
+        </header><span id="d.en.414267"></span>
+ <header class="sc-banner">
+        <div class="title">
+		  <img src="/library/media/contentassets/library/images/special-collections/Muhlenberg-M.png" alt="Muhlenberg-M Logo">
+			<h1><a href="/library/specialcollections/">Special Collections & Archives</a></h1>
+		  </div>
+        
+        <button id="sc-m" class="sc-sm" role="navigation">
+           <i class="material-icons" id="sm">menu</i>
+        </button>
+
+<div id="expand-sc-menu">
+                <a href="/library/specialcollections/about/">About Us</a>
+							<!--<div class="top-menu-item sm-drop">-->
+								<a href="#" class="top-menu-item" id="sm-drop">Collections<i class="material-icons">expand_more</i></a>
+										<div id="sm-drop-list">
+                        <a class="drop-list-item"  href="/library/specialcollections/collections/">Special Collections</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/archives/">Archives</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/digitalcollections/">Digital Collections</a> 
+                    </div>
+							<!--</div>-->
+                <a href="/library/specialcollections/digitalprojects/">Digital Projects</a>
+                <a href="/library/specialcollections/exhibits/">Exhibits</a>
+                <a href="/library/specialcollections/classvisits/">Class Visits</a>
+            </div>  
+        
+        <nav class="top-nav">
+            <div class="menu">
+                <a href="/library/specialcollections/about/">About Us</a>
+							<div class="top-menu-item drop">
+								<a href="#" id="sc-drop">Collections<i class="material-icons">expand_more</i></a>
+										<div class="drop-list">
+                        <a class="drop-list-item"  href="/library/specialcollections/collections/">Special Collections</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/archives/">Archives</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/digitalcollections/">Digital Collections</a> 
+                    </div>
+							</div>
+                <a href="/library/specialcollections/digitalprojects/">Digital Projects</a>
+                <a href="/library/specialcollections/exhibits/">Exhibits</a>
+                <a href="/library/specialcollections/classvisits/">Class Visits</a>
+            </div>  
+            
+        </nav>
+
+    </header><span id="d.en.414283"></span>
+
+<main class="sc-page">
+       <div class="content page collection-pg">       
+            <div id="tabs-collections">
+          <span id="d.en.414272"></span>
+<div id="coll-landing" class="tab-content inactive">
+
+    <div class="collection-txt span-all">
+        <h2>Collections</h2>
+<p class="collection-text">Trexler Libraryâs Special Collections & Archives Department is the repository for Muhlenbergâs collections of rare books, manuscripts, photographs, sound and visual recordings, maps, and ephemera, including material relating to the College's history. Special Collections is responsible for collecting, preserving, exhibiting, and providing access to these unique and rare primary materials for the use of scholars and the Muhlenberg community for research or in the service of instructional programs.</p>
+
+</div>
+
+<div class="img-col small start"><a href="/library/media/contentassets/library/images/special-collections/collections/ClayTablets.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/collections/ClayTablets.jpg" alt="cuneiform tablets">
+		</a><p class="caption">Collection of <a href="https://muhlenberg.on.worldcat.org/oclc/70691044" target="_blank">cuneiform tablets</a> representing business documents in use about 2350-538 B.C. From the Rare Books Collection.</p></div>
+
+</div>
+<span id="d.en.414273"></span>
+<div id="maps" class="tab-content inactive">
+
+    <div class="collection-txt span-all">
+        <h2>Ray R. Brennen Map Collection</h2>
+        <p>The gift of Ray R. Brennen, Class of 1935, this collection is comprised of maps, atlases, land deeds, and books on cartography. Many of the sixty maps and atlases date to the late 18th century and represent the work of some of the finest mapmakers in Europe and America. Included in the gift are five parchment land deeds signed by William Penn or his sons, and one signed by Benedict Leonard Calvert, Lord Baltimore. The gift also includes Lewis Evans' series of Maps of the Middle British Colonies in America, published in London in 1755, and Thomas Pownall's Topographical Description of Such Parts of North America and The American Military Pocket Atlas, both published in 1776. Several large, framed 19th century maps of Allentown and Lehigh County are a part of the collection. The collection was digitized in 2016. </p>
+        <p><a href="https://library.artstor.org/#/collection/87731862" target="_blank">Visit the digitized Ray R. Brennen Map Collection</a>.</p>     
+		<p>Special Collections & Archives is also a member of the Lehigh Valley Historical Maps Consortium, which seeks to create a centralized inventory of maps of the greater Lehigh Valley region, both digitized and analog, to be of service to researchers and educators. <a href="https://exhibits.lafayette.edu/s/lvhmc/page/welcome" target="_blank">Visit the website</a>.</p>
+    </div>  
+
+    <div class="img-col small start"><img src="/library/media/contentassets/library/images/special-collections/collections/brennan08.jpg"></div>
+
+
+<div class="img-col small start"><img src="/library/media/contentassets/library/images/special-collections/collections/CompassRose_JPG_red.jpg"></div>
+
+
+
+
+
+</div><span id="d.en.414274"></span>
+ 
+ <div id="mc" class="tab-content inactive">
+
+    <div class="collection-txt-full">
+        <h2>Muhlenberg College Collection</h2>
+        <p>This collection contains the published works of the College (Muhlenberg Weekly, Ciarla, student handbooks, etc.) as well as collected documentation relating to College history, campus buildings, administrators, faculty and staff, student organizations, event programs, and more. It includes faculty and alumni publications and faculty dissertations. There is also a collection of audio-visual materials pertaining to the history of the College, including the John S. Davidson Oral History Project. Much of this material is searchable in our library catalog or in the <a href="http://archivesspace.muhlenberg.edu:8081/repositories/9/resources?" target="_blank">ArchivesSpace database</a>. For more detailed information about our archival holdings relating to the history of the College, please contact <a href="mailto:susanfalciani@muhlenberg.edu">Susan Falciani Maldonado</a>.</p>
+        <p>Many of these materials have been digitized and are available by clicking the images below.</p>
+    </div> 
+    
+    <section class="gal-full">
+	 
+	   <div class="fourth full collection" id="weekly">
+			<img src="/library/media/contentassets/library/images/special-collections/collections/Weekly.jpg" alt="View The Muhlenberg Weekly">
+			
+			<div class="overlay">
+				<a href="http://libraryguides.muhlenberg.edu/muhlenbergweekly"  target="_blank">
+					<div class="overlay-txt"><p class="body-txt over-mc">The Muhlenberg Weekly</p></div>
+				</a>
+			</div>
+		</div>
+		
+      <div class="fourth full collection" id="ciarla">
+			<img src="/library/media/contentassets/library/images/special-collections/collections/Ciarla1952.jpg" alt="View The Ciarla">
+			<div class="overlay">
+				<a href="http://libraryguides.muhlenberg.edu/ciarla" target="_blank">
+					<div class="overlay-txt"><p class="body-txt over-mc">The Ciarla, Muhlenberg's yearbook</p></div>
+				</a>
+			</div>
+		</div>
+		
+	   <div class="fourth full collection" id="photos">
+			<img src="/library/media/contentassets/library/images/special-collections/collections/Photographs_composite.jpg" alt="View the historical photo archive">
+			<div class="overlay">
+				<a href="http://trexlerworks.muhlenberg.edu/photoarchive/"  target="_blank">
+					<div class="overlay-txt"><p class="body-txt over-mc">Historical Photograph Archive</p></div>
+				</a>
+			</div>
+		</div>
+		
+		
+		
+		<div class="fourth full collection" id="postcard">
+			<img src="/library/media/contentassets/library/images/special-collections/collections/Postcards_tile_site.jpg" alt="View the Postcard Collection">
+			<div class="overlay">
+				<a href="https://library.artstor.org/#/collection/87732075;browseType=undefined" target="_blank" >
+					<div class="overlay-txt"><p class="body-txt over-mc">Campus Postcard Collection</p></div>
+				</a>
+			</div>
+		
+		</div>
+		
+    </section>
+		<section class="gal-full">
+	 
+	   <div class="fourth full collection" id="weekly">
+			<img src="/library/media/contentassets/library/images/special-collections/otherpagepictures/pathways.jpg" alt="View Muhlenberg Pathways to Present">
+			
+			<div class="overlay">
+				<a href="https://pathways.muhlenberg.edu/"  target="_blank">
+					<div class="overlay-txt"><p class="body-txt over-mc"  style="padding-left: 5%;">Pathways to Present: Historical Campus Tours</p></div>
+				</a>
+			</div>
+		</div>
+		</section>
+    
+</div>
+<span id="d.en.414275"></span>
+<div id="papyrus" class="tab-content inactive">
+    <div class="img-banner full"><img src="/library/media/contentassets/library/images/special-collections/collections/HiRes_title.jpg" alt="The Robert C. Horn Papyrus Collection banner"></div>
+    
+    <div class="collection-txt no-b-space">
+        <p class="no-b-space">Muhlenberg Collegeâs Robert C. Horn Papyri Collection contains thirty-six pieces of Greek papyri illustrates the variety of types of documents found in the early 20th excavation at Oxyrhynchus (in present day Egypt). Included in the thirty-six pieces are thirteen literary pieces; of those pieces, three (851, 1077, 1227) are theological, five (858, 866, 868, 870, 872) are fragments of unidentified authors, and five (1094, 1095, 1181, 1243, 1246) are from extant classics, either prose or poetry. Additionally there are a variety of business and personal documents: letters, leases, taxes, etc. The papyri range from the first to the sixth or seventh century A.D., and include specimens of both papyrus rolls, and books (papyrus and parchment), and exemplify different types of bookhand. There is one small piece of Latin is among them (872). An amulet (1077) inscribed with verses from St. Matthew, is somewhat of a curiosity.<em>(From notes on the Collection, Robert C. Horn)</em></p>
+</div>  
+    <div class="img-col small start"><img src="/library/media/contentassets/library/images/special-collections/collections/papyri_0868.jpg" alt="papyrus photo" class="right no-b-space"></div>
+
+    <div class="img-col-l img-col-2r small start"><img src="/library/media/contentassets/library/images/special-collections/collections/Horn_1952.jpg" alt="Robert Horn photo"></div>
+    
+    <div class="collection-txt-w no-top-space"><p class="no-top-space">Dr. Robert Chisolm Horn, Muhlenberg Class of 1900, taught classical languages at his alma mater from 1904 to 1953, in addition to serving variously as dean, vice president, and acting president. He generously presented his papyri collection to the College.</p>
+
+        <p class=" no-top-space">The Horn Collection pieces were catalogued, transcribed, and translated in The Oxyrhynchus Papyri (1898), edited by Bernard P. Grenfell and Arthur S. Hunt.</p>
+        <p><a href="https://www.jstor.org/site/muhlenbergcollege/hornpapyricollection/" target="_blank">Visit the digitized Robert C. Horn Papyrus Collection</a></p>
+    </div>  
+</div><span id="d.en.414276"></span>
+<div id="rare" class="tab-content inactive">
+    <div class="collection-txt-n">
+        <h2>Rare Books Collection</h2>
+        <p>Trexler Libraryâs Rare Books Collection includes a fine selection of 16th & 17th century Lutheran Bibles and texts, modern first editions, several incunabula, cuneiform tablets, travel narratives, works of American and world history, and examples from the literary canon. Some highlights include Edward S. Curtis's <em>The North American Indian</em> and a hand-colored copy of William Blakeâs illuminated <em>Night Thoughts</em>.</p>    
+    </div>  
+  <div class="img-col-w full "><img src="/library/media/contentassets/library/images/special-collections/collections/blake.jpg" alt="image from Blake's Night Thoughts"></div>
+</div><span id="d.en.414277"></span>
+<div id="penn" class="tab-content inactive">
+    <div class="collection-txt-full no-b-space">
+        <h2>Pennsylvania German Collection</h2>
+    </div>
+    <div class="collection-txt-full no-top-space">
+        <p>This collection includes books, periodicals, recordings and ephemera relating to the Pennsylvania German language, history and culture. It is a representative collection of the first one hundred years of German-language printing in America (1748-1848). Included in this collection are the Muhlenberg Papers, consisting of materials by and about the members of the Muhlenberg Family, 1770-1850.</p>
+ 
+
+            <p> Uncataloged material in this collection includes examples of fraktur, autograph material from various members of the Muhlenberg family, the Scott Brenner broadside collection, and WPA plates of ornamental ironwork. The Heinrich Kelz subject bibliography, available in the reference collection, indexes the Pennsylvania German Collection up to 1968.</p>    
+    </div>  
+    <div class="img-col r2"><img src="/library/media/contentassets/library/images/special-collections/collections/steeley.jpg" alt=""></div>
+    <div class="collection-txt full"><img src="/library/media/contentassets/library/images/special-collections/collections/pennBook.jpg" alt=""></div>
+
+</div><span id="d.en.414278"></span>
+<div id="lgbt" class="tab-content inactive">
+
+    <div class="collection-txt-full no-b-space">
+        <h2>Lehigh Valley LGBT Community Archive</h2>
+
+        <p>The Bradbury-Sullivan LGBT Community Center and Trexler Libraryâs Special Collections and Archives have partnered to collect, preserve, and provide access to the Lehigh Valley LGBT Community Archive. This collection documents local and regional LGBT life and activism. It includes publications, organizational records, personal papers, oral histories, and artifacts.</p>
+    </div>
+    <div class="collection-txt-n no-top-space">
+        <p class="no-top-space">For access to the archives, please contact the Special Collections & Archives Librarian at <a href="mailto:susanfalciani@muhlenberg.edu">susanfalciani@muhlenberg.edu</a>. If you are interested in donating materials to the LGBT Community Archive, please contact the Bradbury-Sullivan LGBT Community Center at <a href="mailto:bill@bradburysullivancenter.org">bill@bradburysullivancenter.org</a>, or the Special Collections & Archives Librarian.
+        </p>
+				
+		<p><a href="http://archivesspace.muhlenberg.edu:8081/repositories/4" target="_blank">View the finding aids for the Lehigh Valley LGBT Community Archive</a></p>
+
+        <p><a href="https://libraryguides.muhlenberg.edu/LGBT_digital" target="_blank">View the digital collections</a></p>
+    </div>
+    <div class="img-col-w full mw start"><img src="/library/media/contentassets/library/images/special-collections/collections/LGBT_landing page image.jpg" alt=""></div>  
+</div>
+<span id="d.en.414279"></span>
+ <link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/specialcollections/stovall.css">
+<div id="stovall" class="tab-content inactive">
+<div class="collection-txt-full">
+        <h2>Sam Stovall Collection</h2>
+</div>
+<div class="collection-txt">
+
+        <p>Sam Stovall, Class of 1977, donated his personal collection of nearly 1,200 rock ânâ roll albums to the College in 1989. Artists represented in the collection span from the Association to the Zombies and include Chuck Berry, Bo Diddly, the Beach Boys, and the Beatles, as well as many others. </p>
+        <p>A broadcast standard variable speed turntable, capable of playing at 33, 45, and 78 rpm, is available in the Special Collections office for playing records from the collection.</p>
+		</div>  
+		
+		<div class="img-col small">
+			<a href="/library/media/contentassets/library/images/special-collections/collections/Muhlenberg_April-May_1989_Stovall.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/collections/Muhlenberg_April-May_1989_Stovall.jpg" alt="">
+		</a>
+		</div>
+		
+		<div class="collection-txt">
+        <p>Please contact <a href="mailto:susanfalciani@muhlenberg.edu" target="_blank">Susan Falciani Maldonado</a> to make an appointment.</p>
+    </div>  
+		
+		<section class="composers  gal-half">
+			<div class="half">
+					<ul class="no-dec">
+						<li><a class="artist">The Beach Boys</a></li>
+						<li><a class="artist">The Beatles</a></li>
+						<li><a class="artist">Chuck Berry</a></li>
+						<li><a class="artist">Pat Boone</a></li>
+						<li><a class="artist">The Channels</a></li>
+						<li><a class="artist">Ray Charles</a></li>
+						<li><a class="artist">Chubby Checker</a></li>
+						<li><a class="artist">The Cleftones</a></li>
+						<li><a class="artist">Perry Como</a></li>
+						<li><a class="artist">The Crests</a></li>
+						<li><a class="artist">The Del-Vikings</a></li>
+						<li><a class="artist">Bo Diddley</a></li>
+						<li><a class="artist">Fats Domino</a></li>
+						<li><a class="artist">The Doors</a></li>
+						<li><a class="artist">The Drifters</a></li>
+						<li><a class="artist">The Duprees</a></li>
+						<li><a class="artist">The Everly Brothers</a></li>
+						<li><a class="artist">The Five Satins</a></li>
+						<li><a class="artist">The Four Aces</a></li>
+						<li><a class="artist">The Four Seasons</a></li>
+						<li><a class="artist">Connie Francis</a></li>
+						<li><a class="artist">Lesley Gore</a></li>
+                                                <li><a class="artist">The Heartbeats</a></li>
+					</ul>
+				</div>
+				
+				<div class="half">
+					<ul class="no-dec">
+						<li><a class="artist">Jan and Dean</a></li>
+						<li><a class="artist">Frankie Laine</a></li>
+						<li><a class="artist">Brenda Lee</a></li>
+						<li><a class="artist">Gary Lewis and the Playboys</a></li>
+						<li><a class="artist">The Lovin' Spoonful</a></li>
+						<li><a class="artist">Clyde McPhatter</a></li>
+						<li><a class="artist">The Mello Kings</a></li>
+						<li><a class="artist">Vaughn Monroe</a></li>
+						<li><a class="artist">Ricky Nelson</a></li>
+						<li><a class="artist">Patti Page</a></li>
+						<li><a class="artist">The Paragons</a></li>
+						<li><a class="artist">The Platters</a></li>
+						<li><a class="artist">Elvis Presley</a></li>
+						<li><a class="artist">Johnny Ray</a></li>
+						<li><a class="artist">The Rolling Stones</a></li>
+						<li><a class="artist">The Shirelles</a></li>
+						<li><a class="artist">Simon and Garfunkel</a></li>
+						<li><a class="artist">The Spaniels</a></li>
+						<li><a class="artist">Kay Starr</a></li>
+						<li><a class="artist">The Supremes</a></li>
+						<li><a class="artist">The Temptations</a></li>
+						<li><a class="artist">The Turtles</a></li>
+					</ul>
+				</div>
+			</section>
+		
+		
+			<div class="collection-txt-full no-top-space">
+					<p>To browse the collection by composer, select a name from the list above. To search by song or musical title, use the box below.</p>
+			</div>
+    
+			<section class="search">
+    
+            <span id="err" class="error"></span><br>
+            <input name="inStovSearch" type="text" placeholder="Search by title or artist" id='inStovSearch'>
+            <button id="stovSearch" type="submit"><i class="fa fa-search"></i></button>
+
+			</section>
+			
+			
+			<a href="#stovResults"></a>
+			<section id="stovResults" class="results-stovall">
+				 
+			</section>
+
+</div>
+<script src="/library/media/styleassets/library/trexlerredesign/js/stovall.js"></script>
+	
+
+<span id="d.en.414280"></span>
+<div id="samuels" class="tab-content inactive">
+
+    <div class="collection-txt-full">
+        <h2>Abram Samuels Sheet Music Collection</h2>
+    </div>
+    <div class="collection-txt span-all">
+        <p>This marvelous collection, gifted to Muhlenberg College in 1991, contains more than 31,000 pieces of American popular music published between 1900-1965. </p>
+        <p>While the collection is somewhat smaller in numbers than the largest collections of sheet music in United States libraries, its focus on popular music almost exclusively from the decades of the 1920's through the 1950's makes it unique. Most sheet music collections encompass music from several centuries and include classical and sacred music, as well as popular.</p>
+        <p>Approximately twenty percent of the collection comprises pieces collected specifically by the following composers:</p>
+    </div>  
+
+    <div class="img-col small"><img src="/library/media/contentassets/library/images/special-collections/collections/Samuel_pic.jpg" alt=""/></div>
+    <section class="composers  gal-half">
+                <div class="half">
+                    <ul class="no-dec">
+                    <li><a class="composer" href="#results">Harry Revel</a></li>
+                    <li><a class="composer" href="#results">Harry Warren</a></li>
+                    <li><a class="composer" href="#results">Richard Whiting</a></li>
+                    <li><a class="composer" href="#results">Ralph Rainger</a></li>
+                    <li><a class="composer" href="#results">Vernon Duke</a></li>
+                    <li><a class="composer" href="#results">Burton Lane</a></li>
+                    <li><a class="composer" href="#results">Jimmy Van Heusen</a></li>
+                    <li><a class="composer" href="#results">James Monaco</a></li>
+                    <li><a class="composer" href="#results">Allie Wrubel</a></li>
+                    <li><a class="composer" href="#results">Arthur Schwartz</a></li>
+                    <li><a class="composer" href="#results">Hoagy Carmichael</a></li>
+                    <li><a class="composer" href="#results">Jimmy McHugh</a></li>
+                    <li><a class="composer" href="#results">Sammy Fain</a></li>
+                    <li><a class="composer" href="#results">Arthur Johnston</a></li>
+                    <li><a class="composer" href="#results">Walter Donaldson</a></li>
+                    <li><a class="composer" href="#results">Duke Ellington</a></li>
+                    <li><a class="composer" href="#results">Richard Rodgers</a></li>
+                    </ul>
+                </div>
+                <div class="half">
+                    <ul class="no-dec">
+                    <li><a class="composer" href="#results">Irving Berlin</a></li>
+                    <li><a class="composer" href="#results">Cole Porter</a></li>
+                    <li><a class="composer" href="#results">Jerome Kern</a></li>
+                    <li><a class="composer" href="#results">George Gershwin</a></li>
+                    <li><a class="composer" href="#results">Harold Arlen</a></li>
+                    <li><a class="composer" href="#results">Vincent Youmans</a></li>
+                    <li><a class="composer" href="#results">Kurt Weill</a></li>
+                    <li><a class="composer" href="#results">Harry Ruby</a></li>
+                    <li><a class="composer" href="#results">George M. Cohan</a></li>
+                    <li><a class="composer" href="#results">Stephen Sondheim</a></li>
+                    <li><a class="composer" href="#results">Noel Coward</a></li>
+                    <li><a class="composer" href="#results">Ray Henderson</a></li>
+                    <li><a class="composer" href="#results">Frank Loesser</a></li>
+                    <li><a class="composer" href="#results">Frederick Loewe</a></li>
+                    <li><a class="composer" href="#results">Jule Styne</a></li>
+                    <li><a class="composer" href="#results">Nacio Herb Brown</a></li>
+                    <li><a class="composer" href="#results">Hugh Martin</a></li>
+                    </ul>
+                </div>
+                
+            </section>
+
+   
+    
+    <div class="img-col-rw small start">
+        <img src="/library/media/contentassets/library/images/special-collections/collections/GuideCover.jpg" alt="Guide cover">
+        <p class="small-centered"><a href="">View Guide</a></p>
+    </div>
+		
+    <div class="collection-txt-full no-top-space">
+        <p>To browse the collection by composer, select a name from the list above. To search by song or musical title, use the box below.</p>
+    </div>
+    
+    <section class="search">
+    
+            <span id="err" class="error"></span><br>
+            <input name="inSearch" type="text" placeholder="Search by title or composer" id='inSearch'>
+            <button id="search" type="submit"><i class="fa fa-search"></i></button>
+
+    </section>
+    <button id="top" title="Go to top"><i class='fas fa-angle-up'></i></button> 
+<a href="#results"></a>
+    <section id="results">
+       
+    </section>
+
+</div>
+<script src="/library/media/styleassets/library/trexlerredesign/js/samuels.js"></script><span id="d.en.414281"></span>
+<div id="mchale" class="tab-content inactive">
+
+    <div class="collection-txt span-all">
+        <h2>The Paul McHale Papers</h2>
+        <p>This collection documents the congressional work of Paul McHale (1950-), U.S. Representative for Pennsylvania's 15th district from 1993-1998. The collection is currently being processed.</p>
+  
+    </div>  
+
+    <div class="img-col small end"><img src="/library/media/contentassets/library/images/special-collections/landing/McHale.jpg" alt="Paul McHale photo"></div>
+
+</div>
+<span id="d.en.414284"></span>
+</div>
+
+ <aside class="aside-l" id="tab-menu">    
+                <h3><button class="tablinks open" id="collection-tab"><a href="#coll-landing">Collections</a></button></h3>
+                <button class="tablinks closed" id="maps-tab"><a href="#maps">Ray R. Brennen Map Collection</a></button>
+                <button class="tablinks closed" id="mc-tab"><a href="#mc">Muhlenberg College Collection</a></button>
+                <button class="tablinks closed" id="papyri-tab"><a href="#papyrus">Robert C. Horn Papyri Collection</a></button>
+                <button class="tablinks closed" id="rare-tab"><a href="#rare">Rare Books Collection</a></button>
+                <button class="tablinks closed" id="penn-tab"><a href="#penn">Pennsylvania German Collection</a></button>
+                <button class="tablinks closed" id="lgbt-tab"><a href="#lgbt">Lehigh Valley LGBT Community Archive</a></button>
+                <button class="tablinks closed" id="stovall-tab"><a href="#stovall">Sam Stovall Collection</a></button>
+                <button class="tablinks closed" id="samuels-tab"><a href="#samuels">Abram Samuels Sheet Music Collection</a></button>
+                <button class="tablinks closed" id="mchale-tab"><a href="#mchale">The Paul McHale Papers</a></button>
+</aside>
+
+<nav  id="tab-menu-sm">  
+                <div id="tab-sm"><a href="#">Collection List<i class="material-icons">expand_more</i></a>
+                    <div class="tab-drop-list hide">
+                     <button class="tablinks open" id="collection-tab"><a href="#coll-landing">Collections</a></button>
+                    <button class="tablinks closed" id="maps-tab"><a href="#maps">Ray R. Brennen Map Collection</a></button>
+                    <button class="tablinks closed" id="mc-tab"><a href="#mc">Muhlenberg College Collection</a></button>
+                    <button class="tablinks closed" id="papyri-tab"><a href="#papyrus">Robert C. Horn Papyri Collection</a></button>
+                    <button class="tablinks closed" id="rare-tab"><a href="#rare">Rare Books Collection</a></button>
+                    <button class="tablinks closed" id="penn-tab"><a href="#penn">Pennsylvania German Collection</a></button>
+                    <button class="tablinks closed" id="lgbt-tab"><a href="#lgbt">Lehigh Valley LGBT Community Archive</a></button>
+                    <button class="tablinks closed" id="stovall-tab"><a href="#stovall">Sam Stovall Collection</a></button>
+                    <button class="tablinks closed" id="samuels-tab"><a href="#samuels">Abram Samuels Sheet Music Collection</a></button>
+                    <button class="tablinks closed" id="mchale-tab"><a href="#mchale">The Paul McHale Papers</a></button>
+                    </div>
+                </div>
+            </nav>
+</div>
+</main><span id="d.en.414972"></span>
+<script>
+
+		var hash = window.location.hash;
+		
+		if (hash == "") {
+			hash = "#coll-landing";
+		}
+			
+			$('#tab-menu .tablinks').each(function() {
+				$(this).removeClass('open');
+			});
+			$('#tabs-collections div').each(function() {
+				$(this).removeClass('active');
+			});
+			var link = "";
+			$('#tab-menu .tablinks').each(function() {
+				link = $(this).find('a').attr('href');
+				if (link == hash) {
+					$(this).addClass('open');
+				}
+			});
+				$('#tabs-collections div').each(function() {
+				link = $(this).attr('id');
+				if ('#'+link == hash) {
+					$(this).removeClass('inactive');
+					$(this).addClass('active');
+				}
+			});
+		
+
+
+</script></div>
+<footer>
+    <div class="footer_ribbon">
+        <div class="fs-row">
+            <div class="fs-cell">
+                <div class="footer_ribbon_inner">
+                    <div class="footer_group footer_group_hat">
+                        <div class="logo logo_footer logo_icon" itemscope="" itemtype="http://schema.org/Organization">
+                            <a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+                                <span class="logo_link_label">Muhlenberg College</span>
+                                <img src="https://www.muhlenberg.edu/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo">
+                            </a>
+                        </div>
+                        <div class="footer_address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                            <a class="footer_address_link footer_address_location" href="#">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_marker">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">
+                                    <span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+                                    <span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+                                    <span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+                                    <span class="footer_address_state" itemprop="addressRegion">PA</span>
+                                    <span class="footer_address_zip" itemprop="postalCode">18104</span>
+                                </span>
+                            </a>
+                            <a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_phone">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">484-664-3100</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="footer_group footer_group_sole">
+                        <nav class="footer_nav">
+                            <ul class="footer_nav_list">
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/campus-map/">
+                                        <span class="footer_nav_link_label">Maps &amp; Directions</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/offices/oit/webresources/accessibility/">
+                                        <span class="footer_nav_link_label">Accessibility</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+
+
+                                    <a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+                                        <span class="footer_nav_link_label">Library</span>
+                                    </a>
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/equityandtitleix/">
+                                        <span class="footer_nav_link_label">Title IX</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/eventservices/">
+                                        <span class="footer_nav_link_label">Conference &amp; Event Services</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/tactical/azfind.htm">
+                                        <span class="footer_nav_link_label">A-Z Index</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="social_nav" itemscope="" itemtype="http://schema.org/Organization">
+                            <link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+                            <div class="social_nav_header">
+                                <h2 class="social_nav_title">Social</h2>
+                            </div>
+                            <div class="social_nav_list">
+                                <div class="social_nav_item facebook">
+                                    <a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_facebook">
+                                            
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Facebook</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item instagram">
+                                    <a class="social_nav_link" href="https://www.instagram.com/explore/locations/5194184/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_instagram">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Instagram</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item twitter">
+                                    <a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_twitter">
+                                          
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Twitter</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item youtube">
+                                    <a class="social_nav_link" href="https://www.youtube.com/user/muhlsid" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_youtube">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">YouTube</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item linkedin">
+                                    <a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_linkedin">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">LinkedIn</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="footer_credit">
+                    <span class="footer_credit_icon">
+                        <a class="t4Edit-page" href="https://t4.muhlenberg.edu/terminalfour/page/directEdit#edit/8/en/82623">Â©</a>
+                    </span>
+                    <span class="footer_credit_label">2019 Muhlenberg College</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</div>
+
+  </body>
+</html>

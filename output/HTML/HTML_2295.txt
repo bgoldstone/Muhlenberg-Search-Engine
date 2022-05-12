@@ -1,0 +1,1484 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Student Resources | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Student Resources">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/studentresources/">Student Resources</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Resources</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Student Resources">
+							<span class="sub_nav_handle_label">Student Resources</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                <!--
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/studentresources/missionlearninggoals/">Mission &amp; Learning Goals</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/studentresources/auditionsfordepartmentalproductions/">Auditions for Departmental Productions</a></li></ul>
+                -->
+                <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/studentresources/missionlearninggoals/">Mission &amp; Learning Goals</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/seeashow/buytickets/">Tickets</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/onstage/mainstage.html">Theatre &amp; Dance Mainstage</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/seeashow/ushering/">Ushering</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/seeashow/accessibility.html">Accessibility</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrefacultystaff/">Theatre Faculty/Staff Directory &amp; Bios</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancefacultystaffbios/">Dance Faculty/Staff Directory &amp; Bios</a></li>
+<!---->
+</ul>
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/studentresources/">Student Resources</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h4>This page is a repository for resources <br>for current Theatre &amp; Dance students.</h4>
+<p style="margin-top: 30px;">Other useful&nbsp;resources for Theatre &amp; Dance Students&nbsp;are:</p>
+<ul>
+<li>the&nbsp;<a href="http://bergdance.bergbuilds.domains/" target="_blank">Dance Program Blog</a>, featuring&nbsp;information about courses, auditions, master classes, and performances.</li>
+<li>the&nbsp;<a href="https://www.bergmta.com/" target="_blank">Muhlenberg Theatre Association</a> website, with information about all student-run theatre performances, ensembles, auditions, applications, and more.</li>
+<li><a href="/academics/theatre-dance/newsnotes/accountability.html">Theatre &amp; Dance Anti-Racism Action Plan</a> &amp; related information</li>
+</ul>
+<p>&nbsp;</p></div>
+
+</div>
+</div>
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#AuditionsProudtoPresent2" 
+     aria-expanded="false" 
+     aria-controls="AuditionsProudtoPresent2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="AuditionsProudtoPresent">
+      <p class="panel-title pull-left">
+          Auditions for "We Are Proud to Present‚¶"
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="AuditionsProudtoPresent2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="AuditionsProudtoPresent">
+    <div class="panel-body">
+        <div><strong><span style="color: #990000; font-family: 'arial black', sans-serif; font-size: large;">Auditions for this fall's</span></strong></div>
+<div>
+<div><strong><span style="color: #990000; font-family: 'arial black', sans-serif; font-size: large;"><em>We Are Proud to Present‚¶</em></span></strong></div>
+<div><strong><span style="color: #990000; font-family: 'arial black', sans-serif; font-size: large;">April 21-23</span></strong></div>
+<div>
+<div></div>
+<div>As announced previously, the first production of the Department's. 2022-23 season will be Jackie Sibblies Drury's<span>&nbsp;</span><em>We Are Proud to Present a Presentation About the Herero of Namibia, Formerly Known as Southwest Africa, From the German S√ºdwestafrika, Between the Years 1884‚1915</em>, directed by Nigel Semaj</div>
+<div></div>
+<div><strong>The play will be cast from among current first-years, sophomores and juniors,</strong><span>&nbsp;</span>and auditions will be held April 21-23. Students cast in the production will return early in August for a week of intensive rehearsals prior to the start of the semester.</div>
+<div></div>
+<div>Students cast in<span>&nbsp;</span><em>We Are Proud to Present</em>&nbsp;will be ineligible to audition for<span>&nbsp;</span><em>The Threepenny Opera</em>&nbsp;or<span>&nbsp;</span><em>Oedipus</em>.<br><br><strong>We are seeking six principal roles and a minimum of three understudy roles</strong>. Understudies will have the opportunity to perform in their role at least once during the production run.<br><br>Please read through the following document carefully.<br><br><br><strong><span style="font-family: 'arial black', sans-serif; font-size: large;">HOW TO AUDITION</span></strong></div>
+<div></div>
+<div><strong>The audition sign up process has FOUR steps. Please make sure you complete all four!</strong><br>
+<ol>
+<li><strong>Read this entire email closely</strong></li>
+<li><a href="https://www.signupgenius.com/go/10C044FADA823ABFE3-wewould" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.signupgenius.com/go/10C044FADA823ABFE3-wewould&amp;source=gmail&amp;ust=1649515139442000&amp;usg=AOvVaw3Hwdo2EVahjC9btyUR3NYQ">Sign up for an<span>&nbsp;</span><strong>audition slot</strong><span>&nbsp;</span>here</a></li>
+<li>Complete this<span>&nbsp;</span><a href="https://docs.google.com/forms/d/e/1FAIpQLSeo5sA04-vvatwio4Vu5eXxxuj5YoJMZu8RMJsarUTN8ZtAmg/viewform?usp=sf_link" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSeo5sA04-vvatwio4Vu5eXxxuj5YoJMZu8RMJsarUTN8ZtAmg/viewform?usp%3Dsf_link&amp;source=gmail&amp;ust=1649515139443000&amp;usg=AOvVaw1O2z7mbOHmjjWf5j4v8ugy"><strong>audition information sheet</strong></a>!</li>
+<li><a href="https://drive.google.com/file/d/1fE-Er6Y5djsrfjWYdi7N4G6AJ5h-4EGQ/view?usp=sharing" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://drive.google.com/file/d/1fE-Er6Y5djsrfjWYdi7N4G6AJ5h-4EGQ/view?usp%3Dsharing&amp;source=gmail&amp;ust=1649515139443000&amp;usg=AOvVaw1TDUKBk56jCJT1grE_hzMS">Read the script!</a><br><strong>Please read the script before you audition.</strong></li>
+</ol>
+Note that the process above has two separate forms: the slot signup and the information sheet. You must do both!</div>
+<div><br><strong>AUDITION DATES AND TIMES:</strong><br>
+<ul>
+<li><span style="font-family: arial, sans-serif;"><strong>Thursday April 21 ‚ 7 pm ‚ 10 pm</strong></span></li>
+<li><span style="font-family: arial, sans-serif;"><strong>Friday April 22 ‚ 6 pm ‚ 10 pm</strong></span></li>
+<li><span style="font-family: arial, sans-serif;"><strong>Saturday April 23 ‚ 10 am ‚ 1pm</strong></span></li>
+</ul>
+Audition slots will be 5 minutes. The link to sign up is included above.</div>
+<div></div>
+<div><strong><span style="font-family: 'arial black', sans-serif;">Students who are currently studying abroad</span></strong><span>&nbsp;</span>can do one of the following:<br>
+<ul>
+<li><a href="https://www.signupgenius.com/go/10c044fada823abfe3-wewould" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.signupgenius.com/go/10c044fada823abfe3-wewould&amp;source=gmail&amp;ust=1649515139443000&amp;usg=AOvVaw07vgOgcTvfuC3uHiTs5xXR">Sign up for an audition slot</a><span>&nbsp;</span>to be done via Zoom.</li>
+<li>Or, submit a self-tape by Saturday, April 23, at 1 pm ET. No late submissions will be accepted.</li>
+</ul>
+Either way, students auditioning from abroad must fill out the<span>&nbsp;</span><a href="https://docs.google.com/forms/d/e/1FAIpQLSeo5sA04-vvatwio4Vu5eXxxuj5YoJMZu8RMJsarUTN8ZtAmg/viewform?usp=sf_link" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSeo5sA04-vvatwio4Vu5eXxxuj5YoJMZu8RMJsarUTN8ZtAmg/viewform?usp%3Dsf_link&amp;source=gmail&amp;ust=1649515139443000&amp;usg=AOvVaw1O2z7mbOHmjjWf5j4v8ugy">audition information form</a>.<br><br><strong><span style="font-family: 'arial black', sans-serif; font-size: large;">CALLBACKS</span></strong></div>
+<div><strong>Sunday, April 24 ‚ noon ‚ 3 pm</strong></div>
+<div>Group callbacks will be announced on the night of Saturday, April 23. Callback sides and group assignments will be sent along with the callbacks announcement. &nbsp;<br><br><br><strong><span style="font-family: 'arial black', sans-serif; font-size: large;">PREPARATION:<br></span></strong></div>
+<div>Actors should prepare either a two-minute contemporary dramatic monologue or a two-minute contemporary comedic monologue. It is recommended that your monologue be memorized; if it is not, please come with your monologue prepared and audition-ready.<br><br>Actors may be asked to do a short physical and musical improvisation at their audition.<br><br>A headshot and resume are recommended but not required.<br><br><br><strong><span style="font-family: 'arial black', sans-serif; font-size: large;">LOCATION &amp; PERSONNEL<br></span></strong></div>
+<div>Auditions will take place in the Studio Theatre. Please meet in the Trexler Pavilion Box Office Lobby 15 minutes before your scheduled appointment.<br><br></div>
+<div>In attendance at the auditions will be:<br>Director Nigel Semaj<br>Assistant Director, TBD<br>Jim VanValen, Lecturer in Acting<br><br><br><strong><span style="font-family: 'arial black', sans-serif; font-size: large;">IMPORTANT DATES:</span></strong><br><strong><span style="font-family: 'arial black', sans-serif;"><br></span></strong></div>
+<div><strong><span style="font-family: 'arial black', sans-serif;">First Meeting:</span></strong>&nbsp;May 3, 2022 ‚ 7 to 10 pm<br><br>We are hoping to begin rehearsals as early as<span>&nbsp;</span><strong><span style="font-family: 'arial black', sans-serif;">Aug. 20, 2022</span></strong><span>&nbsp;</span>(prior to the start of the Fall semester) but this will be completely dependent on the schedules/availability of the performers.<br><br><strong><span style="font-family: 'arial black', sans-serif;">Performances:</span></strong>&nbsp;Sept. 30 ‚ Oct. 2, 2022<br><br><br><strong><span style="font-family: 'arial black', sans-serif; font-size: large;">PRODUCTION INFORMATION:<br></span></strong><br><strong><span style="font-size: large;">Project Description<br></span></strong><br>In Jackie Sibblies Drury‚s We Are Proud to Present a Presentation About the Herero of Namibia, Formerly Known as Southwest Africa, From the German S√ºdwestafrika, Between the Years 1884‚1915, &nbsp;six actors gather to tackle the challenge of theatrically presenting the little-known story of the first genocide of the 20th century.<br><br>Armed only with boxes of letters from German soldiers they sent home to their wives and families, our characters are maneuver how to tell the history of this Genocide when the only record remains is of the perpetrators‚ story. If that was not enough of a challenge, they must also maneuver how to talk to each other about racism, genocide, and systemic oppression.<br><br>Along the way, they test the limits of empathy as their own stories, subjectivities, assumptions, and prejudices catalyze their theatrical process. Ultimately the play takes a dark turn as the American wounds and the historical tragedy overlap within this ensemble‚s process.<br><br><br><span style="font-size: large;"><strong>Character Breakdown/Descriptions</strong><br></span><br><em>We Are Proud to Present</em><span>&nbsp;</span>requires six actors: two white men, one white woman, two Black men, and one Black woman. It is an energetic ensemble piece in which all the roles are of equal size and importance. Performers are on stage for the entirety of the play.<br><br>All characters are young, fiercely energetic, skillful, playful, and a bit na√Øve. They are still learning and discerning who they are in this world and are reckoning with history from their backgrounds.<br><br>A sense of musicality and the ability to improv are necessary for all roles.<br><br>Actors will work with the following accents/dialects: German, African and Southern.</div>
+<div></div>
+<div><strong>A Note on Gender/Pronouns from the Director<br></strong>&nbsp; &nbsp;The following pronouns belong to the characters as written in the play. However, actors from all gender identities are welcome and highly encouraged to audition. Please do not worry if you think your personal pronouns do not align with those of the characters; I can and will engage in conversation to ensure equitable practices are engaged in casting.<br><br><br><strong>Actor 1 / White Man: (He/Him)<br></strong>‚All American,‚ charming, well educated, and well-meaning. ‚Woke‚ but casually inflicts microaggressions. Bad at acting and improv, and this makes him incredibly self-conscious.<br><br><strong>Actor 2 / Black Man: (He/Him)<br></strong>He is proud of his roots and his Blackness. Widely observant and intelligent but also incredibly underestimated. Masculine, powerful, and confident. He would be a great leader if it weren‚t for his stubbornness and poor teamwork skills.<br><br><strong>Actor 3 / Another White Man: (He/Him)</strong><br>Goofy, confident, and a bit self-possessed. He can be a bit of a class clown and often puts his foot in his mouth.<br><br><strong>Actor 4 / Another Black Man: (He/Him)</strong><br>Soft, sweet, thoughtful, gentle, and willing. Can be the group‚s black sheep, often not fitting in with anyone.<br><br><strong>Actor 5 / Sarah: (She/Her)</strong><br>She is incredibly bubbly, eager, and a bit of an overachiever. She is a performer at heart and often sacrifices the truth for the sake of performance.<br><br><strong>Actor 6 / Black Woman: (She/Her)</strong><br>The leader and organizer of the group. She is idealistic, generous, and kind but still authoritative, sharp, and quick-witted.<br><br><br><span style="font-size: large;"><strong>CONTENT NOTICE:</strong><br></span><br>This play contains violent language, themes of prejudice, genocide, erasure, stark imagery, and racial epithets.<br><br>Additionally, there are moments of racially charged physical violence, including the presence and use of a noose.<br><br><br><strong><span style="font-size: large;">A LETTER FROM THE DIRECTOR ON THE CONTENT:</span></strong><br><br>This play will ask its performers to engage in complex material around race, genocide, and historical/systemic oppression. Not only that, but I will be asking you to engage in this material with your peers and me during the rehearsal process. This play, at its core, is about how do we have difficult conversations around race, genocide, and its gruesome history. The characters are floundering as they seek the truth and ultimately lash out at one another.<br><br>For Black performers, this play will ask a lot of you mentally and emotionally. This play and I will ask you to engage with material that can be potentially triggering for Black bodies. For white performers, this play and I will ask you to perform components of whiteness and white violence against Black bodies that you may not personally identify with but is crucial to the story. While this play may ask a lot of you, it also gives a lot. It provides an opportunity for feeling, and space for conversations to arise and may help make change a reality.<br><br>This rehearsal process and production will be steeped in Restorative Practices to allow for open community dialogue between all those involved. Restorative Practices explore how to strengthen relationships between individuals and communities. To get to the root of this play, we will engage in open community learning dialogues within the production community to heal and build healthy rehearsal/performance practices.</div>
+</div>
+</div>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#TheatreCourseWorksheets2" 
+     aria-expanded="false" 
+     aria-controls="TheatreCourseWorksheets2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="TheatreCourseWorksheets">
+      <p class="panel-title pull-left">
+          Theatre Course Worksheets for Fall 2022
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="TheatreCourseWorksheets2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="TheatreCourseWorksheets">
+    <div class="panel-body">
+        <p><strong>Theatre&nbsp;Major Worksheets<br>for&nbsp;Fall 2022 course registration</strong></p>
+<p style="font-size: 80%;"><em>Last revised:&nbsp;4 April 2022</em></p>
+<p style="font-size: 80%;">Dear Theatre Majors ‚</p>
+<p style="font-size: 80%;">Here are some&nbsp;helpful documents for you to use as you prepare to register for courses for&nbsp;Fall 2022.</p>
+<p style="font-size: 100%; margin-bottom: 0px; margin-top: 20px;"><strong>Class of 2023</strong></p>
+<p style="font-size: 80%; margin-top: 3px; margin-left: 15px;"><a href="https://drive.google.com/file/d/13YFl42nsW7GorZ6-veKPwqeAM0N8PSg7/view?usp=sharing" target="_blank">Theatre Concentration Tracker</a><br><a href="https://drive.google.com/file/d/12zWm14X7uQwH_WXR9UjQNs8TLUV9nvTs/view?usp=sharing" target="_blank"></a><a href="/media/contentassets/pdf/theatreampdance/Theatre Scholarship Class of 23 - F22.pdf">Theatre Scholarship Course Tracker</a><br><a href="/media/contentassets/pdf/theatreampdance/Theatre Scholarship Courses - F22.pdf">Theatre Scholarship Courses for Fall 2022</a><a href="https://drive.google.com/file/d/12zWm14X7uQwH_WXR9UjQNs8TLUV9nvTs/view?usp=sharing" target="_blank"><br></a><a href="https://drive.google.com/file/d/18sl-B0HVnibYwOmxBahdKQLRi_klK67M/view?usp=sharing" target="_blank">GAR Tracking Worksheet</a><a href="https://drive.google.com/file/d/12zWm14X7uQwH_WXR9UjQNs8TLUV9nvTs/view?usp=sharing" target="_blank"><br></a></p>
+<p style="font-size: 100%; margin-bottom: 0px; margin-top: 20px;"><strong>Class of 2024, 2025, and 2026</strong></p>
+<p style="font-size: 80%; margin-top: 3px; margin-left: 15px;"><a href="/media/contentassets/pdf/theatreampdance/Theatre Major Tracking Class of 24-26 - F22.pdf">Theatre Major Tracker ‚ all inclusive</a><a href="https://drive.google.com/file/d/1FxkOvPg_t_xrh1CDu6CtcXS8Vqv_pf4o/view?usp=sharing" target="_blank"><br></a><a href="/media/contentassets/pdf/theatreampdance/Theatre Scholarship Courses - F22.pdf">Theatre Scholarship Courses for Fall 2022</a><a href="https://drive.google.com/file/d/1FxkOvPg_t_xrh1CDu6CtcXS8Vqv_pf4o/view?usp=sharing" target="_blank"><br></a><a href="https://drive.google.com/file/d/18sl-B0HVnibYwOmxBahdKQLRi_klK67M/view?usp=sharing" target="_blank">GAR Tracking Worksheet</a></p>
+<p style="font-size: 100%; margin-bottom: 0px; margin-top: 20px;"><strong>Not sure which you are?</strong></p>
+<p style="font-size: 80%; margin-top: 3px; margin-left: 15px;">Students who entered with the Class of '22 and '23&nbsp;and took some time away will still&nbsp;complete the major requirements for those Class Years.&nbsp;This is true even if your official class designation might have changed.</p>
+<p style="font-size: 80%; margin-left: 15px;">Transfer students who began their studies at Muhlenberg prior to Fall 2020 will complete the requirements of the old curriculum.</p>
+<p style="font-size: 80%; margin-left: 15px;">Your academic advisor&nbsp;will be able to help you understand all the nuances of the curriculum if you have questions. Please be sure to consult as often as necessary with your advisor.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#StudioReservations2" 
+     aria-expanded="false" 
+     aria-controls="StudioReservations2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="StudioReservations">
+      <p class="panel-title pull-left">
+          Signing Out Studio Space
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="StudioReservations2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="StudioReservations">
+    <div class="panel-body">
+        <h3>Signing Out Studio Space</h3>
+<p style="font-size: 80%;"><em>updated Nov. 1, 2021</em></p>
+<p style="font-size: 80%;">To reserve studio spaces for next week, please take the following steps:</p>
+<ol>
+<li style="font-size: 80%;">Read the first tab of this&nbsp;<a href="https://docs.google.com/spreadsheets/d/1XMQyvzGWfEt7N1EI6H4wmBTv4LBLZkMaEAkV0H5q8pU/edit#gid=136594225" target="_blank">space schedule spreadsheet</a> that explains "Everything You Need to Know About Reserving Spaces!"&nbsp;Maya will be sending weekly versions of this spreadsheet out every Friday.</li>
+<li style="font-size: 80%;">View the space specific tabs of&nbsp;the space schedule spreadsheet for the upcoming week and make note of what spaces are available at the times you are interested in. A white, blank rectangle means that a 30 minute time slot is available.</li>
+<li style="font-size: 80%;">Email&nbsp;Maya at&nbsp;<a href="mailto:mayacostanzo@muhlenberg.edu" target="_blank">mayacostanzo@muhlenberg.edu</a> with your space request at least 24 hours in advance of when you hope to occupy a studio. Include the time frame (or frames), date, and spaces you are hopeful for.</li>
+<li style="font-size: 80%;">You will be good to go when&nbsp;Maya confirm the reservation with you and plug it into our weekly spreadsheet! Instead of waiting for an email response, you can always visit&nbsp;Maya at&nbsp;her new office hours (explained below!) for an instantaneous confirmation.</li>
+</ol>
+<p style="font-size: 100%;"><strong><a href="https://drive.google.com/drive/folders/1F0grvuudc3306WmvGpwn4VWawxDVmUfX" target="_blank">For the current spreadsheet, please go here.</a></strong></p>
+<p style="font-size: 80%;">Maya's office hours for the rest of this semester will remain as follows:</p>
+<p style="font-size: 80%;"><strong>Mondays:</strong> 10 am - noon<br><strong>Wednesdays:</strong> noon - 2 pm<br><strong>Fridays:</strong> 2 pm - 4 pm<br>Any other time&nbsp;the box office window is open</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#DanceCostumeRequests2" 
+     aria-expanded="false" 
+     aria-controls="DanceCostumeRequests2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="DanceCostumeRequests">
+      <p class="panel-title pull-left">
+          Prop & Costume Requests
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="DanceCostumeRequests2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="DanceCostumeRequests">
+    <div class="panel-body">
+        <p>&nbsp;</p>
+<h3>Dance Costume Loan Requests</h3>
+<div><span id="m_1596104447847320345m_1231939466803018286m_-6362245951216234253m_-3850968653141490144m_3259046768139663076m_1705151975541444205gmail-docs-internal-guid-3d130c3e-7fff-31e2-f407-39d162086ac2">The Theatre &amp; Dance </span>Department maintains a stock of props and costumes from past productions that students can borrow for their work in scenes and class projects. Please note, not all items are available for loan.</div>
+<div></div>
+<div>It's important that you plan ahead to ensure that you have the items you need in time for your project.</div>
+<div></div>
+<div>Here's how it works‚¶</div>
+<div></div>
+<h4><span>1. Choose your items</span></h4>
+<div>
+<div><span>Contact Katrina in Props or Lex in the Costume Shop to see what they have that will fill your needs. See below for details. They might just be able to leave your items at the Box Office, or you might need to come in and take a look.</span></div>
+<div><span>&nbsp;</span></div>
+<div>
+<h4><span>2. Pay your deposit</span></h4>
+<div>Once you've determined that there are items that meet your needs, come to the Box Office to pay your $20 refundable deposit. You can do this when you pick up items left for you. Box Office hours are Monday through Friday, noon ‚ 6 pm.</div>
+<div></div>
+<div>
+<h4><span>3. Get your stuff</span></h4>
+<div>If items are left for you, just pick them up at the box office. If you need to take a look at stock, you can take your items with you when you find them (after you've paid your deposit, of course).</div>
+<div></div>
+<div>
+<h4><span>4. Use the stuff</span></h4>
+<div>Break a leg ‚ but not your props and costumes! Take care of 'em! You're responsible for their safe, intact return.</div>
+<div></div>
+<h4>5. Bring it back</h4>
+<div>
+<div>You can return your items to the Box Office, again Monday through Friday, noon to 6 pm. You'll get your deposit back when the stuff comes back on time and in good condition.</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h4><span>Deposits</span></h4>
+<div>You can pay the $20 refundable deposit at the Box Office, via cash, check, or credit card. Each deposit covers up to five items. If you need both costumes and props, you'll need to pay two separate $20 deposits. Be sure hang onto the receipt for your deposit.</div>
+<div></div>
+<h4><span>Prop Loans</span></h4>
+<div>To borrow props, email Katrina at <a href="mailto:props@muhlenberg.edu" target="_blank">props@muhlenberg.edu</a>, to see if we have what you're looking for. Katrina can let you know what's available, or make an appointment for you to come take a look. If she has what you're looking for, you can arrange to have her leave it at the box office for pickup.</div>
+<div>You may also come visit Prop Storage, in the Empie stage-right wing, during the posted hours of Friday noon to 2 pm to look through the stock of props. You must pay your $20 deposit before you take your items.</div>
+<div>&nbsp; &nbsp;Studio Productions may reserve furniture and leave it in prop storage until tech rehearsals. All other props should be taken with you at the time you select them.</div>
+<div></div>
+<div></div>
+<h4><span>Costume Loans</span></h4>
+<div>To borrow costumes from theatre costume stock or dance stock, fill out one of these forms:</div>
+<div>
+<ul>
+<li><a href="https://forms.gle/K361RqLwjuztW3ax8" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://forms.gle/K361RqLwjuztW3ax8&amp;source=gmail&amp;ust=1632511047301000&amp;usg=AFQjCNHV5zcz9bcucglMradNQji4fEFV0A">Theatrical Costume Stock Request</a></li>
+<li><a href="https://forms.gle/h5j7RuCq6pW3ej1h9" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://forms.gle/h5j7RuCq6pW3ej1h9&amp;source=gmail&amp;ust=1632511047301000&amp;usg=AFQjCNF52GiFMXBZZRtCMaaL8UjRbty0xg">Dance Costume Stock Request</a></li>
+</ul>
+</div>
+<div>Upon receipt of the form, Lex will determine whether Costume Stock includes any items that will suit your needs, and/or contact you to make an appointment to look through stock. There's no guarantee that requests can be fulfilled.</div>
+<div>&nbsp; &nbsp;You can view available dance stock using the online&nbsp;<a href="https://docs.google.com/spreadsheets/d/1wlPLd9s-3lAO-W-msRag32BAHAnSbDjL5ZeZLuTrqv0/edit?usp=sharing" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1wlPLd9s-3lAO-W-msRag32BAHAnSbDjL5ZeZLuTrqv0/edit?usp%3Dsharing&amp;source=gmail&amp;ust=1632511047301000&amp;usg=AFQjCNHSeYBySWZhNZ0DATFmbI3dk95bDA">Dance Stock Catalogue</a>. Multiple options should be provided, in case the costume(s) being requested are unavailable. Feel free to include photos and/or links in the form. If we have what you need, Lex will leave it for pickup at the box office.</div>
+<div>&nbsp; &nbsp;For Studio Productions, a z-rack can be made available for costumes to be held. All other costumes need to be taken at the time of rental.</div>
+<div>&nbsp; &nbsp;Costumes must be returned no later than the end of the semester they were borrowed ‚ by Friday of Finals Week.</div>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#BoxOfficeLobbyLockers2" 
+     aria-expanded="false" 
+     aria-controls="BoxOfficeLobbyLockers2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="BoxOfficeLobbyLockers">
+      <p class="panel-title pull-left">
+          Lockers in the Box Office Lobby
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="BoxOfficeLobbyLockers2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="BoxOfficeLobbyLockers">
+    <div class="panel-body">
+        <p><strong>Lockers in the Box Office Lobby</strong></p>
+<p style="font-size: 80%;">For the Spring 2021 semester, the lockers in the Trexler Pavilion box office lobby will be available ONLY to students who are taking class in the Dance Studio Theatre.</p>
+<p style="font-size: 80%;">Please watch this <a href="https://drive.google.com/file/d/1LmdLIG9j6YtdffqIWTH5rwZ34HRdIgV7/view?usp=sharing" target="_blank"><strong>charming instructional video</strong></a>, featuring our own Gianna Neal!</p>
+<p style="font-size: 80%;"><strong>Instructions:</strong></p>
+<ul>
+<li style="font-size: 80%;">Choose a locker!</li>
+<li style="font-size: 80%;">Remember the location!</li>
+<li style="font-size: 80%;">Lift the handle to open the locker.</li>
+<li style="font-size: 80%;">Place your items inside the locker and lift the handle to close the door.</li>
+</ul>
+<p style="font-size: 80%;"><strong>TO LOCK:</strong></p>
+<p style="font-size: 80%;">On the keypad:</p>
+<ul>
+<li style="font-size: 80%;">Press the C button</li>
+<li style="font-size: 80%;">Choose and enter a 4-digit code. (Choose something you will remember!)</li>
+<li style="font-size: 80%;">Press the ‚key‚ button</li>
+</ul>
+<p style="font-size: 80%;">The lock will then engage with a beep, and the indicator light with flash red. Your items are then secured until you choose to unlock the unit.</p>
+<p style="font-size: 80%;"><strong>TO UNLOCK (the same process as locking):</strong></p>
+<ul>
+<li style="font-size: 80%;">Press the C button</li>
+<li style="font-size: 80%;">Then enter the 4-digit code you chose</li>
+<li style="font-size: 80%;">Press the ‚key‚ button</li>
+</ul>
+<p style="font-size: 80%;">The lock will disengage and you can lift the handle and open the unit.</p>
+<p style="font-size: 80%;"><strong>Some things to remember about the lockers:</strong></p>
+<ul>
+<li style="font-size: 80%;">The lockers are NOT overnight, indefinite storage. They are for use during classes and rehearsals. Items should not be left overnight or for extended periods of time.</li>
+<li style="font-size: 80%;">The staff will open ALL of the lockers following the master classes on Friday afternoons to prevent folks from taking over the lockers indefinitely.</li>
+<li style="font-size: 80%;">Staff will periodically AND FREQUENTLY unlock all units and remove all items&nbsp;‚ especially during breaks.</li>
+<li style="font-size: 80%;">Please avoid placing ANY open containers or any particularly smelly items in the lockers.</li>
+<li style="font-size: 80%;">Should you spill ANYTHING in a locker, it is your responsibility to clean it up immediately and if you need assistance, please seek assistance at either the box office or the administrative office upstairs.</li>
+</ul>
+<p style="font-size: 80%;"><strong>If you forget your code,</strong> you can seek assistance in the Theatre and Dance office between the hours of 9 am&nbsp;AND 5 pm, Monday through Friday.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HowToGetPlaces2" 
+     aria-expanded="false" 
+     aria-controls="HowToGetPlaces2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HowToGetPlaces">
+      <p class="panel-title pull-left">
+          How to Get Places ‚ a Video Tour
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HowToGetPlaces2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HowToGetPlaces">
+    <div class="panel-body">
+        <p style="font-size: 85%;">These videos give you a first-person look at how to get from point A to point B in the world of Theatre &amp; Dance. Thanks to Mia Shmariahu '19 for the video assist!</p>
+<ol style="font-size: 85%; line-height: 100%;">
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/1VKouMOsBEnKB9EgWcTipuKzDtNJ3qX0X/view?usp=sharing" target="_blank">Baker Center for the Arts ‚&gt; Trexler Pavilion</a><br>
+<ol style="font-size: 85%; line-height: 100%;">
+<li style="font-size: 85%; line-height: 100%;">Empie Theatre</li>
+<li style="font-size: 85%; line-height: 100%;">Baker Theatre</li>
+<li style="font-size: 85%; line-height: 100%;">Studio Theatre (Black Box)</li>
+<li style="font-size: 85%; line-height: 100%;">Box Office</li>
+</ol>
+</li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/1eBJBV0Odyc7y4KVHMtYp_Of309inP605/view?usp=sharing" target="_blank">Trexler Pavilion ‚&gt; Baker Center for the Arts</a><br>
+<ol style="font-size: 85%; line-height: 100%;">
+<li style="font-size: 85%; line-height: 100%;">Box Office</li>
+<li style="font-size: 85%; line-height: 100%;">Studio Theatre (Black Box)</li>
+<li style="font-size: 85%; line-height: 100%;">Baker Theatre</li>
+<li style="font-size: 85%; line-height: 100%;">Empie Theatre</li>
+</ol>
+</li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/open?id=1HrhCD0O_0sbn9wZsDuR590MH7FytXB_T" target="_blank">Brown Dance Studio</a></li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/1gf7TSW5DsGmFaqrzsSg1aFD5hMiDiXwf/view?usp=sharing" target="_blank">CA 226 ‚ The Tap Box</a>&nbsp;(Center for the Arts)</li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/open?id=16zJqWetq5zmjwxyqh02pnIbavItLt05O" target="_blank">Dance Wellness Center &amp; Pilates Studio</a></li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/18OJm-eJCmifCc0Tz-dKKRy2giejK1ziY/view?usp=sharing" target="_blank">Hillside House &amp; Rehearsal House</a></li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/1307V32Dqg0IGViKOirWHNBoM4QhEhr5u/view?usp=sharing" target="_blank">Lav Lounge / Lavender Lounge / Green Room</a></li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/1klpVcf5_ybiVk9ZzzX7RdKMP4smEYuSC/view?usp=sharing" target="_blank">Theatre &amp; Dance Offices</a></li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/1_EgBTOdZ-QiMlIDeUN5iQSYpkiONQ9dA/view?usp=sharing" target="_blank">Scene Shop</a>&nbsp;&amp; Environs<br>
+<ol style="font-size: 85%; line-height: 100%;">
+<li style="font-size: 85%; line-height: 100%;">Scene Shop</li>
+<li style="font-size: 85%; line-height: 100%;">Damon Gelb's Office</li>
+<li style="font-size: 85%; line-height: 100%;">Eric Covell's Office</li>
+<li style="font-size: 85%; line-height: 100%;">Loading Dock</li>
+<li style="font-size: 85%; line-height: 100%;">Dumpster</li>
+</ol>
+</li>
+<li style="font-size: 85%; line-height: 100%;"><a href="https://drive.google.com/file/d/1Md2jYmSTP5mjTetM9el_1Fo7V4fem1Wk/view?usp=sharing" target="_blank">Other Tech Locations</a> in the Center for the Arts<br>
+<ol style="font-size: 85%; line-height: 100%;">
+<li style="font-size: 85%; line-height: 100%;">the Vault (electrics)</li>
+<li style="font-size: 85%; line-height: 100%;">Paul Theisen's Office</li>
+<li style="font-size: 85%; line-height: 100%;">Prop Storage</li>
+</ol>
+</li>
+<li style="font-size: 85%; line-height: 100%;">Bonus Round!&nbsp;<a href="https://drive.google.com/file/d/1zIWNRQTHBhEcwdJVrIomhZYHCrADv3Jj/view?usp=sharing" target="_blank">The Baker Closet</a></li>
+</ol>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#TwoRule2" 
+     aria-expanded="false" 
+     aria-controls="TwoRule2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="TwoRule">
+      <p class="panel-title pull-left">
+          Performance & Production Policy (Erstwhile 'Two-Rule')
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="TwoRule2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="TwoRule">
+    <div class="panel-body">
+        <h4 style="margin-top: 0px;">Performance &amp; Production Policy<br>(formerly known as 'The Two-Rule')</h4>
+<p style="font-size: 90%;">MTA members enrolled in any number of studio courses may be involved in only one production of any classification (except for Performance Ensembles) per semester, on or off campus. A member who is not enrolled in a studio course may be involved in up to two productions of any classification per semester, on or off campus. Members may be involved as designers in up to three productions of any classification, on or off campus.</p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

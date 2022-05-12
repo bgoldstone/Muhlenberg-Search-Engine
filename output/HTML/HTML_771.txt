@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Course Listing | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Course Listing">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/education/">Education (certification)</a></li><li class="linkitem"><a href="/academics/education/courselisting/">Course Listing</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Course Listing</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_2">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/education/">Education (certification)</a></li><li class="linkitem"><a href="/academics/education/courselisting/">Course Listing</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Course Listing</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Course Listing">
+							<span class="sub_nav_handle_label">Course Listing</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/education/missionandlearninggoals/">Mission and Learning Goals</a></li><li class="sub_nav_item"><a href="/academics/education/faculty/">Faculty</a></li><li class="sub_nav_item"><a href="/academics/education/whymuhlenberg/">Why Muhlenberg?</a></li><li class="sub_nav_item"><a href="/academics/education/fieldwork/">Fieldwork</a></li><li class="sub_nav_item"><a href="/academics/education/studentteaching/">Student Teaching</a></li><li class="sub_nav_item"><a href="/academics/education/lifeafterberg/">Life After 'Berg</a></li><li class="sub_nav_item"><a href="/academics/education/researchandscholarship/">Research and Scholarship</a></li><li class="sub_nav_item"><a href="/academics/education/programrequirements/">Program Requirements</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/education/courselisting/">Course Listing</a></span></li><li class="sub_nav_item"><a href="/academics/education/resourcesandlinks/">Resources and Links</a></li><li class="sub_nav_item"><a href="/continuingstudies/programcourseofferings/teachercertification/">Teacher Certification for Adult Students</a></li><li class="sub_nav_item"><a href="/academics/education/contactinformation/">Contact Information</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/education/">Education (certification)</a></li><li class="linkitem"><a href="/academics/education/courselisting/">Course Listing</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Course Listing</h2>
+  <h3>&nbsp;</h3>
+<h3>Foundational Courses<span style="font-size: 12px;">&nbsp;</span></h3>
+<div class="content-add05">
+<p><strong>101. History &amp; Politics of American Education</strong></p>
+<p>This course examines the larger historical and sociopolitical forces that have shaped the rise and development of the institutional school in America. Beginning with Jeffersonian America through the late industrial period to the present day, the course traces changes in the political economy and how these changes have influenced educational policy and practice, such as rise of the common school and educational policy debates regarding the appropriate role of education in a democratic industrial and plural society. The course also addresses how schools interpret, translate, and transfer American culture through the overt and covert curriculum as well as public policy by studying the various conflicting aims of education in a democracy. The purpose of the course is to develop the studentsâ potential for thinking critically about American education and its institutions in preparation for ethical citizenship and/or educational leadership.</p>
+<p>Meets general academic requirement SL.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>104, 105. Educational Psychology: Child Learning &amp; Development</strong></p>
+<p>This course reflects knowledge derived from theory, research, and professional practice as it covers the physical, cognitive, and socio-emotional development of infants and children (birth-9 years old) and the impact of this study for teaching and learning. In addition to classic developmental theorists (Piaget, Vygotsky, and Erikson among others), students will explore a variety of topics that impact the child as learner at these stages of development, including but not limited to attachment, brain development, memory, fantasy and the imagination, the arts as a way of knowing, play behavior, friendship, the development of empathy, early understandings of justice, the use of public and private space, transition from home to school, and children in relation to authority. Fieldwork is required.</p>
+<p>Prerequisite(s): provisional admission to the program or permission of the instructor.</p>
+<p>Meets general academic requirement SL (and W when offered as 105).</p>
+<p>&nbsp;</p>
+<p><strong>106, 107. Educational Psychology: Adolescent Learning &amp; Development</strong></p>
+<p>This course reflects knowledge derived from theory, research, and professional practice as it covers cognitive, social, and personal development and the psychology of teaching and learning. We will use our classroom as an âexperimentâ in methods of teaching, learning, and educating ourselves about the sociopolitical contexts for development and learning in American classrooms. The focus of this course is on the developmental changes and challenges that occur approaching and during the adolescent years. We will explore both what is understood as âtypicalâ adolescent development as well as the ways in which individual adolescent experience may be unique. We will view the adolescent in a range of social contexts (e.g., &nbsp;family, peer group, school, culture) as we consider how issues of diversity (i.e., race, culture, class, gender, sexual identity) impact learning, and development. Fieldwork is required.</p>
+<p>Prerequisite(s): Provisional admission to the program or permission of the instructor.</p>
+<p>Meets general academic requirement SL (and W when offered as 107).</p>
+<p>&nbsp;</p>
+<p><strong>191, 192. The Arts in Education</strong></p>
+<p><span>In this course students will examine the arts as a way of perceiving the world, reflecting and challenging cultural norms, and expressing and learning new ideas.&nbsp; Through a primarily studio experience, students will have an opportunity to engage in a variety of art forms (the visual arts, movement, music, and drama) as part of the process of learning an aesthetic language.&nbsp; Recent advances in the field of neuroscience, psychology, education, and cultural studies help to illuminate both theory and practice.</span></p>
+<p><span></span><span></span>Prerequisite(s): Provisional admission to the program or permission of the instructor.</p>
+<p>Meets general academic requirement AR (and W when offered as 191).</p>
+<p>&nbsp;</p>
+<p><strong>201. Introduction to Special Education: Diverse Learners &amp; Inclusive Classrooms</strong></p>
+<p>This course is designed to broaden knowledge and understanding about students with disabilities and how they develop and learn. Emphasis is placed on the roles and responsibilities of regular education teachers in meeting the needs of these students in order to create positive inclusive learning environments as informed by relevant research. The course introduces the preservice teachers to topics including health impairments, intellectual disabilities, learning disabilities, ADHD, emotional disturbance, autism, sensory impairments, physical disabilities, and giftedness. These topics are examined from the perspective of causation, diagnosis, cognitive and social-emotional characteristics, learning styles, early intervention, and differentiated instructional strategies with a focus on meeting the needs of students in the context of the regular classroom. The role of the regular classroom teacher in the referral/evaluation process and working with appropriate school personnel and families is emphasized. Also examined are multicultural and bilingual issues as they pertain to special education. Fieldwork is required.</p>
+<p>Prerequisite(s): Provisional admission to the program or permission of the instructor.</p>
+<p>Meets general academic requirement SL.</p>
+<p>&nbsp;</p>
+<p><strong>202. Introduction to Early Childhood Education</strong></p>
+<p>This course presents the history, philosophy, and theory of early childhood education and surveys major models and programs that educate young children, including Bank Street (traditional nursery), Montessori (child-centered), and DISTAR (direct instruction) among others. It focuses on the role of the teacher in designing, organizing, and implementing educational programs for children in preschools, kindergartens, and early elementary grades as informed by the recommendation of professional organizations such as the National Association for the Education of Young Children (NAEYC). Fieldwork is required.</p>
+<p>Prerequisite(s): Provisional admission to the program.</p>
+</div>
+<h3>&nbsp;</h3>
+<h3>Methods Courses&nbsp;</h3>
+<div class="content-add05">
+<p><strong>204. Integrating Curriculum &amp; Instruction for Young Learners</strong></p>
+<p>This course focuses on understanding educational research, theory, and reflective practice in planning for and implementing content- and age-appropriate instructional strategies resulting in the effective teaching of diverse young learners (ages 4-9). This includes an investigation of a range of the essential teaching skills, including the planning, implementation, and adaptation of meaningful instruction and the development of a supportive learning environment. Students are introduced to a broad range of research-based teaching methodologies, classroom management strategies, and fair assessment techniques. Focusing on the conceptual understanding of big ideas, students will use national, state, and district standards to plan, implement, and adapt lessons and units in early grades. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 104 or 105 Educational Psychology: Child Learning &amp; Development and provisional admission to the program.</p>
+<p>&nbsp;</p>
+<p><strong>206. Integrating Curriculum &amp; Instruction for Adolescent Learners</strong></p>
+<p>This course focuses on understanding educational research, theory, and reflective practice in planning for and implementing content- and age-appropriate instructional strategies resulting in the effective teaching of diverse adolescent learners (ages 9-18). This includes an investigation of a range of the essential teaching skills, including the planning, implementation, and adaptation of meaningful instruction and the development of a supportive learning environment. Students are introduced to a broad range of researchbased teaching methodologies, classroom management strategies, and fair assessment techniques. Focusing on the conceptual understanding of big ideas, students will use national, state, and district standards to plan, implement, and adapt lessons and units in their content areas. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 106 or 107 Educational Psychology: Adolescent Learning &amp; Development and provisional admission to the program.</p>
+<p>&nbsp;</p>
+<p><strong>211, 212.&nbsp;Inclusive Education for Emergent Bilingual Students</strong></p>
+<p><span>The purpose of this course is to prepare preservice teachers to create equitable learning environments for emergent bilingual students (often referred to as English learners) in preK-12 school settings. In doing so, the course content is approached from a transformative paradigm, where we engage in analysis of school systems, program, and instructional approaches for emergent bilinguals and critique the ways in which schools and teachers maintain linguistic hierarchies. In doing so the course draws from the research on instructional design and assessment, applied linguistics and second language acquisition, sociology of language, and anthropology of (language) education. Topics covered include linguistic racism, language ideologies, culturally sustaining pedagogy, translanguaging pedagogy, co-teaching and sheltered instruction, and integrated language and content instruction. Students will be expected to develop theoretical knowledge as well as demonstrate practical skills through analyzing, planning, and delivering lessons. Twenty hours of fieldwork in a K-12 school are required.</span></p>
+<p>Prerequisite(s): Provisional admission to the program.</p>
+<p>Meets general academic requirement DE and IL when enrolled concurrently with GEO 102 World Geography.</p>
+<p>&nbsp;</p>
+<p><strong>326. Language &amp; Early Literacy</strong></p>
+<p>This course aims to provide an understanding of language and early literacy development of diverse young children (birth to age 9). Theories of first language acquisition provide a framework for understanding stages of oral language development and functions of oral language. The relationship between language acquisition and reading and writing processes are explored through the emergent literacy perspective. Topics in early literacy development include print awareness, phonemic/phonological awareness, phonics instruction, decoding and oral reading fluency, and developmental writing. These theoretical backgrounds inform various instructional approaches to early literacy instruction such as constructivism/whole language, balanced literacy program, and guided reading. This course also offers an overview of childrenâs literature, including an introduction to the genres, notable books and authors, and resources for incorporating childrenâs literature in literacy education programs. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 204 Integrating Curriculum &amp; Instruction for Young Learners and formal admission to the Education Certification Program.</p>
+<p>Meets general academic requirement W.</p>
+<p>&nbsp;</p>
+<p><strong>327, 328. Literacy &amp; Social Studies Education</strong></p>
+<p>This course focuses on literacy development and instruction in grades 3-8, particularly on construction of meaning during the reading and writing processes. Topics of study in this course include reader response theories, theories of comprehension, comprehension strategies (such as inferring and summarizing), and vocabulary development and instruction. The course has an emphasis on content area literacy with an introduction to instructional strategies and activities to promote content area learning. Writing theories and instruction are presented through model frameworks and programs. In addition, this course will provide perspectives, methodologies, and philosophies of teaching social studies as a content area subject in the elementary and middle schools. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 204 Integrating Curriculum &amp; Instruction for Young Learners or EDU 206 Integrating Curriculum &amp; Instruction for Adolescent Learners and formal admission to the Education Certification Program.</p>
+<p>Meets general academic requirement W when offered as 328.</p>
+<p>&nbsp;</p>
+<p><strong>330. Social Studies Education for Adolescent Learners</strong></p>
+<p>This course presents the history and development of social studies in middle and high schools. It provides both an historical and political context to study the best teaching practices in the disciplines at the heart of social studies: American and Pennsylvania history, world history, civics, economics, and geography. With a focus on state and national standards in these disciplines, including the themes from the National Council for the Social Studies, students will develop lesson plans, instructional strategies, and assessments for diverse learners and will learn to supplement the textbook with primary sources, newspapers, websites, and curricula developed by professional national organizations. Relevant to content certification. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 206 Integrating Curriculum &amp; Instruction for Adolescent Learners and formal admission to the Education Certification Program.</p>
+<p>&nbsp;</p>
+<p><strong>334. Mathematics Education for Young Learners</strong></p>
+<p>This course will analyze the content, pedagogy, and management of the Pre-K to grade 4 mathematics curricula in diverse classrooms. Emphasis will be placed on how young children learn mathematics, problem solving, reasoning and proof; communication; making connections within mathematics and with the world outside the classroom; multiple representations; and research based instructional strategies, all within the context of developing number sense, operations, patterns and functions, geometric shapes, data analysis &nbsp;and probability, and measurement. Students will use national, state, and district standards to plan, implement, and adapt lessons for the early grades. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 204 Integrating Curriculum &amp; Instruction for Young Learners and formal admission to the Education Certification Program.</p>
+<p>&nbsp;</p>
+<p><strong>336. Mathematics Education for Adolescent Learners</strong></p>
+<p>This course presents theories and practices of teaching mathematics in middle and high school classrooms with focus on 1) discrete and integrated mathematics knowledge such as algebra, geometry, statistics, and probability; 2) pedagogy; and 3) curriculum design. Course content includes learning theories, national and state standards for the mathematics school curriculum, planning and material development skills, assessment, use of appropriate technology, and classroom management. Relevant to content certification. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 206 Integrating Curriculum &amp; Instruction for Adolescent Learners and formal admission to the Education Certification Program.</p>
+<p>&nbsp;</p>
+<p><strong>344. Science Education for Young Learners</strong></p>
+<p>This course will enable the student to develop a professional practice as a science educator based on the best current knowledge about how young children learn science, the nature of science, and research-based methods of science teaching. Emphasis will be placed on developing inquiry oriented pedagogical strategies that foster childrenâs natural curiosity; building an understanding of the nature of science; creating curricula, materials, and resources for instruction in diverse classrooms; devising authentic experiences with scientific questions and phenomena, and using assessment in the service of instruction, all within the framework of the PA Academic Standards for Science &amp; Technology and for Environment &amp; Ecology. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 204 Integrating Curriculum &amp; Instruction for Young Learners and formal admission to the Education Certification Program.</p>
+<p>&nbsp;</p>
+<p><strong>346. Science Education for Adolescent Learners</strong></p>
+<p>This course will enable the student to develop a professional practice as a science educator based on the best current knowledge about how adolescents learn science, the nature of science, and research-based methods of science teaching. Emphasis will be placed on incorporating inquiry oriented pedagogical strategies that encourage student-generated scientific questions; developing basic and integrated process skills to answer scientific questions; building an understanding of the nature of science; creating curricula, materials, and resources for instruction in diverse classrooms, devising hands-on experiences with scientific questions and phenomena, focusing on collecting and interpreting authentic data, and using assessment in the service of instruction, all within the framework of the PA Academic Standards for Science and Technology and for Environment and Ecology. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 206 Integrating Curriculum &amp; Instruction for Adolescent Learners and formal admission to the Education Certification Program.</p>
+<p>&nbsp;</p>
+<p><strong>362. Languages Education</strong></p>
+<p>This course will prepare students to be a teacher of foreign languages in grades K-12. Topics include school contexts for language learning, processes of secondary language acquisition, exemplary instructional strategies, and professional resources for curriculum and instruction. Students will be actively engaged in fieldwork placements to put the knowledge gained in the course into effective practice. By the end of the course, students will develop a philosophy of teaching languages and gain a repertoire of strategies that will make them effective teachers of languages. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 206 Integrating Curriculum &amp; Instruction for Adolescent Learners and formal admission to the Education Certification Program.</p>
+<p>&nbsp;</p>
+<p><strong>363. English Education for Adolescent Learners</strong></p>
+<p>This course is designed to provide advanced instruction in preparation for a teaching career by focusing on providing theoretical background and practical guidance specifically targeted to secondary English teachers. Based on the understanding that learning is more concurrent than sequential, the course examines effective strategies to prepare, execute, and continually reflect on lessons used in the teaching of English. Students will have an opportunity to articulate their vision as English teachers, to develop a working knowledge of the various teaching theories and strategies, and to apply and evaluate instructional practices and theories to determine those which will best facilitate attainment of their vision. Relevant to content certification. Fieldwork is required.</p>
+<p>Prerequisite(s): EDU 206 Integrating Curriculum &amp; Instruction for Adolescent Learners and formal admission to the Education Certification Program.</p>
+<p>&nbsp;</p>
+<p><strong>370. Urban Ethnography</strong></p>
+<p>The focus of this interdisciplinary course is on the relevance of the qualitative research method of Ethnography for exploring issues pertaining to youth in urban contexts. We will explore the complex relationships among schooling, social structure, and culture through research projects conducted by course participants. Students will be taught methods of data collection and analysis, including how to examine research subjectivities, âgain entryâ in the field, manage data, frame assertions, seek confirming and disconfirming evidence, consider diverse audiences for reporting, and try out various narrative styles and voices in their interpretive writing. This course has been relevant to students interested in youth and urban issues across a variety of majors, including Art, Theatre, Dance, Media and Communication, English, Sociology, Psychology, Spanish, and American Studies.</p>
+<p>Meets general academic requirement W.</p>
+<p>&nbsp;</p>
+<p><strong>410. Seminar in Assessment &amp; Evaluation</strong></p>
+<p>This course is designed to provide an overview of developmentally appropriate assessment/evaluation issues, techniques, and practices. Both on-going informal and formal assessment as integral to the teaching and learning process are emphasized. The course examines topics including formative and summative assessment, teacher made tests, standardized testing, alternative/authentic assessment techniques, grading practices, and parent conferences. The course introduces ways in which technology can be integrated into the assessment and evaluation process. Throughout the course, students are encouraged to think critically about the issues surrounding assessment within the context of educational practices and political realities.</p>
+<p>Prerequisite(s): Admission to professional semester.</p>
+<p>&nbsp;</p>
+<p><strong>420. Seminar in Professional Studies &amp; Community Education</strong></p>
+<p>As part of the Professional Semester, this course will provide teacher candidates an overview of the education profession with an emphasis on studies and experiences connected with individual teacher professionalism and ethical practice. The course will investigate issues confronting the professional educational community, such as standardized testing, school reorganization, and appropriate school/ community/family relationships in the context of the rights and responsibilities of the professional teacher. Other topics of exploration will include Pennsylvania school law (i.e. Chapter 4: Academic Standards and Assessment; Chapter 11: Student Attendance; and Chapter 12: Students and Student Services) and national professional organizations and standards.</p>
+<p>Prerequisite(s): Admission to professional semester.</p>
+<p>&nbsp;</p>
+<p><strong>550 &amp; 551. Practicum in Education I &amp; II</strong></p>
+<p>These courses are designed to provide an in-depth study of contemporary educational issues in public schools through a full-time classroom experience. The topics of study will include curriculum, standards, planning, assessment, and classroom management. These courses do not meet the requirements for PA certification. The courses are open only to students with permission from the Education Department.</p>
+<p>Prerequisite(s): EDU 204 Integrating Curriculum &amp; Instruction for Young Learners or EDU 206 Integrating Curriculum &amp; Instruction for Adolescent Learners and EDU 201 Introduction to Special Education: Diverse Learners &amp; Inclusive Classrooms.</p>
+<p>&nbsp;</p>
+<p><strong>950 &amp; 951. Student Teaching I &amp; II</strong></p>
+<p>Student teaching is the core component of the professional semester. As interns in the public schools, students have the opportunity to apply the content knowledge and pedagogical skills gained in their academic preparation to actual classroom situations. Lesson and unit planning as well as assessment and classroom management skills are honed with the support of a mentor teacher and a college supervisor. Daily seminars prior to student teaching focus on differentiated instruction, questioning strategies, lesson planning, meeting the needs of a diverse public school population, and strategies to enhance student motivation. Weekly seminar sessions during the semester provide the student teachers with a forum to reflect analytically on their classroom experiences as they develop their professional skills and voice. This semester consists of two full-time teaching experiences in grade levels appropriate to the area of certification.</p>
+<p>Prerequisite(s): Admission to the professional semester.</p>
+</div></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

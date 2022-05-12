@@ -1,0 +1,1217 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>The Particular Past | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="The Particular Past">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/learningenvironments/">Learning Environments</a></li><li class="linkitem"><a href="/gallery/">Martin Art Gallery</a></li><li class="linkitem"><a href="/gallery/pastexhibitions/">Past Exhibitions</a></li><li class="linkitem"><a href="/gallery/pastexhibitions/theparticularpast/">The Particular Past</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">The Particular Past</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts740x317.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts555x740.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts980x552.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1440x810.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts740x317.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts555x740.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts980x552.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1440x810.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/learningenvironments/">Learning Environments</a></li><li class="linkitem"><a href="/gallery/">Martin Art Gallery</a></li><li class="linkitem"><a href="/gallery/pastexhibitions/">Past Exhibitions</a></li><li class="linkitem"><a href="/gallery/pastexhibitions/theparticularpast/">The Particular Past</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">The Particular Past</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="The Particular Past">
+							<span class="sub_nav_handle_label">The Particular Past</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/gallery/aboutthemartinartgallery/">About the Martin Art Gallery</a></li><li class="sub_nav_item"><a href="/gallery/upcomingexhibitions/">Upcoming Exhibitions</a></li><li class="sub_nav_item"><a href="/gallery/visitingartistlectures/">Visiting Artist Lectures</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/gallery/pastexhibitions/">Past Exhibitions</a></span></li><li class="sub_nav_item"><a href="/gallery/thepermanentcollection/">The Permanent Collection</a></li><li class="sub_nav_item"><a href="http://sal.muhlenberg.edu:8080/librarydspace/handle/10718/800">Search the Permanent Collection</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/learningenvironments/">Learning Environments</a></li><li class="linkitem"><a href="/gallery/">Martin Art Gallery</a></li><li class="linkitem"><a href="/gallery/pastexhibitions/">Past Exhibitions</a></li><li class="linkitem"><a href="/gallery/pastexhibitions/theparticularpast/">The Particular Past</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p style="text-align: center;"><em><strong>The Particular Past</strong></em></p>
+<p style="text-align: center;"><img src="/media/contentassets/images/about/gallery/Foeiqua for web-1-460x581.jpg" alt="" style="  padding : 4px;   float : center;" /><br>Image: unauthorized copy of Gilbert Stuart's portrait of Washington&nbsp;&nbsp;Foeiqua [Chinese],&nbsp; &nbsp;1800 - 1805,&nbsp;Reverse painting on glass.&nbsp;&nbsp;From Muhlenberg's Florence Foerderer Tonner Collection</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: justify;"><strong>Martin Art Gallery: The Particular Past</strong>,&nbsp;In the Galleria Space: 2.14 ‚ 5.20, Opening Reception 2.14 5 ‚ 6:30pm</p>
+<p style="text-align: justify;">Featuring works from the collection, and works by&nbsp;Tom Bendtsen, Foeiqua, Sharka Hyland, Andrew E. Johnson, Bang Geul Han, Donald Porcaro, Jessica Posner, Jessica Walker,&nbsp;curated by Martin Art Gallery Director Paul M. Nicholson</p>
+<p style="text-align: justify;"><em><strong>The Particular Past</strong></em>&nbsp;explores the spaces between knowledge and belief.&nbsp;&nbsp;By rewriting and reimagining past and present, these artists embody our political and cultural moment where expertise, truth, and even the past are malleable.&nbsp;&nbsp;Shifting between witness and advocate, these artists alternately illuminate and gaslight their way through a conversation on the value of knowledge.&nbsp;</p>
+<p style="text-align: justify;">We are in a time where ideology trumps truth, all evidence is suspect, and social and institutional trust seem like notions of the past.&nbsp;&nbsp;&nbsp;In this moment of seemingly capricious truth,&nbsp;<em>The Particular Past</em>&nbsp;does not acquiesce and ebb toward postmodernity, but embraces open discussion.&nbsp;&nbsp;&nbsp;Artists in this exhibition demonstrate the tension between deities and defiance through objects, ideas, and experiences helps us&nbsp;come to terms with this moment of radical social and political change.&nbsp;&nbsp;In an effort to understand this epic shift in ho we see the world, this exhibition functions as an act of collective introspection.</p>
+<p style="text-align: justify;">Jessica Walker and Jessica Posner interrogate historical narratives through a subversive cultural lens, employing stereotypes to survey the body politic.&nbsp;&nbsp;&nbsp;Layered constructions by Tom Bendtsen and Donald Porcaro intermingle foundations of knowledge with the fundamentals of civilization.&nbsp;&nbsp;&nbsp;Manicured forms create structures that act as architectonic talismans of paper and stone.</p>
+<p style="text-align: justify;">Sharka Hyland presents visions of America through pencil drawings that explore how literary language transcends the distinction between the verbal and the visual.&nbsp;Bang Geul Han projects a more jarring reality through her 2017 piece&nbsp;<em>Through the Gaps Between My Teeth</em>,&nbsp;which deconstructs the transcript from President Trump‚s Access Hollywood tape, using his transgressive words in a generative animation that reassembles the text to form accounts of sexual assault posted on Twitter.</p>
+<p style="text-align: justify;">Andrew Ellis Johnson‚s&nbsp;<em>Strewn&nbsp;</em>shows pigs in a field of books, rooting around, eating, lounging in a muddy library.&nbsp;&nbsp;Johnson notes about this piece that <em>‚In fiction, swine have acted as agents of both revolution and repression; in reality, they have been agents of anti-intellectualism. During Pol Pot‚s regime in Cambodia, the National Library was used as a stable and piggery. Its books fueled cooking fires, their pages rolled for cigarette papers. ‚¶ The uneducated were glorified - as they are in other countries today.‚</em></p>
+<p style="text-align: justify;">Works in&nbsp;<em>The Particular Past</em>&nbsp;question the broader implications of our actions and attitudes toward truth and justice.&nbsp;&nbsp;Looking to the past for inspiration, these artists work within a critical framework that aspires to an ethical, just, and self-aware humanism rooted in democratic principles.</p>
+<p style="text-align: justify;">Click <a href="http://www.mcall.com/entertainment/mc-ent-muhlenberg-college-art-system-failure-katya-grokhovsky-20180226-story.html">here</a>&nbsp;to see the Morning Call's exhibition review of the Particular Past</p>
+<p style="text-align: justify;"><strong>Artist Bios:</strong></p>
+<p style="text-align: justify;">Tom Bendtsen was born in Copenhagen Denmark, raised in Canada. He did his undergraduate work at OCAD in Toronto, before completing an MFA at SUNY Buffalo in 2003.&nbsp;&nbsp;He has exhibited his works at the Albright-Knox gallery in Buffalo, N.Y., Grounds for Sculpture in Hamilton N.J., Southern Alberta Art gallery in Lethbridge, The Rooms in St Johns NFLD, OpenSpace in Victoria B.C. Canada.&nbsp;&nbsp;He has also exhibited at the Koffler Gallery, Mercer Union, and has contributed to a variety of self generated exhibitions in the Toronto area. He was a featured artist at Toronto‚s 2008 Nuit Blanche and 2009 Luminato festivals of contemporary art. His films have been widely screened in Europe, Canada and the&nbsp;USA. He has also received grants from the Toronto; Ontario and Canada council for the Arts and in 2006 was awarded a Chalmers Art Fellowship.&nbsp;&nbsp;He is currently lives and works in Philadelphia.</p>
+<p style="text-align: justify;">Bang Geul Han‚s work has recently been exhibited as part of Bronx Calling: The Fourth Aim Biennial at the Bronx Museum of Arts, NYC; Queens International 2016 at Queens Museum,&nbsp;NYC; and Play: Power at the Pulse Contemporary Art Fair in Miami, FL. Han is the recipient of numerous artist residencies and fellowships including the Lower Manhattan Cultural Council‚s&nbsp;Workspace program (2011-2012), MacDowell Colony (2009) and Skowhegan School of Painting and Sculpture (2007). Han is the 2017-2018 Visual Artist Fellow at the Center for the&nbsp;Emerging Visual Artists in Philadelphia, PA.&nbsp;Han holds an MFA in Electronic Integrated Art from Alfred University and BFA in Painting from Seoul National University in Seoul, Korea. She lives and works in New York City.</p>
+<p style="text-align: justify;">Sharka Hyland‚s recent solo&nbsp;exhibitions include Musik: Atem der Statuen at Galerie Dittmar, Berlin, Germany, Les Phares at The American Gallery, Marseille, France, and ‚this thing we call a city‚ at Gallery Joe, Philadelphia, PA. Her work is currently on view in Buchwelten at Altana Foundation, Bad Homburg, Germany and in PaarWeise at Galerie Martin Kudlek, Cologne, Germany. Hyland is a 2015 Bader Fund Grantee for her project on David Foster Wallace. In the same year she was a Civitella Ranieri Visual Arts Fellow in Umbria, Italy.</p>
+<p style="text-align: justify;">Hyland received her MFA from Yale University School of Art in graphic design (1988). She studied art history at √cole du Louvre, Paris (1992) and comparative literature at Albert-Ludwig University, Freiburg, Germany (1983). Born in 1954 in Czechoslovakia, Hyland immigrated to the US in 1984, and lives and works in Philadelphia.</p>
+<p style="text-align: justify;">Don Porcaro is a New York-based sculptor whose work explores the nature of human interaction with the physical world through architecture and man-made objects like tools and toys. His work has been exhibited nationally and internationally, and has been reviewed in The New York Times, Sculpture Magazine, Art in America, Artnews, BOMB and Newsday, among others. In 2007 he was the subject of a featured profile in Sculpture magazine, and in 2011 was the U.S. representative at the 50th Forma Viva International Sculpture Symposium in Portoroz, Slovenia. He was nominated in 2013 for the International Sculpture Center‚s prestigious Educator of the Year Award, and is the recipient of a 1991 Teaching Excellence Award from Parsons the New School for Design, where he has been a professor of Fine Arts since 1986. Porcaro received his MFA in Sculpture from Columbia University.</p>
+<p style="text-align: justify;">Jessica Posner (b. 1985, Boynton Beach, FL, USA) is a feminist, multidisciplinary artist, writer, and healer. She weaves together humor, poetic devices, and sociopolitical context through absurd, poignant works that model emotionally honest, non-judgmental, and resilient relationships to our bodies, language, and presence. Recent exhibitions, performances, and screenings include the Everson Museum of Art (Syracuse, NY), Leslie-Lohman Museum of Gay and Lesbian Art PSPS (NYC), La Mama Galleria (NYC), Movement Research at Judson Church (NYC), Yale School of Art (Hartford, CT), Alfred University (Alfred, NY), and PULSE PLAY Miami Beach (Miami, FL). In 2017, Posner was an Artist-in-Residence for the Everson Museum of Art‚s ‚Seen &amp; Heard: An Active Commemoration of Women‚s Suffrage‚ exhibition, for which she produced the VENUS butter sculpture. Her 40-minute experimental performance film BUTTER BODY POLITIC (2017)‚which culminates four years of Posner's performance-based research into butter as a metaphor for a delicious, slippery, fat, feminist, queer, resilient body politic‚received a 2016 CNY Arts Individual Artist Commission, a regrant program of the New York State Council on the Arts (NYSCA) administered by CNY Arts.</p>
+<p style="text-align: justify;">Posner received an MFA in Fine Arts from Parsons The New School for Design in 2013. She currently lives and works in Syracuse, NY where she teaches art and writing as a Humanities Faculty Fellow at Syracuse University and Lecturer at Colgate University.</p>
+<p style="text-align: justify;">Andrew Ellis Johnson‚s&nbsp;work has appeared in galleries, festivals, public collaborations, conferences, and publications in the Americas, Europe, Asia and the Middle East. He has performed as co-founder of the collective PED in Buffalo, Belfast, Chongqing, Rio de Janeiro, St. John‚s, and Toronto. Residencies and exchanges over the last decade include those at: Korean National University of the Arts, Seoul; Blue Mountain Center, New York; University of the Arts London, Camberwell; Fayoum International Art Center, Egypt; and Sites of Passage in Jerusalem/Ramallah/ Pittsburgh.&nbsp;He studied at the School of the Art Institute of Chicago (BFA) and Carnegie Mellon University (MFA) in Pittsburgh, where he is Associate Professor of Art.&nbsp;</p>
+<p style="text-align: justify;">Jessica Walker is a multidisciplinary artist from Virginia who lives and works in Brooklyn. Her Appalachian upbringing is the focus of recent work through which she interrogates white racial stereotypes. She received her BA in Art History from the University of Virginia and her MFA in Conceptual Information Arts from San Francisco State University. She is an Assistant Professor at Parsons School of Design in New York.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="/media/contentassets/images/about/gallery/collection/particularpast/porcaro_talismans-460x260.JPG" alt="" style="   margin : auto; display: block; " /></p>
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 200px; text-align: center;">
+<p><span>Donald Porcaro<br></span><em><span>Talisman 1</span></em><span>, 2012<br></span>Marble and brass<br>67 x 24 x 20‚</p>
+</td>
+<td style="width: 200px; text-align: center;">
+<p><span>Donald Porcaro<br></span><em><span>Talisman 13</span></em><span>, 2015<br></span>Limestone, marble, brass<br>55 x 21 x 17‚</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><span><br>Don Porcaro synthesizes form and content in his<span>&nbsp;</span><em>Talisman</em><span>&nbsp;</span>series (2012 ‚ present), where deposits of shaped stone and brass form enigmatic sentinels.<span><span>&nbsp;</span></span>The incised and stacked rock strata results in something that is both familiar but mysterious.<span>&nbsp;</span>Porcaro‚s stylized forms, complete with feet, a ‚body‚, and topped with an array of polished brass of uncertain utility result in something the feels like a combination of history and culture.<span><span>&nbsp;</span></span>Employing rock formed over millennia, then shaped into a ritualistic monument, the artist forces us to contemplate whether this is a credible historical artifact or a new article capable of divination.Layered constructions by Tom Bendtsen and Donald Porcaro intermingle foundations of knowledge with the fundamentals of civilization. Manicured forms create structures that act as architectonic talismans of paper and stone.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p><span><img src="/media/contentassets/images/about/gallery/collection/particularpast/The Particular Past Robert Tom Andrew-460x345.JPG" alt="" style="   margin : auto; display: block; " /></span></p>
+<p style="text-align: center;"><span>Left: Robert Rauschenberg (1925 ‚ 2008)<br></span><em><span>Mock Pollen</span></em><span>, 1979<br></span>Solvent print on canvas<br>Martin Art Gallery, Gift of Dr. Barry Altman, class of ‚54</p>
+<p style="text-align: center;"><span>Center: Tom Bendtsen<br></span><em><span>Conversation #6,<span>&nbsp;</span></span></em><span>2018<br></span>8332 books, coal, mushrooms</p>
+<p style="text-align: center;"><span>Right: Andrew Ellis Johnson<br></span><em><span>STREWN</span></em><span>, 2015,<br></span>HD Video, 5:02 minutes</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img src="/media/contentassets/images/about/gallery/collection/particularpast/The Particular Past TomBendtsenConversation6-460x345.JPG" alt="" style="   margin : auto;  " />&nbsp;</p>
+<p style="text-align: center;"><span>Tom Bendtsen<br></span><em><span>Conversation #6,<span>&nbsp;</span></span></em><span>2018<br></span>8332 books, coal, mushrooms</p>
+<p style="text-align: justify;"><span>In his earlier&nbsp;<em>Argument</em><em>&nbsp;</em>series (1995 ‚ 2003), Bendtsen combined form and order through architectonic book stacking to create monuments to arguments.&nbsp;<em>Arguments</em>&nbsp;employed&nbsp;obsessive ordering by subject, as history was indexed spatially.</span></p>
+<p style="text-align: justify;"><span>In his more recent<em><span>&nbsp;</span>Conversations</em><span>&nbsp;</span>(2004 ‚ present), structures have focused on surface image, disregarding subject. These<em>Conversation</em></span>s<span><span>&nbsp;</span>use book spine color as physical pixel to focus on over-all image.<span>&nbsp;<span>&nbsp;</span></span>Indexing by color creates unexpected connections between books, as subject and title is left to chance.</span><span>&nbsp;</span><span><span>&nbsp;</span>A detective novel abuts a text on accounting, sharing only</span><span>cover color in common. These radical juxtapositions make for a kind of three-dimensional flarf poetry.<span>&nbsp;<span>&nbsp;</span></span>In Bendtsen‚s work however, there is no cutting or pasting, as books are stacked without adhesive, bound together only by gravity.<span>&nbsp;<span>&nbsp;</span></span>Tomes become an essential building block; that his structures are unsecured makes them inherently fragile, preserving the potential for collapse.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: center;"><span><span><img src="/media/contentassets/images/about/gallery/collection/particularpast/The Particular PastJessicaPosnerVENUS2017Butterandbeeswaxovercarvedplasteredfoamform-460x613.JPG" alt="" style="   margin : auto;  " /></span></span></p>
+<p style="font-weight: 400; text-align: center;">Jessica Posner<br><em>VENUS</em>, 2017<br>Butter and beeswax over <br>carved,&nbsp;plastered foam form</p>
+<p style="font-weight: 400; text-align: justify;">Posner‚s<span>&nbsp;</span><em>VENUS<span>&nbsp;</span></em>uses the The Venus of Willendorf<span><span>&nbsp;</span></span>(an 11.1-centimeter-tall Venus figurine est. 28,000 - 25,000 BCE.) as a point of departure to discuss contemporary issues of body image, acceptance, and objectification of women. Taking this Paleolithic sculpture and its anthropological and art historical significance into account, Posner uses butter as a metaphor for the body politic. Posner created<em>VENUS<span>&nbsp;</span></em>in 2017<em><span>&nbsp;</span></em>as a part of a larger series exploring structural violence against feminine subjects.</p>
+<p style="font-weight: 400; text-align: justify;">&nbsp;</p>
+<p style="font-weight: 400; text-align: center;"><img src="/media/contentassets/images/about/gallery/collection/particularpast/banggeul and sharka-460x460.jpg" alt="" style="   margin : auto;  " /></p>
+<p style="text-align: center;"><span>Left:&nbsp;</span><span>Bang Geul Han<br></span><em><span>Through the Gaps Between My Teeth</span></em><span>, 2017<br></span>Generative animation</p>
+<p style="text-align: center;"><span>Right: Sharka Hyland<br></span><span>Hand drawn pencil on prepared paper<br></span><span>12x18 inches,&nbsp;<br></span><span>Courtesy of the artist and Gallery Joe</span></p>
+<p style="text-align: justify;"><span><br>Hyland‚s drawings present visions of America‚ the land as well as the idea. In texts spanning a century and a half, American writers encounter the American landscape as a spiritual presence.Sharka Hyland and Bang Geul Han‚s pieces share a unique engagement with text and language, but stand in stark contrast to one another. Hyland‚s meticulously rendered hand-drawn text explores visions of America that are are open-ended, uplifting and optimistic. In contrast, Han‚s projected text algorithm facilitates our collective recall of a public injustice.&nbsp;</span></p>
+<p style="text-align: justify;"><span><span>Hyland is interested in how literary language transcends the distinction between the verbal and the visual. Many of the images we remember have no physical existence. They are evoked by the words of great writers and created in our mind as we read. Each image is unique, brought into being as we integrate the author‚s words into our individual life experience. These complex images exist only in the reader‚s mind; the text is their only material form.</span></span><span><span>&nbsp;<span>&nbsp;</span></span></span><span><span>Hyland‚s hand drawn texts use historically and culturally appropriate typefaces, in a size and format one might encounter while reading a book. The conjured image is the subject of the drawing.</span></span><sup><span>3</span></sup></p>
+<p style="padding-left: 30px;"><sub>3. Text provided by the artist, <br>works lent&nbsp;courtesy of the artist and Gallery Joe</sub></p>
+<p style="text-align: justify;"><span>Han's generative animation deconstructs the letters constituting the transcript of President Trump‚s Access Hollywood tape and briefly reassembles the letters to form accounts of sexual assault posted on Twitter. The deliberate limitation (every Tweet has to be reconstructed using only the letters in D.J.T.‚s remarks) leaves imperfections in the text, alluding to the cultural and structural constraints involved in speaking on such subject matter.</span><sup><span><span>&nbsp;</span>4</span></sup></p>
+<p style="text-align: justify;"><span>This dystopian call and response played out publicly on social media in the waning months before the 2016 election. With digital memory standing in for corporeal memory, Han evokes the collective re-</span><span><span>&nbsp;</span></span><span>traumatization that occurs when we fail to hold the powerful accountable for their many transgressions.</span></p>
+<p style="text-align: justify; padding-left: 30px;"><sub><span><span>4.&nbsp;<a href="http://whatbunny.org/web/interactive/Teeth/">Text by the artist</a></span></span></sub></p>
+<p style="text-align: justify; padding-left: 30px;">&nbsp;</p>
+<p style="text-align: center;"><img src="/media/contentassets/images/about/gallery/collection/particularpast/The Particular PastJessicaWalkerTheWhiteCrayon2008Waxcrayonspaperlabels-460x460.JPG" alt="" style="   margin : auto;  " /></p>
+<p style="text-align: center;"><span>Jessica Walker<br></span><em><span>The White Crayon</span></em><span>, 2008<br></span>Wax crayons, paper labels, ed. of 3</p>
+<div>
+<p style="text-align: justify;"><span>Walker uses the dark history of Crayola‚s infamous ‚Flesh‚<sup>1</sup>&nbsp;colored crayon as a point of departure for her colorful and provocative work<em>The White Crayon</em>&nbsp;(2008). Her piece explores stereotypes, labels, and personal and institutional power using the parody brand,&nbsp;<em>Raceola</em>.&nbsp;In this alternate universe, white crayons are given color names based on derogative slang for poor or rural Caucasian [white] communities.&nbsp;&nbsp;Keeping her intention deliberately ambiguous, Walker anticipates the inflammatory&nbsp;<em>All Lives Matter&nbsp;</em>response to the&nbsp;<em>Black Lives Matter&nbsp;</em>movement<em>,&nbsp;</em>where questions of compassion and oppressed/oppressor are ironically inverted and tried in the court of public opinion. Owing to her upbringing in rural Virginia, Walker treads a fine line in this questionably sympathetic portrayal of the struggles that economically left behind communities endure.&nbsp;</span></p>
+<p style="padding-left: 30px;"><sub><span>1. Edwin Binney and C. Harold Smith Crayola company produced</span></sub></p>
+<p style="padding-left: 30px;"><sub><span>their ‚Flesh Tint‚ crayon from 1903 ‚ 1949, and as "Flesh" from</span></sub></p>
+<p style="padding-left: 30px;"><sub><span>1949‚1956, and 1958‚1962; this line is now produced under the</span></sub></p>
+<p style="padding-left: 30px;"><sub><span>color name ‚peach‚.</span></sub></p>
+</div>
+<p style="text-align: center;">&nbsp;</p></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">Contact Information </span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Paul Nicholson</span>
+													</h2>
+													<div class="contact_title" itemprop="jobTitle">
+														<span class="contact_title_label">Director, Martin Art Gallery</span>
+													</div>
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:paulnicholson@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">paulnicholson@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3467">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3467</span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">Baker Center for the Arts</span>
+														
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

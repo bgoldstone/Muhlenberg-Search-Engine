@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Student Activities | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Student Activities">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-4.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/llc/">Languages, Literatures and Cultures</a></li><li class="linkitem"><a href="/academics/llc/studentactivities/">Student Activities</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Activities</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-2.jpg","500px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-740x555.jpg","740px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-3.jpg","980px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-4.jpg","1220px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-5.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-2.jpg","500px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-740x555.jpg","740px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-3.jpg","980px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-4.jpg","1220px":"/media/contentassets/images/pageheaders/FallCampus-SmallImageTop-5.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_3">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/llc/">Languages, Literatures and Cultures</a></li><li class="linkitem"><a href="/academics/llc/studentactivities/">Student Activities</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Activities</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Student Activities">
+							<span class="sub_nav_handle_label">Student Activities</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/llc/languages/">Languages</a></li><li class="sub_nav_item"><a href="/academics/llc/languagerequirement/">Language Requirement</a></li><li class="sub_nav_item"><a href="/academics/llc/placementexam/">Placement Exam</a></li><li class="sub_nav_item"><a href="/academics/llc/majorsandminors/">Majors and Minors</a></li><li class="sub_nav_item"><a href="/academics/llc/faculty/">Faculty</a></li><li class="sub_nav_item"><a href="/academics/llc/courses/">Courses</a></li><li class="sub_nav_item"><a href="/academics/llc/onlineresources/">Online Resources</a></li><li class="sub_nav_item"><a href="/academics/llc/on-campusresources/">On-Campus Resources</a></li><li class="sub_nav_item"><a href="/academics/llc/lccommons/">LC Commons</a></li><li class="sub_nav_item"><a href="/academics/llc/studyabroad/">Study Abroad</a></li><li class="sub_nav_item"><a href="/academics/llc/newsandresearch/">News and Research</a></li><li class="sub_nav_item"><a href="/academics/llc/clubs/">Clubs</a></li><li class="sub_nav_item"><a href="/academics/llc/contactus/">Contact Us</a></li><li class="sub_nav_item"><a href="/academics/llc/alumni/">Alumni</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/llc/studentactivities/">Student Activities</a></span></li><li class="sub_nav_item"><a href="/academics/llc/kalliope/">Kalliope</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/llc/">Languages, Literatures and Cultures</a></li><li class="linkitem"><a href="/academics/llc/studentactivities/">Student Activities</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <div class="content-add10"><hr>
+<h3>Student Activities and Departmental Events</h3>
+<hr></div>
+<div class="content-add10">
+<h3><strong><br>Spring 2018<br></strong></h3>
+<ul>
+<li><strong>Spanish Club: Meet &amp; Greet</strong>, Jan. 24, 2018&nbsp;<span>&nbsp;</span><em><a href="/media/contentassets/pdf/academics/llc/Spanish Club First Meeting Spring 18 Flyer.pdf">View Poster</a></em><strong><br></strong></li>
+<li><strong>Faculty Reflections on Weaving OER into Curriculum</strong>, Feb. 2, 2018&nbsp;</li>
+<li><strong>Teas from Around the World: the Russian Tea</strong>, Feb. 16, 2018&nbsp;<span>&nbsp;</span><em>View Poster</em></li>
+<li><strong>Information Session: Summer Study Abroad in Segovia, Spain</strong>, Feb. 20, 2018&nbsp;<em><a href="/media/contentassets/pdf/academics/llc/Segovia2018 InfoSession new Poster.pdf">View Poster</a></em></li>
+<li><strong>Language Honor Societies Induction Ceremony:</strong>&nbsp;Feb. 18, 2017<span>&nbsp;</span><em>More</em></li>
+<li><strong>Italian Club: Sauce-Off Competition</strong>, Feb. 21, 2018&nbsp;<span>&nbsp;</span><em><a href="/media/contentassets/pdf/academics/llc/Italian-Sauce Off Flyer.pdf">View Poster</a></em></li>
+<li><strong>Middle Atlantic Council of Latin American Studies</strong><em><span>&nbsp;</span>(</em><strong>MACLAS) Conference,</strong><span>&nbsp;</span>March 9-10, 2018<em>&nbsp;<a href="/media/contentassets/pdf/academics/llc/MACLAS program FINAL COPY.pdf">View Program</a></em></li>
+<li><strong>Hispanic Film Festival,</strong><span>&nbsp;</span>March 12-18, 2018&nbsp;&nbsp;</li>
+<li><strong>Flavors of Russia with Chef Sergei Annaev,<span>&nbsp;</span></strong>March 16, 2018<span>&nbsp;</span><em><a href="/media/contentassets/pdf/academics/llc/2018-03-16 Flavors of Russia with Chef Annaev.pdf">View Poster</a>;<span>&nbsp;</span><a href="/media/contentassets/pdf/academics/llc/russian/Sharing Russian Culture pg6 of BergFocus Fall2018.pdf">View More</a></em></li>
+<li><strong>French Club:&nbsp;Dinner Trip to Cachette,<span>&nbsp;</span></strong>Bethlehem, March 16, 2018&nbsp;<em><a href="/media/contentassets/pdf/academics/llc/Cachette dinner trip on 3-16-18 flyer.pdf">View Poster</a></em></li>
+<li><strong>Information Meeting: Senegal MILA Fall 2018</strong>, March 21, 2018<span>&nbsp;</span><em><a href="/media/contentassets/pdf/academics/llc/MILA Senegal 2018 Info Meeting flyer NEW.pdf">View Poster</a></em></li>
+<li><strong>International Francophonie Day: </strong>lecture by<strong> Dr. Christian Flaugh</strong>, March 27, 2018&nbsp;<em><a href="/media/contentassets/pdf/academics/llc/french/Journee Intl Francophonie Flaugh poster 2018.pdf">View Poster</a></em></li>
+<li><strong>French and Italian Clubs</strong>:<span>&nbsp;</span><strong>trip &amp; guided tour of the Barnes Foundation</strong>, Philadelphia, April 6, 2018&nbsp;<em><a href="/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=411aafd7ca8a44bf6fa35088e1d54296514b4b03">French Poster</a></em><span>&nbsp;</span>&amp;&nbsp;<a href="/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=0aa677a2e7d06b75365819dd5b44b7c4c61221ca"><em>Italian Poster</em></a></li>
+<li><strong>Italian Film and Holocaust Memory: </strong>lecture by<strong> Millicent Marcus, Yale Univ,</strong><span>&nbsp;</span>April 10, 2018&nbsp;<span>&nbsp;</span><em><a href="/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=5a397d11062a6aa9be8b0257c28c63c0f0109723">View Poster</a></em></li>
+<li><strong>Language Honor Societies Presentations</strong>, April 29, 2018<span>&nbsp;</span><em><a href="/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=3952c5c855495fa87df6e9c6ddcc8f0357f1f984">More</a></em><strong>&nbsp;</strong></li>
+</ul>
+<hr>
+<h3><strong>Fall&nbsp;2017</strong></h3>
+<ul>
+<li><span><strong>Blended learning: Redesigning final projects into student-generated iBooks:</strong> lecture by<strong> Angelina Craig-Fl√≥rez</strong>,&nbsp;Sept. 22, 2017</span></li>
+<li><strong>Domains Workshop</strong>, Sept. 25, 2017</li>
+<li><strong>Italian Club: Pastamaking,</strong><span>&nbsp;</span><span>Sept. 27, 2017</span></li>
+<li><strong><strong>The Trouble with My Name: comedian Javier&nbsp;<span>√vila</span></strong></strong><strong>, </strong>Oct. 19, 2017 -&nbsp;</li>
+<li><span><strong>International Poetry Night</strong>, Fireside Lounge, Oct. 23, 2017</span></li>
+<li><span><strong>International Clubs Fundraising</strong>, Oct. 24, 2017</span></li>
+<li><span><em><strong>Embrace of the Serpent</strong></em>: Colombian Movie Night, Oct. 24, 2017</span></li>
+<li><strong>International&nbsp;Alumni and Student Panel </strong>via Zoom, Oct. 25, 2017</li>
+<li><strong>International&nbsp;Week&nbsp;Performance Night,&nbsp;</strong>Oct. 26, 2017</li>
+<li><span><strong>Day of the Dead, </strong>various<strong>&nbsp;</strong>events, Oct. 30 - Nov. 5, 2017</span></li>
+<li><strong>National French Week</strong>, Nov. 1-7, 2017</li>
+<li><span><strong>Segovia: Summer Study in Spain, Info session,&nbsp;</strong>Nov. 16, 2017</span></li>
+</ul>
+</div>
+<div class="content-add10"><hr>
+<h3><strong>Spring 2017</strong></h3>
+<ul>
+<li><strong>Italian Club: Movie Night,</strong><span>&nbsp;</span><span>Feb. 2, 2017</span></li>
+<li><span><strong>French Club: dinner at "Marrakesh",</strong><span>&nbsp;field trip,&nbsp;</span><span>Philadelphia, Feb. 18, 2017</span></span></li>
+<li><strong>Language Honor Societies,</strong><span>&nbsp;</span><span>Feb. 19, 2017</span></li>
+<li><span><strong>Mardi Gras multi-cultural celebration,&nbsp;</strong><span>Feb. 28, 2017</span></span></li>
+<li><span><span><strong>NEALLT 2017 Conference</strong>, March 3-5, 2018&nbsp;</span></span></li>
+<li><strong><em><em><strong>Disposable Borders, Disposable Bodies:<span>&nbsp;</span></strong></em>Theorizing the 'Harraga':<span>&nbsp;</span></em></strong>talk by <strong>Dr. TaiÃeb Berrada</strong>, Mar. 20, 2017</li>
+<li><strong>Journ√©e internationale de la francophonie,</strong>&nbsp;March 20, 2017</li>
+<li><strong>Italian Film Series at the Civic Theatre,</strong><span>&nbsp;</span><span>April 2, 9, 23, 30, 2017</span></li>
+<li><strong><em>Che Malambo</em>: Argentinian Music &amp; Dance,</strong><span>&nbsp;field trip to</span>&nbsp;Zollner at Lehigh Univ., April 2, 2017</li>
+<li><em><strong>Work and use your French:&nbsp;</strong></em>talk by <strong>Lauren Herzog</strong> (via video conference), April 28, 2017</li>
+<li><strong>Spanish Club:<em> In the Time of the Butterflies,</em></strong><span>&nbsp;Broadway field trip,&nbsp;</span><span>New York City, April 29, 2017</span></li>
+<li><strong>Senior Honor Presentations:</strong>&nbsp;April 30, 2017</li>
+</ul>
+<hr>
+<h3><strong><br>Fall&nbsp;2016<br></strong></h3>
+<ul>
+<li><span><strong>Spanish Club: Meet &amp; Greet<span>, </span></strong>Sept. 6, 2016</span></li>
+<li><span><strong>Celebration of Latino Culture</strong>, Allentown Art Museum trip, Oct. 2, 2016</span></li>
+<li><strong>Public Health in Practice: Mila Panama</strong> Info Meeting, Oct. 17, 2016</li>
+<li><span><strong>Spanish Club:&nbsp;<em>A Better Life</em></strong>&nbsp;movie night, Oct. 25, 2016</span></li>
+<li><span><strong>Info Session: <em>Italian Studies Program,</em></strong> Oct. 28, 2016</span></li>
+<li><span><strong><em>The Minority Paradox: Blackness in France:</em>&nbsp;</strong>lecture by<strong> Pap Ndiaye, </strong>Nov. 1, 2016</span></li>
+<li><span><strong>Day of the Dead,&nbsp;</strong>various<strong>&nbsp;</strong>events,&nbsp;Nov 1-7, 2016</span></li>
+<li><span><strong>Spanish Club: <em>Book of Life</em></strong> movie night, Nov. 6, 2016</span></li>
+<li><strong>Latin Grammy Awards Night</strong>, Nov. 17, 2016</li>
+<li><strong>Spanish Club: <em>On Your Feet</em> on Broadway</strong>, NYC, Nov. 19, 2016</li>
+<li><strong>French and Italian Clubs: <em>La Boh√®me</em>&nbsp;at the Met</strong>, NYC,&nbsp;<span>Nov. 19, 2016</span></li>
+<li><strong>Dinner and DACA:</strong>&nbsp;<strong>Education, Advocacy &amp; Immigration,&nbsp;</strong>Dec. 1, 2016</li>
+<li><em><strong>The New Face of Italy:</strong></em><span>&nbsp;talk by Chiara Minestrelli, Dec. 2, 2016</span><strong>&nbsp;</strong></li>
+</ul>
+<div class="content-add05"><hr>
+<h3><strong><strong><br>Spring 2016</strong></strong></h3>
+<ul>
+<li>French Club trip to Philadelphia to&nbsp;<a href="/media/contentassets/pdf/academics/llc/french/Kilimandjaro Flyer - Spring 2016.pdf">Kilimandjaro</a> Senegalese Restaurant, Feb. 6, 2016</li>
+<li>French Club: <a href="/media/contentassets/pdf/academics/llc/french/Mardi Gras Flyer.pdf">Mardi Gras</a>, February 9, 2016</li>
+<li>Spanish Club: <a href="http://www.muhlenberg.edu/media/contentassets/pdf/academics/llc/spanish/club/2016-SPN-TacoNightFeb11.pdf">Taco Night</a><em><em>‚,</em></em><strong>&nbsp;</strong>Feb. 11, 2016<strong><br></strong></li>
+<li><em><a href="http://www.muhlenberg.edu/media/contentassets/pdf/academics/llc/italian/2016TheSpaceOfCiinema-Casetti-Poster.pdf">The Space of Cinema</a></em>‚: lecture by prof. Francesco Casetti (Yale University),&nbsp;Feb. 11, 2016<strong><strong><br></strong></strong></li>
+<li>Italian Club: <a href="http://www.muhlenberg.edu/media/contentassets/pdf/academics/llc/italian/2016cannolimaking.pdf">Cannoli Making</a><span class="content-add05">,</span><strong><strong><span class="content-add05">&nbsp;</span></strong></strong><span class="content-add05">Feb. 12, 2016</span></li>
+<li><span class="content-add05"><a href="/academics/llc/newsandresearch/2016honorssociety/">Language Honor Societies</a>, Feb. 21, 2016</span></li>
+<li><span class="content-add05"><em><a href="/media/contentassets/pdf/academics/llc/Dean Obeidallah Flyer 2016Feb25.pdf">What? Arabs & Muslims Are Funny?</a></em></span>‚<strong><strong><span class="content-add05">‚ </span></strong></strong><span class="content-add05">w</span><span class="content-add05">ith Comedian Dean Obeidallah, Feb 25, 2016</span></li>
+<li><span class="content-add05">Spanish Club: Movie Night, March 16, 2016</span></li>
+<li><span class="content-add05">French Club: Game Day, March 18, 2016</span></li>
+<li><span class="content-add05"><span class="content-add05"><span><em><a href="/media/contentassets/pdf/academics/llc/french/Danielle Sanchez Talk FINAL.pdf">Griefs and Griffes: Exploring Sartorial Displays of Resistance and Identity in Congo-Brazzaville and Beyond</a></em>: talk by <span>Dr. Danielle Sanchez, March 18,2016</span></span>‚</span>‚</span>‚</li>
+<li><span>Russian Studies students present at the&nbsp;</span><a href="http://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=474119539">Europe: East &amp; West Undergraduate Research Symposium</a><span>, University of Pittsburgh, April 1, 2016</span></li>
+<li><span class="content-add05"><span class="content-add05">Russian Club trip to the&nbsp;<a href="/media/contentassets/pdf/academics/llc/russian/2016Apr2 Russian Club field trip to Museum.pdf">Tsars' Cabinet: Two Hundred Years of Russian Decorative Arts under Romanovs</a>, Reading, PA.,&nbsp;April 2, 2016‚</span>‚</span>‚&nbsp;</li>
+<li><span>Russian Studies students present at the&nbsp;</span><a href="http://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=1362761603">SRSJ (Social Research Social Justice) Conference</a><span>&nbsp;at Muhlenberg, April 8, 2015</span></li>
+<li><span class="content-add05"><span class="content-add05"><span><span><em><a href="/media/contentassets/pdf/academics/llc/2016Apr5 JoavToker Poster.pdf">Terrorism and Fragilized National Identities: Are they part of a 'New Globalization' phase?</a></em>‚: talk by Dr. Joav Toker, IES Paris scholar in residence, April 5, 2016</span></span>‚</span>‚</span>‚</li>
+<li><span class="content-add05"><span class="content-add05"><span><span>Spanish Club: <a href="/media/contentassets/pdf/academics/llc/spanish/SPNClub-Movie Night Flyer 6April2016.pdf">Movie Night</a>, April 6, 2016 </span></span>‚</span>‚</span>‚</li>
+<li><span class="content-add05"><span class="content-add05"><span><span>French Club: <a href="http://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=1337976648">Scavanget Hunt</a>, April 22, 2016</span></span></span></span></li>
+<li><span class="content-add05"><span class="content-add05"><span><span><a href="/media/contentassets/pdf/academics/llc/departmental/2016 Senior Honor Presentations List.pdf">Senior Honor Presentations</a>, April 29, 2016</span></span>‚</span>‚</span>‚</li>
+<li><span class="content-add05"><span class="content-add05"><span><span>Italian Club: <a href="/media/contentassets/pdf/academics/llc/italian/2016 Italian Club- Sauce Competition poster.pdf">Sauce-Off</a>, May 4, 2016<br><strong><strong>‚<strong><em>‚</em>‚</strong></strong></strong></span>‚</span>‚</span>‚</span>‚</li>
+</ul>
+<hr>
+<h3><strong><strong><br>Fall 2015<br></strong></strong></h3>
+<ul>
+<li>The Promise of Education and Immigrant Youth, Sept. 24, 2015</li>
+<li>MILA Panama, MILA Senegal and Semester in France info sessions, Oct. 1, 2015</li>
+<li>LLC Remodeling, Presentation by Mike Jones, Oct. 2, 2015</li>
+<li>French Club's annual Cr√™pes Sale, Oct. 1, 2015</li>
+<li>MILA Spain ‚Camino de Santiago‚ info session, Oct. 6, 2015</li>
+<li>Kalliope Showcase, Presentation by LLC Student-Workers, Oct. 24, 2015</li>
+<li>International Week: tapping into Global community, Oct. 26, 2015<strong><br></strong></li>
+<li>International Poetry Night/Coffee House, Oct. 26, 2015</li>
+<li>Global Alumni Panel, Oct. 27, 2015</li>
+<li>Club Fundraising: Spanish, Russian, &amp; French food specialties, Oct. 28, 2015</li>
+<li>International Festival: Performances, Oct. 29, 2015</li>
+<li>D√≠a de los Muertos Craft Making Workshop, Oct. 29, 2015</li>
+<li>Day of the Dead Altar Building and Chapel Events, Oct. 30-Nov. 1, 2015</li>
+<li>National French Week, Nov. 4-10, 2015</li>
+<li>Cheese Tasting at the Hoffman House, Nov. 4, 2015</li>
+<li>French Club's Tray Race on Front Circle, Nov. 6, 2015</li>
+<li>‚<em>Freedom of Sound: interrogating&nbsp;the minute of silence for Charlie</em>‚: lecture&nbsp;by&nbsp;Dr. Edwin Hill, Nov. 10. 2015</li>
+<li>Summer Study Abroad in Segovia (Spain) info sessions, Nov 12, 2015</li>
+<li>Biennal Cervantes Symposium of the North East curated by Dr. Eduardo Olid, Nov. 19, 2015</li>
+<li>Latin Grammy Awards Night, Nov. 19, 2015</li>
+<li>French Club trip to Broadway (NYC)&nbsp;to see ‚Les Mis‚, Nov. 21, 2015</li>
+<li>‚Bodies of Otherness‚ Mock Art Exhibition, Dec. 9, 2015</li>
+<li>Departmental Faculty &amp; Staff Holiday Party, Dec. 11, 2015</li>
+</ul>
+<hr>
+<h3><br>Spring 2015</h3>
+<ul>
+<li><a href="/media/contentassets/pdf/academics/llc/Scavenger Hunt April 172015.pdf">Annual Scavenger Hunt by the French Club - April 17 2015</a>, April 17 2015‚</li>
+<li><a href="http://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=1817485200">Dr. Regina Janes: Celebration of the life of Gabriel Garc√≠a M√°rquez</a>, April 16, 2015</li>
+<li><a href="http://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=543485984">International Poetry Night</a>, April 7, 2015</li>
+<li><a href="/media/contentassets/pdf/academics/llc/2015mar25 - Salsa Night posterby Liz.pdf">Spanish Club presents Salsa Night with dance instructor Eric Bass - March 25, 2015</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/BruceWhitehouse2015-PosterMALI-final.pdf">International Day of Francophonie lecture on Mali by Dr. Bruce Whitehouse - March 21, 2015</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/IlanStavans2015Poster-Final.pdf">Ilan Stavans</a></li>
+<li>French Club student trip to MoMA: tour of exhibit "The Paris of Toulouse-Lautrec: Prints and Posters", March 14, 2015&nbsp;</li>
+</ul>
+<hr>
+<h3><br>Fall 2014</h3>
+<ul>
+<li><a href="/media/contentassets/pdf/academics/llc/2014InternationalFestival.pdf">2014 International Festival - Main Event Space, 5-8 PM, Dec. 2, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/SpoonfulsOfGermanyflyerFall2014.pdf">Spoonfuls Of Germany</a>,&nbsp;Nov. 19, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/CrepesSalePoster11Nov2014.pdf">2014 Crepes Sales</a>, Nov. 11, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/BerlinWall-25thAnniv-Fall2014.pdf">Documentary ‚Ode to Joy and Freedom‚</a>, Nov. 10, 2014</li>
+<li>-&nbsp;Nov 6-7 and 13-14, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/NationalFrenchWeek2014.pdf">2014 National French Week</a>, Nov. 5-11, 2014 - <a href="/academics/llc/studentactivities/studentactivitiesarchive/">Photo Album</a></li>
+<li>Careers in Foreign Language Alumni Panel, Nov. 4, 2014</li>
+<li><a href="/academics/llc/dayofthedead/">Days of the Dead events</a>, Oct. 30 - Nov. 2, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/SalsaClassOct31-2014Poster.pdf">Salsa Class with Instructor Eric Bass</a>, Oct. 31, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/CARMEN-Met-NYC-28Oct2014.pdf">2014 Student Trip to see Carmen at the Met</a>&nbsp;in NYC, Oct. 28, 2014</li>
+<li><em><a href="/media/contentassets/pdf/academics/llc/Oromachtfrei_Poster_Oct12-2014-Gold.pdf">Film screening/panel discussion: Oro Macht Frei</a>,</em> Oct. 12, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/GameNightFlyer2014.pdf">2014 Spanish Club Game Night</a>, Sept 29, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/RodicaDraghincescu-PosterShort-16Sept2014.pdf">Rodica Draghincescu</a>, Sept. 16, 2014</li>
+<li>Professor Kathryn Wixon Retires After 28 Years at Muhlenberg!</li>
+</ul>
+<hr><br>
+<h3>Spring 2014</h3>
+<ul>
+<li><a href="/media/contentassets/pdf/academics/llc/2014SeniorHonorPresentationsList11X14color.pdf">Honor Society Presentations by Phi Sigma Iota and Dobro Slovo students, Ettinger 108, 2-3 PM, Sunday, April 27, 2014</a></li>
+<li><a href="/images/main/academics/llc/GamenightflyerApril16.jpg" target="_blank">Spanish Club Game Night</a>, April 16, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/NickFarmer-UndergraduateResearch.pdf">Nick Farmer '15 presented a paper</a>&nbsp;on "<em>Russian State and the Orthodox Church: An Attempt at Constructing Russian Nationalism</em>", University of Pittsburgh, April 11, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/Leonardo-Liberati-Tuscany-poster2.pdf">Leonardo da Vinci and the History of Italian Cuisine</a> - <a href="/media/contentassets/pdf/academics/llc/Liberati-Maria-poster1.pdf">Author Maria Liberati</a> - <a href="/media/contentassets/pdf/academics/llc/DaVinciProgram2014.pdf">Tuesday, April 8, 2014 - View Program</a></li>
+<li>Social Research Social Justice Conference with Flor Maria Buitrago's students Ross Handler '14 and Maria Budney '14, April 4, 2014</li>
+<li><a href="/media/contentassets/pdf/academics/llc/2014MusicalEventposter-YOTRACOSITA.pdf">Y Otra Cosita - Choral music, Egner Chapel, April 4, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/crepessaleposter4-3-14.pdf">French Club's Annual Cr√™pes Sale, Seegers Union, Thursday, April 3, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/tacotertuliaposter3-27-14.pdf">Spanish Club Taco Tertulia, Shuttle trip to Allentown's Taqueria Los Amigos, 6-8PM, Thursday, March 27, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/TheevolvingcrisisinUkraine-Panel25March2014.pdf">The Evolving Crisis in Ukraine, Faculty Panel Discussion including Dr. Iskold, Moyer Hall, 7-8PM, March 25, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/SenegaleseTalk3-20-14Emily-Awa.pdf">Journ√©e Internationale de la Francophonie, a Senegal experience by Emily Rose '14: 'Eating with your Hands', March 20, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/2014EmpanadaSale_flyer.pdf">Empanada Sale by the Spanish Club, Seegers Union, March 13-14, 20- 21, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/Carnaval2014.pdf">Carnaval Celebration, Event Space, Seegers Union, 6-7:30 PM, Wednesday, February 26, 2014</a></li>
+<li>
+<div><a href="/media/contentassets/pdf/academics/llc/TheSoundofNostalgia-Feb242014Final.pdf">The Sound of Nostalgia, Recital Hall, Center of the Arts, 7 PM Monday, February 24, 2014</a></div>
+</li>
+<li>
+<div><a href="/media/contentassets/pdf/academics/llc/GamenightdinnerflyerFeb20.pdf">Game & Dinner Night with the Club de Espa√±ol, Wood Commons Dining, 5 PM Thursday, February 20, 2014</a></div>
+</li>
+<li><a href="/media/contentassets/pdf/academics/llc/KerriCosseanColdWarPosterFinal.pdf">KerriCosseanColdWarPosterFinal.pdf</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/KilimandjaroFlyer-Spring2014.pdf">French Club bus trip to Philadelphia at the 'Kilimandjaro' Senegalese Restaurant, February 7, 2014</a></li>
+<li><a href="/media/contentassets/pdf/academics/global-education/NickFarmer.pdf">In the News: Nick Farmer '15, Learning About Russia Firsthand, by J.Perry, January 15, 2014</a></li>
+</ul>
+<hr><br>
+<h3>Fall 2013</h3>
+<ul>
+<li><a href="/media/contentassets/pdf/academics/llc/LatinGrammy2013final.pdf">14th Annual Latin Grammy, Main Event in Seegers Union, November 21, 2013</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/REALITYposterOct-2-20137pmRedDoor.pdf">REALITYposterOct-2-20137pmRedDoor.pdf</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/REALITYposterOct-2-20137pmRedDoor.pdf">REALITYposterOct-2-20137pmRedDoor.pdf</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/Cenadelclub-Sept2013.pdf">Cenadelclub-Sept2013.pdf</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/TacoThursdays2013-Sept19-26.pdf">Taco Thursdays via Shuttle with Spanish Club, September 19 and 26, 2013</a></li>
+<li><a href="/media/contentassets/pdf/academics/llc/MuhlenbergFrenchWeek2013lightblue.pdf">Muhlenberg French Week, September 23-27, 2013</a></li>
+</ul>
+<hr>
+<h3><br>Spring 2013</h3>
+<ul>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=3c96bc598d574870353335306d095662ad141ab8">Donation Drive to benefit Haitian Migrants in the Dominican Republic, May, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=997494e88becf1a91e8155ffe7135d86e3f13293">Spring Concert, Lehigh Saegerbund - traditional German, Russian, and French selections, Egner Chapel, May 4, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=bb8fbec6e45f5b233e2590ba1ac554a316de329e">Student performance "Viveiendo con los clasicos: Lope de Vega" (SPN-412, Dr. Olid), Hoffman House, April 30, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=7772895257df6f05117e43ee4e57be2f2b481eb6">Dia Internacional del Libro, April 23, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=1eadee43d4a795e68686df4d0f9640bac0b7a84d">Senior Honor Presentations, April 21, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=e07ac9d6e37bb090412de85d7d37088dbb61c24e">French Club Annual Cr√™pe Sale, April 16 and 18, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=38c9a834459753569e65bf573ad6406626d67596">Film screening Cape Spin followed by Q&amp;A with Robbie Gemmel, Producer/Director, Trumbower 130, April 16, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=5757db959ed404ebabdf5bc8572e5ecd1906b636">SRSJ Conference: Prof Flor Maria Buitrago and Kerry McGowan '15 in "Lessons from Literature", April 5, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=5757db959ed404ebabdf5bc8572e5ecd1906b636">Russian Club: Guest Speaker Dr. Olga Baysha on "Ukraine and Russia: Another Reunion?" - GQ Annex, April 4, 2013</a></li>
+<li><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=dfc15570600016f98f3f86cfd02e750e1e0801fa">Latin American Film Festival, February 10-17, 2013 -</a><span>&nbsp;</span><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=61a0625841f9ff12ce4a33e6da6c1a1e62bc28cb">Film Synopses</a><span>&nbsp;</span>-<span>&nbsp;</span><a href="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=a11f404a11ac68ae08d6e9dd2cb681d18a81399d">View Photos</a></li>
+</ul>
+<p><a href="/academics/llc/studentactivities/studentactivitiesarchive/">Student Activities Archive</a></p>
+<hr>
+<p>&nbsp;</p>
+</div>
+</div></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

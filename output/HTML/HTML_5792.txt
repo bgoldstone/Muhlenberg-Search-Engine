@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>WIGHTMAN LAB PAGE | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="WIGHTMAN LAB PAGE">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biology/">Biology</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/">Bruce Wightman</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/drwightmanspage/">Dr. Wightman's Page</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/drwightmanspage/wightmanlabpage/">WIGHTMAN LAB PAGE</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">WIGHTMAN LAB PAGE</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","500px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","740px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","980px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","1220px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","500px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","740px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","980px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","1220px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_2">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biology/">Biology</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/">Bruce Wightman</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/drwightmanspage/">Dr. Wightman's Page</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/drwightmanspage/wightmanlabpage/">WIGHTMAN LAB PAGE</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">WIGHTMAN LAB PAGE</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="WIGHTMAN LAB PAGE">
+							<span class="sub_nav_handle_label">WIGHTMAN LAB PAGE</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/biology/research/facultyresearchprograms/">Research Programs</a></li><li class="sub_nav_item"><a href="http://www.muhlenberg.edu/main/aboutus/provost/">Provost</a></li><li class="sub_nav_item"><a href="http://www.muhlenberg.edu/main/aboutus/fct/">Faculty Center for Teaching</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biology/">Biology</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/">Bruce Wightman</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/drwightmanspage/">Dr. Wightman's Page</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/brucewightman/drwightmanspage/wightmanlabpage/">WIGHTMAN LAB PAGE</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h1><strong>&nbsp;</strong></h1>
+<h1><strong>UNDERGRADUATE RESEARCH ON THE MOLECULAR GENETICS OF ANIMAL DEVELOPMENT</strong></h1>
+<p><strong>&nbsp;</strong></p>
+<div class="breakByCell">
+<table border="0">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p><span><strong>Laboratory of&nbsp;<a href="mailto:wightman@muhlenberg.edu">Bruce Wightman</a>, Biology Department</strong></span></p>
+<p><strong>New Science Building 221</strong></p>
+<p>Our laboratory is studying the mechanisms of animal development, using the nematode&nbsp;<em><a href="http://elegans.swmed.edu/">Caenorhabditis elegans</a></em>&nbsp;as a model system. We perform experiments that include Mendelian genetic, molecular genetic, genomic, and biochemical approaches. Research students in our lab learn valuable technologies, help design experiments, interpret data, publish papers and attend scientific conferences.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" align="right">
+<tbody>
+<tr>
+<td>
+<p><span style="font-family: verdana;">The nuclear hormone receptors are a class of evolutionarily-conserved proteins that regulate transcription of other genes in all known animals, from coral to humans. In a variety of species, nuclear hormone receptors play critical roles in physiology and development. For example, the androgen receptors mediate male sex development, estrogen receptors function in female physiology, and ecdysone receptors control insect morphogenesis. Many, but not all, nuclear receptors are activated in response to small lipophilic hormones, such as estrogen. The small soil-dwelling roundworm <em>C. elegans</em>, like other nematodes, has seen an explosion in the number and variety of nuclear receptors. While humans have only 48 nuclear </span><span style="font-family: verdana;">receptors, <em>C. elegans</em> has over 270. Our lab is focused on the NR2E class of nuclear receptors. In vertebrates, two genes of this class have been studied: PNR (NR2E3), which functions in the development of rod and cone photoreceptor neurons in human retina, and <em>tailless</em>, which functions in the development of adult neural stem cells and limbic system in mice. We are studying the <em>C. elegans</em> versions of these genes: <em>fax-1</em> (PNR), <em>nhr-67&nbsp;</em></span><span style="font-family: verdana;">(<em>tailless</em>), <em>nhr-111</em> (worm-specific), and <em>nhr-239</em> (found in most animals except vertebrates).</span> <span style="font-family: verdana;">Each nuclear receptor has two important parts (domains) in the protein: the DNA-binding domain (DBD), which is the part that binds to DNA in the promoter of other genes, and the ligand-binding domain (LBD), which is the part that binds a hormone (if there is one) and mediates changes in the rate of transcription of genes that a regulated by the nuclear receptor. In contrast to the DBD, where amino acid sequence is very similar in worms, flies and humans, the sequence of the LBD is very different in worms as compared to other species. Furthermore, our lab showed that the LBD is not required for some functions, suggesting that <em>C. elegans</em> nuclear receptors may sometimes be ligand-independent.</span></p>
+</td>
+<td>
+<p><em><span style="font-size: small;">Picture of nematode:</span></em><img src="/media/contentassets/images/academics/biology/faculty/wightman/briggsae_herm-150x88.jpg" alt="Biology Department Faculty" style="     " /><br><em><span style="font-size: small;"><br><br></span>‚</em><br><em><span style="font-size: small;">Nuclear receptors regulate transcription of other genes by binding to promoter DNA<br> sequences</span></em><img src="/media/contentassets/images/academics/biology/faculty/wightman/ressta1-150x69.jpg" alt="Biology Department Faculty" style="     " /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>&nbsp;</h1>
+<h1>CURRENT RESEARCH PROJECTS</h1>
+<table border="0" align="right">
+<tbody>
+<tr>
+<td>
+<p>‚F<span style="font-family: verdana;"><span style="text-decoration: underline;">unction of <em>fax-1</em> in neuronal control of developmental progression and sleep</span></span><span style="font-family: verdana;"><span style="text-decoration: underline;"><br></span></span></p>
+<p>‚<span class="style1">The FAX-1 nuclear receptor of <em>C. elegans</em> functions in neuron identity and is orthologous to vertebrate PNR nuclear receptor (NR2E3). In humans, mutations in <em>PNR</em> lead to defects in photoreceptor development and subsequent retinal degeneration.&nbsp;<br></span><em>fax-1</em> mutants exhibit a slow growth phenotype, which is a result of a defect in execution of the L1 transition.&nbsp; Newly hatched <em>C. elegans</em> larvae (L1s) make a developmental decision to either initiate growth or arrest development, based on whether or not food is available.&nbsp; Arrested L1 animals then resume growth once in the presence of food.&nbsp;<em>fax-1</em> mutants undergo a temporary L1 arrest when hatching in the presence of food, likely a consequence of <em>fax-1</em> function in the nervous system. Combining&nbsp;<em>fax-1&nbsp;</em>or&nbsp;<em>unc-42 </em>(a different type of transcription factor)&nbsp;mutations with a mutation in <em>daf-2&nbsp;</em>insulin receptor causes all animals to arrest just before hatching or as newly-hatched L1 animals. These animals are asleep! Mutations in a gene required for sleep can reverse the arrest. This has led us to propose the existence of a wake-promoting neural pathway that is involved in insulin-signaling and depends on&nbsp;<em>fax-1&nbsp;</em>and&nbsp;<em>unc-42-</em> expressing neurons.&nbsp;</p>
+</td>
+<td>
+<p><img src="/media/contentassets/images/academics/biology/P1000603.JPG" alt="Biology" style="  padding : 3;   float : right;" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="style1"><br><br><span style="text-decoration: underline;"><span style="font-family: verdana;"></span></span></p>
+<table border="0">
+<tbody>
+<tr>
+<td>
+<p><span style="text-decoration: underline;"><span style="font-family: verdana;">The function of <em>nhr-67/tailless</em> in uterus development and posterior pattern formation<br><br></span></span></p>
+<p><span style="font-family: verdana;">In <em>Drosophila</em>, the <em>tailless</em> nuclear receptor functions in orchestrating the patterning of the embryonic termini-- heads and tails. We have genetic evidence that suggests that the nematode equivalent, <em>nhr-67</em>, functions in posterior pattern formation in the embryo, similar to <em>Drosophila</em>. We have also found that <em>nhr-67</em> plays a key role in regulating the post-embryonic development of the <em>C. elegans</em> uterus. Our current work on this project is focused on placing the function of the <em>nhr-67</em> gene in the <em>Notch</em>-based signaling pathway that directs formation of the ventral uterus. Understanding the <em>Notch</em> pathway has implications for understanding the molecular basis of Alzheimer Disease: a gene called <em>sel-12</em> may function upstream of <em>nhr-67</em>. Mutations in a human equivalent of <em>sel-12</em> lead to an inherited form of Alzheimer Disease. In mice and flies, <em>tailless</em> plays a key role in the development of the brain. Mice that are born with mutations in <em>tailless</em> have a severe loss of limbic system neurons and are hyper-aggressive. Other studies have shown that <em>tailless</em> functions in regulating the differentiation of neural stem cells.<br><br></span><span style="font-family: verdana;"><span style="text-decoration: underline;">The function of unstudied related nuclear receptors<br><br></span></span><span style="font-family: verdana;">The <em>nhr-111</em> and <em>nhr-239</em> gense are related to <em>fax-1</em> and more loosely to the other NR2E genes. While <em>C. elegans</em> has an <em>nhr-111</em> gene, the closely-related nematode <em>C. briggsae</em> does not. Our study of <em>nhr-111</em> provides an opportunity to study the evolution of nuclear receptor function in species-specific development or behavior. Data suggest that <em>nhr-111</em> may function as an important regulator of genes that function in metabolism. In contrast, <em>nhr-239</em> appears to be weakly-conserved in non-vertebrate animals. Mutations in <em>nhr-111</em> and <em>nhr-239</em> do not cause dramatic, obvious phenotypes (death, sterility, major developmental defects). A deletion that removes the first exon and promoter of <em>nhr-239</em> causes an interesting behavioral defect: worms avoid large concentrations of bacteria, suggesting they may be responding adversely to low oxygen environments.</span></p>
+</td>
+<td>
+<p><img src="/media/contentassets/images/academics/biology/BruceWightman-0471.jpg" alt="Biology" style="  padding : 3;   float : right;" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="style1" style="text-align: center;"><br>&nbsp;<strong style="font-family: verdana; font-size: x-large;">THE WIGHTMAN LABORATORY</strong></p>
+<p style="text-align: left;" align="center"><span style="font-family: verdana;"></span><strong style="font-family: verdana;">PERSONNEL</strong></p>
+<ul>
+<li class="style1">Bruce Wightman, lab head</li>
+<li class="style1">Danny Monzo ('22)</li>
+<li class="style1">Long Nguyen ('23)</li>
+<li class="style1">Isabella van der Weide ('23)</li>
+</ul>
+<p><span class="style1">&nbsp;</span></p>
+<p><span style="font-family: verdana;"><strong>LAB ALUMNI</strong></span></p>
+<p><span style="font-family: verdana;"><em><span style="font-size: small;">Alumni of the Wightman lab have gone on to pursue graduate and professional study at institutions such as Stanford University, Columbia University, Cornell University, University of Pennsylvania, and Yale University. They have won competitive awards such as the NSF Graduate Fellowship, British Marshall Scholarship, and Fulbright Scholarship.</span></em></span></p>
+<table style="height: 2297px; width: 1160px;" border="0">
+<tbody>
+<tr>
+<td>
+<ul>
+<li class="style1">Erika Foerst ('19)</li>
+<li class="style1">Zhengying He ('19)</li>
+<li class="style1">Arianna Mesrobian ('20)</li>
+<li class="style1">Katarina Liberatore ('19)</li>
+<li class="style1">Francine Koitz ('19)</li>
+<li class="style1">Evan Schlesinger ('20)</li>
+<li class="style1">Annu Suresh ('19)</li>
+<li class="style1">Olivia Waldron ('19)</li>
+<li class="style1">Jack Van Burik ('21)</li>
+</ul>
+<p>Genna Albert '03<br> Peter Alff '02<br> Christopher Alvaro ('10)<br> Pujah Ahuja (Parkland HS)<br> G. Michael Baer ('12)<br> Jennifer Baldwin '02<br> Emily Bayer ('14)<br> Sepi Bazel '03<br> Kelly Berg '03<br>Caroline Berman ('16)<br>Nick Bianco '01<br>Susanna Birnbaum ('18)<br>Shari Bodofsky ('18)<br>Alex Breiding ('11)</p>
+<p>Emily Brennan ('09)<br> David Brightbill '99<br> Valerie Brown ('10)<br> Ramzy Burns ('14)<br> Nicole Carmean '98<br> Sara Carr<br> Angela Cenci '05<br> Andrea Cerrone '02<br> Genevieve Cheng ('06)<br> Jessica Chu ('12)<br> Melissa Cronin (Dickinson)<br> Christian Davidson '00<br> Rich DeMarco '98<br> Stephen DeMeo '04<br> Rachel Dordal ('14)<br> Bryan Ebert '99<br> Stephanie Eng ('10)<br> Michael Engels '06<br> Catherine Ezzio ('13)<br> Jessica Fiske-Baier (Emmaus HS)<br> Evan Fletcher ('13)<br> Amanda Gavin ('12)<br>Jessica Goldberg ('19)<br>Christopher Greco ('15)<br>Jennifer Hall ('12)<br> Rachel Halpern ('14)<br> Heidi Harrington '01<br> Rebecca Haviland '03<br> Jason Hauptman '01<br> Nathaniel Herman ('18)<br>Annie Jilozian '07<br> Chirag Kalola '99<br> Sabrina Kamran ('13)<br>Akshara Kartik ('17)<br> Ryan Kennedy '04<br>Michael Kho ('15)<br>Brook Kohrt '00<br>Mackenzie Kramer ('15)<br>Dominic Lapadula (‚14)<br>Kimberly Lightfoot ('17)<br>Bryn Lipovsky (Moravian)<br> Emily Lisco ('08)<br> Rebecca Lombel '03<br> Ryan Martin '02<br> Sonya Martinez-Hunsicker '06<br> George McClung ('12)<br> Aaron Miller '00<br> Simone Moniz (Emmaus HS)<br> Corrie Morris ('16)<br> Elissa Murphy '00<br> Jason Much (F&amp;M)<br> Ameet Nagpal '03<br> Jill Neiman '06<br> Jessica Nesmith ('09)<br> Son Nguyen '98<br> Rick Oravec '06<br> Suchi Pandey '99<br> Anvi Patel ('12)<br>Zoe Peck ('18)<br>Benjamin Perlman ('13)<br>Lauren Pioppo ('12)<br>Doug Prechtel (Virginia Tech)<br>Galina Radzievsky '00<br>Kristy Reinert '02</p>
+<p>Corrine Rennig '06<br> Rebecca Royce (Virginia Tech)<br>Sydney Saltzman ('16)<br>Brittany Sanford ('11)<br> Gwen Sarver '99<br> Peter Schartel ('15)<br> John Schocken ('09)<br> Michelle Seif '06<br> Zachary Shuler&nbsp;('15)<br> Danielle Silver ('18)<br>Dan Sphilsky ('10)<br> Roxy Sholevar ('11)<br>Katie Skwirut ('16)<br>Dennis Slade '99<br>Eric Smith '02 <br>Danielle Snowflack '03<br> Matthew Stein (Haverford)<br> Rachel Summer ('12)<br> Tilak Sundaresan '02<br> Jessica Tanis '02<br> Tara Tappen ('11)<br> Veronica Taylor ('09)<br> Lily Thompson ('18)<br>Michael Twardzik ('09)<br>Harrison Vener ('17)<br> Eliana Verghese ('08)<br> Jessica Verzella ('12)<br> Aaron Wagner '05<br> Katie Weber (U. Richmond)<br> Hillel Wiener<br> Tiffany Zehner ('10)<br><br></p>
+<p>Sheila Clever, technician<br>Kelly Klampert, technician</p>
+</td>
+<td>
+<p><img src="/media/contentassets/images/academics/biology/LabSummer2012.jpg" alt="Biology" style="     " /><br>‚<img src="/media/contentassets/images/academics/biology/BruceWightman-0465-232x350.jpg" alt="Biology" style="     " /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="/media/contentassets/images/academics/biology/1080.jpg" alt="Biology" style="     " /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: verdana;"><strong>RECENT PUBLICATIONS AND PRESENTATIONS</strong></span></p>
+<p>Bodofsky, S. (‚18), &nbsp;Liberatore, K. (‚19), Pioppo, L. (‚12), Lapadula, D. (‚14), Thompson, L. (‚18), Birnbaum, S. (‚18), McClung, G. (‚12), Kartik, A. (‚17), Clever, S. and Wightman, B., 2018, A tissue-specific enhancer of the <em>C. elegans</em> <em>nhr-67/tailless</em> gene drives coordinated expression in uterine stem cells and the differentiated anchor cell, <a href="https://doi.org/10.1016/j.gep.2018.10.003"><em>Gene Expr Patterns</em>, <strong>30</strong>: 71-81, doi: 10.1016/j.gep.2018.10.003</a>. PubMed PMID: 30404043.</p>
+<p>Bodofsky, S. ('18), Koitz, F. ('19), and Wightman, B., 2017, Conserved and Exapted Functions of Nuclear Receptors in Animal Development, <a href="http://www.agialpress.com/journals/nurr/2017/101305/"><em>Nuclear Receptor Research</em>, <strong>4: </strong>1-34, Article ID 101305.</a></p>
+<p>K. Liberatore (‚19) and B. Wightman, 2018, Insulin signaling and neuronal function in arousal in <em>C. elegans</em>, 21<sup>st</sup> Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, October 20. <em>Regional Conference. </em><em>*Second Place Award in Poster Competition*</em></p>
+<p>Z. He (‚19) and B. Wightman, 2018, The role of insulin signaling and neuron function in developmental progression, 21<sup>st</sup> Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, October 20. <em>Regional Conference.</em></p>
+<p>F. Koitz (‚19) and B. Wightman, 2018, The <em>C. elegans RevErb</em> gene, <em>nhr-85</em>, is expressed increasingly over the first half of larval development, 21<sup>st</sup> Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, October 20. <em>Regional Conference.</em></p>
+<p>S. Bodofsky (‚18), K. Liberatore (‚19), and B. Wightman, 2018, Conserved cis-acting elements in the <em>nhr-67</em> promoter mediate organogenesis in C. elegans, Lehigh Valley Molecular and&nbsp; Cell Biology Symposium, DeSales University, April 24. <em>Regional Conference</em>.</p>
+<p>F. Koitz (‚19) and B. Wightman, 2018, Function of the <em>nhr-85/RevErb</em> gene in <em>C. elegans</em>, Lehigh Valley Molecular and&nbsp; Cell Biology Symposium, DeSales University, April 24. <em>Regional Conference</em>.</p>
+<p>S. Birnbaum (‚18) and B. Wightman, 2018, Neural regulation of sleep-like state by the gene <em>fax‚1 </em>in the nematode <em>C. elegans</em>, Lehigh Valley Molecular and&nbsp; Cell Biology Symposium, DeSales University, April 24. <em>Regional Conference</em>.</p>
+<p>D. Silver (‚18), S. Clever and B. Wightman, 2018, Sleep and Insulin Signaling Pathway in C. elegans, Lehigh Valley Molecular and&nbsp; Cell Biology Symposium, DeSales University, April 24. <em>Regional Conference</em>.</p>
+<p>L. Thompson (‚18) and B. Wightman, 2018, Understanding NHR-67 regulation of genes involved in&nbsp;<em>C. elegans</em>&nbsp;ventral uterine development, Lehigh Valley Molecular and&nbsp; Cell Biology Symposium, DeSales University, April 24. <em>Regional Conference</em>.</p>
+<p>B. Wightman, 2018, Insulin-dependent quiescence and arrest at hatching, <em>C. elegans</em> Developmental Biology and Gene expression Meeting, Barcelona, Spain, June 13-17. <em>International Conference.</em></p>
+<p>B. Wightman, K. Lightfoot (‚17) &nbsp;and E. Bayer (‚14), 2017, The <em>fax-1 </em>and <em>nhr-85 </em>nuclear receptors of <em>C. elegans</em> function in gonad development, 21<sup>st</sup> International <em>C. elegans</em> Conferences, UCLA, Los Angeles, June 21-25.</p>
+<p>S. Bodofsky (‚18), S. Birnbaum (‚18), L. Thompson (‚18), S. Clever and B. Wightman, 2017, An <em>nhr-67 </em>promoter element mediates expression in AC and VU uterine cells, 21<sup>st</sup> International <em>C. elegans</em> Conferences, UCLA, Los Angeles, June 21-25.</p>
+<p>F. Koitz (‚19), E. Bayer (‚14), S. Clever and B. Wightman, 2017, FAX-1 and UNC-42 transcription factors mediate insulin-dependent quiescence and arrest, 21<sup>st</sup> International <em>C. elegans</em> Conferences, UCLA, Los Angeles, June 21-25.</p>
+<p>C. Berman (‚16), Akshara Kartik (‚17), S. Clever, B. Wightman, 2016, A promoter element in the <em>C. elegans nhr-67 tailless</em> gene mediates <em>hlh-2/daughterless</em> regulation of anchor cell differentiation and uterine organogenesis, The Allied Genetics Conference, Orlando, FL, July 13-17. <em>International Conference.</em></p>
+<p>S. Saltzman (‚16), E.&nbsp; Bayer (‚14), S. Clever, B. Wightman, 2016, The <em>fax-1 </em>nuclear receptor of <em>C. elegans</em> functions in gonad development, The Allied Genetics Conference, Orlando, FL, July 13-17. <em>International Conference.</em></p>
+<p>B. Wightman, E. Bayer (‚14), S. Clever, 2016, FAX-1 and UNC-42 Transcription Factors Regulate Developmental Arrest in <em>C. elegans</em>, The Allied Genetics Conference, Orlando, FL, July 13-17. <em>International Conference.</em></p>
+<p>S. Bodofksy (‚18), S. Clever, B. Wightman, 2016, A promoter element in the <em>C. elegans nhr-67 tailless</em> gene mediates regulation of cell differentiation and uterine organogenesis, Lehigh Valley Molecular and&nbsp; Cell Biology Symposium, DeSales University, April 21. <em>Regional Conference</em>.</p>
+<p>S. Birnbuam (‚18), S. Clever, B. Wightman, 2016, The conserved nuclear receptor <em>fax-1</em> functions in neuronal regulation &nbsp;of lifecycle progression in <em>C. elegans</em>, Lehigh Valley Molecular and&nbsp; Cell Biology Symposium, DeSales University, April 21. <em>Regional Conference</em>.</p>
+<p>B. Wightman, 2016, Regulation of developmental arrest in <em>C. elegans</em> by transcription factors that specify neuron identity, invited lecture, Rowan University School of Osteopathic Medicine, Stratford, NJ, March 10.</p>
+<p>B. Wightman, E. Bayer (‚14), L. Jerjos (‚17), C. Greco (‚15), M. Kramer (‚15), M. Kho (‚15), K. Skwirut (‚16), A. Kartik (‚17), S. Clever, 2015, The FAX-1 and NHR-67 Nuclear Receptors Function in Gonad Development, presentation (BW) at the 20<sup>th</sup> International <em>C. elegans</em> Meeting, Los Angeles, CA, June 24-28. <em>International Conference</em>.</p>
+<p>C. Greco, A. Kartik, S. Clever, B. Wightman, 2015, A promoter&nbsp; element in the <em>C. elegans</em> <em>nhr-67 tailless</em> gene mediates <em>hlh-2/daughterless</em> regulation of uterine organogenesis, presentation (CG and AK) at the 2015 Mid-Atlantic Society for Developmental Biology Meeting, Princeton, NJ, March 27-28. <em>Regional Conference.</em></p>
+<p><span class="style1">D. Lapadula,</span> <span class="style1">P. Ezzio, L. Pioppo, M. Kho, P. Schartel, Z. Shuler, C. Greco, M. Kramer,</span> <span class="style1">S. Clever, B. Wightman, 2014, a promoter element in the <em>C. elegans</em> <em>tailless</em> gene links sex-specific regulation with uterine organogenesis, presentation (DL) at the 2014 Mid-Atlantic Society for Developmental Biology Meeting, Baltimore MD, May 30-31.</span></p>
+<p class="style1">E. Bayer, B. Wightman, 2014, the conserved nuclear receptor <em>fax-1</em> functions in <em>C. elegans</em> cell migration and neuronal regulation of lifecycle, presentation (EB) at the 2014 Mid-Atlantic Society for Developmental Biology Meeting, Baltimore MD, May 30-31.</p>
+<p class="style1">E. Bayer, B. Wightman, 2013, Function of the conserved nuclear receptor <em>fax-1</em> in <em>C. elegans</em> cell migration and sleep regulation presentation (EB) at the 16<sup>th</sup> Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, Oct. 26. <em>Regional Conference. *First Place Award in Poster Competition*</em></p>
+<p class="style1">D. Lapadula, P. Ezzio, S. Clever and B. Wightman, 2013, A promoter element in the <em>C. elegans tailless</em> gene links sex-specific regulation with uterine organogenesis, presentation (DL) at the 16<sup>th</sup> Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, Oct. 26. <em>Regional Conference. *First Place Award in Poster Competition*</em></p>
+<p class="style1">E. Bayer and B. Wightman, 2013, <em>&nbsp;fax-1</em> and prominin function in migration and morphogenesis, presentation (BW) at the 19<sup>th</sup> International <em>C. elegans</em> Meeting, Los Angeles, CA, June 26-30. <em>International Conference</em>.</p>
+<p class="style1">&nbsp;</p>
+</div></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,630 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trexler Library | Muhlenberg College</title>
+    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css'>
+    
+  <!--<link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/update.css">-->
+		 <!--new test special collection style (sc_test.css) 2/19-->
+    <link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/specialcollections/sc_test.css">
+  	
+  	<!--Styles for timelines-->
+    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    
+  <!--Test main sc scripts (sc.js)-->
+    <script src="/library/media/styleassets/library/trexlerredesign/js/scripts_sc.js"></script>
+  <style>.drop-list li {list-style: none;}</style>
+  	
+</head>
+<style type="text/css">
+            a.drop-list-item {
+                display: block;
+            }
+            .subDrop {
+              position: relative;
+              display: block;
+            }
+            .subDrop-content {
+              display: none;
+              position: absolute;
+              top: 5px;
+              left: 60px;
+              background-color: #FAFAFA;
+              min-width: 160px;
+              box-shadow: 0px 15px 15px 5px rgba(0,0,0,0.3);
+              z-index: 2;
+            }
+            .subDrop:hover .subDrop-content {display: block;
+            }
+            ul.subDrop-content {
+                margin: 0;
+                padding: 5px;
+                list-style-type: none;
+            }
+        </style>
+<body>
+    <div class="home-container">
+        <a class="link-skip" id="skip-to-content" href="#main_content">Skip to Main Content</a>
+
+        <header id="header">
+            <div class="header-wrap">
+                <div class="h-row">
+
+                    <div class="h-cell">
+                        <a href="http://trexler.muhlenberg.edu">
+                            <img src="/library/media/contentassets/library/images/home/trexler-sitelogo-transparent-white.png" alt="Visit Trexler Library Home"class="lib-logo" />
+                        </a>
+                    </div>
+
+                    <div class="m-cell">
+                        
+                        <nav aria-label="Sub Navigation" role="navigation">
+                            <a href="https://www.muhlenberg.edu/" id="col-link" class="link-w top-link" target="_blank">College Home</a>
+
+                            <a href="https://muhlenberg-college.onelogin.com/login" id="port-link" class="link-w top-link" target="_blank">College Portal</a>
+
+                            <a href="https://muhlenberg.account.worldcat.org/account" class="link-w top-link"><i class='fas fa-user-circle mi--w48'></i>My Library Account</a>	
+                        </nav>
+                        
+                    </div>
+                </div>                
+            </div>
+                
+            <nav class="top-menu t-menu h-row" id="full-menu" role="navigation" aria-label="Main Navigation">
+                <ul class="menu">
+                    <li class="top-menu-item drop"><a href="#">2021-2022 Updates<i class="fas fa-caret-down"></i></a>
+                      <ul class="drop-list">
+                        <li><a class="drop-list-item" href="https://www.muhlenberg.edu/offices/healthcenter/coronavirus/" target="_blank">Campus Pandemic Information</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/visitingthelibrary/">Visiting the Library</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/accessingprintresources/">Accessing Print Resources</a></li>                              
+                        <li><a class="drop-list-item" href="/library/onlineresources/accessingonlineresources/">Accessing Online Resources</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/off-campusaccess/">Off-Campus Access</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/research/">Research Support</a></li>
+                        <li><a class="drop-list-item" href="/library/onlineresources/faculty/">Faculty Resources</a></li>
+                      </ul>
+                  </li>  
+                    <!--<li class="top-menu-item drop"><a href="#">About Us<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>
+                            <!--<li><a class="drop-list-item" href="">Library Floor Plans</a></li>                           
+                            <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                            <li><a class="drop-list-item" href="">Form directory</a></li>
+                            <li><a class="drop-list-item" href="/library/about/policies/">Library Policies</a></li>
+                            <li><a class="drop-list-item" href="/library/about/comments/">Comments</a></li>
+                            <!--<li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li><
+                        </ul>
+                    </li>-->
+										 <li class="top-menu-item drop"><a href="/library/about/">About Us<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/about/#contactus">Contact Us</a></li>
+                                <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>                             
+                                <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                                <li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li>
+                                <li><a class="drop-list-item" href="/library/about/spaces/">Library Spaces &<br>Room Reservations</a></li>
+                                <li><a class="drop-list-item" href="/library/about/technology/">Library Technology</a></li>
+                                <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestions</a></li>                                
+                                <div class="subDrop">
+                                    <li><a class="drop-list-item" href="#">Forms<i class="dropdown-caret fas fa-caret-right" style="color:black;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="subDrop-content">
+                                            <li><a class="drop-list-item" href="/library/about/comments/">Comments</a></li>
+                                            <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/facultystudies/facultystudyrequestform/">Faculty Study Request</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/#forms">Interlibrary Loan Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/libraryinstructionrequestform/">Library Instruction Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestion Request</a></li>
+                                        </ul>
+                                    </li>
+                                </div>
+                                <div class="subDrop">
+                                    <li><a class="drop-list-item" href="#">Policies<i class="dropdown-caret fas fa-caret-right" style="color:black;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="subDrop-content">
+                                            <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/collection-development-policy.html">Collection Development</a></li>
+                                            <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/gift-materials-policy.html">Gift Materials</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/lost-and-found-policy.html">Lost & Found</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/about/policies/privacy-and-confidentiality.html">Privacy & Confidentiality</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-relations-policy.html">Public Relations Policy</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-service-policy.html">Public Service Policy</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/safety-and-emergency-policy.html">Safety and Emergency Policy</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/textbook-policy.html">Textbook Policy</a></li>
+                                        </ul>
+                                    </li>   
+                                </div>
+                            </ul>
+                        </li>
+                    <li class="top-menu-item drop"><a href="#">Research<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/getstartedguides">Get Started with Research</a></li>
+                            <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/content.php?pid=356743">Subject Guides</a></li>
+                            <li><a class="drop-list-item" href="/library/research/citationguides/">Citation Guides</a></li>
+                            <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright Information</a></li>
+                            <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/az.php">Databases A-Z</a></li>
+                            <li><a class="drop-list-item" href="/library/research/askalibrarian/">Ask a Librarian</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="top-menu-item drop"><a href="#">Borrowing<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/myaccount">My Library Account</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/borrowingpolicies/">Lending Policies</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/">Interlibrary Loan</a></li>
+                            <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/courseReserves/landing/">Search Reserves</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/coursereserves/">Course Reserves Home</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/filmscreenings/">Film Screenings</a></li>
+                            <li><a class="drop-list-item" href="/library/borrowing/equipmenttoborrow/">Technology to Borrow</a></li>   
+                        </ul>
+                    </li>
+
+                    <li class="top-menu-item drop"><a href="">Library Spaces<i class="fas fa-caret-down"></i></a>
+                      <ul class="drop-list">
+                        <li><a class="drop-list-item" href="/library/spaces/">Library Spaces</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/classrooms/">Classrooms</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/studentspaces/">Student Spaces</a></li>                              
+                        <li><a class="drop-list-item" href="/library/spaces/specialresourcerooms/">Special Resource Rooms</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/#floorplans">Floor Plans</a></li>
+                        <li><a class="drop-list-item" href="/library/spaces/facultystudies/">Faculty Studies</a></li>
+                      </ul>
+                  </li>
+
+                    <li class="top-menu-item drop"><a href="#">Faculty Resources<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                          <li><a class="drop-list-item" href="/library/facultyresources/teachingandlearning/">Teaching and Learning</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/">Collection Development</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/copyrightatmuhlenberg/">Copyright at Muhlenberg</a></li>                      
+                            <li><a class="drop-list-item" href="">Faculty Lending Policy</a></li>
+                            <li><a class="drop-list-item" href="">Faculty Studies</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/">Information Literacy & Instructional Support</a></li> 
+                            <li><a class="drop-list-item" href="/library/facultyresources/librarycommittee/">Library Committee</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/libraryliaisons/">Library Liaisons</a></li>
+                            <li><a class="drop-list-item" href="/library/facultyresources/openaccess/">Open Access</a></li>                       
+                            <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Place an Item on Reserve</a></li>                      
+                            <li><a class="drop-list-item tier-two" href="/library/facultyresources/purchasesuggestions/">Suggest a Purchase</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="top-menu-item drop"><a href="#">Special Collections<i class="fas fa-caret-down"></i></a>
+                        <ul class="drop-list">
+                            <li><a class="drop-list-item" href="/library/specialcollections/">Special Collections & Archives</a></li>
+                            <li><a class="drop-list-item" href="/library/specialcollections/digitalrepository/">Muhlenberg College Digital Repository</a></li>
+                            <li><a class="drop-list-item" href="/library/honorsthesis/">Student Honors Theses</a></li>
+                        </ul>
+                    </li>   
+                </ul>  
+            </nav>
+        </header><span id="d.en.414267"></span>
+ <header class="sc-banner">
+        <div class="title">
+		  <img src="/library/media/contentassets/library/images/special-collections/Muhlenberg-M.png" alt="Muhlenberg-M Logo">
+			<h1><a href="/library/specialcollections/">Special Collections & Archives</a></h1>
+		  </div>
+        
+        <button id="sc-m" class="sc-sm" role="navigation">
+           <i class="material-icons" id="sm">menu</i>
+        </button>
+
+<div id="expand-sc-menu">
+                <a href="/library/specialcollections/about/">About Us</a>
+							<!--<div class="top-menu-item sm-drop">-->
+								<a href="#" class="top-menu-item" id="sm-drop">Collections<i class="material-icons">expand_more</i></a>
+										<div id="sm-drop-list">
+                        <a class="drop-list-item"  href="/library/specialcollections/collections/">Special Collections</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/archives/">Archives</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/digitalcollections/">Digital Collections</a> 
+                    </div>
+							<!--</div>-->
+                <a href="/library/specialcollections/digitalprojects/">Digital Projects</a>
+                <a href="/library/specialcollections/exhibits/">Exhibits</a>
+                <a href="/library/specialcollections/classvisits/">Class Visits</a>
+            </div>  
+        
+        <nav class="top-nav">
+            <div class="menu">
+                <a href="/library/specialcollections/about/">About Us</a>
+							<div class="top-menu-item drop">
+								<a href="#" id="sc-drop">Collections<i class="material-icons">expand_more</i></a>
+										<div class="drop-list">
+                        <a class="drop-list-item"  href="/library/specialcollections/collections/">Special Collections</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/archives/">Archives</a>
+                        <a class="drop-list-item"  href="/library/specialcollections/digitalcollections/">Digital Collections</a> 
+                    </div>
+							</div>
+                <a href="/library/specialcollections/digitalprojects/">Digital Projects</a>
+                <a href="/library/specialcollections/exhibits/">Exhibits</a>
+                <a href="/library/specialcollections/classvisits/">Class Visits</a>
+            </div>  
+            
+        </nav>
+
+    </header><span id="d.en.414291"></span>
+   <main class="sc-page">
+       <div class="content page exhibit-pg">
+<aside class="aside-l" id="tab-menu">    
+                <button class="tablinks open" id="current-tab"><a href="#current">Current Exhibit</a></button>
+                <button class="droptab closed" id="previous-tab"><a href="#">Previous Exhibits<i class="material-icons">expand_more</i></a></button>
+                <div id="s-previous" class="s-drop-list inactive">
+<a href="#innovation" class="exlinks">An Innovation Revisited</a>
+<a href="#leadership" class="exlinks">Learning & Leadership</a>
+                    <a href="#ink18" class="exlinks">Paper & Ink 2018</a>
+                    <a href="#luther" class="exlinks">Opening Lutherâs Door</a>
+                    <a href="#ink17" class="exlinks">Paper & Ink 2017</a>
+                    <a href="#tonner" class="exlinks"> A Life of Art and Ideas 2017</a>
+                </div>
+            </aside>
+           <div class="intro">
+            <h2>Exhibits</h2>
+            <p>Trexler Libraryâs Rare Books Exhibit Room on Level B provides a space to showcase Special Collections and Archives materials. Once or twice per year, exhibits rotate, sometimes telling stories from the Collegeâs history through archival material, and sometimes thematically highlighting treasures from our other collections.</p>
+           </div>
+           
+            <div id="tabs-collections">
+
+                
+<span id="d.en.414292"></span>
+<div id="current" class="tab-content active">
+
+    <div class="collection-txt-leader">
+        <h3 class="em-space">HIV and AIDS in the Lehigh Valley: 40 years of Advocacy and Activism</h3>
+        <h5 class="sm-tspace">Through Jun 30, 2022 â Rare Books Exhibit Room, Level B</h5>
+    </div>
+    
+    <div class="collection-txt-full">
+        <p>The way AIDS was initially described in established Lehigh Valley local media in the early 1980s made it seem an issue far away in both distance and impact. However, local publications geared toward the LGBT community, like the Le-Hi-Ho News, show a rapidly growing concern for and realization that AIDS was already impacting the Lehigh Valley. In the months and years after AIDS and then HIV were identified, a growing community of  Lehigh Valley advocates and activists formed organizations to care for people with HIV and AIDS, keep communities informed, and work to increase acceptance and rights for people with HIV and AIDS. Local organizations featured in this exhibit include Fighting AIDS Continuously Together, or F.A.C.T., and Latino AIDS Outreach. </p>
+
+        <div class="img-full">
+            <a href="/library/media/contentassets/library/images/special-collections/exhibits/IMG_1888.jpg" target="_blank">
+            <img src="/library/media/contentassets/library/images/special-collections/exhibits/IMG_1888.jpg" alt="Pen & Ink display"></a>
+        </div>
+        
+        <p>This exhibit shares a snapshot of instances of activism in the Lehigh Valley, including those at Muhlenberg College, using collections and oral histories held by Trexler Library. We thank the many people who have shared their stories with the archives. Many of these materials are a part of the Lehigh Valley LGBT Community Archive, a program of the Bradbury-Sullivan LGBT Community Center in partnership with Trexler Library.</p>
+        
+        <p>For more information, contact Susan Falciani Maldonado at <a href="mailto:susanfalciani@muhlenberg.edu">susanfalciani@muhlenberg.edu</a> or Rachel Hamelers at <a href="mailto:rachelhamelers@muhlenberg.edu">rachelhamelers@muhlenberg.edu</a>.</p>     
+    </div>  
+
+    <div class="img-left small">
+        <a href="/library/media/contentassets/library/images/special-collections/exhibits/IMG_1889.jpg" target="_blank">
+        <img src="/library/media/contentassets/library/images/special-collections/exhibits/IMG_1889.jpg" alt="Pen & Ink display"></a>
+    </div>
+    <div class="img-col small">
+        <a href="/library/media/contentassets/library/images/special-collections/exhibits/IMG_1890.jpg" target="_blank">
+        <img src="/library/media/contentassets/library/images/special-collections/exhibits/IMG_1890.jpg" alt="Pen & Ink display"></a>
+    </div>
+
+</div>
+
+<span id="d.en.414293"></span>
+<div id="previous" class="tab-content inactive">
+    <article id="innovation">
+			<div class="collection-txt-full">
+					<h3 class="em-space">An Innovation Revisited: 170 years of women on campus</h3>
+					<h5 class="sm-tspace">January 23, 2020 - April 24, 2020 â Rare Books Exhibit Room, Level B</h5>
+			</div>
+            <div class="collection-txt-full">
+                <p>This year marks the 100th anniversary of the passage of the 19th Amendment, which guaranteed women the right to vote. To mark that centennial, Special Collections and Archives is exploring the presence of women on campusâ and their absences. From 1850, when Muhlenberg Collegeâs predecessor, the Allentown Seminary, first opened its Female Department for the education of girls and young women, through the later decades of the 19th century, when female voices are virtually silent at the College, into the early years of the 20th century, when the Womenâs Auxiliary proved that women were indispensable to the survival of the institution, we have attempted to profile some individuals and organizations that helped women learn and thrive at Muhlenberg College through the years. </p>
+                
+                <p>During this anniversary year, the archives will continue to share profiles of some of the lesser-known women in Muhlenbergâs past, and to make available more and more resources specific to the study of womenâs history at Muhlenberg. Though the presence of women on campus was repeatedly seen as an âinnovationâ by successive generations of administrators and students, their story of resilience and determination has been inextricably woven into Muhlenbergâs history since the beginning. </p>
+                
+                <p>For more information about the exhibit or Muhlenberg library history, contact Susan Falciani Maldonado at susanfalciani@muhlenberg.edu or 484.664.3694.</p>     
+            </div>  
+
+        <div class="img-left img-col small"><a href="/library/media/contentassets/library/images/special-collections/exhibits/IMG_9493.jpg" target="_blank">
+        			<img src="/library/media/contentassets/library/images/special-collections/exhibits/IMG_9493.jpg" alt="Exhibit room" style="padding-left:0;">
+        		</a>
+        </div>
+
+            <div class="img-col small"><a href="/library/media/contentassets/library/images/special-collections/exhibits/Seminary_brochure.jpg" target="_blank">
+        			<img src="/library/media/contentassets/library/images/special-collections/exhibits/Seminary_brochure.jpg" alt="seminary brochure">
+        		</a>
+        </div>
+    </article>
+<div class="collection-txt-full"><hr class="ex"></div>
+    <article id="leadership">
+			<div class="collection-txt-full">
+					<h3 class="em-space">Learning and Leadership</h3>
+					 <h4 class="sm-tspace">An exhibit celebrating Muhlenberg College Libraries, 1867-2018</h4>
+					<h5 class="sm-tspace">October 24, 2018 - March 31, 2019 &ndash; Rare Books Exhibit Room, Level B</h5>
+				</div>
+				
+				<div class="collection-txt r2-2">
+        <p>Muhlenberg Collegeâs library had its origins in 1867 in one hundred volumes that were inherited from its predecessors, the Allentown Seminary and the Allentown Collegiate Institute and Military Academy. Today, it contains over 300,000 print books, over 650,000 ebooks, over 72,000 print and electronic periodicals, and access to more than 100 electronic databases. From its earliest days, the Collegeâs library could not have grown to accommodate the needs of an evolving curriculum and expanding student body without the support of students, alumni, friends of the library and the College, and dedicated library staff. </p>
+        
+        <p>This exhibit shares the history of the collections and the buildings that have shaped and reflected the Collegeâs mission and growth for over 150 years. Archival material on display tells the stories of the Euterpian and Sophronian Literary Societies, shows the earliest books acquired for the Collegeâs collections, and traces the origins of the modern library system, implemented in the late 1930s, that is the foundation of many practices that continue today. See what the John A.W. Haas Library could have looked like if the original renderings had come to fruition. And celebrate the 30th anniversary of Trexler Library with a look back at the festivities that marked its addition as a vital center of the Muhlenberg campus.</p>
+        
+        <p>For more information about the exhibit or Muhlenberg library history, contact Susan Falciani Maldonado at susanfalciani@muhlenberg.edu or 484.664.3694.</p>     
+    </div>  
+
+    <div class="img-col small tonner"><a href="/library/media/contentassets/library/images/special-collections/exhibits/Trexler_bookpassing.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/exhibits/Trexler_bookpassing.jpg" alt="human chain passing books">
+		</a>
+</div>    
+			
+		</article>
+		
+		<div class="collection-txt-full"><hr class="ex"></div>
+		
+    <article id="ink18">
+            <div class="collection-txt-full">
+                <h3 class="em-space">Paper & Ink</h3>
+                <h4 class="sm-tspace">An exhibit of artistsâ books and historical research by students in a cluster based around Muhlenberg Collegeâs Rare Books collection.</h4>
+                <h5 class="em-space">May 6, 2018 - July 31, 2018 &ndash; Rare Books Exhibit Room, Level B, Trexler Library</h5>
+
+                <p>The work in this exhibition comes from an integrative project completed by students in the cluster<em>Paper & Ink: Art and History of the Book</em>.</p>
+
+                <p>This exhibit shares the history of the collections and the buildings that have shaped and reflected the Collegeâs mission and growth for over 150 years. Archival material on display tells the stories of the Euterpian and Sophronian Literary Societies, shows the earliest books acquired for the Collegeâs collections, and traces the origins of the modern library system, implemented in the late 1930s, that is the foundation of many practices that continue today. See what the John A.W. Haas Library could have looked like if the original renderings had come to fruition. And celebrate the 30th anniversary of Trexler Library with a look back at the festivities that marked its addition as a vital center of the Muhlenberg campus.</p>
+
+                <p>A cluster is made up of two distinct classes that share the same group of students. The two classes introduce methods from separate fields to explore a single topic. <em>Books and Their Readers</em>, taught by Lynda Yankaskas, focuses on the history of reading and printing technology primarily in the U.S. <em>Printmaking and the Book</em>, taught by Emily Orzech, focuses on contemporary visual expression through the creation of artistâs books.</p>     
+            </div>  
+
+            <div class="img-full"><a href="/library/media/contentassets/library/images/special-collections/exhibits/penInk.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/exhibits/penInk.jpg" alt="Pen & Ink display">
+		</a></div>
+
+            <div class="collection-txt-full">
+                <h4 class="italics">What is printmaking?</h4>
+                <p>Printmaking is the process of creating an image on one surface and transferring it onto another through the use of pressure, allowing for multiple copies to be created, much like a rubber stamp. Students in Printmaking and the Book learned linocut, screenprint, and photocopy lithography along with book binding techniques.</p>
+
+                <h4 class="italics">What is an artistâs book?</h4>
+                <p>Artistâs books are visual art objects that reference traditional book forms. Visual material may unfold over a series of pages, may include traditional bindings, and may include a written text.</p>
+
+                <h4 class="italics">What is book history?</h4>
+                <p>Book history includes the study of authorship (who wrote what, and why), reception (who read what, and how did readers respond to books), and publishing (how were books as physical objects made, and what were the economics and politics of book production and distribution). Students in Books and Their Readers learned about authorship, reception, and publishing since the invention of moveable-type printing in Europe in the 15th century, with a focus on developments in the United States.</p>
+
+                <h4 class="italics">Where did the work in this exhibit come from?</h4>
+                <p>Each student spent the semester working with a particular volume from Muhlenbergâs Rare Books Collection. Students researched each bookâs biography, placing it in the context of the history of reading and book production. As part of their integrative assignment each student then created a contemporary artistâs book based on this historical research. Students were asked to visually respond to the content or context of the book. This response might include referencing historical archives, critiquing certain positions within the book such as Orientalism, or reflecting on how past events resonate in the contemporary moment. Students could use any technique or combination of techniques they learned in Professor Orzechâs class.</p>
+            </div>
+    </article>
+    
+    <div class="collection-txt-full"><hr class="ex"></div>
+    
+   <article id="luther">     
+            <div class="collection-txt-full">
+                <h3 class="em-space">Opening Lutherâs Door: Lutheran Education from Wittenberg to Allentown</h3>
+                <h5 class="em-space">October 31, 2017 - April 30, 2018 &ndash; Rare Books Exhibit Room, Level B, Trexler Library </h5>
+
+                <p>In commemoration of the 500th anniversary of the Protestant Reformation, this exhibit traces the origins of Lutheranism and Lutheran education from 1517 until today, as represented in Trexler Libraryâs Special Collections and Archives. From the earliest printed pamphlets of Martin Luther, which proliferated thanks to the revolution created by the printing press, to the heart of what it means to be a Lutheran college today, this exhibit explores the doctrines of Lutheranism as they evolved and made their way via Henry Melchior Muhlenberg and others into the American educational system. </p>
+
+            </div>  
+
+            <div class="img-full">
+                <a href="/library/media/contentassets/library/images/special-collections/exhibits/lutherEx.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/exhibits/lutherEx.jpg" alt="">
+		</a>
+                 <p class="caption">Detail of Lutherâs Contra malignum Iohannis Eccii Iudicium, Leipzig: 1520. Bearing a presentation inscription from Martin Luther to Willibald Pirckheimer, an early supporter.</p>
+            </div>
+            <div class="img-full">
+                <a href="/library/media/contentassets/library/images/special-collections/exhibits/lutherEx2.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/exhibits/lutherEx2.jpg" alt="">
+		</a>
+                 <p class="caption">Works produced by Pietist scholars at the University of Halle, where Henry Melchior Muhlenberg was educated.</p>
+            </div>
+
+   </article>
+         <div class="collection-txt-full"><hr class="ex"></div> 
+
+    <article id="ink17">
+            <div class="collection-txt-full">
+                <h3 class="em-space">Paper & Ink</h3>
+                <h4 class="sm-tspace">An exhibit of artistsâ books and historical research by students in a cluster based around Muhlenberg Collegeâs Rare Books collection.</h4>
+            </div>
+             <div class="collection-txt">
+                <h5 class="em-space">May 7, 2017 - June 30, 2017 &ndash; Rare Books Exhibit Room, Level B, Trexler Library</h5>
+
+                <p>The work in this exhibition comes from an integrative project completed by students in the cluster<em>Paper & Ink: Art and History of the Book</em>.</p>
+
+                <p>A cluster is made up of two distinct classes that share the same group of students. The two classes introduce methods from separate fields to explore a single topic. <em>Books and Their Readers</em>, taught by Lynda Yankaskas, focuses on the history of reading and printing technology primarily in the U.S. <em>Printmaking and the Book</em>, taught by Emily Orzech, focuses on contemporary visual expression through the creation of artistâs books.</p>     
+            </div>  
+            <div class="img-col small end"><a href="/library/media/contentassets/library/images/special-collections/exhibits/penInk2.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/exhibits/penInk2.jpg" alt="">
+		</a></div>
+
+
+            <div class="collection-txt-full no-top-space">
+                <h5 class="italics no-top-space">What is printmaking?</h5>
+                <p>Printmaking is the process of creating an image on one surface and transferring it onto another through the use of pressure, allowing for multiple copies to be created, much like a rubber stamp. Students in Printmaking and the Book learned linocut, screenprint, and photocopy lithography along with book binding techniques.</p>
+
+                <h5 class="italics">What is an artistâs book?</h5>
+                <p>Artistâs books are visual art objects that reference traditional book forms. Visual material may unfold over a series of pages, may include traditional bindings, and may include a written text.</p>
+
+                <h5 class="italics">What is book history?</h5>
+                <p>Book history includes the study of authorship (who wrote what, and why), reception (who read what, and how did readers respond to books), and publishing (how were books as physical objects made, and what were the economics and politics of book production and distribution). Students in Books and Their Readers learned about authorship, reception, and publishing since the invention of moveable-type printing in Europe in the 15th century, with a focus on developments in the United States.</p>
+
+                <h5 class="italics">Where did the work in this exhibit come from?</h5>
+                <p>Each student spent the semester working with a particular volume from Muhlenbergâs Rare Books Collection. Students researched each bookâs biography, placing it in the context of the history of reading and book production. As part of their integrative assignment each student then created a contemporary artistâs book based on this historical research. Students were asked to visually respond to the content or context of the book. This response might include referencing historical archives, critiquing certain positions within the book such as Orientalism, or reflecting on how past events resonate in the contemporary moment. Students could use any technique or combination of techniques they learned in Professor Orzechâs class.</p>
+            </div>
+   </article>
+    
+    <div class="collection-txt-full"><hr class="ex"></div> 
+    
+    <article id="tonner">
+            <div class="collection-txt-tonner">
+                <h3 class="em-space">Florence Foerderer Tonner: A Life of Art and Ideas</h3>
+                <h5 class="em-space">February 1, 2017 - May 1, 2017 &ndash; Rare Books Exhibit Room, Level B, Trexler Library </h5>
+            </div>
+
+          <div class="collection-txt-full no-top-space">
+                <p>Trexler Libraryâs Special Collections and the Martin Art Gallery present an exhibit celebrating art and rare books from the collection of Florence Foerderer Tonner (1882-1971). A Philadelphia collector and philanthropist, Florence Tonner at her death bequeathed her Delaware River estate, Glen Foerd, and its contents to the Lutheran Church in America. Over time, the maintenance costs of the estate became too great for the Church to sustain, and the house reverted back to the custodianship of the local community. Today it is run by the Glen Foerd Conservation Corporation, and is the only one of the grand old Delaware River summer mansions to be restored and open to the public as a museum.</p>
+
+                <p>Because of Muhlenberg Collegeâs close relationship with the LCA, much of Florenceâs print and rare books collections were donated to the College, where they have served as invaluable educational resources for the Muhlenberg community. From first editions of Hemingway and Steinbeck, important landmarks books on art collecting, and childrenâs books, to an important hand-colored copy of William Blakeâs Night Thoughts, Florenceâs print and book collections have provided a wide-ranging selection of interdisciplinary treasures. This exhibit, which takes place in the Rare Books Exhibit Room on Level B of Trexler Library, also contains several oil paintings that came with the bequest, by artists including Theodore Rosseau, Louis Elisabeth Vigee Le Brun, and others. 
+                </p>     
+            </div>
+
+            <div class="img-left small"><a href="/library/media/contentassets/library/images/special-collections/exhibits/Tonner_room1.jpg" target="_blank">
+                <img src="/library/media/contentassets/library/images/special-collections/exhibits/Tonner_room1.jpg" alt="Pen & Ink display"></a>
+            </div>
+                        
+            <div class="img-col small">
+                <a href="/library/media/contentassets/library/images/special-collections/exhibits/Tonner.jpg" target="_blank">
+			<img src="/library/media/contentassets/library/images/special-collections/exhibits/Tonner.jpg" alt="" class="right">
+		</a>
+                <p class="caption">Photo courtesy of Glen Foerd on the Delaware.</p>
+            </div>
+             
+    </article>
+    
+</div>
+</div>
+ </div>
+    </main></div>
+<footer>
+    <div class="footer_ribbon">
+        <div class="fs-row">
+            <div class="fs-cell">
+                <div class="footer_ribbon_inner">
+                    <div class="footer_group footer_group_hat">
+                        <div class="logo logo_footer logo_icon" itemscope="" itemtype="http://schema.org/Organization">
+                            <a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+                                <span class="logo_link_label">Muhlenberg College</span>
+                                <img src="https://www.muhlenberg.edu/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo">
+                            </a>
+                        </div>
+                        <div class="footer_address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                            <a class="footer_address_link footer_address_location" href="#">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_marker">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">
+                                    <span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+                                    <span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+                                    <span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+                                    <span class="footer_address_state" itemprop="addressRegion">PA</span>
+                                    <span class="footer_address_zip" itemprop="postalCode">18104</span>
+                                </span>
+                            </a>
+                            <a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_phone">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">484-664-3100</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="footer_group footer_group_sole">
+                        <nav class="footer_nav">
+                            <ul class="footer_nav_list">
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/campus-map/">
+                                        <span class="footer_nav_link_label">Maps &amp; Directions</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/offices/oit/webresources/accessibility/">
+                                        <span class="footer_nav_link_label">Accessibility</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+
+
+                                    <a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+                                        <span class="footer_nav_link_label">Library</span>
+                                    </a>
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/equityandtitleix/">
+                                        <span class="footer_nav_link_label">Title IX</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/eventservices/">
+                                        <span class="footer_nav_link_label">Conference &amp; Event Services</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/tactical/azfind.htm">
+                                        <span class="footer_nav_link_label">A-Z Index</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="social_nav" itemscope="" itemtype="http://schema.org/Organization">
+                            <link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+                            <div class="social_nav_header">
+                                <h2 class="social_nav_title">Social</h2>
+                            </div>
+                            <div class="social_nav_list">
+                                <div class="social_nav_item facebook">
+                                    <a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_facebook">
+                                            
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Facebook</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item instagram">
+                                    <a class="social_nav_link" href="https://www.instagram.com/explore/locations/5194184/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_instagram">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Instagram</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item twitter">
+                                    <a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_twitter">
+                                          
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Twitter</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item youtube">
+                                    <a class="social_nav_link" href="https://www.youtube.com/user/muhlsid" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_youtube">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">YouTube</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item linkedin">
+                                    <a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_linkedin">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">LinkedIn</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="footer_credit">
+                    <span class="footer_credit_icon">
+                        <a class="t4Edit-page" href="https://t4.muhlenberg.edu/terminalfour/page/directEdit#edit/8/en/82623">Â©</a>
+                    </span>
+                    <span class="footer_credit_label">2019 Muhlenberg College</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</div>
+
+  </body>
+</html>

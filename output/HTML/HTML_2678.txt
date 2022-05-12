@@ -1,0 +1,1258 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Niesenbaum's Page | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Niesenbaum's Page">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biology/">Biology</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/richardaniesenbaum/">Richard A. Niesenbaum</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/richardaniesenbaum/niesenbaumspage/">Niesenbaum's Page</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Niesenbaum's Page</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","500px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","740px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","980px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","1220px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","500px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","740px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","980px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg","1220px":"/media/contentassets/images/academics/biology/homepage/Biology_header-honeybee-1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_2">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biology/">Biology</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/richardaniesenbaum/">Richard A. Niesenbaum</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/richardaniesenbaum/niesenbaumspage/">Niesenbaum's Page</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Niesenbaum's Page</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Niesenbaum's Page">
+							<span class="sub_nav_handle_label">Niesenbaum's Page</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/biology/research/facultyresearchprograms/">Research Programs</a></li><li class="sub_nav_item"><a href="http://www.muhlenberg.edu/main/aboutus/provost/">Provost</a></li><li class="sub_nav_item"><a href="http://www.muhlenberg.edu/main/aboutus/fct/">Faculty Center for Teaching</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biology/">Biology</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/richardaniesenbaum/">Richard A. Niesenbaum</a></li><li class="linkitem"><a href="/academics/biology/facultystaff/richardaniesenbaum/niesenbaumspage/">Niesenbaum's Page</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <table border="0" align="center">
+<tbody>
+<tr>
+<td>
+<div><span class="style7"><span class="stylea"><a href="/academics/biology/">Biology Home</a> | <a href="http://www.muhlenberg.edu/main/academics/sustainability/">Sustainability Studies</a> | <a href="/academics/biology/plant-insectinteractionsnsf/">Plant-Insect Research</a></span></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="breakByCell">
+<table border="0">
+<tbody>
+<tr>
+<td>
+<p><span class="style2"><strong>Richard Niesenbaum, Ph.D</strong>.</span> <span class="style7"><br> <strong>Professor of Biology<br></strong> <strong>Director of Sustainability Studies</strong></span></p>
+<p><strong>Program Faculty in Sustainability Studies, Latin American &amp; Caribbean Studies</strong>, <strong>and Public Health</strong></p>
+<p><span class="style7">237 New Science Building</span><span class="style7"><br> Muhlenberg College, Allentown, PA 18104<br> Phone: 484-664-3258<br> <a href="mailto:niesenba@muhlenberg.edu">niesenba@muhlenberg.edu</a></span>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</p>
+<p><span class="style7">Twitter: @SusSolutions</span><strong>&nbsp;</strong>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p class="style7"><span class="style7"><span class="style4"><img src="/media/contentassets/images/academics/sustainability/richn.jpg" alt="Sustainability Studies" style="     " /></span>â</span>â</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p class="style7">&nbsp;</p>
+<p class="style7">&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div><img src="/media/contentassets/images/academics/sustainability/Picture6web_000-365x228.jpg" alt="Sustainability Studies" style="     " />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="/media/contentassets/images/academics/sustainability/solarpanelinstallation-305x203.jpg" alt="Sustainability Studies" style="     " /></p>
+</div>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><strong><span class="style9">Education:</span><span class="style7"><br></span></strong></p>
+<p>Ph.D. Biology/Ecology - University of Pennsylvania</p>
+<p>M.S.&nbsp; Biological Oceanography - University of Connecticut</p>
+<p>B.A.&nbsp; Biology and Environmental Studies - University of Pennsylvania</p>
+<p>&nbsp;</p>
+<p><strong><span class="style8"><span style="font-family: Arial,Helvetica,sans-serif;">Selected Honors and Awards:</span></span></strong></p>
+<p>The Class of 1932 Research Professor for 2014-2015</p>
+<p>The Spira Honoree for Distinguished Teaching, Muhlenberg College, 2012-2013&nbsp;</p>
+<p>The Donald B. Hoffman Research Fellowship, Muhlenberg College 2006&nbsp;</p>
+<p>Lehigh Valley "Mover and Shaper", Lehigh Valley Magazine, 2005</p>
+<p>The Class of 1932 Research Professor for 2003-2004</p>
+<p>The Donald and Anne Shire Distinguished Teaching Professor - 1999-2000</p>
+<p>Muhlenberg College Bridgebuilders Award for support of students with disabilities - 1998 &amp; 2000</p>
+<p>The Huebner Global Education and Awareness Award - Muhlenberg College -1997</p>
+<p>The Robert C. Williams Faculty Prize for Distinguished Scholarship - 1996</p>
+<p><span class="style8"><span style="font-family: Arial,Helvetica,sans-serif;">&nbsp;</span></span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p class="style7">&nbsp;</p>
+<p class="style7">&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div><span class="style7"><img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/beth_z_nose8b-158x152.jpg" alt="Biology Department Faculty" style="     " /><img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/shauna_collecting_sm2-158x152.jpg" alt="Biology Department Faculty" style="     " /><br></span>â<img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/group07-319x213.jpg" alt="Biology Department Faculty" style="     " /></div>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><strong><span class="style9">Recent Grants:</span></strong></p>
+<p><strong>The National Science Foundation</strong>, Cross-Disciplinary Research at Undergraduate Institutions (NSF-CRUI), Linking ecology, leaf chemistry, and genetics to assess abiotic and biotic determinants of herbivory.&nbsp;With Marten Edwards, Chris Ingersoll, &amp; George Benjamin.&nbsp;For more information about this project visit our <a href="/academics/biology/plant-insectinteractionsnsf/">NSF-CRUI Home Page</a>.</p>
+<p><strong>FIPSE</strong> -&nbsp;Discovery and Exploration in the Physical and Life Sciences - A grant to support students at risk.&nbsp;With Don Shive.</p>
+<p><strong>Merck/AAAS</strong> â Undergraduate Research Experiences at the Interface of Biology and Chemistry.&nbsp;With multiple collaborators.</p>
+<p><strong>The National Science Foundation</strong>, Division of Environmental Biology, Research Award, How Experimenter Visitation and Measurement Affect Herbivory and Plant Growth.&nbsp;With James Cahill and Chris Ingersoll.</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p class="style7">&nbsp;</p>
+<p class="style7">&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div><img src="/media/contentassets/images/academics/sustainability/rainforestbridgeweb.jpg" alt="Sustainability Studies" style="     " /><br><img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/field.jpg" alt="Biology Department Faculty" style="     " /></div>
+<div></div>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><strong class="style8">Recent Courses</strong> <span class="styleb">(click on course title for more detail)</span>:<span class="style10"><br> Community Sustainability in Costa Rica</span></p>
+<p><span class="style10">Sustainable Solutions</span></p>
+<p><span class="style10">Field Botany and Plant Ecology</span> <span class="style10"><br><br> Cultural and Economic Botany<br></span></p>
+<p><span class="style10">Principles of Biology I</span> <span class="style10"><br></span></p>
+<p>Plants &amp; People</p>
+<p>&nbsp;</p>
+<p><strong><span class="style8">Resources</span></strong> <span class="styleb">(click for more detail)</span>:<br> <span class="style10"><a href="/academics/biology/facultystaff/richardaniesenbaum/niesenbaumspage/geographicinformationsystemlab/">Geographical Information Systems (GIS) Laboratory</a><br></span></p>
+<p><span class="style10"><a href="/academics/biology/facilities/thegreenhouse/">Greenhouse</a><br></span></p>
+<p><span class="style10"><a href="http://www.muhlenberg.edu/main/aboutus/graver/">Graver Arboretum</a><br></span></p>
+<p><span class="style10"><a href="http://www.muhlenberg.edu/main/academics/biology/facilities/conradwraker/">Raker Preserve</a><br></span></p>
+<p><span class="style10">Herbarium</span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div>
+<p><img src="/media/contentassets/images/academics/sustainability/rnonroof_000.jpg" alt="Sustainability Studies" style="     " /><br><img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/epimecis_hortaria2.jpg" alt="Biology Department Faculty" style="     float : left;" /></p>
+</div>
+<p><img src="/media/contentassets/images/academics/biology/biology/faculty/niesenbaum/plantpsicebush3-350x239.jpg" alt="Biology Department Faculty" style="     " /></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p align="left"><strong><span class="style8">Interests:</span></strong><br><br> <span class="styleb style10"><span class="styleb style10">I am a Professor in the Biology Department and Director of Sustainability Studies at Muhlenberg College in Allentown, PA.&nbsp; I teach laboratory and field oriented classes in Plant Ecology, Botany, and Sustainability Studies including a course regularly taught in Costa Rica. In my lab we focus on two distinct, but related areas: <a href="/academics/biology/facultystaff/richardaniesenbaum/niesenbaumspage/gisres/">plant ecology</a> and conservation biology and sustainable development. In plant ecology, we have worked on pollination and fruit set; genetics of inbreeding; mechanisms of non-random mating in plants; sex ratio variation; plant-animal interactions, and plant conservation biology. With current research funding from <a href="/academics/biology/plant-insectinteractionsnsf/">The National Science Foundation</a> and <strong>Merck/AAAS</strong>, we are now primarily focused on the ecological, genetic, and chemical factors that influence insect herbivory in <em>Lindera</em>. This includes an analysis of "top-down" and "bottom-up" ecological factors, and the use of our field gas chromatograph (Z-nose), microsattelite analysis, and HPLC.&nbsp; In the area of conservation biology and sustainable development, we havecollaborated with the International Programs Department at the <a href="http://www.rodaleinstitute.org/international/home.html" target="_blank"><strong>Rodale Institute</strong></a> on measuring the success of sustainable forestry practice in northern Guatemala, and on developing ways to effectively link social, economic, and ecological indicators in the evaluation of international conservation and development projects. I have been working in the Costa Rican community of Las Juntas de Abangares for 15 years on ecoeducational tourism development, public health and environmental studies on the effects of local gold mining, and the development of alternative fuels. I currently have a book in progress on the environmental, cultural and public health aspects of artisinal goldmining with photographer Joseph Elliot. We also work with Geographical Information Systems (GIS) and Global Positioning Systems (GPS) in our studies of ecology and conservation. We also conduct research at the interface between environment and human/public health, and have assessed interdisciplinary education, short-term study abroad, and community based environmental education.</span> I am currently writing a book for Oxford Univeristy Press entitled <em>Sustainable Solutions: Problem Solving for Current and Future Generations</em></span></p>
+<p><span class="styleb style10"> I Chair Muhlenberg's Sustainability and Campus Tree Committees, and Co-Direct the Office of Campus Sustainability.&nbsp; I am a Fair Trade Coffee advocate and addict, and I frequently play late-night ice hockey.<br> </span></p>
+<p><span class="styleb style10"> Students who have interest in doing research in any of these areas, and are willing to make the commitment that I expect from all of my research students are encouraged to contact me. </span></p>
+<p><span class="style8">The Niesenbaum Lab:</span><br> <span class="style10"><span class="styleb"><span class="style10"><a href="/academics/biology/facultystaff/richardaniesenbaum/niesenbaumspage/paststudents/">Past Students</a><br> <a href="/academics/biology/plant-insectinteractionsnsf/students/">Current Students</a><br> Postdocs &amp; Other Personnel</span></span><span class="style10"><br> Photographs</span></span></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div>
+<p>â<img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/1043-148x216.jpg" alt="Biology Department Faculty" style="     " /><img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/1020-148x216.jpg" alt="Biology Department Faculty" style="     " /></p>
+<p><img src="/media/contentassets/images/academics/sustainability/CostaRica-RichNiesenbaum_000-303x202.jpg" alt="Sustainability Studies" style="     " /><br><img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/1018-315x210.jpg" alt="Biology Department Faculty" style="     " /><br>â<img src="/media/contentassets/images/academics/biology/faculty/niesenbaum/poster-350x263.jpg" alt="Biology Department Faculty" style="     " /></p>
+</div>
+<div>
+<p><img src="/media/contentassets/images/academics/biology/biology/faculty/niesenbaum/BethandDanbeatsheeting.JPG" alt="Biology Department Faculty" style="     " /><br> <img src="/media/contentassets/images/academics/biology/biology/faculty/niesenbaum/NorrisExp2-150x210.JPG" alt="Biology Department Faculty" style="     " /></p>
+<p><img src="/media/contentassets/images/academics/sustainability/niesenbauma.jpg" alt="Sustainability Studies" style="     " /></p>
+<p>&nbsp;</p>
+</div>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="style8"><strong>Selected Publications:</strong><br></span> <span class="style11">(* indicates student co-author)</span></p>
+<p class="styleb">Niesenbaum, R.A.&nbsp; 2013.&nbsp; Can latitudinal studies predict potential effects of global climate change on insect herbivore-host plant interactions?&nbsp; <em>Trends in Entomology</em> 8:1-8.</p>
+<p>Mooney, E.H. and R.A. Niesenbaum.&nbsp; 2012. <strong>&nbsp;</strong>Population-specific responses to light influence herbivory in the understory shrub <em>Lindera benzoin.&nbsp;</em> Ecology <strong>93</strong>(12): 2683-2692.</p>
+<p>Ingersoll, C.M., R.A. Niesenbaum, C.E. Weigle* and JH. Lehman*.&nbsp; 2010.&nbsp; Total Phenolics and Individual Phenolic Acids Vary with Light Environment in <em>Lindera Benzoin.&nbsp;</em> Botany&nbsp;<strong>88</strong>(11): 1007â1010.</p>
+<p>Mooney, E.H., M.E. Edwards, and R.A. Niesenbaum.&nbsp; 2010. Genetic differentiation between sun and shade habitats in populations of <em>Lindera benzoin</em> L.&nbsp; <em>Population Ecology,</em> 52:417-425.</p>
+<p>Mooney, E.H., E.J. Tiedeken*, N.Z. Muth, and R.A. Niesenbaum.&nbsp; 2009.&nbsp; Differential induced response to generalist and specialist herbivores by Lindera benzoin L. (Lauraceae) in sun and shade.&nbsp; <em>Oikos</em>, 118:1181-1189.</p>
+<p class="styleb">Muth, N.Z., E.C. Kluger*, J.H. Levy*, M.J. Edwards and R.A. Niesenbaum. 2008. Increased per capita herbivory in the shade: necessity, feedback, or luxury consumption? <em>Ecoscience</em>,15:182-188 (<a href="/media/contentassets/pdf/academics/biology/nsf/ecoscience.pdf">PDF</a>).</p>
+<p class="styleb">*Skoczylas, D., R.A. Niesenbaum, and N.Z. Muth. 2007. Top-down control of herbivory by insectivorous avifauna. Acta Oecologica, 32:337-342.</p>
+<p>Edwards, M.E., and R.A. Niesenbaum. 2007. Eleven polymorphic microsattelite loci in Lindera benzoin, Lauraceae. Molecular Ecology Notes, 7:1302-1304.</p>
+<p class="styleb">Niesenbaum, R.A. and E.C. Kluger*. 2006. When studying the effects of light on herbivory, should one consider temperature? The case of <em>Epimecis hortaria</em> F. (Lepidoptera: Geometridae) feeding on <em>Lindera benzoin</em> L. (Lauraceae). <em>Environmental Entomology</em> 35:600-606. (<a href="http://docserver.esa.catchword.org/deliver/cw/pdf/esa/freepdfs/0046225x/v35n3s4.pdf" target="_blank">PDF</a>)</p>
+<p class="styleb">Niesenbaum, R.A., J.F. Cahill, and C. Ingersoll. 2006. Light, wind, and touch influence leaf chemistry, growth, and rates of herbivory in <em>Apocynum cannabinum</em> (Apocynaceae). <em>International Journal of Plant Sciences</em> 167:969-978.</p>
+<p class="styleb">Niesenbaum, R.A., M.E. Salazar, and A.M. Diop. 2004. Community forestry in the Mayan Biosphere Reserve in Guatemala. <em>The Journal of Sustainable Forestry</em> 19:11-28.</p>
+<p class="styleb">Lewis, T.L. and R.A. Niesenbaum. 2005. Extending the stay: Using community-based research and service-learning to enhance short-term study abroad. <em>Journal of Studies in International Education</em> 9:251-264.</p>
+<p class="styleb">Niesenbaum, R.A. and T. Lewis. 2003. Ghettoization in conservation biology: How interdisciplinary is our teaching? <em>Conservation Biology</em> 17:6-10.</p>
+<p class="styleb">Bharucha, D.X., B. Morling, and R.A. Niesenbaum. 2003. Use and definition of herbal medicines differ by ethnicity. <em>The Annals of Pharmacotherapy</em> 37:1409-1413.</p>
+<p class="styleb">Niesenbaum, R.A. and T. Lewis. 2003. Reviewing conservation biology textbooks: A response to Primack. <em>Conservation Biology</em> 17:1.</p>
+<p class="styleb">Gorka, B. and R. Niesenbaum. 2001. Beyond the language requirement: Interdisciplinary short-term study abroad programs in Spanish. <em>Hispania</em> 84:100-109.</p>
+<p class="styleb">Niesenbaum, R. and B. Gorka. 2001. Community based eco-education: Sound ecology and effective education. <em>Journal of Environmental Education</em> 33:12-16.</p>
+<p class="styleb">Niesenbaum, R.A. 2000. Towards a sustainable future: Environmental activism in Russia and the United States. Book Review in: Human Ecology Review, 7:81-82.</p>
+<p class="styleb">Niesenbaum, R.A. 1999. The effects of pollen load size and donor diversity on pollen performance, selective abortion, and progeny vigor in <em>Mirabilis jalapa</em> (Nyctaginaceae). <em><a href="http://www.amjbot.org/" target="_blank">American Journal of Botany</a></em> 86:261-268.</p>
+<p class="styleb">Niesenbaum, R.A., M.D. Patselis, and S.D. Wiener. 1998. Does flower color change in <em>Aster vimineus</em> cue pollinators? <em>American Midland Naturalist</em> 141:59-68.</p>
+<p class="styleb">Niesenbaum, R.A. and S.S. Scheuller. 1997. Effects of pollen competitive environment on pollen performance in <em>Mirabilis jalapa</em> (Nyctaginaceae). <em>Sexual Plant Reproduction</em> 10:101-106.</p>
+<p class="styleb">Niesenbaum, R.A. 1996. Linking herbivory and pollination: Defoliation and selective fruit abortion in <em>Lindera benzoin</em>. <em>Ecology</em> 77:2324-2331 .</p>
+<p class="styleb">Niesenbaum, R.A. and B.B. Casper. 1994. Pollen tube numbers and selective fruit maturation in <em>Lindera benzoin</em>. <em>The American Naturalist</em> 144:184-191.</p>
+<p class="styleb">Niesenbaum, R.A. 1994. Spatial and temporal variation in pollen tube numbers in <em>Lindera benzoin</em> (Lauraceae). <em>Canadian Journal of Botany</em> 72: 268-271.</p>
+<p class="styleb">Casper, B.B. and R.A. Niesenbaum. 1993. Pollen versus resource limitation of seed production: A reconsideration. <em>Current Science</em> 65:210-214.</p>
+<p class="styleb">Niesenbaum, R.A. 1993. Light or pollen: Seasonal limitations on fruit set in <em>Lindera benzoin</em>. <em>Journal of Ecology</em> 81:315-323.</p>
+<p class="styleb">Niesenbaum, R.A. 1992. Sex ratio, components of reproduction, and pollen deposition in <em>Lindera benzoin</em> (Lauraceae). <em><a href="http://www.amjbot.org/" target="_blank">American Journal of Botany</a></em> 79:495-500.</p>
+<p class="styleb">Niesenbaum, R. A. 1992. The effects of light environment on herbivory and growth in the dioecious shrub <em>Lindera benzoin</em> (Lauraceae). <em>American Midland Naturalist</em> 128:270-275.</p>
+<p class="styleb">Petraitis, P.S., R.E. Latham, and R.A. Niesenbaum. 1989. The maintenance of species diversity by disturbance. <em>Quarterly Review of Biology</em> 64:393-418.</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;<img src="/media/contentassets/images/academics/sustainability/bikeblender_000.jpg" alt="Sustainability Studies" style="     " /></p>
+<table border="0">
+<tbody>
+<tr>
+<td>
+<p class="style12"><a href="/academics/biology/facultystaff/">Return to the Biology Department Faculty Page</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><a href="/academics/biology/">Return to the Biology Department Page</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

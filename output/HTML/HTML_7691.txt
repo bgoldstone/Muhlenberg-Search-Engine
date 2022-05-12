@@ -1,0 +1,1633 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Winter 2021 - Energy &amp; Environment Survey | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Winter 2021 - Energy &amp; Environment Survey">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/">Climate &amp; Environment Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/archivedpolls/">Archived Polls</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/archivedpolls/winter2021-energyenvironmentsurvey/">Winter 2021 - Energy &amp; Environment Survey</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Winter 2021 - Energy &amp; Environment Survey</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts740x317.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts555x740.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts980x552.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1440x810.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts740x317.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts555x740.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts980x552.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1440x810.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/">Climate &amp; Environment Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/archivedpolls/">Archived Polls</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/archivedpolls/winter2021-energyenvironmentsurvey/">Winter 2021 - Energy &amp; Environment Survey</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Winter 2021 - Energy &amp; Environment Survey</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Winter 2021 - Energy &amp; Environment Survey">
+							<span class="sub_nav_handle_label">Winter 2021 - Energy &amp; Environment Survey</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/aboutus/polling/about/">About</a></li><li class="sub_nav_item"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/aboutus/polling/climateenvironmentsurveys/">Climate &amp; Environment Surveys</a></span></li><li class="sub_nav_item"><a href="/aboutus/polling/publichealthpolicysurveys/">Public Health &amp; Policy Surveys</a></li><li class="sub_nav_item"><a href="/aboutus/polling/facultystaff/">Faculty &amp; Staff</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/">Climate &amp; Environment Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/archivedpolls/">Archived Polls</a></li><li class="linkitem"><a href="/aboutus/polling/climateenvironmentsurveys/archivedpolls/winter2021-energyenvironmentsurvey/">Winter 2021 - Energy &amp; Environment Survey</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><img src="/media/contentassets/images/newscenter/MCIPO_20.jpg" alt="" style="     " /></p>
+<h2><span style="font-weight: 400;">Winter 2021 - National Surveys on Energy &amp; Environment</span></h2>
+<p><span style="font-weight: 400;">The following key findings and full report are from the Winter 2021 wave of the National Surveys on Energy and Environment (NSEE). This survey wave marks the 24</span><span style="font-weight: 400;">th</span><span style="font-weight: 400;"> in the series, dating back to the project‚s origin in 2008, under a partnership between Muhlenberg College and the University of Michigan. Beginning in 2020, the NSEE has been produced exclusively by the Muhlenberg College Institute of Public Opinion.&nbsp;</span></p>
+<hr>
+<p><strong>PDF&nbsp;-&nbsp;<a href="/media/contentassets/pdf/about/polling/surveys/NSEE_2021_Key Findings Report.docx (1).pdf">WINTER 2021 - National Surveys on Energy & Environment</a></strong></p>
+<hr>
+<h3><strong>KEY FINDINGS</strong></h3>
+<ul>
+<li>
+<h4><strong><strong>American acceptance of global warming remains at a record high level.<br></strong></strong></h4>
+The Winter 2021 NSEE results show 75% of adult Americans believe there is solid evidence that temperatures on the planet have risen over the last four decades. This 75% level is identical to the Summer 2021 NSEE result that established the highest level of acceptance since the project began in 2008. The most recent survey marks the 9<span style="font-weight: 400;">th</span><span style="font-weight: 400;"> consecutive survey wave, dating back to 2016, in which at least 70% of Americans indicated there was solid evidence of global warming. This consistently high level of acceptance of climate change suggests Americans have arrived at a more durable position in terms of views on the existence of this challenge.</span></li>
+</ul>
+<p><strong><img src="/media/contentassets/images/newscenter/ClimateChange-R-01-1.jpg" alt="" style="     " /><br></strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h4><strong>In addition to record-high acceptance of climate change, Americans have become more confident in their view that the planet is warming.<br></strong></h4>
+As acceptance of climate change has reached record levels in the United States over the last year, confidence in these appraisals has also reached record levels. In the most recent NSEE wave, over half of American adults indicated that they are ‚very confident‚ that global warming is happening. The 51% indicating that they are very confident global warming is occurring is the highest level recorded since the NSEE first measured this aspect of opinion on climate change in the fall of 2010.</li>
+</ul>
+<p><img src="/media/contentassets/images/newscenter/ClimateChange-R-02.jpg" alt="" style="     " /></p>
+<h4>&nbsp;</h4>
+<ul>
+<li>
+<h4><strong>Wide acceptance of human roles in causing global warming<br></strong></h4>
+Nearly 6 in 10 adult Americans indicate that there is strong evidence of global warming and that humans are at least partially responsible for this phenomenon. In February, 38% of Americans indicated that there is solid evidence of a warming planet and that the warming is caused primarily by human activity. An additional 19% of Americans agreed there is solid evidence of global warming, and that humans are at least partially responsible for these changes. While a majority (57%) of Americans believe humans are contributing to increased temperatures on earth, 16% indicate that while there is solid evidence of global warming, the warming is the result of a natural cycle.</li>
+</ul>
+<p><img src="/media/contentassets/images/newscenter/ClimateChange-R-03.jpg" alt="" style="     " /></p>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h4><strong>Most Americans attribute 2020‚s record warmth to broader effects of global warming.<br></strong></h4>
+In early 2021, NASA released a report that indicated 2020 was tied with 2016 as the hottest year on the planet since record keeping began in 1880. The NSEE included a question that examined American reactions to this finding. The survey results show about half (47%) of Americans indicated the findings of record heat in the NASA report was evidence of human-induced global warming, with an additional quarter (24%) saying the record heat was a sign of global warming, but that the heating was caused primarily by a natural cycle. Only 13% of Americans indicated the NASA finding was based on flawed measurement and that global warming was not happening.&nbsp;</li>
+</ul>
+<p><img src="/media/contentassets/images/newscenter/Chart 1 NSEE Winter.jpg" alt="" style="     " /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h4><strong>Americans have varied views on the most important elements of climate policy, with mitigation efforts most commonly identified, but significant portions prioritize adaptation and geoengineering.<br></strong></h4>
+The Winter 2021 NSEE included a question <strong><span style="font-weight: 400;">asking Americans what type of actions are most important for the United States to take to address climate change</span></strong>. About 4 in 10 (39%) selected policies aimed at reducing greenhouse gas emissions as the most important policy approach. Fairly equal numbers of adult Americans indicated policies to adapt to a warmer world (16%) or promote geoengineering to counter climate change (17%) as their preferred priority for the nation.</li>
+</ul>
+<p><img src="/media/contentassets/images/newscenter/Chart 2 NSEE Winter.jpg" alt="" style="     " /></p>
+<hr>
+<p><strong>METHODS<br></strong><sub><span style="font-weight: 400;">The following report contains the results of a telephone survey of 614 adult residents of the United States between February 4 and 20, 2021</span><strong>.</strong><span style="font-weight: 400;"> Respondents were interviewed in English on both landlines (111) and cell phones (503). With a randomly selected sample of respondents, the margin of error for the surveys is +/- 5% at a 95% level of confidence</span><strong>. </strong><span style="font-weight: 400;">Margins of error for questions with a smaller sample size will be larger</span><strong>.</strong><span style="font-weight: 400;"> In addition to sampling error, one should consider that question wording and other fielding issues could introduce error or bias into survey results. Interviewing was conducted by Communication Concepts of Easton, Pennsylvania, under protocols established by the </span><a href="https://www.muhlenberg.edu/aboutus/polling/"><span style="font-weight: 400;">Muhlenberg College Institute of Public Opinion</span></a><span style="font-weight: 400;"> (MCIPO). The sample data has been weighted by gender, race, age, income and educational attainment to reflect national population characteristics as reported by the United States Census Bureau in 2020. The calculation of sampling error takes into account design effects due to the weighting identified above</span><strong>.</strong><span style="font-weight: 400;"> In order to reach a representative sample of adult residents of the United States, both landlines and cell phones are called up to 5 times. The response rate for this survey as calculated using the American Association of Public Opinion Research (AAPOR) RRII formula is approximately 7%. Due to rounding the totals provided in the frequency report may not total 100%. The survey instrument, presented in its entirety in the following section, was designed by Dr. Christopher P. Borick, Director of the </span><span style="font-weight: 400;">Muhlenberg College Institute of Public Opinion,</span><span style="font-weight: 400;"> and Professor of </span><a href="https://www.muhlenberg.edu/academics/polisci/"><span style="font-weight: 400;">Political Science</span></a><span style="font-weight: 400;">, in conjunction with Dr. Barry Rabe of the University of Michigan, and Dr. Erick Lachapelle of the University of Montreal. The survey was funded exclusively by Muhlenberg College</span><strong>. </strong><span style="font-weight: 400;">For more detailed information on the methods employed, please contact the MCIPO at 484-664-3444 or email Dr. Borick at </span><a href="mailto:cborick@muhlenberg.edu"><span style="font-weight: 400;">cborick@muhlenberg.edu</span></a><strong>.</strong></sub></p>
+<hr>
+<h3><strong>SURVEY INSTRUMENT AND&nbsp;</strong><strong>FREQUENCY REPORT</strong></h3>
+<p><strong>Fielding Dates: February 4 ‚ February 20, 2021<br></strong><strong>Sample Size: 614 Adults in the United States<br></strong><strong>Method: Telephone (82% Cell and 18% Landline)<br></strong><strong>Margin of Error: +/- 5%<br></strong><strong>AAPOR Response Rate (II): 7%&nbsp;<br></strong><strong>Totals may not equal 100% due to rounding</strong></p>
+<p><span style="font-weight: 400;"> My name is ___________________. We are conducting a research project regarding environmental issues in the United States. Would you be able to help us by answering a few questions?</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Yes......................1<br>No.......................2 (Thank and terminate)<br>Not sure............98 (Thank and terminate)<br>Refused........... .99 (Thank and terminate)</span></p>
+<p>Q1. Thank you. Can you please tell me in which year you were born? (GROUPED INTO CATEGORIES)</p>
+<ul>
+<li>18-29‚¶‚¶‚¶‚¶.‚¶.21%</li>
+<li>30-44‚¶‚¶‚¶‚¶‚¶..24%</li>
+<li>45-64‚¶‚¶‚¶‚¶‚¶..31%&nbsp;</li>
+<li>65 and Older‚¶.24%&nbsp;</li>
+</ul>
+<p><span>Q2.&nbsp;</span>What state do you currently reside in? (GROUPED INTO REGIONS)</p>
+<ul>
+<li>Northeast‚¶‚¶‚¶‚¶.19%</li>
+<li>South‚¶‚¶‚¶‚¶‚¶‚¶...35%</li>
+<li>Midwest‚¶‚¶‚¶‚¶‚¶.24%</li>
+<li>West‚¶‚¶‚¶‚¶‚¶‚¶.‚¶22%</li>
+</ul>
+<p>Q3. Next, I would like to ask you a few questions on the issue of global warming. From what you‚ve read and heard. Is there solid evidence that the average temperature on earth has been getting warmer over the past four decades?</p>
+<ul>
+<li>&nbsp;Yes .‚¶‚¶‚¶‚¶..‚¶‚¶‚¶‚¶‚¶‚¶‚¶...........75%&nbsp;&nbsp;</li>
+<li>&nbsp;No ..‚¶‚¶‚¶‚¶..‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...16%&nbsp;&nbsp;&nbsp; (SKIP TO Q8)</li>
+<li>&nbsp;Not Sure (Volunteered)‚¶‚¶‚¶‚¶..&nbsp;&nbsp; 9%&nbsp; &nbsp;&nbsp;(SKIP TO Q10)</li>
+</ul>
+<p>Q4. How confident are you that the average temperature on earth is increasing? Are you very confident, fairly confident, not too confident or not confident at all that the average temperature on earth is increasing?</p>
+<ul>
+<li>Very confident‚¶..‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp; 68%</li>
+<li>Fairly confident‚¶..‚¶‚¶‚¶‚¶‚¶‚¶....28%</li>
+<li>Not too confident‚¶.‚¶‚¶‚¶‚¶‚¶‚¶..&nbsp; 4%</li>
+<li>Not confident at all‚¶‚¶‚¶‚¶‚¶‚¶‚¶ &lt;1%</li>
+<li>Not Sure (Volunteered)‚¶‚¶.‚¶‚¶..&nbsp; 1%</li>
+</ul>
+<p>Q5.&nbsp;<span>Is the earth getting warmer mostly because of human activity such as burning fossil fuels, or mostly because of natural patterns in the earth‚s environment?</span></p>
+<ul>
+<li>Human activity‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶..‚¶.. 50% &nbsp;Skip to Q7</li>
+<li>Natural patterns‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶21% &nbsp;Skip to Q7</li>
+<li>A combination (Volunteered)‚¶‚¶‚¶...‚¶...25% (Go to Q6)</li>
+<li>Not Sure (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...&nbsp; &nbsp;4% &nbsp;Skip to Q7</li>
+</ul>
+<p>Q6. I know you say it‚s a combination, but if you had to choose, would you say that temperatures on earth are rising <em>mostly</em> because of human activity or <em>mostly</em> because of natural patterns?</p>
+<ul>
+<li>Human activity‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶.. &nbsp;63%</li>
+<li>Natural patterns‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 15%</li>
+<li>Equal (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 21%</li>
+<li>Not Sure (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶‚¶. &nbsp;1%</li>
+</ul>
+<p>&nbsp;Q7. What is the primary factor that has caused you to believe that temperatures on earth are increasing?</p>
+<ul>
+<li>&nbsp;Scientific Research‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶. &nbsp;14%</li>
+<li>&nbsp;Weather Changes‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶&nbsp; 16%&nbsp;</li>
+<li>&nbsp;Warmer Temperatures Observed‚¶‚¶. 12%&nbsp;&nbsp;</li>
+<li>Human Activity‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶....&nbsp; 27%&nbsp;&nbsp;</li>
+<li>Melting Glaciers/Polar Ice‚¶‚¶‚¶‚¶‚¶..... 11%&nbsp;&nbsp;&nbsp;</li>
+<li>Media Coverage‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.....&nbsp; 3%&nbsp;&nbsp;&nbsp;&nbsp;</li>
+<li>Natural Patterns‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp; &nbsp;6%&nbsp;&nbsp;&nbsp;</li>
+<li>Ocean Changes‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp; &nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;</li>
+<li>Wildfires‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;</li>
+<li>Declining Species‚¶..‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.. &nbsp;&lt;1%&nbsp;</li>
+<li>Not Sure/Other‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp;&nbsp; &nbsp;&nbsp;9%&nbsp; &nbsp;</li>
+</ul>
+<p><strong>ONLY THOSE WHO ANSWERED ‚NO‚ IN Q3 (i.e., do not believe temperatures are increasing)</strong></p>
+<p>Q8. How confident are you that the average temperatures on earth are NOT increasing?&nbsp; Are you very confident, fairly confident, not too confident or not confident at all that the average temperature on earth is NOT increasing?</p>
+<ul>
+<li>Very confident‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..50%</li>
+<li>Fairly confident‚¶‚¶‚¶.‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶34%</li>
+<li>Not too confident‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶11%</li>
+<li>Not confident at all‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶. 5%</li>
+</ul>
+<p>Q9. What is the primary factor that makes you believe that temperatures on earth are not increasing?</p>
+<ul>
+<li>Natural Patterns/Cycles‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.33%</li>
+<li>Personal Observations‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.30%&nbsp;</li>
+<li>Evidence Disproves‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...12%&nbsp;</li>
+<li>Lack of Evidence‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.4%</li>
+<li>Religious Factors‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...4%&nbsp;</li>
+<li>Political Factors‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...&nbsp; 3%&nbsp;</li>
+<li>Media has Misled‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ &nbsp;1%</li>
+<li>Not Sure/Other‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 14%</li>
+</ul>
+<p><strong>**ALL RESPONDENTS**</strong></p>
+<p>Q10. In your view is global warming a very serious problem, somewhat serious, not too serious, or not a problem?</p>
+<ul>
+<li>Very serious‚¶‚¶‚¶‚¶‚¶‚¶‚¶...‚¶‚¶ 47%</li>
+<li>Somewhat serious‚¶‚¶‚¶‚¶‚¶‚¶..21%</li>
+<li>Not too serious‚¶‚¶‚¶‚¶‚¶‚¶...‚¶.15%</li>
+<li>Not a problem‚¶‚¶‚¶‚¶‚¶‚¶‚¶.‚¶. 14%</li>
+<li>Not Sure (Volunteered)‚¶‚¶.‚¶‚¶ 4%</li>
+</ul>
+<p><strong>(QUESTIONS Q11 to Q20 ROTATED)</strong></p>
+<p>Please identify your level of agreement with the following statements.&nbsp; For each statement please indicate if you strongly agree, somewhat agree, somewhat disagree or strongly disagree. First,</p>
+<table style="height: 921px; width: 625px;">
+<tbody>
+<tr>
+<td width="383">
+<p>&nbsp;</p>
+</td>
+<td width="68">
+<p><strong>Strongly Agree</strong></p>
+</td>
+<td width="84">
+<p><strong>Somewhat Agree</strong></p>
+</td>
+<td width="84">
+<p><strong>Somewhat Disagree</strong></p>
+</td>
+<td width="71">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Strongly Disagree</strong></p>
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="103">
+<p><strong>Not Sure (Vol)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>&nbsp;<strong>NOTE: Q11 IS A SPLIT SAMPLE EXPERIMENT</strong></p>
+<p>Q11A: Methane releases need to be limited by stronger government regulation because these releases are a waste of a natural resource that could be used to provide energy.</p>
+</td>
+<td width="68">
+<p>20%</p>
+</td>
+<td width="84">
+<p>30%</p>
+</td>
+<td width="84">
+<p>9%</p>
+</td>
+<td width="71">
+<p>17%</p>
+</td>
+<td width="103">
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q11B: Methane releases need to be limited by stronger government regulation because methane is a powerful greenhouse gas that accelerates climate change.</p>
+</td>
+<td width="68">
+<p>34%</p>
+</td>
+<td width="84">
+<p>20%</p>
+</td>
+<td width="84">
+<p>5%</p>
+</td>
+<td width="71">
+<p>20%</p>
+</td>
+<td width="103">
+<p>21%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q12: Americans will not make major changes in their lifestyles, so the best way to reduce greenhouse gases will be through technological advancements.</p>
+</td>
+<td width="68">
+<p>29%</p>
+</td>
+<td width="84">
+<p>39%</p>
+</td>
+<td width="84">
+<p>10%</p>
+</td>
+<td width="71">
+<p>11%</p>
+</td>
+<td width="103">
+<p>11%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q13: Removing large amounts of carbon dioxide from the atmosphere, and storing the gas underground should be a major goal of United States climate policy.</p>
+</td>
+<td width="68">
+<p>&nbsp;&nbsp; 10%</p>
+</td>
+<td width="84">
+<p>18%</p>
+</td>
+<td width="84">
+<p>11%</p>
+</td>
+<td width="71">
+<p>26%</p>
+</td>
+<td width="103">
+<p>36%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q14. I have personally felt the effects of climate change.</p>
+</td>
+<td width="68">
+<p>28%</p>
+</td>
+<td width="84">
+<p>28%</p>
+</td>
+<td width="84">
+<p>18%</p>
+</td>
+<td width="71">
+<p>21%</p>
+</td>
+<td width="103">
+<p>4%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q15: If global warming does take place I have confidence that scientists would be able to find ways to alter the climate in a way that limits problems.</p>
+</td>
+<td width="68">
+<p>14%</p>
+</td>
+<td width="84">
+<p>27%</p>
+</td>
+<td width="84">
+<p>17%</p>
+</td>
+<td width="71">
+<p>28%</p>
+</td>
+<td width="103">
+<p>15%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q16: Attempts to reduce global warming by adding materials to the atmosphere will cause more harm than good for the environment.</p>
+</td>
+<td width="68">
+<p>39%</p>
+</td>
+<td width="84">
+<p>21%</p>
+</td>
+<td width="84">
+<p>5%</p>
+</td>
+<td width="71">
+<p>4%</p>
+</td>
+<td width="103">
+<p>31%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q17: If human activity leads to global warming then humans will also be able to find ways to reduce temperatures on the planet through atmospheric engineering methods.</p>
+</td>
+<td width="68">
+<p>11%</p>
+</td>
+<td width="84">
+<p>31%</p>
+</td>
+<td width="84">
+<p>13%</p>
+</td>
+<td width="71">
+<p>17%</p>
+</td>
+<td width="103">
+<p>29%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q18:&nbsp; Instead of trying to stop global warming from occurring we should focus on adapting to a warmer climate.</p>
+</td>
+<td width="68">
+<p>8%</p>
+</td>
+<td width="84">
+<p>24%</p>
+</td>
+<td width="84">
+<p>20%</p>
+</td>
+<td width="71">
+<p>38%</p>
+</td>
+<td width="103">
+<p>11%</p>
+</td>
+</tr>
+<tr>
+<td width="383">
+<p>Q19:&nbsp; Humans will be able to adapt to a hotter climate without making significant changes to their lifestyles.</p>
+</td>
+<td width="68">
+<p>9%</p>
+</td>
+<td width="84">
+<p>23%</p>
+</td>
+<td width="84">
+<p>25%</p>
+</td>
+<td width="71">
+<p>37%</p>
+</td>
+<td width="103">
+<p>7%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br>Q20:&nbsp; NASA recently reported that 2020 was tied with 2016 as the hottest year on the planet since record keeping began in 1880.&nbsp; Which of the following best describes your view on the NASA report that 2020 was the hottest year since 1880? (READ LIST)</p>
+<ul>
+<li>The record heat is evidence that global warming is happening and is caused primarily by human activity‚¶‚¶‚¶‚¶‚¶.47%</li>
+<li>The record heat is evidence that global warming is happening but it caused primarily by a natural cycle‚¶‚¶‚¶‚¶‚¶‚¶.24%</li>
+<li>Or the NASA temperature report is based on flawed measurements and global warming is not occurring‚¶‚¶‚¶‚¶‚¶...13%</li>
+<li>Not Sure (Vol)‚¶‚¶‚¶‚¶‚¶..17%</li>
+</ul>
+<p>Q21: Next I‚m going to read you a list of actions that the United States may take to address climate change. Which of the actions to you believe is the MOST important action the United States should take? <strong>[READ LIST]</strong></p>
+<ul>
+<li>Promote greenhouse gas reductions to try and limit climate change‚¶‚¶.. 39%</li>
+<li>Learn to adapt to a warmer world that is the result of climate change‚¶‚¶16%</li>
+<li>Promote geoengineering and scientific fixes to counter climate change‚¶.17%</li>
+<li>All equally important (VOLUNTEERED)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..11%</li>
+<li>None are important (VOLUNTEERED)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.. 8%</li>
+<li>Not Sure (VOLUNTEERED)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..&nbsp; 9%</li>
+</ul>
+<p>Q22. If it required you to pay extra money each year in order for more renewable energy to be produced, how much would you be willing to pay? Would you be willing to pay‚¶ <strong>[READ LIST]</strong></p>
+<ul>
+<li>Nothing each year‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 43%</li>
+<li>1 to 50 dollars per year‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..11%</li>
+<li>50 to 100 dollars a year‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.. 9%</li>
+<li>100 to 250 dollars a year‚¶‚¶‚¶‚¶‚¶‚¶.‚¶..10%</li>
+<li>250 to 500 dollars a year‚¶‚¶‚¶‚¶‚¶‚¶.‚¶..10%</li>
+<li>Over 500 dollars a year‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..&nbsp; &nbsp;9%</li>
+<li>Not Sure (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶..‚¶.&nbsp;&nbsp;&nbsp; &nbsp;8%</li>
+</ul>
+<p>Q23: In any election, some people are not able to vote because they are sick or busy, or for some other reason. Others do not want to vote. Did you vote in the 2020 Presidential Election?</p>
+<ul>
+<li>Yes‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 77%</li>
+<li>No‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..19% SKIP TO Q29</li>
+<li>Not Sure‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.. 4% SKIP TO Q29</li>
+</ul>
+<p><strong>ONLY RESPONDENTS THAT VOTED IN&nbsp;</strong><strong>2020 PRESIDENTIAL ELECTION</strong></p>
+<p>Q24:&nbsp; Which candidate did you vote for in the 2020 Presidential Election? (READ LIST)</p>
+<ul>
+<li>Donald Trump‚¶‚¶‚¶‚¶‚¶‚¶43%</li>
+<li>Joe Biden‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶50%</li>
+<li>Another Candidate‚¶‚¶‚¶‚¶..6%</li>
+<li>Not Sure‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶. 1%</li>
+</ul>
+<p>Now for each item I mention, please tell me if that issue was very important, somewhat important, not too important or not important at all in determining your vote in the 2020 presidential election: (READ LIST) (ROTATE OPTIONS)</p>
+<table style="height: 260px; width: 600px;">
+<tbody>
+<tr>
+<td width="240">
+<p>&nbsp;</p>
+</td>
+<td width="90">
+<p><strong>Very Important</strong></p>
+</td>
+<td width="90">
+<p><strong>Somewhat Important</strong></p>
+</td>
+<td width="96">
+<p><strong>Not Too Important</strong></p>
+</td>
+<td width="114">
+<p><strong>Not Important at All</strong></p>
+</td>
+<td width="108">
+<p><strong>Not Sure (Vol.)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Q25: Jobs and the economy</p>
+</td>
+<td width="90">
+<p>76%</p>
+</td>
+<td width="90">
+<p>17%</p>
+</td>
+<td width="96">
+<p>6%</p>
+</td>
+<td width="114">
+<p>2%</p>
+</td>
+<td width="108">
+<p>&lt;1%</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Q26: Government ethics and accountability</p>
+</td>
+<td width="90">
+<p>81%</p>
+</td>
+<td width="90">
+<p>12%</p>
+</td>
+<td width="96">
+<p>5%</p>
+</td>
+<td width="114">
+<p>1%</p>
+</td>
+<td width="108">
+<p>&lt;1%</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Q27:&nbsp; Healthcare and the COVID-19 pandemic</p>
+</td>
+<td width="90">
+<p>64%</p>
+</td>
+<td width="90">
+<p>21%</p>
+</td>
+<td width="96">
+<p>10%</p>
+</td>
+<td width="114">
+<p>5%</p>
+</td>
+<td width="108">
+<p>&lt;1%</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Q28: Climate change and the environment</p>
+</td>
+<td width="90">
+<p>43%</p>
+</td>
+<td width="90">
+<p>26%</p>
+</td>
+<td width="96">
+<p>15%</p>
+</td>
+<td width="114">
+<p>15%</p>
+</td>
+<td width="108">
+<p>0%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ALL RESPONDENTS</strong></p>
+<p>Q29: To what extent do you support or oppose putting a price or tax on fossil fuels like coal, oil, and gas in order to reduce carbon emissions in the United States? (READ LIST)</p>
+<ul>
+<li>Strongly support‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶.23%</li>
+<li>Somewhat support‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶17%</li>
+<li>Neither support nor oppose‚¶‚¶‚¶‚¶11%</li>
+<li>Somewhat oppose‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶. 9%</li>
+<li>Strongly oppose‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶....34%</li>
+<li>Not Sure‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶. 7%</li>
+</ul>
+<p>Q30: To what extent do you support or oppose expanding oil and gas pipelines in The United States ‚ such as the proposed expansion of the Keystone XL pipeline from Canada to the Gulf of Mexico?</p>
+<ul>
+<li>Strongly support‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.23%</li>
+<li>Somewhat support‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶17%</li>
+<li>Neither support nor oppose‚¶‚¶‚¶‚¶11%</li>
+<li>Somewhat oppose‚¶‚¶‚¶‚¶‚¶‚¶..‚¶‚¶‚¶..9%</li>
+<li>Strongly oppose‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...34%</li>
+<li>Not Sure‚¶‚¶‚¶‚¶..‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶.7%</li>
+</ul>
+<p>Q31. Finally a few questions about yourself. Which of the following categories best describes your racial identity? Are you‚¶ <strong>[READ LIST]</strong></p>
+<ul>
+<li>White/Caucasian‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.60%</li>
+<li>African-American‚¶‚¶‚¶.‚¶‚¶‚¶‚¶‚¶‚¶..12%</li>
+<li>Hispanic/Latino‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...16%</li>
+<li>Asian‚¶‚¶‚¶‚¶.‚¶‚¶‚¶‚¶.......................5%</li>
+<li>Native American‚¶‚¶‚¶....................1%</li>
+<li>Mixed race..‚¶‚¶‚¶‚¶‚¶..‚¶‚¶‚¶‚¶‚¶‚¶...&nbsp; &nbsp;4%</li>
+<li>Other .‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶‚¶‚¶&nbsp; 1%</li>
+<li>Not Sure (Volunteered)‚¶...............&lt;1%</li>
+</ul>
+<p>Q32. Which of the following categories best describes your religious affiliation?&nbsp; Are you‚¶ <strong>[READ LIST]</strong></p>
+<ul>
+<li>Protestant‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp;&nbsp; &nbsp;33%</li>
+<li>Catholic‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶....‚¶. &nbsp;&nbsp;&nbsp;26%</li>
+<li>Jewish..‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;2%</li>
+<li>Muslim .‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%</li>
+<li>Hindu‚¶‚¶‚¶‚¶.‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%</li>
+<li>Other religion (including agnostic)‚¶ 27%</li>
+<li>Atheist..‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp; 8%</li>
+<li>Not Sure (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 3%</li>
+</ul>
+<p>Q33. Which of these statements comes closest to describing your feelings about the Bible?<span>&nbsp;</span><strong>[READ LIST]</strong></p>
+<ul>
+<li>The Bible is the actual word of God and is to be taken literally, word for word‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶22%</li>
+<li>The Bible is the inspired word of God but not everything in it should be taken literally, word for word ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..52%</li>
+<li>The Bible is an ancient book of fables, legends, history and moral precepts recorded by men‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶19%</li>
+<li>Not Sure (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.7%</li>
+</ul>
+<p>Q34. What is your highest level of education? <strong>[READ LIST]</strong></p>
+<ul>
+<li>Less than High School Graduate‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp; 3%</li>
+<li>High School Graduate‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶27%</li>
+<li>Some college or technical school‚¶‚¶‚¶‚¶‚¶‚¶‚¶..30%</li>
+<li>College graduate‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...24%</li>
+<li>Graduate or professional degree‚¶‚¶‚¶‚¶‚¶‚¶‚¶...16%</li>
+</ul>
+<p>Q35. Which of the following best describes your political party affiliation?&nbsp; <strong>[READ LIST]</strong></p>
+<ul>
+<li>Democrat‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶‚¶‚¶‚¶‚¶‚¶.‚¶. &nbsp;30%</li>
+<li>Republican‚¶‚¶‚¶‚¶.‚¶...‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...27%</li>
+<li>Other party..‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶....‚¶.11%</li>
+<li>Independent .‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶33%</li>
+</ul>
+<p>Q36. Which of the following best describes your political beliefs?<span>&nbsp;</span><strong>[READ LIST]</strong></p>
+<ul>
+<li>Very Conservative‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.14%</li>
+<li>Somewhat Conservative‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶22%</li>
+<li>Moderate‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.35%</li>
+<li>Somewhat Liberal‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..15%</li>
+<li>Very Liberal‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 9%</li>
+<li>Not sure (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶6%</li>
+</ul>
+<p>Q37. Which of the following categories best describes your family income? Is it‚¶ <strong>[READ LIST]</strong></p>
+<ul>
+<li>Less than 20,000‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶....12%</li>
+<li>20,000-40,000‚¶‚¶...................................17%</li>
+<li>40,000-60,000‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.‚¶.... 18%</li>
+<li>60,000-80,000‚¶‚¶.................................‚¶16%</li>
+<li>80,000-100,000‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.‚¶‚¶‚¶.12%</li>
+<li>Over 100,000‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.‚¶‚¶.. 23%</li>
+<li>Not Sure (Volunteered) ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..‚¶.. 2%</li>
+</ul>
+<p>Q38. What is the zip code of your current residence?</p>
+<p>Q39. Finally, to which gender identity do you most identify? (READ LIST)</p>
+<ul>
+<li>Male‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶49%</li>
+<li>Female‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶50%</li>
+<li>Transgender Male‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶1%</li>
+<li>Transgender Female‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶0%</li>
+<li>Do Not Identify as Male, Female or Transgender...0%<br><br></li>
+</ul></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

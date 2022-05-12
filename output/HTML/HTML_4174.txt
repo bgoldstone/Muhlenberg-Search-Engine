@@ -1,0 +1,1339 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Student Affairs News | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Student Affairs News">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/pageheaders/campus-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/offices/deanst/">Dean Of Students</a></li><li class="linkitem"><a href="/offices/deanst/studentaffairsnews/">Student Affairs News</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Affairs News</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/campus-740x317.jpg","500px":"/media/contentassets/images/pageheaders/campus-740x555.jpg","740px":"/media/contentassets/images/pageheaders/campus-980x420.jpg","980px":"/media/contentassets/images/pageheaders/campus-1220x523.jpg","1220px":"/media/contentassets/images/pageheaders/campus-1440x617.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/campus-740x317.jpg","500px":"/media/contentassets/images/pageheaders/campus-740x555.jpg","740px":"/media/contentassets/images/pageheaders/campus-980x420.jpg","980px":"/media/contentassets/images/pageheaders/campus-1220x523.jpg","1220px":"/media/contentassets/images/pageheaders/campus-1440x617.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_5">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/offices/deanst/">Dean Of Students</a></li><li class="linkitem"><a href="/offices/deanst/studentaffairsnews/">Student Affairs News</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Affairs News</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Student Affairs News">
+							<span class="sub_nav_handle_label">Student Affairs News</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/offices/healthcenter/coronavirus/">Coronavirus Information</a></li><li class="sub_nav_item"><a href="/offices/deanst/missionandgoals/">Mission and Goals</a></li><li class="sub_nav_item"><a href="/webapps/incidentreporting/">Report an Incident</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/offices/deanst/studentaffairsnews/">Student Affairs News</a></span></li><li class="sub_nav_item"><a href="/offices/deanst/summaryofoffices/">Summary of Offices</a></li><li class="sub_nav_item"><a href="/offices/deanst/services/student_guide.html">Student Policy and Resource Guide</a></li><li class="sub_nav_item"><a href="/media/contentassets/pdf/about/deanst/studentguide/College%20Services.pdf">College Services</a></li><li class="sub_nav_item"><a href="/offices/deanst/summaryofoffices/judicialaffairs/">Judicial Affairs</a></li><li class="sub_nav_item"><a href="/offices/deanst/meetthestaff/">Meet the Staff </a></li><li class="sub_nav_item"><a href="/offices/deanst/shuttleservice/">Shuttle Service</a></li><li class="sub_nav_item"><a href="/studorgs/council/">Student Government</a></li><li class="sub_nav_item"><a href="/offices/deanst/careteam/">CARE Team </a></li><li class="sub_nav_item"><a href="/offices/deanst/peereducators/">Peer Educators</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/offices/deanst/">Dean Of Students</a></li><li class="linkitem"><a href="/offices/deanst/studentaffairsnews/">Student Affairs News</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Spring 2019</h2>
+  <h2><strong>MUHLENBERG COLLEGE ANTI-HAZING POLICY</strong></h2>
+<div>
+<p>At Muhlenberg College, there is nothing more important than the health and well-being of our students.&nbsp; We believe deeply in the value of human dignity and seek to create a learning and living environment that affirms this belief.&nbsp; As such, we commit to ensuring that students are informed about the definitions and harmful consequences associated with hazing and know how to take an active role in preventing it from happening within their social settings and on our campus.</p>
+<p>Recently, the state of Pennsylvania has also increased its commitment to addressing this important topic.&nbsp; The<span>&nbsp;<strong><a href="http://pasenategop.com/corman/wp-content/uploads/sites/38/2018/03/piazza-law-sb1090.pdf" target="_blank">Timothy J. Piazza Antihazing Law</a></strong></span><span>&nbsp;</span>addresses prevention, enforcement, and transparency surrounding hazing activities on college campuses. This law applies to student organizations of all types, including fraternities and sororities, athletic teams and student clubs and performing arts groups.&nbsp;</p>
+<p>Below you will find information related to the recently enacted Pennsylvania state law and<span>&nbsp;</span><strong><span style="color: #ff0000;"><a href="/media/contentassets/pdf/about/deanst/studentguide/Anti-Hazing Policy.pdf">Muhlenberg College's Anti-Hazing Policy</a></span></strong>. In addition, a<span>&nbsp;</span><strong><span style="color: #ff0000;"><a href="/media/contentassets/pdf/about/deanst/hazing report.pdf">five-year history</a></span></strong><span>&nbsp;</span>of hazing allegations and findings at Muhlenberg College are cataloged.&nbsp; If you have any questions about any of these cases or other potential hazing allegations at the College, please contact the Department of Campus Safety or the Dean of Students Office at any time.</p>
+<p>Finally, if you are aware of an instance of hazing on our campus, please<span>&nbsp;<strong><a href="https://cm.maxient.com/reportingform.php?MuhlenbergColl&amp;layout_id=3">click here</a></strong></span><span>&nbsp;</span>to report this information right away.&nbsp; If it is an emergency, please contact Campus Safety at 484-664-3110.&nbsp; Please note that preventing hazing is a community responsibility.&nbsp; We are limited in our response to a situation by the information reported to us.&nbsp; Therefore, please make every effort to provide as much information as possible, including your contact information so that we may follow up with you about your concerns as needed.&nbsp;</p>
+<p>Thank you,<br><br>Allison&nbsp;Williams<br>Vice President for Campus Life and Dean of Students<br><br></p>
+<ul>
+<li><strong><a href="http://pasenategop.com/corman/wp-content/uploads/sites/38/2018/03/piazza-law-sb1090.pdf" target="_blank">Timothy J. Piazza Antihazing Law</a></strong></li>
+<li><strong><a href="/media/contentassets/pdf/about/deanst/studentguide/Anti-Hazing Policy.pdf">Muhlenberg College Anti-Hazing Policy</a></strong></li>
+<li><strong><a href="/media/contentassets/pdf/about/deanst/hazing report.pdf">5-Year Institutional Report</a></strong></li>
+<li><strong><a href="https://cm.maxient.com/reportingform.php?MuhlenbergColl&amp;layout_id=3">Report an Incident</a>&nbsp;</strong></li>
+</ul>
+</div>
+<hr>
+<h2>&nbsp;</h2></div>
+
+</div>
+</div>
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Spring 2018</h2>
+  <h2><strong>Important Health Information</strong></h2>
+<p>Date: 1/17/18<strong>&nbsp; </strong></p>
+<p dir="ltr">As you are most likely aware, flu activity continues to be widespread across the nation and flu activity continues to be on the rise.&nbsp; According to the CDC, most of the influenza infections are caused by influenza A, subtype H3N2 strain. &nbsp;Years when H3N2 is circulating tend to be periods when the vaccine is less effective.&nbsp; However, it is still recommended that you receive the flu vaccine, even if less than an ideal match as it will still provide some protection against the flu. In addition, we are aware of GI virus activity in our area and expect this will also peak on campus this semester.</p>
+<p><span>While we have not yet had confirmed cases of the flu so far this semester, we want to be as proactive as possible in addressing health on campus. <a href="/offices/healthcenter/influenza/">Click here</a> to for critical information to help keep our community well during this season. Also, if you are sick, please complete the short form found <a href="https://docs.google.com/forms/d/e/1FAIpQLSfclqAgbIEEnXOX0NQbaAGFs2BcL4vircOnaHBw589BLQwWWg/viewform" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://docs.google.com/forms/d/e/1FAIpQLSfclqAgbIEEnXOX0NQbaAGFs2BcL4vircOnaHBw589BLQwWWg/viewform&amp;source=gmail&amp;ust=1516297856487000&amp;usg=AFQjCNF9wLgl_gjmC4Zq0apReaE_oFkMMg">here</a> so that my office can continue to monitor and respond to any health issues on campus as effectively as possible.</span></p>
+<p><span>Thank you and be well,<br>Dean Gulati</span></p>
+<hr>
+<p>Date: 1/15/18</p>
+<p>Dear Students,&nbsp;</p>
+<p>Welcome back!&nbsp; I hope you had a restful break and are ready for a great second semester!&nbsp;&nbsp;</p>
+<p>Thanks to all of you who went through the check in process and picked up your new residence hall keys.&nbsp; If you have not done so, you MUST do so by <span data-term="goog_384508215">Wednesday</span> at <span data-term="goog_384508216">5pm</span> or call Residential Services to make other arrangements.</p>
+<p>Also, the flu is starting to hit hard all over the country and our area is no exception!&nbsp; You will see a more detailed email in the next few days with instructions for how to keep yourself well and what to do if/when you get sick.&nbsp; In the meantime, WASH YOUR HANDS!!&nbsp;&nbsp;</p>
+<p><strong>Two important upcoming events:</strong></p>
+<p>1)&nbsp;<strong>Martin Luther King Day Celebration!&nbsp;&nbsp;<span data-term="goog_384508217">THIS FRIDAY</span> from <span data-term="goog_384508218">2-3pm</span> in Seegers</strong>, join with your community to celebrate the life and legacy of Martin Luther King, Jr.&nbsp; <a href="/media/contentassets/pdf/about/deanst/MLK Flier.pdf">Click here</a> for the flier for this event.&nbsp; We look forward to this important moment of remembrance and reflection together.&nbsp;&nbsp;</p>
+<p>2)&nbsp;On&nbsp;<strong><span data-term="goog_384508219">Tuesday, January 23rd from 5-7pm</span> in the Event Space in Seegers,</strong> the College is offering a community gathering for faculty, staff and students to hear about the&nbsp;Campus&nbsp;Master&nbsp;Plan&nbsp;that is in the process of being developed. This is an exciting time for the college as we shape the future of Muhlenberg!</p>
+<p><strong>What is a&nbsp;Campus&nbsp;Master&nbsp;Plan?&nbsp;</strong> In this case, the college is developing a 10 year&nbsp;plan&nbsp;that will guide future renovation and construction plans to improve the physical&nbsp;campus&nbsp;at Muhlenberg.&nbsp; This will include residential, academic, social, recreational, and aesthetic projects on&nbsp;campus.&nbsp;&nbsp;</p>
+<p><strong>Why should you attend?&nbsp;</strong> No one knows the college experience better than you.&nbsp; You know what needs to be updated, improved, what you would love to see for future students, and which projects should be prioritized based on need and student interest.&nbsp; Many of these projects will take places in STUDENT spaces - classrooms, residence halls, Seegers, Life Sports Center, etc.&nbsp; Have your voices included in the process!!</p>
+<p><strong>Food will be served</strong>&nbsp;and if you can only be there for part of it, that is OK.&nbsp; We will also be doing a&nbsp;student raffle&nbsp;for those who attend with the chance to win a&nbsp;$250 credit at the College Bookstore,&nbsp;that can be put toward books, apparel, etc.&nbsp; There will be other smaller raffle prizes as well including Muhlenberg Athletics gear, etc.</p>
+<p>We hope you will join us!</p>
+<p>Have a great semester!</p>
+<p>Dean Gulati</p>
+<hr>
+<h2>&nbsp;</h2></div>
+
+</div>
+</div>
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Fall 2017</h2>
+  <h2>Date: 12/18/17</h2>
+<div></div>
+<div>
+<p>Good evening,</p>
+<p>I am writing to provide a final update to the campus community on the armed robbery that took place on campus this semester and the College's subsequent investigation into this situation.</p>
+<p>The Allentown Police Department continues to investigate the armed robbery. They have questioned a number of individuals and witnesses, but at this time have not charged anyone with the crime. They do not believe there is any ongoing threat from this incident to students or anyone else at the College.</p>
+<p>The College has also completed its investigation into the situation that led to this incident. We have concluded that the incident was related to drug dealings between students and non-students. The&nbsp;students involved who were found to have violated the College‚s Social Code and Drug Use and Controlled Substance Policy were subject to disciplinary action under the Social Code and faced sanctions, including probation, suspension and potentially expulsion. &nbsp;Consistent with federal privacy laws, we do not disclose publicly how individual students are disciplined.</p>
+<p>The College takes any situation like this one as a challenge to improve our emergency response and communication processes and protocols and the safety of our campus and residential buildings. Following our review of this incident, we have installed additional cameras in needed areas, repaired and added lighting to improve visibility and tightened our active-shooter protocols. We are also exploring options for expanding our emergency text-alert system.</p>
+<p>On behalf of the College, I extend our thanks to all those who are so critical to addressing situations like this, especially the first responders and follow-up investigators.&nbsp;Nothing is more important than the health and safety of everyone in our community, and we are grateful to the team on and off campus that works together so well on this priority.</p>
+<p>If you have any questions, please reach out to the Dean of Students Office.</p>
+<div></div>
+<div>Allison&nbsp;Williams</div>
+<div></div>
+<div><hr></div>
+<div></div>
+<div>Date: 12/15/17</div>
+<div></div>
+<div>
+<p dir="ltr"><span>Dear Campus community members:</span></p>
+<p dir="ltr"><span>I am writing to you this evening to bring you up to speed on recent allegations and subsequent judicial proceedings related to Sigma Phi Epsilon Fraternity.&nbsp; The chapter was recently charged with violations of the College‚s social code and anti-hazing policy. This included offenses related to harassment, creating a dangerous environment, disorderly conduct and hazing that caused physical and psychological harm.</span></p>
+<p dir="ltr"><span>Specifically, the chapter was accused of hazing brothers by paddling them, by having brothers extinguish a fire by spitting mouthfuls of dry rice on it, by instructing new members to sleep at the chapter house and to carry their belongings in backpacks. In addition, the chapter allowed a number of suspended Sigma Phi Epsilon members to participate in these activities.</span></p>
+<p dir="ltr"><span>After an extensive investigation and student conduct process, the chapter has been been placed on Disciplinary Dissolution through Fall 2021.&nbsp; This means that the chapter will be closed immediately. Beginning in Spring of 2022, if or when the College engages in a fraternity expansion process, Sigma Phi Epsilon will be eligible to compete in that process along with all other national fraternities interested in coming to Muhlenberg.</span></p>
+<p dir="ltr"><span>The Judicial Board overseeing this case also took Sigma Phi Epsilon‚s prior judicial record into account in assigning outcomes. In this case, the fraternity was still on Disciplinary Probation from prior incidents and had undergone an extensive membership review prior to returning to campus this fall.</span></p>
+<p dir="ltr"><span>The closure of the chapter house will have no impact on our current residential capacity. The chapter was interimly suspended when the allegations became known in early November, and the six men living in the house were reassigned to other campus housing spaces at that time.&nbsp; <br></span></p>
+<p dir="ltr"><span>The College is fully committed to fraternity and sorority life. When organizations that were founded upon values of academic excellence, philanthropy, leadership development and friendship operate at their best, they contribute positively to our overall campus life experience. Across the country, fraternities and sororities continue to face scrutiny related to high-risk drinking, hazing, sexual misconduct and issues of hate and bias. This incident highlights that those issues are not simply ones others are facing, but ones our own community is grappling with and must continue to improve upon.</span></p>
+<p dir="ltr"><span>I have great confidence in our current fraternities and sororities and their leadership. We will continue to support them as they work as a community to build upon a strong foundation at the college. We will also be adamant, as we were in this situation, that fraternity and sorority experiences must positively represent the values of the College and demonstrate a commitment to civility and respect, equity and inclusion, risk prevention and academic excellence. </span></p>
+<p dir="ltr"><span>Finally, I want to recognize those involved in Campus Safety, Student Engagement, Student Conduct and on our Judicial Panel, as well as individuals from the Penn Iota alumni group and Sigma Phi Epsilon‚s national headquarters, for their support and hard work during this process. These situations require great time, care, sensitivity, diligence and partnership. I am grateful for the staff, faculty and students who demonstrated those qualities throughout this difficult situation.</span></p>
+<div></div>
+<div>Thank you,</div>
+<div>Allison&nbsp;Williams</div>
+</div>
+</div>
+<hr>
+<p>&nbsp;</p>
+<p><strong>Follow up to Campus Incident Tuesday night</strong></p>
+<p>Message from the Dean - October 26, 2017</p>
+<p>Dear Muhlenberg students, faculty, and staff,</p>
+<p>I am writing to follow up on my communication yesterday and provide additional information about Tuesday evening‚s criminal incidents and emergency response. I‚d also like to address some questions received about our emergency notification process and about this specific situation.</p>
+<p>Investigations by Campus Safety and Allentown Police Department (APD) continue. While suspects have not been apprehended yet, Allentown Police Department believes this to be an isolated incident, meaning that their is a high likelihood that the incident was not random and is unlikely to be replicated in another location on campus in the same fashion. Nonetheless, we are taking additional precautions, including an increase in‚and higher visibility of‚officer patrols on and around campus as well as the activation of additional security cameras. In addition, the College will provide campus escorts to community members as needed.</p>
+<p>Some have asked about how the text alert system works and its ability to update people outside of the immediate campus community. The text alert system utilized by Muhlenberg prioritizes responses that address immediate threats to our campus community. As such, messages to students, faculty and staff are delivered first, and additional information is distributed as it becomes available and the immediate threat level is reduced. These instructions are delivered in brief via text messages and are followed by more detailed email communication.</p>
+<p>We issue alerts to the community as soon as possible when a report is delivered to Campus Safety. These messages are intended to deliver essential information promptly (in this case, "shelter in place"). On Tuesday night, the emergency alerts were delivered to our community members within minutes of communication of the incident to Campus Safety. Periodic updates were provided in text alert and email as additional descriptive information became available as well. These additional communications included general location as soon as it was reported and suspect descriptive information as soon as statements from involved parties were taken.</p>
+<p>One question that has been raised is "Was there a delay between when some students became aware of the situation and when a text alert went out?" One important message I wish to share with all of you is that in an emergency, your first call for help NEEDS to be directly to first responders. This is accessed by dialing 911 or calling Campus Safety. I encourage you to put Campus Safety's number <a href="tel:(484)%20664-3110">(484-664-3110</a>) in your phone. Additionally, we are all aware that in this age of electronic communication and social media, it is very common that real time information is shared with family, peers, phone contacts or social media contacts very quickly and only sometimes in tandem with formal calls for help...this sometimes creates a perception of delay.&nbsp; That said, I will reiterate that a text alert was issued within several minutes of a report to Campus Safety.</p>
+<p>Another concern that has come forward is that community members and various publication have raised questions and shared assumptions about the motivation for this incident or contextual details surrounding it that have not been confirmed by the college or Allentown Police. I would caution everyone that this is still under investigation, and to make those types of connections based on second or third hand information or based on personal, private communications with friends is premature. This was an incredibly tenuous situation for those involved and I encourage all of us to refrain as much as possible from making broad generalizations that could be hurtful within our community. We will share additional information as it becomes available and is appropriate to share with sensitivity to community members' need to know and community members' right to privacy.</p>
+<p>Finally, as mentioned in my earlier email, we encourage members of our community to take advantage of available college services. If you experiencing significant distress as a result of this situation, I encourage you to reach out to your residence advisor or Counseling Services for support. I also encourage you to share any relevant information about this incident with Campus Safety via our <a href="https://www.muhlenberg.edu/webapps/incidentreporting/">incident reporting form</a>.</p>
+<p>If you have additional more specific questions, please reach out to the Dean of Students Office.&nbsp; We will do our best to prioritize those inquiries and respond as soon as we are able.&nbsp;</p>
+<p>Thank you and take good care,</p>
+<p>Allison Williams</p>
+<hr>
+<p><strong>Last night's campus incidents</strong></p>
+<p>Message from the Dean - October 25, 2017</p>
+<p style="font-weight: 400;"><span>Dear Muhlenberg students, faculty and staff,</span></p>
+<p style="font-weight: 400;"><span>Last evening two separate incidents necessitated emergency responses and campus notifications via our alert system. While these incidents caused significant disruption to those on campus, we are grateful that no members of our community were physically harmed.</span></p>
+<p style="font-weight: 400;"><span>Around<span>&nbsp;</span><span data-term="goog_1031283156"><span>8:00 p.m.</span></span>, Campus Safety received a report of indecent exposure in the vicinity of Chew Street near Egner Memorial Chapel.</span>&nbsp;</p>
+<p style="font-weight: 400;"><span>The second incident was reported shortly after<span>&nbsp;</span><span data-term="goog_1031283157"><span>9:00 p.m.</span></span><span>&nbsp;</span>and involved a report of an armed robbery in the vicinity of Benfer Hall. The second incident qualified as an imminent threat to the wellbeing of our campus community and required a shelter-in-place notice. This notice remained in effect until approximately<span>&nbsp;</span><span data-term="goog_1031283158"><span>11:17 p.m.</span></span></span></p>
+<p style="font-weight: 400;"><span>The safety of our community is always our foremost concern and a responsibility we take seriously. In addition to our on-duty Campus Safety officers,<span>&nbsp;</span><span data-term="goog_1031283159"><span>midnight</span></span><span>&nbsp;</span>shift personnel were called in to respond to these incidents and Allentown Police Department (APD) was alerted and quickly dispatched to campus.</span></p>
+<p style="font-weight: 400;"><span>Campus Safety and APD conducted an active patrol and sweep of campus to ensure that the suspects were no longer in the vicinity. This comprehensive search included all campus buildings and nearby streets and park systems. Additional details and instructions were sent in all-campus emails to faculty, students and staff after the initial alert was issued.</span>&nbsp;</p>
+<p style="font-weight: 400;"><span>Students are prompted to register for our campus alert system as part of the June Advising process in advance of their first year on campus. Faculty and staff are reminded to sign up for this system at the beginning of each semester. In the event of an emergency, messages are distributed via SMS/text and email to all registered members of the campus community.</span></p>
+<p style="font-weight: 400;">At this point, Allentown Police has determined that this was an isolated incident.&nbsp; If you have information you would like to share about this incident, please feel free to make use of our&nbsp;<a href="https://www.muhlenberg.edu/webapps/incidentreporting/">incident reporting form.</a></p>
+<p style="font-weight: 400;">Take good care,</p>
+<p style="font-weight: 400;">Allison Williams</p>
+<hr>
+<p><strong>Important Community Follow-up</strong></p>
+<p>Message from the Dean - October 4<span data-term="goog_1094663261">, 2017</span></p>
+<p>Dear Muhlenberg Students, <br><br>Following up on President Williams' message to the community yesterday regarding Janaya Khan's presentation Monday night, I want to echo the condemnation of some of the comments on social media that were at worst, racially biased and inflammatory, and at best, distasteful and disrespectful.<br><br>As a college community, we are called to conduct civil discourse and provide for the exchange of ideas, dialog and debate. There is nothing more harmful or unsettling to individuals within a community than accusatory or inflammatory ideas, information or opinions that are shared anonymously or from an unidentified voice. Such anonymous statements provide no opportunity for dialog, intellectual or interpersonal engagement or human understanding. Accordingly, I encourage all of you to use your voices, own your voices, and listen to the voices of others. Each of you matter. Your experiences and perspectives matter. And we must collectively engage for the betterment of our Muhlenberg community and beyond.<br><br>I want to thank the many students, faculty and staff who came to Standing in Solidarity today to be in community with one another and to support all members of our community hurt by the social media comments, the posting of anonymous flyers, the horrific news from Las Vegas, the painful work of recovery and grieving of loss and destruction in Puerto Rico, Texas and in all other areas of the world. <br><br>We are looking into the posting of the flyers yesterday as fully as we would in any situation. If you have information you would like to share related to this or if you become aware of or are the victim of any acts of hate or bias in our community, please make an appointment with my office by emailing me, calling our office at 484-664-3182, calling Campus Safety or completing a&nbsp;<a href="https://www.muhlenberg.edu/webapps/incidentreporting/">Hate/Bias incident form.</a><br><br>As in all cases, if and when violations of the law and/or policy are determined, the College will take all measures to resolve those cases fairly and judiciously.<br><br>Fall break is upon us and rest assured, in the days that follow break, the dialog will continue on campus. In the meantime, I hope each of you find a few moments of rest and respite. One important message I took away from Janaya Khan's presentation Monday evening that is universally applicable is the need for each of us to immerse ourselves in communities of care. Find your squad, know your network and then, beyond the important work of self-care, rely on these groups in difficult and trying times and find strength and love in those around you. Then, so fortified, muster the courage and resolve to reach out to others and find common cause with them as well. Let's not lose sight of what brings us together as a community.<br><br>Please take good care,<br>Dean Williams</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong>Important information: DACA Support and Hurricane Relief<br></strong>Message from the Dean - <span data-term="goog_1094663261">September 6, 2017</span></p>
+<p>Dear Muhlenberg Students,</p>
+<p>In the full message below, you will find information related to two important topics:</p>
+<ul>
+<li>College resources related to support for students related to the DACA program.</li>
+</ul>
+<ul>
+<li>Support information for students and families impacted by Hurricanes Harvey and Irma and information related to contributing to hurricane relief efforts.</li>
+</ul>
+<p>While I encourage you to read the full message, these links are provided for referral purposes. <br><br></p>
+<p>Dear Students,&nbsp;</p>
+<p>One thing that I have been reflecting on quite a bit in the last couple days is the concept of "home". As I consider the news related to the DACA program yesterday and as I hear and see information related to the multiple hurricanes and other natural disasters that are harming many communities across the world and within the United States right now, I am deeply distressed, saddened and seek to act in support.&nbsp; We come from many different homes, from many different corners of the globe; however, as members of the Muhlenberg community, our hope is that this place is a second home to all of our students during their time in college.&nbsp;</p>
+<p>So some people often wonder, "What is my job as the Dean of Students in all of this?" Pertinent to this moment, I will share that one of my most important roles is to ensure this is a place we can all call home and that it is a place in which you have access to resources and community support when hardship and adversity present themselves...and that is likely to happen to all of us at one time or another. In fact, in my opinion, there are two realities we all have in common...we will all face adversity and hardship at various times in our life AND communities of people can always find ways to create hope for themselves and others.&nbsp; In the darkest of times throughout history, both have existed and persisted. With that said, I want to offer some specific comments about the two topics at the forefront of my brain and heart this week. These include specific actions and resources related to DACA and hurricane relief and preparation related to hurricanes Harvey and Irma.</p>
+<p>First, as a follow up to the email you received yesterday from President Williams in response to the DACA program, I want to point you to the following newly created informational webpage:&nbsp;<a href="&nbsp;http://muhlenberg.edu/main/aboutus/deanst/services/dacainformation/">DACA Information</a></p>
+<p>This site will provide you with some of the specifics about the types of support resources the college has been and continues to make available to its students.&nbsp; I also want to lend my wholehearted support to the President's message and my commitment to supporting all of our Dreamer students.</p>
+<p>Next, there are few words to convey the incredible devastation caused by Hurricane Harvey. In addition, as we look at the days ahead, Hurricane Irma is making landfall and parts of the Bahamas, Virgin Islands, Puerto Rico, Cuba, Florida and others find themselves in the path of the storm.&nbsp; My deepest sympathy goes out to all who are dealing with the impact of this current disaster, including those in our Muhlenberg community who have loved ones, homes and any other connections in the affected regions. For those of you who are from or have family and friends from any of the locations in the eye of this new storm, our thoughts and prayers are with you as we brace for its impact.&nbsp;</p>
+<p>For students who have direct connections to these areas: Should you need anything related to the impact of these hurricanes, please do not hesitate to reach out to me personally and my staff. We will connect you to the necessary resources and support on campus.&nbsp;</p>
+<p>In addition, for those of you who are watching and reading about the death, destruction and personal struggle of people in these cities and countries, I fully understand and applaud the urge to act.&nbsp;As you may have seen in the news, what is needed most right now is funding. There are many worthy organizations that can translate your donation into locally-based solutions and assistance. We encourage students interested in fundraising efforts to connect with the&nbsp;<strong>Office of Community Engagement</strong>&nbsp;so that we may assist and connect you with other interested students and student organizations. A few organizations to consider for donations are:</p>
+<p><a href="http://sbpusa.org/where-we-help/harvey-recovery">St. Bernard Project</a>- a Muhlenberg community partner organization that works in disaster response particularly related to housing.</p>
+<p><a href="http://www.GoFundMe.com/HarveyHELPStudents">HarveyHELPStudents</a>- A fund to support College students affected.</p>
+<p><a href="&nbsp;http://www.houstonfoodbank.org/get-involved/harvey-disaster-relief/">The Houston Food Bank</a>.</p>
+<p><a href="http://www.elca.org/Our-Work/Relief-and-Development/Lutheran-Disaster-Response/Our-Impact/US-Hurricane-Relief">Lutheran Disaster Response</a></p>
+<p>Finally, I would like to share the following announcement from the&nbsp;<a href="https://www.lvaic.org/" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.lvaic.org/&amp;source=gmail&amp;ust=1504961741867000&amp;usg=AFQjCNFaGEPGUJ6rPjgq7dms4dRv17v75A">Lehigh Valley Association of Independent Colleges (LVAIC)</a>&nbsp;regarding a&nbsp;<a href="https://www.lvaic.org/hurricane-harvey/" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.lvaic.org/hurricane-harvey/&amp;source=gmail&amp;ust=1504961741867000&amp;usg=AFQjCNGh0TyIL3Rgg5-4Dk2xU3jH88V6qQ">temporary enrollment program</a>&nbsp;to support students affected by the recent floods in Texas and Louisiana.&nbsp; This is one way that Muhlenberg is providing assistance to our neighbors along the Gulf Coast right now.</p>
+<p><a href="https://www.lvaic.org/hurricane-harvey/" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.lvaic.org/hurricane-harvey/&amp;source=gmail&amp;ust=1504961741867000&amp;usg=AFQjCNGh0TyIL3Rgg5-4Dk2xU3jH88V6qQ">LVAIC Hurricane Harvey announcement</a></p>
+<p>To say these are tough times is an understatement. To say that our community of people has the opportunity and ability to create light and hope in dark times is also an understatement. With that said, I challenge all of you to find ways to be the light for others right now and always.</p>
+<p>Warmest regards,&nbsp;</p>
+<p>Dean Williams</p>
+<hr>
+<p>&nbsp;</p></div>
+
+</div>
+</div>
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Summer 2017</h2>
+  <p style="text-align: center;"><strong>Exciting Changes and New Hires in Muhlenberg Student Affairs</strong></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">As we approach the middle of summer (yikes!), I am thrilled to introduce you to a number of new names and faces in the Division of Student Affairs. Some started in the past few weeks, while others will be joining us in the near future. We are excited to have a full team in the division ready to support our students in all aspects of their campus life experience!</p>
+<p style="text-align: left;"><strong>Recent Promotions:<br><br></strong></p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/deanst/AnneMarieStevens-0369-230x345.jpg" alt="Ann Marie Stevens, Muhlenberg" style="  padding : 5px;   float : left;" /></strong></p>
+<p style="text-align: left;"><strong>Ann Marie Stevens, Director of Prevention Education</strong></p>
+<p style="text-align: left;">Ann Marie has been at Muhlenberg College as a counselor in the Counseling Center since 2007. In that role, she provided clinical support to students and emergency on call crisis response. Prior to joining Muhlenberg, Ann Marie worked as a therapist in both private and community settings and also served as the Principal/Director for two years at Twilight Academy in Lawrence, MA. She has her B.A. in Journalism and Sociology from University of Massachusetts Amherst and her M.Ed. in Administration from Cambridge College. She is also a licensed social worker. Please congratulate Ann Marie on this exciting new opportunity and promotion.</p>
+<p style="text-align: left;">Ann Marie will be filling a new position in the Division, funded in large part by Muhlenberg‚s Student Government Association to support prevention education for students regarding issues of alcohol and other drugs, mental health and gender-based violence.</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/deanst/KateShelly-230x287.jpg" alt="Kate Shelly, Muhlenberg" style="  padding : 5px;   float : left;" /></strong></p>
+<p style="text-align: left;"><strong>Kate Shelley, Associate Director of Residential Services</strong></p>
+<p style="text-align: left;">Kate is a long-time staff member at the College, previously serving as the Assistant Director for Residential Services and as a Residential Coordinator. She graduated from Penn State University with a B.A. in History. During her time at Muhlenberg, Kate has worked with all aspects of our residential system including community building, facilities and operations, and student staff supervision and crisis response.</p>
+<p style="text-align: left;">Kate will be moving into the Associate Director position that was recently vacated by Aaron Bova. Congratulations to Kate on this promotion!</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong>New hires:</strong></p>
+<p style="text-align: left;"><strong>Residential Services:<br><br></strong></p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/deanst/CourtneyStephens-0461-230x344.jpg" alt="Courtney Stephens, Muhlenberg" style="  padding : 5px;   float : left;" /></strong></p>
+<p style="text-align: left;"><strong>Courtney Stephens, Assistant Dean of Students &amp; Director of Residential Life</strong></p>
+<p style="text-align: left;">Courtney joined the Muhlenberg family on July 1, 2017. She has eight years of experience in Residential Life, most recently as the Associate Director of Residence Life at Lehigh University. She has also held prior roles as the Assistant Director of the Residential Center and Residence Director at Bentley University. In all of her roles, Courtney worked extensively to create goals and identify strengths and weaknesses to enhance students' residential experiences. During her tenure at Lehigh University, Courtney helped strengthen and expand themed housing and faculty inclusion within the Office of Residence Life. She holds a M.A. in Higher Education Administration from the University of Michigan and a B.S. degree in Human Services and Public Policy from the University of Delaware. She has presented at several local and national conferences, was recently awarded the Lehigh University Dean of Students Spirit Award in May 2016 and received the Bentley University Student Supervisor of the Year Award in March 2015. We are excited to have Courtney‚s energy and enthusiasm as part of our Muhlenberg community!</p>
+<p style="text-align: left;">Courtney will be filling the role previously held by Jan Schumacher, who is now officially serving as the Associate Dean of Students for Student Engagement.</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/deanst/NnannaAnosike-0414-230x345.jpg" alt="Nnanna Anosike, Muhlenberg" style="  padding : 5px;   float : left;" /></strong></p>
+<p style="text-align: left;"><strong>Nnanna Anosike, Residence Coordinator</strong></p>
+<p style="text-align: left;">Nnanna Anosike will be joining the Office of Residential Services as a Residence Coordinator effective July 17. Nnanna‚s approachable personality and focus on student-centered success and learning was quickly evident through interactions with campus partners and Muhlenberg students. He is coming to us from Lincoln University, where he served as a Residence Hall Coordinator and taught as a first-year experience instructor. While at Lincoln, he earned his M.A. of Human Services Administration. Nnanna also holds a B.A. from SUNY Buffalo.</p>
+<p style="text-align: left;">Nnanna will be filling the vacancy created by Kate Shelley‚s promotion. Please join us in welcoming him into the Muhlenberg community!</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong>Student Engagement:<br><br></strong></p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/deanst/SteveDutton-0324-230x345.jpg" alt="Steve Dutton, Muhlenberg" style="  padding : 5px;   float : left;" />Steve Dutton, Associate Director of Student Engagement, Clubs, Organizations, Fraternities and Sororitie</strong>s</p>
+<p style="text-align: left;">Steve Dutton joins the Muhlenberg campus community after having worked at several other institutions and the Alpha Sigma Phi Fraternity Foundation. Most recently, he served as the Associate Director for Orientation at James Madison University. Steve also has previous experience working with areas such as advancement and fundraising, first year experience and leadership programs.</p>
+<p style="text-align: left;">In his role at Muhlenberg, Steve will assist with Orientation and support the Orientation student staff, oversee all clubs and organizations and fraternity and sorority life, and co-advise the Student Government Association. Please welcome Steve to Muhlenberg!</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/deanst/EllenLentine-0311-230x345.jpg" alt="Ellen Lentine, Muhlenberg" style="  padding : 5px;   float : left;" />Ellen Lentine, Associate Director of Student Engagement, Student Activities and Events</strong></p>
+<p style="text-align: left;">Ellen Lentine is returning to Pennsylvania after working at the University of Tampa since 2014 as the Coordinator of Student Engagement. She brings with her experience and skills related to student activity and event planning, working with college programming boards, budgeting, and assessment. She seeks ways to ensure students are involved in the decision making process for activities and empowers them to pursue their own ideas.</p>
+<p style="text-align: left;">Ellen completed her B.A. in Communication Studies at West Chester University and her M.Ed. in College Student Affairs at Rutgers University. Welcome to Muhlenberg, Ellen!</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong><br>Counseling Center:<br><br></strong></p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/counseling/staff/P.Trivedi Headshot.jpg" alt="" style="  padding : 5px;   float : left;" />Pracheta Trivedi, Interim Counselor</strong></p>
+<p style="text-align: left;">Pracheta will join the Muhlenberg Counseling Services team as a full-time Counselor after working in both the public and private sector for the past eight years. After completing both her B.S. in Elementary Education and her M.Ed. in Counseling Psychology at Temple University, she went on to work as a clinical counselor for four years, followed by beginning her own private practice locally. She also served as a part-time counselor at Lafayette College last year. In addition to her work as a licensed therapist, Pracheta has also served as a Social Media Strategist and brings with her a number of new ideas about how to outreach to and support today‚s college students.</p>
+<p style="text-align: left;">She will be filling the Counselor role that was vacated by Ann Marie Stevens, and she will begin at Muhlenberg on August 1. Welcome Pracheta!</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong><br>Athletics:<br><br></strong></p>
+<p style="text-align: left;"><strong><img src="/media/contentassets/images/about/deanst/LilyOtu-230x252.jpg" alt="Lily Otu, Muhlenberg" style="  padding : 5px;   float : left;" />Lily Otu, Assistant Director of Athletics for Student-Athlete Development, Diversity and Inclusion</strong></p>
+<p style="text-align: left;">Lily Otu comes to Muhlenberg after five years as an administrator in the athletic department of her alma mater, Mount St. Mary's University. In her role as director of compliance and student-athlete development at the Mount, she organized all student-athlete leadership programming, community service activities, career workshops and career advising, and collaborated with other offices on campus to ensure that student-athletes received a holistic educational experience. She was a member of the Mount Inclusion and Excellence Committee, facilitated campus-wide initiatives including cultural workshops and programs to enhance the understanding of the diversity of the campus, societal and global community. Lily was also a standout track performer at Mount St. Mary's, earning All-Northeast Conference honors as a sprinter five times in her career. She is a two-time graduate of Mount St. Mary's, earning a bachelor's degree in sport management and her M.B.A.</p>
+<p style="text-align: left;">Lily will be serving in the role that was previously held by Dawud Abdur-Rahkman, though it has been reconfigured to focus full time or educational initiatives within Athletics and in partnership with the larger Muhlenberg community. Lily began her role at Muhlenberg on July 17. Welcome Lily!</p>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;<strong>&nbsp;</strong></p></div>
+
+</div>
+</div>
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Spring 2017</h2>
+  <p style="text-align: center;"><strong>Brynn Dorsey named Executive Director for Health and Counseling Services at Muhlenberg College; Major Partnership Announced to Integrate Health and Counseling Services</strong></p>
+<p>Brynn Dorsey has been promoted to Executive Director of Health and Counseling Services at Muhlenberg College.&nbsp; Dorsey has spent the last 12 years as the Director of Health Services.&nbsp; In her new role, Dorsey will continue to lead patient care and services in the College's Health Center and also provide strategic and administrative leadership to the College's Counseling Center.</p>
+<p>"Brynn is a dedicated, student-centered and incredibly caring health professional," says Allison Williams, Vice President of Student Affairs and Dean of Students at Muhlenberg College.&nbsp; "She has proven to be an excellent manager and we expect her to lead our efforts in the health, mental and behavioral health and counseling areas."</p>
+<p>Dorsey came to Muhlenberg in 2005, after working as an R.N. at New York University and Duke University Medical Centers.&nbsp; She also worked as a Nurse Practitioner at the University of Pennsylvania.</p>
+<p>The College is currently undergoing a search for a director of its Counseling Center.&nbsp; A committee of faculty, staff and students will be part of the process, which will be spearheaded by Dorsey.</p>
+<p>In addition to naming Dorsey to this position,&nbsp;Williams also announced that the College has entered into a major partnership with Keeling and Associates, a national consulting firm with robust higher education experience in health, mental and behavior health, counseling and wellness programs.</p>
+<p>As part of this new partnership, a campus-based Health and Wellness Advisory Group including faculty, staff, students, and alumni practitioners will be convened. This committee will be charged with working directly with Keeling and Associates to develop a strategic implementation plan for integrating health and counseling services over the next year.&nbsp; They will also be deeply involved in the search for the new Director of Counseling Services.&nbsp; Most importantly, this group will lead the college in conceiving of integrated learning experiences that connect the curricular and co-curricular and provide experiential learning opportunities related to health and wellness for our students on campus.&nbsp;</p>
+<p>According to Williams, ‚The health and well-being of students is absolutely critical to their academic and personal success. As such, students are at the heart of these steps forward. Furthermore, we have incredibly talented staff and faculty and exemplar academic programs that can bolster our effort in this area. Collectively, we will work hard to meet the needs of students in innovative ways.‚</p>
+<hr>
+<p style="text-align: center;"><strong>DOSA Restructuring Campus-wide</strong></p>
+<p>Dear Faculty and Staff,</p>
+<p>I am excited to share with you all some initial changes in staffing and structure within the Division of Student Affairs.&nbsp; As many of you, I have spent the first 8 months at Muhlenberg learning as much as I can about what makes this such a special place, the ways in which we support powerful student learning already and to understand from students, faculty, and staff all of the areas they hope to see the Division of Student Affairs grow and develop in the coming years.</p>
+<p>As such, we have launched an approximately six-month strategic planning process, entrenched deeply in an Appreciative Inquiry model of planning.&nbsp; This framework will allow us to carry forward the most positive core aspects of the current Division of Student Affairs, while also building on those strengths and values and connecting more fully to the broader academic mission and strategic goals of the College in new ways.</p>
+<p>While we are still in the early stages of our planning process, we have made some initial structural changes in the Division that I hope will help us to better accomplish our goals and meet student needs.&nbsp; This is part one of a three-part process toward the development of a comprehensive new divisional structure and set of learning outcomes and strategic goals that will guide our work over the next few years. Below are some of the more immediate important structural changes, comings and goings:</p>
+<ul>
+<li>
+<p><strong>Lee Kolbe will now serve as the Associate Dean of Students and Director of Prevention Initiatives.</strong> As many know, Lee had intended to retire last summer and we were able to convince her to give the College 10 more months of service while I was getting settled.&nbsp; She graciously agreed to do so, and continues to lead our Title IX area brilliantly.&nbsp; She has the confidence and trust of faculty, students, and staff broadly, and she has actively contributed to making Muhlenberg a safer and more welcoming place with regard to gender-based differences, violence, and overall equity. I am thrilled to let you all know Lee has agreed to stay on a bit longer to help us launch our Prevention Education efforts.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>New position ‚ Director of Prevention Education</strong> ‚ I am excited to announce that this is a new position in the Division of Student Affairs. This role will help the College identify evidenced-based prevention strategies and will oversee a host of training opportunities for students to engage in around alcohol and other drugs, mental health, gender-based violence, and other health-related topics.&nbsp; This work will be done specifically in a way that is inclusive of different identities and cultural backgrounds and their many intersections. While this position was deeply needed, the College was not in a position to provide initial funding for this role.&nbsp; <strong>I want to recognize the Student Government Association for unanimously voting to support the use of some of its funding to allow us to launch this position immediately and </strong>f<strong>or seeing the importance of this work to support our student community. </strong></p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Jan Schumacher will now serve as Associate Dean of Students and Director of Student Engagement</strong> ‚ Jan has been at Muhlenberg for a number of years as the Director of Residential Services. In her new role, she will transition away from that area and will instead oversee the content of and planning and implementation for a newly revised Orientation program among other things. She will also co-direct a revised version of the Fitness and Wellness course with a faculty member and will work across DOSA to assist us in strengthening our work in this critical area.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Director of Orientation, Leadership and Greek Life ‚ this position is being restructured into two separate positions to assist us with engagement efforts across the Division.&nbsp; I shared with the Division last week that Tara Leigh Sands, who has served as an interim in this role this year, will be leaving Muhlenberg at the end of the semester. I want to thank her for her service and her tireless efforts this year to bring stability to our fraternity and sorority community and to helping us carry out our Orientation efforts. Her full announcement is at the bottom of this memo.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Re-constructed roles:</p>
+<ul>
+<li><strong>Associate Director for Student Engagement for Student Activities and Events </strong>&nbsp;‚ This role will work with Jan and will support all student activities big and small that contribute to a vibrant and engaging social life for students. This role will also be responsible for planning many of the signature events of the College including social events for Orientation, Homecoming, Senior Week, Family Weekend, etc.</li>
+<li><strong>Associate Director for Student Engagement for Clubs and Organizations and Fraternity and Sorority Life</strong> ‚ This role will work with Jan to advise all recognized clubs and organizations, co-advise SGA, and oversee all aspects of Fraternity and Sorority Life.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Jane Schubert will continue to serve as the Associate Dean of Students and Director of Student Conduct </strong>although the role has been restructured and clarified.&nbsp; Jane will continue to serve as the primary conduct officer of the College. She will also serve as the chairperson of the Behavioral Intervention Team (which will become a more robust and transparent process over the next year), and she will begin to formally supervise the Residential Services unit of the Division.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Assistant Dean of Students and Director of Residential Services</strong> ‚ With Jan‚s shift in responsibility, the Chief Housing position has been reconfigured to oversee all aspects of Residential Services, serve as an Assistant Conduct Officer for the College, and assist with the development and implementation of a plan for use of Restorative Practices across our community.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Other notable immediate changes:</strong></p>
+<ul>
+<li><strong>Brenda Lakis has been promoted to serve as the Associate Director of Campus Safety. </strong>While at the College, Brenda has served as an officer, a shift supervisor, and most recently as Captain within the department.&nbsp; In this new role, she will oversee all of Muhlenberg‚s Life Safety functions, as well as transportation. She will also take the lead in Campus Safety to develop and implement a strong shift in practice toward a more robust community policing philosophy that places relationships and prevention at the forefront of our campus safety efforts.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Kate Shelley has been promoted to serve as the Associate Director of Residential Services, Housing Operations.</strong></p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Many changes are underway in Counseling Services, including the hiring of a new Director for that area.&nbsp; In addition, the</strong> <strong>effort of two of our counselors in Counseling Services is increasing</strong> <strong>to 10 months, and beginning next year, the Director of Counseling Services position will be a 12 month appointment.</strong></p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>This summer,</strong> <strong>Health Services is piloting being open 12 hours per week throughout the summer to meet the acute health needs</strong> <strong>of our enrolled undergraduates.</strong></p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p style="text-align: left;"><strong>&nbsp;</strong></p></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

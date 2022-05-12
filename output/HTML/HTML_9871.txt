@@ -1,0 +1,1678 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Coronavirus Information (COVID-19) | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Coronavirus Information (COVID-19)">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/offices/healthcenter/">Health Services</a></li><li class="linkitem"><a href="/offices/healthcenter/coronavirus/">Coronavirus Information (COVID-19)</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Coronavirus Information (COVID-19)</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Coronavirus Information (COVID-19)">
+							<span class="sub_nav_handle_label">Coronavirus Information (COVID-19)</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/offices/healthcenter/coronavirus/2021-2022planning/">2021-2022 Planning</a></li><li class="sub_nav_item"><a href="/covid19/dashboard/index.php">COVID-19 Dashboard</a></li><li class="sub_nav_item"><a href="/offices/healthcenter/">Health Services</a></li><li class="sub_nav_item"><a href="/offices/healthcenter/coronavirus/communications/">Community Communications</a></li><li class="sub_nav_item"><a href="/offices/healthcenter/coronavirus/covid-19campussignage/">COVID-19 Campus Signage</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/offices/healthcenter/">Health Services</a></li><li class="linkitem"><a href="/offices/healthcenter/coronavirus/">Coronavirus Information (COVID-19)</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><style>
+.message{
+  background:#dddddd;
+  padding-right:40px;
+padding-left:40px;
+padding-top:15px;
+padding-bottom:15px;
+margin:15px;
+}
+
+
+}
+</style>
+<!-- Linked List -->
+				<div class="linked_list theme_subnav">
+					<div class="linked_list_content">
+						<div class="fs-row">
+							<div class="fs-cell ">
+                              <div class="fs-cell fs-lg-8">
+								<div class="linked_list_inner">
+									<header class="linked_list_header">
+										<h2 class="linked_list_title">
+											<span class="linked_list_title_label">More Information </span>
+										</h2>
+									</header>
+									<div class="linked_list_body">
+										<ul class="linked_list_items">
+
+<li class="sub_nav_item">
+  <a href="/offices/healthcenter/coronavirus/studentsresources/">Student Information</a>
+  <!--
+  
+  -->
+</li>
+
+
+<li class="sub_nav_item">
+  <a href="/offices/healthcenter/coronavirus/policiesforms/">Faculty &amp; Staff</a>
+  <!--
+  
+  -->
+</li>
+
+
+<li class="sub_nav_item">
+  <a href="/offices/healthcenter/coronavirus/visitorinformation/">Visitor Information</a>
+  <!--
+  
+  -->
+</li>
+
+
+<li class="sub_nav_item">
+  
+  
+  <a href="/media/contentassets/pdf/about/health/MuhlenbergCOVIDPolicy2021-2022.pdf" target="_blank">2021-2022 COVID-19 Policy</a>
+  
+</li>
+
+
+<li class="sub_nav_item">
+  <a href="/offices/healthcenter/coronavirus/covid-19campussignage/">COVID-19 Campus Signage</a>
+  <!--
+  
+  -->
+</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Linked List -->
+	</div>
+			<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><h4>Policies and Information</h4><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#booster2" 
+     aria-expanded="false" 
+     aria-controls="booster2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="booster">
+      <p class="panel-title pull-left">
+          Spring 2022 Vaccine and Booster Requirements
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="booster2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="booster">
+    <div class="panel-body">
+        <p>Important Health and Safety Updates for the Spring Semester:</p>
+<h3>COVID-19 Booster Shots</h3>
+<p>This past semester we have been fortunate to experience very low levels of COVID-19 transmission on campus due in large part to the high rate of vaccination among our students, faculty and staff. As the more transmissible Omicron variant combines with the waning effectiveness of COVID vaccines over time, we are seeing a rise in breakthrough cases across the country. The current conditions have led Muhlenberg to update our vaccination policy for the spring semester to include boosters.<br> <br><strong>Muhlenberg students will be required to have received a COVID-19 booster vaccine as of Tuesday, February 1, 2022 or within 30 days of becoming eligible. We strongly recommend that if you are eligible during the winter break that you get your booster shot before returning to campus.</strong></p>
+<p>You are eligible for a booster:</p>
+<ul>
+<li>At least five months after receiving your second primary COVID-19 vaccination of Moderna or Pfizer; or</li>
+<li>At least two months after completing your single primary COVID-19 vaccination of Johnson &amp; Johnson‚s Janssen.</li>
+</ul>
+<p>(Those who received another WHO-approved vaccine should consult the <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html?s_cid=11706:cdc%20covid%20booster:sem.ga:p:RG:GM:gen:PTN:FY22" target="_blank">CDC guidance on when to get a booster if you were vaccinated outside of the United States</a>.)<br> <br><strong>Faculty and staff will also be required to obtain the booster shot by February 1 or within 30 days of becoming eligible.</strong> This policy update aligns with the CDC‚s most recent guidance recommending that ‚everyone ages 18 and older should get a booster shot.‚ In addition, moving forward many health experts believe that the likely definition of "fully-vaccinated" will change to include a third shot.<br> <br>Students must complete the COVID-19 Booster Vaccine Form in the ‚My Forms‚ tab of their student health portal. You will be required to upload documentation of your COVID-19 booster vaccine within the form. This form will be available in your health portal after January 3, 2022.</p>
+<p>Previously approved COVID-19 vaccination exemptions for students will apply to the booster requirement as well. Approved exemptions do not need to be renewed.<br> <br>We expect to offer a number of on-campus vaccine clinics after the winter break and will share details once they become available. However, if you are currently eligible, you should try to get your booster shot while you are home for winter break. Please see below for a list of local and national providers offering booster vaccines as well as resources to learn more about the COVID-19 vaccines. We will also continue to monitor local and national conditions and to prioritize the health and well-being of our campus community. Based on current data, we are confident that booster shots will provide the most effective means to reduce spread of the virus, protect vulnerable members of our community, and ensure we continue to benefit from the in-person learning and community engagement that are the hallmark of the Muhlenberg experience.</p>
+<p><strong>Booster Shot Opportunities:</strong></p>
+<ul>
+<li>Schedule a Wegman‚s Pharmacy appointment <a href="https://www.wegmans.com/covid-vaccine-registration/">here</a>.</li>
+<li>Schedule a CVS appointment <a href="https://www.cvs.com/immunizations/covid-19-vaccine?cid=ps_cvdvcc_bd&amp;gclid=Cj0KCQjwlOmLBhCHARIsAGiJg7n6dGaRpqNvXd0jR_XDZ3yyF1Obcj-AvHFRQLo_icEElUjbM6uI5RcaAtIdEALw_wcB&amp;gclsrc=aw.ds">here</a>.</li>
+<li>Schedule a Rite Aid appointment <a href="https://www.riteaid.com/pharmacy/scheduler?ef_id=Cj0KCQjwlOmLBhCHARIsAGiJg7n-5p7x9ctmp1tseR31ji_ds85hXVFAKR6w_5cX6ODLEdFMrrXUhJUaAjxrEALw_wcB:G:s&amp;s_kwcid=AL!9320!3!528611259491!b!!g!!&amp;gclid=Cj0KCQjwlOmLBhCHARIsAGiJg7n-5p7x9ctmp1tseR31ji_ds85hXVFAKR6w_5cX6ODLEdFMrrXUhJUaAjxrEALw_wcB">here</a>.</li>
+<li>Schedule a Walgreens appointment <a href="https://www.walgreens.com/pharmacy/immunization/immunization_index.jsp">here</a>.</li>
+<li>Schedule a Weis Pharmacy appointment <a href="https://c.ateb.com/8d8feb6dce7d4d598f753362d06d1e64/">here</a>.</li>
+<li>MyLVHN, patient portal: Download the MyLVHN app or go to&nbsp;<a href="https://www.mylvhn.org/">MyLVHN.org</a>.</li>
+<li>Sign in or sign up for&nbsp;<a href="https://www.slhn.org/mychart/login">St. Luke‚s MyChart</a></li>
+<li>Call 1-866-STLUKES (866-785-8537)</li>
+</ul>
+<p><strong>Resources to learn more about COVID vaccines:</strong></p>
+<ul>
+<li><a href="https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx">Pennsylvania Department of Health</a></li>
+<li><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html">CDC - Vaccine FAQs</a></li>
+<li><a href="https://www.lvhn.org/treatments/covid-19-vaccine-boosters-and-third-shots">LVHN - Vaccines</a></li>
+<li><a href="https://www.lvhn.org/treatments/tercera-vacuna-contra-covid-19">LVHN ‚ Vacunas contra COVID-19, para espa√±ol, haga clic aqui</a></li>
+</ul>
+<h3><br>Flu Vaccine Requirement</h3>
+<p>The College continues to require an annual flu vaccination. Both COVID-19 and the flu will be spreading this winter. They present with similar symptoms and students can be infected with both at the same time. Vaccination is our best protection! Students must complete the Annual Flu Vaccine Form in the ‚My Forms‚ tab of their student health portal. You will be required to upload documentation of the flu vaccine within the form by January 3, 2022. If you have previously submitted your flu vaccine documentation, you do not need to do anything more.</p>
+<h3>Spring Semester Pre-Arrival Testing</h3>
+<p>In comparing Muhlenberg‚s data to that of other campuses, we are confident that the required pre-arrival testing for the fall semester helped us start the semester safely. This will be even more critical as we return from winter break and while the highly contagious Omicron variant is prevalent. As such, students are required to take a COVID-19 PCR or rapid antigen test within 3 days before returning to campus. Your negative result will need to be uploaded to your health portal prior to moving in or regaining access to your meal plan and/or Muhlenberg facilities.</p>
+<p style="padding-left: 30px;"><strong>Residential Students:</strong> Test date must be within 3 days prior to move-in.</p>
+<p style="padding-left: 30px;"><strong>Off-Campus Students:</strong> Test date must be within 3 days prior to the first day you access campus for spring semester. For the safety of your housemates, you are encouraged (but not required) to also test before you move-in to your off campus house, if this date is different from the date you will first access campus.</p>
+<p style="padding-left: 30px;"><strong>Commuter Students:</strong> Test date must be within 3 days of the first day you access campus for the spring semester.</p>
+<p style="padding-left: 30px;"><strong>Students who tested positive for COVID-19 in the 90 days before returning to campus</strong><span style="font-weight: 400;"><strong>:</strong>&nbsp;</span><strong><span style="font-weight: 400;">You must upload a copy of your COVID-19 positive test in the health portal to be exempt from the pre-arrival testing requirement.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">If you have had an active case of COVID now, you must first notify Health Services. You must complete your isolation period of 5 days and then test negative on an </span>ANTIGEN <span style="font-weight: 400;">test to return to campus. This test result must be uploaded in the health portal and you must contact health services for return instructions.<br><br></span></strong></p>
+<h3>Timing of Spring Pre-Arrival Testing</h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Arrival Date</strong></p>
+</td>
+<td>
+<p><strong>Test Date:&nbsp; 3 days prior to arrival (Earliest Date to TAKE your test)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">January 9</span></p>
+</td>
+<td>
+<p>January&nbsp;6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;10</p>
+</td>
+<td>
+<p>January&nbsp;7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;11</p>
+</td>
+<td>
+<p>January&nbsp;8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;12</p>
+</td>
+<td>
+<p>January&nbsp;9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;13</p>
+</td>
+<td>
+<p>January&nbsp;10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;14</p>
+</td>
+<td>
+<p>January&nbsp;11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;15</p>
+</td>
+<td>
+<p>January&nbsp;12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;16</p>
+</td>
+<td>
+<p>January&nbsp;13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>January&nbsp;17</p>
+</td>
+<td>
+<p>January&nbsp;14</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">*Upload your results as soon as you receive them anytime prior to your arrival.</span></p>
+<p>&nbsp;</p>
+<p><strong>COVID-19 Testing Options</strong></p>
+<p>Students can use the provider of their choice for the COVID-19 test. Over-the-counter rapid antigen tests will not be accepted. Lab results must be documented on an official laboratory report or health care provider letterhead. Check your local pharmacies, urgent cares, health networks, or your healthcare provider for testing options. Please be aware that many testing sites require appointments to be scheduled in advance.</p>
+<p>Alternate options to consider for COVID-19 Tests:</p>
+<ul>
+<li><a href="https://www.ondemand.labcorp.com/covid-19?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=Pixel+-+COVID+At-Home+Test_Br&amp;utm_content=&amp;utm_term=pixel+labcorp+covid+test&amp;gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51sqkjIpV-SdqNlqneBDori3wGEZSeiJ5yu4P09WXlY7NfsSCCBmRoaAi0GEALw_wcB&amp;gclsrc=aw.ds">LabCorp on Demand</a></li>
+<li><a href="https://www.letsgetchecked.com/home-coronavirus-test/">LetsGetChecked</a></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#testingstrategy2" 
+     aria-expanded="false" 
+     aria-controls="testingstrategy2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="testingstrategy">
+      <p class="panel-title pull-left">
+          Muhlenberg College COVID-19 Testing Strategy 
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="testingstrategy2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="testingstrategy">
+    <div class="panel-body">
+        <p><strong>General testing strategy at Muhlenberg College for the&nbsp;spring 2022&nbsp;semester:</strong></p>
+<p><span style="font-weight: 400;">Based on guidance from the CDC, the American College Health Association, and close consultation from our local health partners at Lehigh Valley Health Network and Saint Luke‚s University Hospital, the College has developed a testing strategy built on the following assumptions:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The College has a 96% vaccination rate among all students and a 97% vaccination rate among all faculty and staff;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The College will mandate indoor mask-wearing unless the county drops below ‚</span><a href="https://covid.cdc.gov/covid-data-tracker/#county-view"><span style="font-weight: 400;">substantial transmission</span></a><span style="font-weight: 400;">‚ and the College has a low number of cases on campus;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The College will complete pre-arrival testing of all students before they move into the residential setting for the first time so that we have accurate baseline data for our community;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The College will test 1) all unvaccinated students and employees weekly; 2) all close contacts to each positive case in our community; 3) any student who seeks testing due to symptoms consistent with COVID-19;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The College will be conducting enough weekly tests to be able to detect trends or concerns in certain areas of campus or among all community members;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The College has the ability through a third-party testing company to increase testing quickly if conditions change on campus.</span></li>
+</ul>
+<p><strong>Based on these conditions and following the recommendations of our public health experts, the College‚s testing protocols include:</strong></p>
+<ol>
+<li style="font-weight: 400;"><strong>Pre-arrival testing for all students</strong><span style="font-weight: 400;"> - Given the residential nature of the College, surveillance testing of all students, both vaccinated and unvaccinated, prior to move in will allow the community to have a healthy start to the semester and provide clean baseline data upon which to measure our future COVID status.</span></li>
+<li style="font-weight: 400;"><strong>Weekly asymptomatic surveillance testing (PCR test) for unvaccinated students and employees</strong><span style="font-weight: 400;"> -&nbsp; These individuals are at the highest risk of serious infection and hospitalization in our community due to their vaccination status.&nbsp; In addition, if infected with COVID, these individuals will be the most contagious for the longest period of time putting others at risk of contracting the virus.</span></li>
+<li style="font-weight: 400;"><strong>Rapid testing for any student who displays symptoms consistent with those of COVID-19</strong><span style="font-weight: 400;">&nbsp; - These rapid results will allow us to make decisions regarding community health, determine if any additional testing is necessary, and contain any positive cases as quickly as possible. Individuals who receive a positive antigen test will complete a diagnostic PCR test to confirm a positive test result. Individuals who are symptomatic are more contagious, however; if they are vaccinated, the length of time for contagion remains less.</span></li>
+</ol>
+<p><strong>Why is the College NOT conducting asymptomatic surveillance testing of all community members?</strong></p>
+<ul>
+<ul>
+<li style="font-weight: 400;"><strong>Guidance from Public Health Professionals and Agencies: </strong><span style="font-weight: 400;">Infectious disease experts from St. Luke‚s and LVHN, the</span><a href="https://www.acha.org/documents/resources/guidelines/ACHA_Considerations_for_Reopening_IHEs_for_Fall_2021_5.25.21.pdf"> <span style="font-weight: 400;">American College Health Association</span></a><span style="font-weight: 400;">, the</span><a href="https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Guidance/Vaccinated-Individuals-FAQs.aspx"> <span style="font-weight: 400;">Pennsylvania Department of Health</span></a><span style="font-weight: 400;">, and the</span><a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated-guidance.html"> <span style="font-weight: 400;">Center for Disease Control</span></a> <span style="font-weight: 400;">do not recommend asymptomatic surveillance testing, particularly in a community with a 90+% vaccination rate.&nbsp;</span></li>
+<li style="font-weight: 400;"><strong>Campus Testing Practices</strong><span style="font-weight: 400;">:&nbsp; The College is testing very liberally (averaging 250+ tests per week or over 10% of our population), focused on the higher risk segments of our population: those with documented vaccination exemptions, anyone feeling possible symptoms (to catch possible breakthrough infections) and close contacts of anyone who tests positive. Moreover, we are using rapid turnaround antigen testing that allows us to quickly detect any patterns in infection.&nbsp; At this level of testing we have enough daily and weekly data to determine how to best respond with more testing, shifts in health protocols, etc. if/when conditions change.&nbsp; Adding more tests will not significantly improve our ability to detect possible patterns.</span></li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong><strong>Masking:</strong><span style="font-weight: 400;">&nbsp; While the local community/regional incidence of COVID-19 is at the ‚substantial‚ level, masking is required in all classrooms and public indoor spaces</span></strong></li>
+</ul>
+<p><span style="font-weight: 400;">Based on the combination of these comprehensive factors, additional testing of asymptomatic, vaccinated individuals does not provide additional marginal protection for the campus community.</span></p>
+<p><strong>What kind of tests are being used by the College and why were those selected?</strong></p>
+<p><span style="font-weight: 400;">The college uses both PCR and rapid antigen tests, and has done so throughout the COVID pandemic.&nbsp;</span></p>
+<p><strong>rT-PCR testing</strong><span style="font-weight: 400;"> (diagnostic testing) - PCR tests are highly sensitive in the detection of RNA from the SARS CoV2 virus both during the infectious phase and well after the person is contagious to others.&nbsp; These tests are sent to an external lab at St. Luke's University Health Network and results are returned in 24-48 hours. PCR testing is used daily in the health center as a follow up confirmation test after any positive antigen test is detected in line with CDC and ACHA recommendations.&nbsp;</span></p>
+<p><strong>Antigen testing</strong><span style="font-weight: 400;"> (rapid testing) - Antigen tests are </span><strong>highly sensitive </strong><span style="font-weight: 400;">in the detection of a specific viral antigen present in contagious cases of COVID-19 which is exactly when there is a risk of infection to others.&nbsp; Antigen tests have been validated against PCR testing in the scientific literature and by our own experience here on campus.&nbsp; Any positive antigen test is confirmed using PCR to further validate the result.</span></p>
+<p><span style="font-weight: 400;">Antigen tests are </span><strong>fast</strong><span style="font-weight: 400;">.&nbsp; The results are available in 15-20 minutes and can be completed on campus. This allows us to immediately isolate or place a student in quarantine (while awaiting a confirmation PCR test result), complete contact tracing and testing of close contacts within a short period of time. This type of testing has been shown to be most beneficial in communal residential settings that are highly interactive and social because they afford agility, letting us react quickly and change course based on more timely data.</span></p>
+<p><span style="font-weight: 400;">We use an external testing company with technicians here on campus to make sure we have the </span><strong>scale and flexibility </strong><span style="font-weight: 400;">to respond to a wide range of situations.&nbsp; In addition to tests available through our testing partner, we have access to a supply of antigen tests that the State of Pennsylvania has set aside for colleges and universities.</span></p>
+<p><strong>Were other types of tests considered in the decision-making process?</strong></p>
+<p><span style="font-weight: 400;">The College considered other testing possibilities. These included:</span></p>
+<p><strong>Sewage water testing:</strong><span style="font-weight: 400;"> Under some conditions, it is possible to test for the presence of SARS CoV2 in sewage.&nbsp; These tests use rT-PCR tests to detect trace amounts of RNA from the virus in sewage flowing from residence halls and other buildings.&nbsp; We explored this alternative with several suppliers of this service and it was deemed operationally not possible as our wastewater is tied directly into the city‚s sewage system.&nbsp; This type of testing has also proven to be less effective and timely overall.</span></p>
+<p><strong>Pooled or batch testing:</strong><span style="font-weight: 400;">&nbsp; Pooled testing is a phased testing that involves the co-mingling of samples from a group of individuals that is then PCR tested for the presence of RNA from the SARS Cov2 virus.&nbsp; If there is a positive test for the pool, the test is repeated for each individual in the pool to identify the source.&nbsp; This approach was relevant early in the pandemic when the availability of PCR tests was limited and cost was very high.&nbsp; Moreover, turnaround was longer than for individual PCR testing.&nbsp; Now that low cost and rapid antigen tests are available, pooled testing is not common or preferred.</span></p>
+<p>&nbsp;</p>
+<p><strong>Will the College do surveillance testing following any breaks in the academic calendar?</strong></p>
+<p><strong><span style="font-weight: 400;">The College will require pre-arrival testing for the Spring semester. This will ensure clear baseline data to begin the spring semester. However, we do not plan to do surveillance testing after College days off. Our students and employees travel places on and off-campus, locally and further away for personal, family, professional, and social reasons routinely. In addition, our campus does not close the residence halls during days off and many students choose to stay on campus during this time. The College cannot monitor all individuals‚ coming and goings and subsequent follow-up testing, nor is it recommended that we do so with our community vaccination rate and masking requirements. Vaccination and masking are the best protections to prevent the spread of the virus. We will continue to monitor our campus testing needs. If we receive guidance or data that signals that a different approach is needed based on our data, we will consider a change at that time.</span></strong></p>
+<p><strong>Are there resources I can refer to for more information on this topic?</strong></p>
+<p><span style="font-weight: 400;">American College Health Association </span><a href="https://www.acha.org/documents/resources/guidelines/ACHA_Considerations_for_Reopening_IHEs_for_Fall_2021_5.25.21.pdf"><span style="font-weight: 400;">Considerations for Reopening Institutions of Higher Education</span></a></p>
+<p><span style="font-weight: 400;">Center for Disease Control </span><a href="https://www.cdc.gov/coronavirus/2019-ncov/community/colleges-universities/index.html"><span style="font-weight: 400;">Colleges, Universities, and Institutions of Higher Learning</span></a></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#2021maskpolicy2" 
+     aria-expanded="false" 
+     aria-controls="2021maskpolicy2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="2021maskpolicy">
+      <p class="panel-title pull-left">
+          Muhlenberg College COVID-19 Masking Policy
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="2021maskpolicy2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="2021maskpolicy">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">The Centers for Disease Control and Prevention (CDC) recently </span><a href="https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html"><span style="font-weight: 400;">updated its guidelines</span></a><span style="font-weight: 400;"> for mask-wearing and introduced the </span><a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/covid-by-county.html"><span style="font-weight: 400;">COVID-19 Community Levels tool</span></a><span style="font-weight: 400;"> to help </span><span style="font-weight: 400;">communities and individuals make decisions based on their local context and their unique needs.</span></p>
+<p><span style="font-weight: 400;">Visitors&nbsp;are required to adhere to the same policies in place for campus community members. </span></p>
+<p><span style="font-weight: 400;">The College expects there are individuals who will continue to wear masks either by choice or out of necessity. We also expect that all community members will be respectful of one another‚s decisions about wearing a mask. Our COVID policy requires all individuals to adhere to the discretion of faculty, staff or students within their own classroom and office spaces, activities and events.&nbsp; Failure to do so is a violation of our COVID policy and will be addressed when reported to the Dean of Students Office or Human Resources. </span></p>
+<p><span style="font-weight: 400;">In support of our immunocompromised community members, the College will provide antigen tests and KN95 masks to these individuals for the remainder of the semester. KN95 masks are recommended by the College for those who wish to protect themselves to the fullest extent.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#eventsguidelines2" 
+     aria-expanded="false" 
+     aria-controls="eventsguidelines2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="eventsguidelines">
+      <p class="panel-title pull-left">
+          COVID-19 Hosting Campus Events Policy
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="eventsguidelines2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="eventsguidelines">
+    <div class="panel-body">
+        <p><strong>Hosting Events on Campus - Spring 2022</strong></p>
+<p><span style="font-weight: 400;">For the safety of our campus community and all guests and audience members on the Muhlenberg campus, the following requirements are currently in place.</span></p>
+<h4><strong>Event Categories:</strong></h4>
+<p><strong>Closed Events</strong><span style="font-weight: 400;"> - Closed Events are events that take place on campus, sponsored by College departments or recognized student organizations, whose intended audience is limited to students, faculty and/or staff. </span><span style="font-weight: 400;">Students&nbsp;should carry their student IDs at all times while on campus, and IDs must be presented when requested by a College official</span><span style="font-weight: 400;">.</span></p>
+<p><strong>Open Events</strong><span style="font-weight: 400;"> - Open Events are events that take place on campus and are sponsored by College departments, recognized student organizations or external programming managed through Conference &amp; Event Services, whose intended audience includes guests of the College or the general public. These events may include general admission, open to the public, ticketed programs or by invitation only. The following Open Event types should plan to manage audience access using the following processes:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Performance Events</span><span style="font-weight: 400;"> - These events will follow the Department of Theatre and Dance‚s typical ticketing procedures when necessary.&nbsp;<span>Performers and lecturers should be positioned at least 12 feet from audience members throughout the performance.</span></span></li>
+<li style="font-weight: 400;"><strong><span style="font-weight: 400;">Meals with&nbsp;guests- </span><span style="font-weight: 400;">Holding a meal on campus with invited guests is permitted. Event planners may also work with Seegers Union staff to determine what spaces on campus will comfortably meet their needs.</span></strong></li>
+</ul>
+<hr>
+<p><strong>Catering Guidelines</strong></p>
+<p><span>Red Door Catering and Muhlenberg Dining continue to operate with staff shortages as well as supply chain challenges, with our team working long shifts with limited days off.</span><br><br><span>We continue to ask the campus to allow for a minimum of ten business days for catered events to enable us to plan effectively and ensure that we can accommodate all requests at the highest level of service. Unfortunately, failure to provide ample notice may impact menu, service style or even our ability to support a catered program on campus.</span><br><br><span>As we look at the College‚s calendar of signature events planned for the remainder of the spring, we would like to make you aware that during the following dates we may need to modify catering services. As a result, we encourage you to consider limited catering support or select alternate dates if possible:</span></p>
+<ul>
+<li><strong>April 6 - April 9: Through the Red Doors Programming</strong></li>
+<li><strong>April 28 - April 30: Board of Trustees, Explore Muhlenberg and Scholarship Luncheon</strong></li>
+</ul>
+<p><span>Red Door Catering will make every effort to support special events; however your assistance in navigating these dates will enable us to fully support College signature events with the highest level of service and attention.</span></p>
+<hr>
+<p>&nbsp;</p>
+<h4><strong>Event Sponsors Responsibilities</strong></h4>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Event sponsors should continue to monitor College policy as their event approaches.&nbsp; Modifications to processes, access and capacities could change unexpectedly throughout the semester and we will need to plan accordingly. All other College processes, policy and protocols remain in effect when scheduling events on campus.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Event sponsors need to determine if a pre-registration mechanism will be used.&nbsp;</span></li>
+</ul>
+<p><em><span style="font-weight: 400;"><br>*Masking and other restrictions are subject to change in accordance with CDC recommendations, state requirements, and College policy.</span></em></p>
+<p><em><span style="font-weight: 400;">*Should we see a change in conditions, the College reserves the right to require pre-event testing and/or proof of vaccination.</span></em></p>
+<p><em><span style="font-weight: 400;">*We appreciate your patience and cooperation as we continue to work through an active semester while keeping our community safe.</span></em></p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>		<!-- Topic Block -->
+		    <div class="fs-row">
+			    <div class="fs-cell fs-lg-8">
+				    <div class="topic_block">
+					    <div class="topics"><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/about/health/covid-19/vaccine-faq.jpg" alt="Image for COVID-19 Student Vaccination and Booster FAQ" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">COVID-19 Student Vaccination and Booster FAQ</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Answers to questions for during and after the vaccination process.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														
+                                                      
+                                                        <a class="topic_link" target="_blank" href="https://www.muhlenberg.edu/offices/healthcenter/coronavirus/studentsresources/#vaccrequirements">
+															<span class="topic_link_label">View FAQs</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/about/health/covid-19/TopicRow-MasksTravel.jpg" alt="Image for Spring 2022 - Pre-Arrival Testing" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Spring 2022 - Pre-Arrival Testing</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Answers to questions about Spring 2022 COVID booster and pre-arrival testing.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														
+                                                      
+                                                        <a class="topic_link" target="_blank" href="/offices/healthcenter/coronavirus/studentsresources/#booster2">
+															<span class="topic_link_label">View FAQs</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/incoming/Advising-Omnilert.jpg" alt="Image for Daily Self-Assessment" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Daily Self-Assessment</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>The COVID-19 self-assessment should be completed daily to identify any symptoms or behaviors that may impact the health and safety of our College community. Participate in the assessment via the iMuhlenberg mobile app or view the PDF below.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														
+                                                      
+                                                        <a class="topic_link" target="_blank" href="/media/contentassets/pdf/about/health/covid-19/Covid_DailySelfAssessment.pdf">
+															<span class="topic_link_label">View PDF</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/about/health/covid-19/HealthySteps.jpg" alt="Image for Healthy Steps" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Healthy Steps</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Learn about some of the key steps Muhlenberg College is taking to keep our community members healthy.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														
+                                                      
+                                                        <a class="topic_link" target="_blank" href="/media/contentassets/pdf/about/health/covid-19/HealthySteps.pdf">
+															<span class="topic_link_label">View Guide (PDF)</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/topicrow/TopicRow-Laptop.jpg" alt="Image for Community Communications" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Community Communications</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Read the archived messages from Muhlenberg College concerning its COVID-19 response.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/offices/healthcenter/coronavirus/communications/">
+															<span class="topic_link_label">View Messages</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article>						</div>
+                    </div>
+                </div>
+             </div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><span>The safety of the Muhlenberg College community is our highest priority.</span><br><br><span>The College continues to&nbsp;track developments of the coronavirus&nbsp;(COVID-19) and the senior leadership team meets regularly to review the rapidly changing situation.&nbsp;</span>As we actively monitor the health and safety of those on our campus, we continue to consult<span>&nbsp;local, state and national public health agencies, as well as advice&nbsp;from our public health experts in guiding our decisions.</span></p>
+<p><span>Please refer to this site for&nbsp;the latest information and announcements.</span></p></div>
+
+</div>
+</div>
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><span style="font-weight: 400;">For specific questions, you may contact the following offices:</span></strong></p>
+<ul>
+<li>Health Services:484-664-3199,&nbsp;<a href="mailto:Healthservices@muhlenberg.edu" target="_blank">Healthservices@muhlenberg.edu</a></li>
+<li>Dean of Students: 484-664-3182,&nbsp;<a href="mailto:deanofstudents@muhlenberg.edu">deanofstudents@muhlenberg.edu</a><a href="mailto:deanofstudents@muhlenberg.edu"></a><a href="mailto:deanofstudents@muhlenberg.edu" class="Yh1nIb asUmFb AL18ce" target="_blank" data-tooltip="From user's organization profile" data-tooltip-position="top"></a></li>
+<li>Office of the Provost: 484-664-3134,&nbsp;<a href="mailto:provost's_office@muhlenberg.edu">provost's_office@muhlenberg.edu</a></li>
+<li><span>Human Resources: 484-664-3165,&nbsp;</span><a href="mailto:hr@muhlenberg.edu" target="_blank">hr@muhlenberg.edu</a></li>
+<li>Global Education: 484-664-3479,&nbsp;<a href="mailto:studyabroad@muhlenberg.edu">studyabroad@muhlenberg.edu</a></li>
+<li>International&nbsp;Student Support: 484-664-3448,&nbsp;<a href="mailto:oiss@muhlenberg.edu" target="_blank">oiss@muhlenberg.edu</a></li>
+<li>Campus Safety: 484-664-3112</li>
+</ul></div>
+
+</div>
+</div>
+<!-- Topic Block -->
+						<div class="related_program_block">
+							<div class="fs-row">
+								<div class="fs-cell fs-lg-8">
+									<article class="related_program">
+										<div class="related_program_inner">
+											<div class="related_program_media" aria-hidden="true">
+												<figure class="related_program_figure">
+													<img class="related_program_image" src="/media/contentassets/images/about/health/education-students-people-knowledge-concept-picture-id889408634.gif" alt="Image for How Can I Help?" itemprop="image" data-caption="Many of you have reached out to see how you can help the College during these challenging times. This is no surprise coming from a community that is always ready to rally for fellow Mules. Should you be in a position to do so, contributions to the Emergency Grant Fund are welcome. These resources are available to students who incurred financial hardship as a result of their travel home.">
+												</figure>
+											</div>
+											<div class="related_program_wrapper">
+												<header class="related_program_header">
+													<span class="related_program_label"></span>
+													<h2 class="related_program_title">How Can I Help?</h2>
+												</header>
+												<div class="related_program_body">
+													<div class="related_program_description">
+														<p>Many of you have reached out to see how you can help the College during these challenging times. This is no surprise coming from a community that is always ready to rally for fellow Mules. Should you be in a position to do so, contributions to the Emergency Grant Fund are welcome. These resources are available to students who incurred financial hardship as a result of their travel home.</p>
+													</div>
+												</div>
+												<footer class="related_program_links">
+													
+                                                  
+                                                    <a class="related_program_link" target="_blank" href="https://give.muhlenberg.edu/">
+														<span class="related_program_link_label">Donate to the Emergency Grant Fund</span>
+														<span class="related_program_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+								</div>
+							</div>
+						</div>
+						<!-- END: Topic Block -->					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

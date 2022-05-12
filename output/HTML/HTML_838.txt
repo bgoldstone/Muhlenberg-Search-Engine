@@ -1,0 +1,1638 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Photos &amp; Production History | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Photos &amp; Production History">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/">The Dance Program</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/">Photos &amp; Performances</a></li><li class="linkitem"><a href="/academics/theatre-dance/onstage/history.html">Photos &amp; Production History</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Photos &amp; Production History</h1>
+							<p class="page_intro">Take a trip down memory lane, through nearly 40 years of Theatre &amp; Dance performance history!</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Photos &amp; Production History">
+							<span class="sub_nav_handle_label">Photos &amp; Production History</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                <!--
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/currentdepartmentalseason/">Current Departmental Season</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/performanceopportunities/">Performance Opportunities</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/theatre-dance/onstage/history.html">Photos &amp; Production History</a></span></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/acdfa.html">American College Dance Assn.</a></li></ul>
+                -->
+                <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/danceauditionsinterviews/">Dance Auditions &amp; Interviews</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancevideo.html">Meet Our Dancers (Video!)</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/">Performances &amp; Photos</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/thedancecurriculum/">Explore the Dance Curriculum</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancefacultystaffbios/">Faculty &amp; Staff Directory &amp; Bios</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/danceguestartists/">Guest Artists in Dance</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancefacilities/">Dance Facilities (Video!)</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/meetouralumni/">Meet Our Alumni</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/admissionsfinancialaid/">Admissions &amp; Financial Aid</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/missionlearninggoals/">Mission &amp; Learning Goals</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dance.html">Frequently Asked Questions</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/communityprograms/">MCDC Dance Classes</a></li>
+<!---->
+</ul>
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/">The Dance Program</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/">Photos &amp; Performances</a></li><li class="linkitem"><a href="/academics/theatre-dance/onstage/history.html">Photos &amp; Production History</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>40 years of great performances</h2>
+<figure class="block_right">
+<img class="_image" src="/media/contentassets/images/theatreampdance/homepageheader/0450_KEK9197.jpg" alt="" data-caption="">
+</figure>
+<p>Click links for production photos.</p>
+<p style="font-size: 80%;">Theatre Program established: 1978<br> Theatre Department created: 1983<br> Dance Major established: 1993</p>
+<p style="font-size: 80%;"># = student-directed or student-choreographed production<br> + = World Premiere<br> (1993 through present)<br><br></p>
+<table border="0" cellpadding="5">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2021-2022</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p871019305/hC3D73B12/slideshow#hc3d73b12" target="_blank">En El Tiempo de Las Mariposas</a><br><a href="https://muhlenbergcollege.zenfolio.com/p821794225/slideshow" target="_blank">Call Me by Any Other Name... Just as Sweet</a><br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p136762302/hE6D347D8/slideshow#he6ddfdad" target="_blank">The Saint Plays</a></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Spring Performance Festivals<br><a href="https://muhlenbergcollege.zenfolio.com/p461526135/slideshow#hb5a9676" target="_blank">Miss You Like Hell</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p927358754/hE60E382C/slideshow#he60e382c" target="_blank">Reset: New Dances&nbsp;</a><br>In Motion</em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2020-2021</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p647027441/slideshow#h350d68b0" target="_blank">MAGIC*</a><br><a href="https://muhlenbergcollege.zenfolio.com/p709781256/slideshow#h2f9ec3ce" target="_blank">Far Away*</a><br><a href="https://muhlenbergcollege.zenfolio.com/p943588662/slideshow#hb8842366" target="_blank">Run Glue Tree Pour Drive*</a>&nbsp;<br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p997862892/slideshow#hb8844ab2" target="_blank">Unstable Connections*</a></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p886671899/slideshow#hb883d3d6" target="_blank">A List*</a></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p609722919/slideshow#h196c61d8" target="_blank">10x10, or The Decameron*</a><a href="https://muhlenbergcollege.zenfolio.com/p678241544/slideshow#he5fd0816" target="_blank"><br></a><a href="https://muhlenbergcollege.zenfolio.com/p1011342960/slideshow#hb883f283" target="_blank">Memento: Mori: Triptych</a><br></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p148873794/slideshow#h931aa04b" target="_blank">Ephemerality: Dances in Time</a><br><a href="https://muhlenbergcollege.zenfolio.com/p236539364/slideshow#hc493dc82" target="_blank">En Route</a><br></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p1023791270/slideshow#h3940d15a" target="_blank">Senior Dance Photoshoot</a></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;">&nbsp;</p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;">*Many of the theatre and dance productions were virtual due to the covid-19 health crisis.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2019-2020</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p865448281/slideshow#hdb3e0834" target="_blank">The Importance of Being Earnest</a><br><a href="https://muhlenbergcollege.zenfolio.com/p59823924/slideshow#hdae0bf69" target="_blank">Into the Woods</a><br><a href="https://muhlenbergcollege.zenfolio.com/p735783140/slideshow" target="_blank">New Voices&nbsp;/ New Visions</a>&nbsp;‚&nbsp;Directors' Festival &amp; World Premiere Plays<br>&nbsp; &nbsp; &nbsp; Beauty Runs on Light Feet&nbsp; #<br>&nbsp; &nbsp; &nbsp; Family Values&nbsp; #<br>&nbsp; &nbsp; &nbsp; Holy Sh*t&nbsp;#<br>&nbsp; &nbsp; &nbsp; Lessons for an Unaccustomed Bride&nbsp;#<br>&nbsp; &nbsp; &nbsp; </em><em>Too Much Light Makes the Baby Go Blind&nbsp; #</em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p648378938/hE46A5982/slideshow" target="_blank">A Raisin in the Sun</a><br><a href="https://muhlenbergcollege.zenfolio.com/p678241544/slideshow#he5fd0816" target="_blank">The Bacchae</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p54641364/slideshow#he4f1bc2a" target="_blank"><em>Moving Stories 2019&nbsp;</em> </a><br><strong><em>Master Choreographers 2020</em></strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span><a href="https://muhlenbergcollege.zenfolio.com/p966397634/slideshow#he73c3381" target="_blank">Performance Photos</a><br><span>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://muhlenbergcollege.zenfolio.com/p739746630/slideshow" target="_blank">Studio</a></span><a href="https://muhlenbergcollege.zenfolio.com/p739746630/slideshow" target="_blank">&nbsp;Photos</a><br><br></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><span>2020's </span><em>Berg Fringe</em><span> and </span><em>Dance Emerge</em><span>&nbsp;started production, but were cancelled prior to their performances due to the covid-19 health crisis.</span></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2018-2019</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p1052010436/slideshow" target="_blank">Machinal</a><br><a href="https://muhlenbergcollege.zenfolio.com/p930002366/slideshow" target="_blank">Brigadoon</a><br><a href="https://muhlenbergcollege.zenfolio.com/p583473888/slideshow" target="_blank">New Voices&nbsp;/ New Visions</a>&nbsp;‚ Directors' Festival &amp; World Premiere Plays<br> &nbsp; &nbsp; &nbsp; The Repair Man&nbsp; #+<br> &nbsp; &nbsp; &nbsp; Still Growing Up&nbsp; #+</em><br><em>&nbsp; &nbsp; &nbsp; Am I Blue #<br><a href="https://muhlenbergcollege.zenfolio.com/p137228280/slideshow" target="_blank">Mr. Burns, a Post-Electric Play</a><br><a href="https://muhlenbergcollege.zenfolio.com/p788890964/slideshow#he8114570" target="_blank">O War</a>&nbsp;#<br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p154602459/slideshow#hddfe7567" target="_blank">Love &amp; The Law:</a>&nbsp;An Evening of Opera &amp; Musical Theatre</em><br>&nbsp; &nbsp; &nbsp;&nbsp;<em>21 Chump Street #</em><br><em>&nbsp; &nbsp; &nbsp; Trial By Jury #<br></em><em>&nbsp; &nbsp; &nbsp; The Telephone #</em>&nbsp;&nbsp;</p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p950101793/slideshow" target="_blank">Moving Stories 2018</a>&nbsp;#</em><br><strong><em>Master Choreographers 2019</em></strong><br> &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://muhlenbergcollege.zenfolio.com/p103053923/slideshow" target="_blank">Performance Photos</a><br>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://muhlenbergcollege.zenfolio.com/p387608519/slideshow" target="_blank">Studio&nbsp;Photos</a><br><a href="https://muhlenbergcollege.zenfolio.com/p713171167/slideshow#hca96be44" target="_blank"><em>Dance Emerge 2019</em>&nbsp;#</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2017-2018</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p1049440592/slideshow" target="_blank">New Voices / New Visions, Part 1</a><br>&nbsp; &nbsp; &nbsp; How I Wonder&nbsp; #+<br>&nbsp; &nbsp; &nbsp; In Finite Potential&nbsp; #+<br>&nbsp; &nbsp; &nbsp; Shadow Day&nbsp; #<br>&nbsp; &nbsp; &nbsp; 187&nbsp; #<br><a href="https://muhlenbergcollege.zenfolio.com/p18196887/slideshow" target="_blank">Sunday in the Park with George</a><br><a href="https://muhlenbergcollege.zenfolio.com/p592569019/slideshow" target="_blank">New Voices / New Visions, Part 2</a><br>&nbsp; &nbsp; &nbsp; Conform&nbsp; #+<br>&nbsp; &nbsp; &nbsp; The Bald Soprano&nbsp; #<br><a href="https://muhlenbergcollege.zenfolio.com/p114359129/slideshow" target="_blank">Ubu Roi</a><br><a href="https://muhlenbergcollege.zenfolio.com/p940896962/slideshow" target="_blank">Glory</a><br><a href="https://muhlenbergcollege.zenfolio.com/p578172689/slideshow" target="_blank">for colored girls who have considered suicide / when the rainbow is enuf</a></em>&nbsp;&nbsp;</p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p566046610/slideshow" target="_blank">Moving Stories 2017</a></em>&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p268809651/slideshow" target="_blank">Master Choreographers 2018<br></a></em><em><a href="https://muhlenbergcollege.zenfolio.com/p535392856/slideshow" target="_blank">Dance Emerge 2018</a></em>&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2016-2017</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p133885647/slideshow" target="_blank">Attention:&nbsp;New Visions Directors' Festival</a><br>&nbsp; &nbsp; &nbsp; The Imaginary Audience&nbsp; #+<br>&nbsp; &nbsp; &nbsp; Oh, The Humanity, and Other Good Intentions&nbsp; #<br><a href="https://muhlenbergcollege.zenfolio.com/p533135362/slideshow" target="_blank">The Pirates of Penzance</a><br><a href="https://muhlenbergcollege.zenfolio.com/p257561624/slideshow" target="_blank">Falling:&nbsp;New Visions Directors' Festival</a><br>&nbsp; &nbsp; &nbsp; Salome #<br>&nbsp; &nbsp; &nbsp; Icarus's Mother #<br><a href="https://muhlenbergcollege.zenfolio.com/p506794093/slideshow" target="_blank">Listen To Me</a><br><a href="https://muhlenbergcollege.zenfolio.com/p348021677/slideshow" target="_blank">Wig Out!</a>&nbsp;<br><a href="https://muhlenbergcollege.zenfolio.com/p388887654/slideshow#hbfb8b120" target="_blank">The Cherry Orchard</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p366810873/slideshow" target="_blank">Moving Stories 2016</a>&nbsp; &nbsp;#<a href="https://muhlenbergcollege.zenfolio.com/p249617072/slideshow" target="_blank"><br></a></em><em><a href="https://muhlenbergcollege.zenfolio.com/p249617072/slideshow" target="_blank">Master Choreographers 2017<br></a></em><a href="https://muhlenbergcollege.zenfolio.com/p845898599/hEE0BD30C/slideshow#hee0bd30c" target="_blank"><em>Dance Emerge</em> 2017</a>&nbsp; &nbsp;#<br><em>Circus Workshop: Welkin</em> #+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2015-2016</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p458218798/slideshow" target="_blank">New Voices - World Premiere Plays<br></a>&nbsp; &nbsp; &nbsp; Three Bedroom&nbsp; #+<br>&nbsp; &nbsp; &nbsp; My Short Shitty Life&nbsp; #+<br>&nbsp; &nbsp; &nbsp; Death of a Sun&nbsp; #+<br><a href="https://muhlenbergcollege.zenfolio.com/p442224728/slideshow" target="_blank">Chicago</a><br><a href="https://muhlenbergcollege.zenfolio.com/p128342097/slideshow" target="_blank">Servant of Two Masters</a><br><a href="https://muhlenbergcollege.zenfolio.com/p47453713/slideshow" target="_blank">New Visions - Directors' Festival</a>&nbsp; &nbsp; #<br></em><em><em>&nbsp; &nbsp; &nbsp; Terrible Beautiful Bodies&nbsp; #+<br></em><em><em>&nbsp; &nbsp; &nbsp; Hello Out There&nbsp; #<br></em><em><em>&nbsp; &nbsp; &nbsp; The Exception and the Rule&nbsp; #<br></em><em><em><a href="https://muhlenbergcollege.zenfolio.com/p96705625/slideshow" target="_blank">Passion Play<br></a></em><em><em><a href="https://muhlenbergcollege.zenfolio.com/p149517028/slideshow" target="_blank">Ulysses in Nighttown</a></em></em></em></em></em></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p509359588/slideshow#hc02a7b36" target="_blank"><em>Moving Stories</em> 2015</a>&nbsp; &nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p253218932/slideshow" target="_blank"><em>Master Choreographers</em> 2016<br></a><a href="https://muhlenbergcollege.zenfolio.com/p356765756/slideshow" target="_blank"><em>Dance Emerge</em> 2016</a>&nbsp; &nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p473919290/slideshow" target="_blank">Circus Workshop: VOD</a></em>&nbsp; &nbsp;#+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2014-2015</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p570830377/slideshow" target="_blank">New Visions - Director's Festival</a>&nbsp;<br>&nbsp; &nbsp; &nbsp; The Love of Don Perlimpl√≠n for Belisa in the Garden&nbsp; #<br>&nbsp; &nbsp; &nbsp; Hrosvitha&nbsp; #<br>&nbsp; &nbsp; &nbsp; Out Loud (Three Short Plays)&nbsp; #<br>&nbsp; &nbsp; &nbsp; This Is a Chair&nbsp; #<br><a href="https://muhlenbergcollege.zenfolio.com/p464938405/slideshow" target="_blank">Anyone Can Whistle</a><br><a href="https://muhlenbergcollege.zenfolio.com/p799798602/hC0605DEA/slideshow#hc060604f" target="_blank">Agamemnon</a><br><a href="https://muhlenbergcollege.zenfolio.com/p389444614/slideshow" target="_blank">The Miss Firecracker Contest</a><br><a href="https://muhlenbergcollege.zenfolio.com/p328491721/slideshow" target="_blank">Street Scene</a><br><a href="https://muhlenbergcollege.zenfolio.com/p265232718/slideshow" target="_blank">Romeo and Juliet</a><br></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p956872490/slideshow" target="_blank"><em>Moving Stories</em> 2014</a>&nbsp; &nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p105297791/slideshow" target="_blank"><em>Master Choreographers</em> 2015<br></a><a href="https://muhlenbergcollege.zenfolio.com/p174346261/slideshow" target="_blank"><em>Dance Emerge</em> 2015</a>&nbsp; &nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p295883785/slideshow" target="_blank">Circus Workshop: Atlas</a></em>&nbsp; &nbsp;#+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2013-2014</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p1059361360/slideshow" target="_blank">New Voices 2013</a>&nbsp; &nbsp; #+<br><a href="https://muhlenbergcollege.zenfolio.com/p605325923/slideshow" target="_blank">The Mystery of Edwin Drood</a><br><a href="https://muhlenbergcollege.zenfolio.com/p805612070/slideshow" target="_blank">The Winter's Tale</a><br><a href="https://muhlenbergcollege.zenfolio.com/p607461150/slideshow" target="_blank">The Learned Ladies</a><br><a href="https://muhlenbergcollege.zenfolio.com/p617257839/slideshow" target="_blank">New Visions - Director's Festival</a><br> &nbsp; &nbsp; &nbsp; Every Good Boy Deserves Favour &nbsp; #<br> &nbsp; &nbsp; &nbsp; butyou'reaman&nbsp;&nbsp; #+<br> &nbsp; &nbsp; &nbsp; Still Life with Iris&nbsp;&nbsp; #<br><a href="https://muhlenbergcollege.zenfolio.com/p628618961/slideshow" target="_blank">Mad Forest</a><br></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p708389028/slideshow" target="_blank"><em>Moving Stories</em> 2013</a>&nbsp; &nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p940278659/slideshow" target="_blank"><em>Master Choreographers</em> 2014<br></a><a href="https://muhlenbergcollege.zenfolio.com/p1037561562/slideshow#hc1db6425" target="_blank"><em>Dance Emerge</em> 2014</a>&nbsp; &nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2012-2013</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p973044006/slideshow#hc1da29bf" target="_blank">44 Plays for 44 Presidents</a><br><a href="https://muhlenbergcollege.zenfolio.com/p853412099/slideshow" target="_blank">On the Town</a><br><em><a href="https://muhlenbergcollege.zenfolio.com/p917020279/slideshow" target="_blank">The Bourgeois Pig: A New Play</a>&nbsp; &nbsp;+</em><em><br><a href="https://muhlenbergcollege.zenfolio.com/p948953159/slideshow" target="_blank">Bartholomew Fair</a><br><a href="https://muhlenbergcollege.zenfolio.com/p703309545/slideshow" target="_blank">New Visions - Director's Festival</a><a href="https://muhlenbergcollege.zenfolio.com/p617257839/slideshow" target="_blank"><br></a>&nbsp; &nbsp; &nbsp;<span>&nbsp;</span>Iphigenia and Other Daughters</em><em>&nbsp;&nbsp; #</em><em><br> &nbsp; &nbsp; &nbsp;<span>&nbsp;</span>Mental Landscapes</em><em>&nbsp;&nbsp; #</em><em><br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p892532082/slideshow" target="_blank">The Marriage of Figaro</a><br></em></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p912694411/slideshow" target="_blank">Moving Stories 2012</a>&nbsp; &nbsp;#<br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p596895793/slideshow" target="_blank">Master Choreographers 2013<br></a></em><em><em><a href="https://muhlenbergcollege.zenfolio.com/p931399189/slideshow" target="_blank">Dance Emerge 2013</a>&nbsp; &nbsp;#</em></em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2011-2012</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p941912587/slideshow" target="_blank"><em>New Voices 2011</em>‚ New Plays by Muhlenberg Playwrights</a> &nbsp;&nbsp;#+<br><a href="https://muhlenbergcollege.zenfolio.com/p717803627/slideshow" target="_blank"><em>New Myths</em>‚ Original Works by Emerging Alumni</a>&nbsp; #<br><em><a href="https://muhlenbergcollege.zenfolio.com/p1068893623/slideshow" target="_blank">Merrily We Roll Along</a><br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p945894767/slideshow" target="_blank">Curse of the Starving Class</a><br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p564070021/slideshow" target="_blank">Stop Kiss</a>&nbsp; &nbsp;#</em><em><br><a href="https://muhlenbergcollege.zenfolio.com/p804520552/slideshow" target="_blank">A Midsummer Night's Dream</a><br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p1008766371/slideshow" target="_blank">The Three Sisters</a><br></em></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p720193321/slideshow" target="_blank">Moving Stories 2011</a>&nbsp; &nbsp;#<br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p756231544/slideshow" target="_blank">Master Choreographers 2012<br></a></em><em><em><a href="https://muhlenbergcollege.zenfolio.com/p772387928/slideshow" target="_blank">Dance Emerge 2012</a>&nbsp; &nbsp;#</em></em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2010-2011</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p537947346/slideshow" target="_blank">Polaroid Stories</a>&nbsp; &nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p744789128/slideshow" target="_blank">The Pajama Game</a><br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p608155908/slideshow" target="_blank">The Last Days of Judas Iscariot</a><br><a href="https://muhlenbergcollege.zenfolio.com/p568480104/slideshow" target="_blank">La Dispute</a><br></em><a href="https://muhlenbergcollege.zenfolio.com/p905041781/slideshow" target="_blank">The Tempest</a>&nbsp; &nbsp;+<br><a href="https://muhlenbergcollege.zenfolio.com/p863489794/slideshow" target="_blank">Orlando</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p814750499/slideshow" target="_blank"><em>Moving Stories</em> 2010</a>&nbsp; #<br><a href="https://muhlenbergcollege.zenfolio.com/p647147441/slideshow" target="_blank"><em>Master Choreographers</em> 2011<br></a><em><a href="https://muhlenbergcollege.zenfolio.com/p905041781/slideshow" target="_blank">The Tempest</a></em>&nbsp; &nbsp;+<br><a href="https://muhlenbergcollege.zenfolio.com/p956979525/slideshow" target="_blank"><em>Dance Emerge</em> 2011</a>&nbsp; &nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2009-2010</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p157544407/slideshow" target="_blank"><em>New Voices 2009</em> ‚ New Plays by Muhlenberg Playwrights</a> &nbsp;&nbsp;#+<br><em><a href="https://muhlenbergcollege.zenfolio.com/p16999357/slideshow" target="_blank">Bat Boy: The Musical</a><br></em><em><a href="https://muhlenbergcollege.zenfolio.com/p414861426/slideshow" target="_blank">New Visions - Director's Festival</a><a href="https://muhlenbergcollege.zenfolio.com/p617257839/slideshow" target="_blank"><br></a>&nbsp; &nbsp; &nbsp;<span>&nbsp;The Increased Difficulty of Concentration &nbsp;&nbsp;#</span></em><em><br>&nbsp; &nbsp; &nbsp;<span>&nbsp;Uncommon Women and Others &nbsp;&nbsp;#</span></em><br><em><a href="https://muhlenbergcollege.zenfolio.com/p413621875/slideshow" target="_blank">The Other Shore</a><br></em><a href="https://muhlenbergcollege.zenfolio.com/p471437096/slideshow#hc22f8241" target="_blank">An American Tragedy</a>&nbsp; &nbsp;+<br><a href="https://muhlenbergcollege.zenfolio.com/p522830708/slideshow" target="_blank">Blood Wedding</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p137831334/slideshow" target="_blank"><em>Moving Stories</em> 2009</a>&nbsp; &nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p481930842/slideshow" target="_blank"><em>Master Choreographers</em> 2010<br></a><em><em><a href="https://muhlenbergcollege.zenfolio.com/p413621875/slideshow" target="_blank">The Other Shore<br></a></em><a href="https://muhlenbergcollege.zenfolio.com/p337689200/slideshow" target="_blank"><em>Dance Emerge</em> 2010</a>&nbsp; &nbsp;#</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2008-2009</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p204483496/slideshow#hca97319f" target="_blank"><em>Miss Julie</em></a>&nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p181254337/slideshow#hca7d984a" target="_blank">Oklahoma!</a></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p213717488/slideshow#hca97efca" target="_blank">Twelfth Night</a><br><a href="https://muhlenbergcollege.zenfolio.com/p668681967/slideshow#hcaac9f71" target="_blank">The Possibilities</a><br><a href="https://muhlenbergcollege.zenfolio.com/p194725174/slideshow" target="_blank">Caw</a></em> &nbsp;&nbsp;+<br><em><a href="https://muhlenbergcollege.zenfolio.com/p73429805/slideshow#hcb562570" target="_blank">A Flea in Her Ear</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p238109162/slideshow#he82c46c2" target="_blank"><em>Moving Stories</em> 2008</a>&nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p438030615/slideshow#hed12f34f" target="_blank"><em>Master Choreographers</em> 2009</a><br><a href="https://muhlenbergcollege.zenfolio.com/p25205285/slideshow#he82c41d9" target="_blank"><em>Dance Emerge</em> 2009</a> &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;">2007-2008</span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px;"><em>Three More Sleepless Nights</em> &nbsp;&nbsp;#<br><em>Al Takes a Bride</em> &nbsp;&nbsp;#<br><em>Ruddigore<br></em><a href="https://muhlenbergcollege.zenfolio.com/p11797171/slideshow#hecbff12c" target="_blank"><em>New Voices 2007</em></a> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p80020964/slideshow" target="_blank">Venus</a><br>Zanna, Don't!</em> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p487689300" target="_blank">Love's Labour's Lost</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Moving Stories</em> 2007 &nbsp;&nbsp;#+<br><em>Master Choreographers</em> 2008<br><em>Dance Emerge</em> 2008 &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2006-2007</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p987455709/slideshow#he84e3fe4" target="_blank"><em>Weldon Rising</em></a> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p1007977352/slideshow#he84e3bff" target="_blank">Urinetown the Musical<br></a></em><em><a href="https://muhlenbergcollege.zenfolio.com/p965573269/slideshow#he84e281e" target="_blank">Life's a Dream</a><br><a href="https://muhlenbergcollege.zenfolio.com/p958205671/slideshow#he84e33f2" target="_blank">Orpheus Descending</a><br><a href="https://muhlenbergcollege.zenfolio.com/p766925063" target="_blank">Corps</a></em> &nbsp;&nbsp;#+<br><a href="https://muhlenbergcollege.zenfolio.com/p1043048200/slideshow#he84e2e0c" target="_blank">Monkey in the Middle</a></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Moving Stories</em> 2006 &nbsp;&nbsp;#<br><em>Master Choreographers</em> 2007<br><a href="https://muhlenbergcollege.zenfolio.com/p766925063/slideshow#he84e218a" target="_blank"><em>Corps</em>&nbsp;&nbsp;&nbsp;#+</a><br><em>Dance Emerge</em> 2007 &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2005-2006</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p98409508/slideshow#hec6f8b25" target="_blank"><em>Lebensraum</em></a> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p28723515/slideshow#hec659b2a" target="_blank">Cabaret<br></a></em><a href="https://muhlenbergcollege.zenfolio.com/p531629792/slideshow#hec6fd4af" target="_blank"><em>New Voices 2005</em></a>&nbsp; &nbsp;#+</p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p650257493/slideshow#he85edcf8" target="_blank"><em>A Bird of Prey</em></a> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p272787152/slideshow#hec6580b4" target="_blank">Big Love</a><br></em><a href="https://muhlenbergcollege.zenfolio.com/p116621127/slideshow" target="_blank">The Pillow of Kantan</a>&nbsp; &nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p527948554/slideshow#hd3e26398" target="_blank">Figurentheater: <em>Emigr√©</em> and <em>Exit: A Hamlet Fantasy</em></a> &nbsp;&nbsp;+</p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Dance On</em> &nbsp;&nbsp;#<br><em>Master Choreographers</em> 2006<br><em>Dance Emerge</em> 2006 &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2004-2005</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p210643156/slideshow#hec700de2" target="_blank">Tartuffe</a><br><a href="https://muhlenbergcollege.zenfolio.com/p45401605/slideshow#hd3dfbdd5" target="_blank">Pippin</a><br></em><a href="https://muhlenbergcollege.zenfolio.com/p375095310/slideshow#hec704acd" target="_blank"><em>Christmas on Mars</em></a> &nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p270918610/slideshow#hec7073fc" target="_blank"><em>How I Learned to Drive</em></a> &nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p248209481/slideshow#hec705b9c" target="_blank"><em>Catholic School Girls</em></a> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p303587229/slideshow#hec70946c" target="_blank">Pirates of Penzance</a><br><a href="https://muhlenbergcollege.zenfolio.com/p108380170/slideshow#hec70a9bd" target="_blank">Lures and Snares</a></em> &nbsp;&nbsp;+<br><em><a href="https://muhlenbergcollege.zenfolio.com/p943475946/slideshow" target="_blank">Summerfolk</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p6677095/slideshow#hec714282" target="_blank"><em>Student Choreographer Showcase</em> ‚ Fall 2004</a> &nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p322370436/slideshow#hec70ffb6" target="_blank"><em>The Muhlenberg Dancers in Concert</em> 2005</a><br><em>Student Choreographer Showcase</em> ‚ Spring 2005 &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2003-2004</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p98028491/slideshow#hd3de5045" target="_blank"><em>Dancing at Lughnasa</em></a> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p132016362/slideshow#hec717079" target="_blank">On the Town</a><br><a href="https://muhlenbergcollege.zenfolio.com/p100390005/slideshow#hec71c615" target="_blank">Scenes from an Execution</a><br></em><em>Measure for Measure<br><a href="https://muhlenbergcollege.zenfolio.com/p424478889/slideshow#hec71ed34" target="_blank">New Voices 2004</a></em><a href="https://muhlenbergcollege.zenfolio.com/p424478889/slideshow#hec71ed34" target="_blank"> ‚ New Plays by Muhlenberg Playwrights</a> &nbsp;&nbsp;#+<br><em><a href="https://muhlenbergcollege.zenfolio.com/p425861337/slideshow" target="_blank">The Seagull</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p574893503/slideshow" target="_blank"><em>Student-Choreographed Dance Concert</em> ‚ Fall 2003</a> &nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p727802298/slideshow" target="_blank"><em>Alumni Dance Concert</em> ‚ a celebration of 10 years of the Dance Major</a><br><em><a href="https://muhlenbergcollege.zenfolio.com/p948026847/slideshow#heca30eab" target="_blank">The Muhlenberg Dancers in Concert 2004</a></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><a href="https://muhlenbergcollege.zenfolio.com/p579775542/slideshow" target="_blank"><em><em>Student-Choreographed Dance Concert</em> ‚ Spring 2004</em></a><em> &nbsp;&nbsp;#</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2002-2003</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Picasso at the Lapin Agile</em> &nbsp;&nbsp;#<br><em>Into the Woods</em> &nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p200102532/slideshow#hecb5b064" target="_blank"><em>Anything's Dream</em></a> &nbsp;&nbsp;+<br><em><a href="https://muhlenbergcollege.zenfolio.com/p112282188/slideshow#hd3ddecdf" target="_blank">Electra</a><br>Private Eyes</em> &nbsp;&nbsp;#<br><em><a href="https://muhlenbergcollege.zenfolio.com/p849640850/slideshow" target="_blank">The Beggar's Opera</a></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Student-Choreographed Dance Concert</em> ‚ Fall 2002 &nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p1058777515/slideshow#hc2dbf80a" target="_blank"><em>The Muhlenberg Dancers in Concert</em> 2003</a><br><a href="https://muhlenbergcollege.zenfolio.com/p1058777515/slideshow" target="_blank"><em>Student-Choreographed Dance Concert</em> ‚ Spring 2003</a> &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2001-2002</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>New Voices 2001</em> ‚ New Plays by Muhlenberg Playwrights &nbsp;&nbsp;#+<br><em>Wonderful Town<br></em><em>The Game of Love and Chance<br><a href="https://muhlenbergcollege.zenfolio.com/p215637143/slideshow#hd3ddb529" target="_blank">Juliet and Her Romeo: The Sixth Quarto</a></em> &nbsp;&nbsp;+<br><em>The Vagina Monologues<br>Pentecost<br></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Student-Choreographed Dance Concert</em> ‚ Fall 2001 &nbsp;&nbsp;#<br><a href="https://muhlenbergcollege.zenfolio.com/p677050625/slideshow#hc2dbe4fb" target="_blank"><em>The Muhlenberg Dancers Concert</em> 2002</a><br><em>Student-Choreographed Dance Concert</em> ‚ Spring 2002 &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>2000-2001</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>A Midsummer Night's Dream<br></em><em>Mother Hicks<br>Little Shop of Horrors<br>The Crucible<br>Hot Ice</em> &nbsp;&nbsp;#<br><em>Dido and Aeneas</em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Student-Choreographed Dance Concert</em> ‚ Fall 2000 &nbsp;&nbsp;#<br><em>The Muhlenberg Dancers Concert 2001</em><br><em>Student-Choreographed Dance Concert</em> ‚ Spring 2001 &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1999-2000</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Aunt Dan and Lemon<br>Our Town<br></em><em>The Country Wife<br>Cave Theory</em> &nbsp;&nbsp;+<br><em>West Side Story<br></em><em>The World of Anton Chekhov: Four One-Act Vaudevilles</em> &nbsp;&nbsp;#</p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em><a href="https://muhlenbergcollege.zenfolio.com/p645643234/slideshow#hc2dbdc5d" target="_blank">Muhlenberg Dancers in Concert</a></em></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Student-Choreographed Concert I</em> &nbsp;&nbsp;#<br><em>Student-Choreographed Concert II</em> &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1998-1999</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Getting Out</em> &nbsp;&nbsp;#<br><em>The Mikado ‚&nbsp;<a href="#MikadoNote"><span style="font-size: 8px;">* Please see note below.</span></a><br>The Winter's Tale<br>Blood Brothers</em> &nbsp;&nbsp;#<br><em>Ophelia's Tattoo</em> &nbsp;&nbsp;+</p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Junior/Senior Choreography Showcase</em> &nbsp;&nbsp;#<br>Muhlenberg Dancers in Concert<br><em>Student Choreographed Concert</em> &nbsp;&nbsp;#</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1997-1998</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Food and Shelter</em> &nbsp;&nbsp;#<br><em>Brigadoon<br><em>Top Girls<br>Galileo</em></em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Student Choreographed Concert</em> &nbsp;&nbsp;#<br><em>The Muhlenberg Dancers in Concert</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1996-1997</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Fefu and Her Friends<br>Cabaret<br>Peer Gynt<br><em>The Kafka Project</em> &nbsp;&nbsp;+</em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Student Choreographed Concert</em> &nbsp;&nbsp;#<br><em>The Muhlenberg Dancers in Concert</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1995-1996</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Medea<br>Oklahoma!<br>Oleanna</em><br><em>SubUrbia</em> &nbsp;&nbsp;#<br><em>Cloud Nine</em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Student Choreographed Concert</em>&nbsp;&nbsp;#<br><em>The Muhlenberg Dancers in Concert</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1994-1995</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Crimes of the Heart<br>Hamlet<br>Goodnight Desdemona (Good Morning Juliet)<br>A Chorus Line</em></p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>The Muhlenberg Dancers in Concert</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1993-1994</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Lydie Breeze<br>Carnival<br>The Three Sisters<br>Allen Tales</em> &nbsp;&nbsp;+</p>
+<p style="margin-top: 5px; margin-bottom: 0px;"><strong>Dance Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>The Muhlenberg Dancers in Concert</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1992-1993</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Bed Time Story<br>The Apple Tree<br>Preggin and Liss<br>The Good Woman of Setzuan<br>Prelude to a Kiss<br>The Pajama Game</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1991-1992</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Voice of the Turtle<br>Ruddigore<br>The Miracle Worker<br>Phaedra</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1990-1991</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Man of La Mancha<br>Vinegar Tom<br>A Midsummer Night's Dream</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1989-1990</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Life Under Water<br>The Author's Voice<br>The Skin of Our Teeth<br>Asian Shade<br>Street Scene</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1988-1989</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>The Lesson<br>The Bald Soprano<br>The School for Scandal<br>The Baby with the Bathwater<br>Candide</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1987-1988</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>The Dining Room<br>The Vengeance<br>Anything Goes<br>South Pacific Snow</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1986-1987</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Ernest in Love<br>Twelfth Night<br>Slow Dance on the Killing Ground<br>Oklahoma!</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1985-1986</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Androscoggin Fugue<br>Bye Bye Birdie<br>Amahl and the Night Visitors<br>Rosencrantz and Guildenstern are Dead<br>The Suicide</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1984-1985</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>What I Did Last Summer<br>Good News<br>The Play of Daniel<br>'Tis Pity She's a Whore</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1983-1984</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>The Doctor in Spite of Himself<br>Mother Courage and Her Children<br>Miss Julie<br>Of Thee I Sing</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1982-1983</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Album<br>Measure for Measure<br>Once Upon a Mattress</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1981-1982</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>The Water Engine<br>Tartuffe<br>Antigone<br>Last Gasps<br>Oh What a Lovely War‚¶<br>Riders to the Sea<br>Trial by Jury</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1980-1981</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Spring Awakening<br>You're a Good Man, Charlie Brown<br>The Woods<br>Guys and Dolls</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1979-1980</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>The Pirates of Penzance<br>Before Christmas<br>Much Ado About Nothing</em></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 3px;"><span style="color: #7a0109; font-weight: bold;"><strong>1978-1979</strong></span></p>
+</td>
+<td align="left" valign="top">
+<p style="margin-top: 0px; margin-bottom: 0px;"><strong>Theatre Productions</strong></p>
+<p style="font-size: 10px; line-height: 15px; margin-top: 0px; margin-bottom: 3px;"><em>Our Town<br>Anything Goes</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;"><a id="MikadoNote"></a>* A Note About Racial Stereotypes and Deleted Photos</span></strong></p>
+<p style="font-size: 80%;">Some past theatre performances at Muhlenberg contained insensitive racial stereotypes, among them <em>The Mikado</em> and <em>Annie Get Your Gun</em>. We apologize for the harm that the stereotypes depicted in these performances and associated photos have caused our community. These productions do not reflect our current philosophy of theatre production, casting or production design, and we have removed any related image galleries.</p>
+<p style="font-size: 80%;">Practices within Summer Music Theatre and the Department of Theatre &amp; Dance concerning casting and the canon of shows and plays considered for production have evolved significantly and purposefully in recent years to more thoughtfully consider the experience of communities of color, both as performers and audience.</p>
+<p style="font-size: 80%;">We appreciate the work that students and alumni have done to hold our College community accountable for past and present harms. Each of us plays an important role in ensuring our College community is welcoming and inclusive.</p></div>
+
+</div>
+</div>
+		<!-- Topic Block -->
+		    <div class="fs-row">
+			    <div class="fs-cell fs-lg-8">
+				    <div class="topic_block">
+					    <div class="topics"><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/theatreampdance/newheaderimages/link current mainstage dance.jpg" alt="Image for Current Mainstage Season" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Current Mainstage Season</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>See what diverse, innovative productions we're working on this season!
+
+</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/academics/theatre-dance/thedanceprogram/photosperformances/currentdepartmentalseason/">
+															<span class="topic_link_label">GO</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/theatreampdance/newheaderimages/link perf opty dance.jpg" alt="Image for Performance Opportunities" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Performance Opportunities</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Dancers and choreographers have daily opportunities to participate in performances and ensembles at Muhlenberg</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/academics/theatre-dance/thedanceprogram/photosperformances/performanceopportunities/">
+															<span class="topic_link_label">GO</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article>						</div>
+                    </div>
+                </div>
+             </div><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+<hr style="width:100%; color:black; background-color:black; height:4px; margin-top:18px; border-width:0;">
+<h2>Want to Know More?</h2>
+<p>Thank you for your interest in Muhlenberg College. This form is for prospective students to request additional information about the Theatre & Dance Department.</p>
+<p> Performance Patrons: to sign up for the mailing list, or to request information other than prospective student info, please the <a href="https://www.muhlenberg.edu/academics/theatre-dance/onstage/mainstage.html">See a Show</a> page, and click Mailing List Signup in the sidebar menu.</p>
+<div id="form_a438cf81-b313-4a7f-9d2a-d3fd16547009">Loading...</div><script async="async" src="https://admissions.muhlenberg.edu/register/?id=a438cf81-b313-4a7f-9d2a-d3fd16547009&output=embed&div=form_a438cf81-b313-4a7f-9d2a-d3fd16547009">/**/</script>
+
+</div>
+</div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

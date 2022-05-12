@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Behind-the-Scenes Instagram Takeovers | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Behind-the-Scenes Instagram Takeovers">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/">The Dance Program</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/dancevideo.html">Meet Our Dancers</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/meetourdancers/behind-the-scenesinstagramtakeovers/">Behind-the-Scenes Instagram Takeovers</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Behind-the-Scenes Instagram Takeovers</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Behind-the-Scenes Instagram Takeovers">
+							<span class="sub_nav_handle_label">Behind-the-Scenes Instagram Takeovers</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                <!--
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/danceauditionsinterviews/">Dance Auditions &amp; Interviews</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/theatre-dance/thedanceprogram/dancevideo.html">Meet Our Dancers</a></span></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/">Photos &amp; Performances</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/thedancecurriculum/">The Dance Curriculum</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancefacultystaffbios/">Dance Faculty &amp; Staff Bios</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/danceguestartists/">Dance Guest Artists</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancefacilities/">Dance Facilities</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/meetouralumni/">Meet Our Alumni</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/admissionsfinancialaid/">Admissions &amp; Financial Aid</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/missionlearninggoals/">Mission &amp; Learning Goals</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dance.html">Frequently Asked Questions</a></li></ul>
+                -->
+                <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/danceauditionsinterviews/">Dance Auditions &amp; Interviews</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancevideo.html">Meet Our Dancers (Video!)</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/photosperformances/">Performances &amp; Photos</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/thedancecurriculum/">Explore the Dance Curriculum</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancefacultystaffbios/">Faculty &amp; Staff Directory &amp; Bios</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/danceguestartists/">Guest Artists in Dance</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dancefacilities/">Dance Facilities (Video!)</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/meetouralumni/">Meet Our Alumni</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/admissionsfinancialaid/">Admissions &amp; Financial Aid</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/missionlearninggoals/">Mission &amp; Learning Goals</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/dance.html">Frequently Asked Questions</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/communityprograms/">MCDC Dance Classes</a></li>
+<!---->
+</ul>
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/">The Dance Program</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/dancevideo.html">Meet Our Dancers</a></li><li class="linkitem"><a href="/academics/theatre-dance/thedanceprogram/meetourdancers/behind-the-scenesinstagramtakeovers/">Behind-the-Scenes Instagram Takeovers</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h2>Go behind the scenes with our Instagram Takeovers!</h2>
+<p>Students and alumni take the reins of our Insta for the day to show you a little bit of what it's like to be a Berg Theatre &amp; Dance student. <a href="https://www.instagram.com/bergtheatredance/" target="_blank">Check out our Instagram page too</a>!</p>
+<table style="border-color: #9f1c34;">
+<tbody>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Hannahinsta.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17906295124802404/" target="_blank">Memento: Mori: Triptych</a></p>
+<p style="font-size: 80%;">For the last production of the Mnemonic Theatre Festival, join Hannah Michelson '22 as she&nbsp;shares information about the immersive, innovative experience&nbsp;<em>Memento: Mori: Triptych</em>.<em>&nbsp;</em></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Meganinsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/18074327848275562/" target="_blank">En Route: A Site-Responsive Dance Festival</a></p>
+<p style="font-size: 80%;">Tune in for our first-ever faculty takeover with dance professor Megan Flynn! Megan shows you behind the scenes of&nbsp;<em>En Route</em>&nbsp;on&nbsp;opening night.</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Emilyinsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17982214492363282/" target="_blank">Unstable Connections</a></p>
+<p style="font-size: 80%;">Tune in as Emily Kitchin '21 takes you behind the scenes of all three episodes of the hilarious webseries, <em>Unstable Connections</em>. Experience another production in the Mnemonic Theatre Festival as well as life on zoom in three parts.&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Ruhaniinsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17932847689495784/" target="_blank">10x10 (or, The Decameron)</a></p>
+<p style="font-size: 80%;">Join cast member 10x10 (or, The Decameron), Ruhani Singh '23 as she takes you behind the scenes of this innovative theatrical event, part of the Mnemonic Theatre Festival.&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Kateinsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17936520229470468/" target="_blank">Ephemerality: Dances In Time</a></p>
+<p style="font-size: 80%;">To celebrate the second in-person dance concert since February '20, Kate McCowan '22 takes you backstage of the dance program's new and innovative production, <em>Ephemerality: Dances In Time</em>.&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Kaliainsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/18079161802267219/" target="_blank">A List</a></p>
+<p style="font-size: 80%;"><span>Join&nbsp;Kalia Rucker '22 as they take you behind the scenes of Gertude Stein's play, <em>A List</em>. This short, endless play marks the fourth production in the Mnemonic Theatre Festival.&nbsp;</span></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Bekkainsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17885817422063730/" target="_blank">Run Glue Tree Pour Dive: A Re-Membering</a></p>
+<p style="font-size: 80%;">Meet Bekka Broyles '22 as she&nbsp;shares her insight into the innovative and experimental prouduction,&nbsp;<em>Run Glue Tree Pour Dive</em>; another creation for the Mnemonic Theatre Festival.</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Philippainsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/18003947356311917/" target="_blank">Far Away</a></p>
+<p style="font-size: 80%;">Learn more about the second production of the Mnemonic Theatre Festival, <em>Far Away </em>as Philippa Edstrand-Hearn takes you behind the virtual stage and opens the show with you!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Emiinsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/18209707075003388/" target="_blank">Senior Dance Showcase</a></p>
+<p style="font-size: 80%;">Tune in as Emi Giuseffi '21 takes you behind the scenes of this year's <em>Senior Dance Showcase</em>. This performance marked the dance program's first live performance in over a year!&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Mercyinsta.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17879936789185574/" target="_blank">MAGIC</a></p>
+<p style="font-size: 80%;"><span>Join the Mercy Olajobi '21 as she takes you behind the scenes of the world premiere virtual play, <em>MAGIC</em>! This play also marks the first prodduction of this season's Mnemonic Theatre Festival.&nbsp;&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/DWinstathumb.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17893906282698125/" target="_blank">Muhlenberg Dance Association's <em>DanceWorks</em> Series&nbsp;</a></p>
+<p style="font-size: 80%;"><span>Join the two student coordinators of this production, Lilianne Gering '21 and Dani Barrett '22, as they take you behind the scenes of this fall's <em>DanceWorks</em> series!&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/SDPinstathumb.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17973814663335040/" target="_blank">Dance Practices 1</a></p>
+<p style="font-size: 80%;">Meet the current dancers in Dance Practices 1 as they share their own unique style! In this course, the dancers have been discussing dance-on-camera and the relationship between social media and dance.&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/FPPDinstathumb.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17908261576558818/" target="_blank">MTA's Fish Project Play Festival&nbsp;</a></p>
+<p style="font-size: 80%;">Tune in as the two student coordinators of this production,<span>&nbsp;Ali Rohrbaugh '22 and Jaxson Goldsmith '23, take you behind the scenes of the innovative Fish Project Play Festival!&nbsp;</span></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/SDPinstathumb-1.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/18023764669286082/" target="_blank">Sedehi Diversity Project: Ensemble Members </a></p>
+<p style="font-size: 80%;"><span>Join ensemble members of this year's Sedehi Diversity Project to learn more about this powerful documentary theatre piece!&nbsp;</span></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/danibarlow.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17873835826672118/" target="_blank">Dani Barlow '14</a></strong></p>
+<p style="font-size: 80%;">Join Dani Barlow '13, finishing up her Masters at Yale School of Drama for Theater Management! She answers all of your questions about grad school, her work, directing at ‚Berg and more!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/jeffbrancato.png" alt="" style="     " />&nbsp;</td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17898937345473884/"><strong>Jeff Brancato '12</strong></a></p>
+<p style="font-size: 80%;">Tune in as Jeff Brancato '12, currently Production Stage Manager for <em>Girl from the North Country</em> on Broadway, takes over the Instagram all day to answer your questions about the industry and his work!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/nicolemorris.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17856980938766431/" target="_blank">Nicole Morris '21</a></strong></p>
+<p style="font-size: 80%;">Join Nicole Morris '21 for a two show day of Lorraine Hansberry's explosive drama,&nbsp;<em>A Raisin in the Sun</em>!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/carlypost.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17854320283988320/" target="_blank">Carly Post '21</a></strong></p>
+<p style="font-size: 80%;">Join current student and <em>Fiddler on the Roof</em>‚s Carly Post '21 for an exciting behind the scenes look of life on tour and what it‚s like to work on this iconic production!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/jeremywenick.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17866992391530198/" target="_blank">Jeremy Wenick '23</a></strong></p>
+<p style="font-size: 80%;">Join <em>New Visions: After Hours</em> Ensemble member Jeremy Wenick '23 for an exciting look at the late-night feature of <em>Too Much Light Makes the Baby Go Blind</em>!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/liliannegering.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18112925605032121/" target="_blank">Lilianne Gering '21</a></strong></p>
+<p style="font-size: 80%;">Join choreographer &amp; dancer Lilianne Gering '21 all day&nbsp;as she takes you behind the scenes of <em>Moving Stories</em>,&nbsp;an innovative night of works by student choreographers!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/tommygedrich.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18067366783161782/" target="_blank">Tommy Gedrich '21</a></strong></p>
+<p style="font-size: 80%;">Join <em>Into the Woods</em> cast member Tommy Gedrich '21 for opening night of this highly anticipated production!&nbsp;Check out all the behind the scenes&nbsp;moments, big and small!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/mauraoreilly.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17845872643741882/"><strong>Maura O'Reilly '20</strong></a></p>
+<p style="font-size: 80%;">A look at our abroad program at the <strong><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/studyabroad.html">Royal Conservatoire of Scotland</a></strong> in Glasgow, Scotland, with Maura O'Reilly '20!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/alexandrarivers.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17855053741586646/">Alexandra Rivers '21</a></strong></p>
+<p style="font-size: 80%;">A look at our abroad program at the <strong><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/studyabroad.html">Theatre Academy London</a></strong> in London, England, with Alexandra Rivers '21!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/ryanestes.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/18004978312260631/"><strong>Ryan Estes '21</strong></a></p>
+<p style="font-size: 80%;">A look at our abroad program&nbsp;at the <strong><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/studyabroad.html">Accademia dell'Arte</a></strong> in Arezzo, Italy, with Ryan Estes '21!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/kerrysullivan.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><a href="https://www.instagram.com/stories/highlights/17872300315473488/"><strong>Kerry Sullivan '21</strong></a></p>
+<p style="font-size: 80%;">A look at our&nbsp;"abroad"&nbsp;program with <strong><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/studyabroad.html">Larry Singer Studios</a></strong> in New York, NY, with Kerry Sullivan '21!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/alaila&chrissy.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17972532133281199/" target="_blank">Alaila '22 &amp; Chrissy '22</a></strong></p>
+<p style="font-size: 80%;">Join Alaila '22 &amp; Chrissy '22 as they take you behind the scenes, and share what it takes to put together an important piece like&nbsp;the&nbsp;<strong><a href="/diversityproject/">Sedehi Diversity Project</a></strong>!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/margolibre.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17853745057484934/" target="_blank">Margo Libre '19</a></strong></p>
+<p style="font-size: 80%;">Join recent graduate Margo Libre while she takes&nbsp;over for&nbsp;opening night of SMT's&nbsp;<em>Anything Goes</em>! Stay tuned for what‚ll be an exciting day of ‚hijinks on the high seas!‚</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/nicoleamico.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17904256546340577/" target="_blank">Nicolette Amico '18</a></strong></p>
+<p style="font-size: 80%;">Join Nicollette Amico '18 on an exciting two-show day of SMT‚s <em>Bohemia</em>, a world premiere circus experience for all ages!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/ryanconnelly.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18047456005086845/" target="_blank">Ryan Connelly '19</a></strong></p>
+<p style="font-size: 80%;">Come along with recent graduate Ryan Connelly to celebrate the opening night of SMT's&nbsp;<em>Bring It On</em>! Hang out with Ryan and the whole&nbsp;team backstage for opening night!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/nachilederer.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17895961054312692/" target="_blank">Nachi Lederer '20</a></strong></p>
+<p style="font-size: 80%;">Nachi Lederer '20 takes over the Instagram tomorrow for the opening of <em>Fun Home</em> at Civic Theatre!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/hannahturner.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18041556601105851/" target="_blank">Hannah Turner '19</a></strong></p>
+<p style="font-size: 80%;">Hannah is one of the many actors involved in this weekend‚s directors festival, <em>Love &amp; the Law</em>: An Evening of Opera &amp; Musical Theatre! She catches up with different members of all three casts on opening night!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/alexgoshert copy.jpg" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18053948809058788/" target="_blank">Alex Goshert '20</a></strong></p>
+<p style="font-size: 80%;">Alex Goshert '20 will be taking over the Instagram all day tomorrow to celebrate the opening of <em>Dance Emerge</em> and tell you more about the life of a theatre and dance double major!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/frannysewell copy.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18024758698084173/" target="_blank">Franny Sewell '22</a></strong></p>
+<p style="font-size: 80%;">Franny Sewell '22 is a first-year student making her mainstage debut as a clown in <em>O War</em>! Follow her takeover for fight calls that‚ll enthrall and general backstage shenanigans!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/timjanovsky.png" alt="" style="     " /></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18028156447097196/" target="_blank">Tim Janovsky '19</a></strong></p>
+<p style="font-size: 80%;">Have you always wondered what it would be like to be in a one-man show? Follow Tim Janovsky '19 to celebrate the opening of <em>Buyer &amp; Cellar</em> at Civic Theatre!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="150"><a href="https://www.instagram.com/stories/highlights/17996467213137857/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Brigid Insta Small.png" alt="" style="     " /></a></td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17996467213137857/" target="_blank">Brigid Connery '20</a></strong></p>
+<p style="font-size: 80%;">Brigid, the assistant director of <em>O War</em>,&nbsp;takes over Instagram&nbsp;for a day of fight choreography, contact improv, and cake! See what the cast of&nbsp;<em>O War</em>&nbsp;has been up to in their week of boot camp!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p><a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDA0NjkwOTA5MTE0MDM3/?utm_source=ig_story_highlights_share&amp;igshid=lmqpuhns2jik" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Nick Insta Small.jpg" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDA0NjkwOTA5MTE0MDM3/?utm_source=ig_story_highlights_share&amp;igshid=lmqpuhns2jik" target="_blank">Nick Reit '19</a></strong></p>
+<p style="font-size: 80%;">Join Nick Reit and the cast of&nbsp;<em>Mr. Burns, A Post-Electric Play,</em>&nbsp;who came back to&nbsp;campus early, for a week-long rehearsal bootcamp. With just six weeks from first rehearsal to opening night, the cast has jumped right in to dramaturgical projects, music sessions, and choreography workshops.</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p><a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDA1MjM4ODUwMDExMjQx/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Ashley and Eliana Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18005238850011241/" target="_blank">Ashley Campbell&nbsp;'19 and Eliana Roseen '19</a></strong></p>
+<p style="font-size: 80%;">The cast of&nbsp;<em>Still Growing Up</em>, one&nbsp;of the student-directed plays in the New Voices/New Voices festival, take over the Instagram to celebrate a two-show day!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p><a href="https://www.instagram.com/stories/highlights/18004425277053402/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Maiya Website Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18004425277053402/" target="_blank">Maiya Urquhart '21</a></strong></p>
+<p style="font-size: 80%;">Explore the campus and peek into a final dress rehearsal of the student-directed play festival New Voices/New Voices, with Maiya, who plays Miriam in <em>The Repair Man</em>.</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p><a href="https://www.instagram.com/stories/highlights/18003385069006797/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Michael and Hanah Website Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/18003385069006797/" target="_blank">Hanah Gershkowitz '20 and Michael Civitano '20</a></strong></p>
+<p style="font-size: 80%;">A look at our <strong><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/studyabroad.html">study abroad program</a></strong> at the Accademia dell'Arte in Tuscany, Italy, with juniors Hanah and Michael studying there Fall '18.</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p><a href="https://www.instagram.com/stories/highlights/17992291756069513/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Olivia Website Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17992291756069513/" target="_blank">Olivia Garcia '20</a></strong></p>
+<p style="font-size: 80%;">A backstage look at tech rehearsal of the student choreographed dance concert, Moving Stories, with dancer Olivia Garcia!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p><a href="https://www.instagram.com/stories/highlights/17995231510041028/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Laura Website Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17995231510041028/" target="_blank">Laura Diorio '20</a></strong></p>
+<p style="font-size: 80%;">An exclusive look at our <strong><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/studyabroad.html">NYC Semester</a></strong> with Laura, where students live in the city and study at Larry Singer Studios.</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p style="text-align: center;"><a href="https://www.instagram.com/stories/highlights/17977997749111367/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Theresa Website Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17977997749111367/" target="_blank">Theresa Regan '21</a></strong></p>
+<p style="font-size: 80%;">Celebrating opening night of our fall '18 musical,&nbsp;<em>Brigadoon</em>, with vocal and dance ensemble member, Theresa!&nbsp;</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p><a href="https://www.instagram.com/stories/highlights/17860660300292941/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Jessie Website Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17860660300292941/" target="_blank">Jessie Keuhne '21</a></strong></p>
+<p style="font-size: 80%;">Behind-the-scenes of a full day of&nbsp;<em>Brigadoon&nbsp;</em>tech with actress Jessie who plays comedic lead, Meg Brockie!</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">
+<p style="text-align: center;"><a href="https://www.instagram.com/stories/highlights/17924694172167377/" target="_blank"><img src="/media/contentassets/images/theatreampdance/instagramtakeovers/Zach Website Insta Small.png" alt="" style="     " /></a></p>
+</td>
+<td style="text-align: left;">
+<p><strong><a href="https://www.instagram.com/stories/highlights/17924694172167377/" target="_blank">Zachary Spiegel '11</a></strong></p>
+<p style="font-size: 80%;">Alum Zachary Spiegel returns to Muhlenberg Summer Music Theatre to play Lumiere in&nbsp;<em>Beauty and the Beast</em>!</p>
+</td>
+</tr>
+</tbody>
+</table></div>
+
+</div>
+</div>
+		<!-- Topic Block -->
+		    <div class="fs-row">
+			    <div class="fs-cell fs-lg-8">
+				    <div class="topic_block">
+					    <div class="topics"><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/theatreampdance/newheaderimages/video link img dance.jpg" alt="Image for Dance Program Video Profile" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Dance Program Video Profile</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Get to know Muhlenberg's award-winning Dance Program! Students and alumni share their stories against a backdrop of performance clips and behind-the-scenes footage </p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/academics/theatre-dance/thedanceprogram/meetourdancers/videointroducingthedanceprogram/">
+															<span class="topic_link_label">CHECK IT OUT</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/theatreampdance/newheaderimages/video link img dance perf.jpg" alt="Image for Muhlenberg Dance Performance Video" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Muhlenberg Dance Performance Video</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>See Muhlenberg dancers in action! Highlights of some past Muhlenberg Mainstage dance concerts.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/academics/theatre-dance/thedanceprogram/meetourdancers/videomuhlenbergdanceperformance/">
+															<span class="topic_link_label">WATCH NOW!</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/theatreampdance/images/Senior Showcase highlights web.jpg" alt="Image for Senior Showcase Highlights" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Senior Showcase Highlights</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Watch highlights of the Spring 2021 Senior Showcase concert</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/academics/theatre-dance/thedanceprogram/meetourdancers/videoseniorshowcasehighlights/">
+															<span class="topic_link_label">WATCH NOW!</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article>						</div>
+                    </div>
+                </div>
+             </div><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+<hr style="width:100%; color:black; background-color:black; height:4px; margin-top:18px; border-width:0;">
+<h2>Want to Know More?</h2>
+<p>Thank you for your interest in Muhlenberg College. This form is for prospective students to request additional information about the Theatre & Dance Department.</p>
+<p> Performance Patrons: to sign up for the mailing list, or to request information other than prospective student info, please the <a href="https://www.muhlenberg.edu/academics/theatre-dance/onstage/mainstage.html">See a Show</a> page, and click Mailing List Signup in the sidebar menu.</p>
+<div id="form_a438cf81-b313-4a7f-9d2a-d3fd16547009">Loading...</div><script async="async" src="https://admissions.muhlenberg.edu/register/?id=a438cf81-b313-4a7f-9d2a-d3fd16547009&output=embed&div=form_a438cf81-b313-4a7f-9d2a-d3fd16547009">/**/</script>
+
+</div>
+</div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

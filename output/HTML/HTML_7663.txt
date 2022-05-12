@@ -1,0 +1,3129 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>PA 2020 Post-Election Poll | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="PA 2020 Post-Election Poll">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/about/polling/Polling-Header2.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/">Archived Polls</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/pa2020post-electionpoll/">PA 2020 Post-Election Poll</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">PA 2020 Post-Election Poll</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","500px":"/media/contentassets/images/about/polling/Polling-Header1.jpg","740px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","980px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","1220px":"/media/contentassets/images/about/polling/Polling-Header2.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","500px":"/media/contentassets/images/about/polling/Polling-Header1.jpg","740px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","980px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","1220px":"/media/contentassets/images/about/polling/Polling-Header2.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_1">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/">Archived Polls</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/pa2020post-electionpoll/">PA 2020 Post-Election Poll</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">PA 2020 Post-Election Poll</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="PA 2020 Post-Election Poll">
+							<span class="sub_nav_handle_label">PA 2020 Post-Election Poll</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/aboutus/polling/about/">About</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></span></li><li class="sub_nav_item"><a href="/aboutus/polling/climateenvironmentsurveys/">Climate &amp; Environment Surveys</a></li><li class="sub_nav_item"><a href="/aboutus/polling/publichealthpolicysurveys/">Public Health &amp; Policy Surveys</a></li><li class="sub_nav_item"><a href="/aboutus/polling/facultystaff/">Faculty &amp; Staff</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/">Archived Polls</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/pa2020post-electionpoll/">PA 2020 Post-Election Poll</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Muhlenberg College Pennsylvania 2020 Post-Election Poll: January 2021
+</h2>
+  <p><strong>Survey Overview<br></strong>The following report and findings are drawn from a survey of 406 Pennsylvanians who participated in the 2020 general election. The survey was fielded by phone in December of 2020, about one month after the election took place.</p>
+<hr>
+<p><strong>PDF -&nbsp;<a href="/media/contentassets/pdf/about/polling/surveys/pennsylvania/PPEPP KEY FINDINGS REPORT (2).pdf">Muhlenberg College Pennsylvania 2020 Post-Election Poll: January 2021</a></strong></p>
+<hr>
+<p><strong>Key Findings</strong></p>
+<ol>
+<li>About 1 in 3 Pennsylvanians who voted in the 2020 general election indicated that they were <em>not at all confident</em> that the final results of the election accurately reflected how Pennsylvanians voted in the November election.<br><img src="/media/contentassets/images/newscenter/2020 Post-Election Poll 1S.jpg" alt="" style="     " /><br><br></li>
+<li><span style="font-weight: 400;">2020 voters in the Keystone State are highly divided on potential limiting of the use of mail ballots in future elections, with 51% disagreeing with limiting this method of voting, and 47% agreeing that limits to mail voting should be put in place.<br><img src="/media/contentassets/images/newscenter/2020 Post-Election Poll 2S.jpg" alt="" style="     " /><br></span></li>
+<li><span style="font-weight: 400;">While most Republicans (59%) identified voting fraud as the biggest threat to Pennsylvania having a safe, secure and accurate election in 2020, a plurality of Democrats (46%) identified voter suppression as the biggest threat to legitimate elections.<br><img src="/media/contentassets/images/newscenter/2020 Post-Election Poll 3S.jpg" alt="" style="     " /><br></span></li>
+<li><span style="font-weight: 400;">A majority (53%) of 2020 Pennsylvania voters indicated that they distrust President Trump, with almost half (47%) of the November electorate strongly distrusting the nation‚s 45th President.</span></li>
+<li><span style="font-weight: 400;">Men were more likely to vote in person compared to women, with 73% of men and 57% of women reporting that they voted in person on Election Day.</span></li>
+<li><span style="font-weight: 400;">Mail-in voters expressed significantly greater confidence in both overall electoral fairness and confidence in the final results of the election. Whereas 84% of in-person voters said they were somewhat or very confident in the final results of the PA election, just over 40% of in-person voters said the same.&nbsp;</span></li>
+<li><span style="font-weight: 400;">More than 87% of mail-in voters said they were somewhat or very confident that elections in PA were conducted in a fair way; only about 22% of in-person voters expressed similar confidence.&nbsp; In-person voters expressed less confidence in the results of the election, less confidence in county election officials, greater concern that there was widespread fraud, and less support for the use of mail-in ballots in the future.</span></li>
+<li><span style="font-weight: 400;">Notably, there are fewer reported differences between mail-in and in-person voters when it comes to respondents‚ perceptions about inaccurate counting of ballots. About 48% of in-person voters and 39% of mail-in voters somewhat or strongly agreed that not counting legitimate ballots was a significant problem in the 2020 elections.</span></li>
+<li><span style="font-weight: 400;">As expected, gender played a major role in the 2002 elections in Pennsylvania, with men reporting higher favorability ratings for Trump and the Republican Party, while women reported higher favorability toward Biden and the Democratic Party.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pennsylvania voters were strongly divided on an array of election related matters, with the highest percentages of responses to the survey questions being found at one or the other extreme. This was especially true in regard to the questions about whether social media outlets violate First Amendment rights, and whether Donald Trump weakened the legitimacy of the electoral process during his term in office.</span></li>
+<li><span style="font-weight: 400;">About 2 in 3 voters strongly believe that the spread of fake news and misinformation on the internet is a serious threat to democracy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li><span style="font-weight: 400;">A slight majority of voters without a 4 year degree believe that election fraud was less of an issue than legitimate ballots not being counted, while only 38% of voters with a 4 year degree believe the same.&nbsp;</span></li>
+<li><span style="font-weight: 400;">There is a slight, but statistically significant, difference between the view of misinformation on the internet between voters with bachelor degrees and those without. 90% of those without bachelor degrees believe misinformation via the internet is a threat to our democracy, while 85% of those with a bachelor degree maintain the same position. Only 6% of voters without a bachelor degree disagree with the premise that misinformation is a serious threat, while 12% of those with a bachelor degree believe the same.</span></li>
+<li><span style="font-weight: 400;">A slight minority (44%) of voters with a bachelor degree believe that social media companies violate a user‚s First Amendment rights when they ban users, while a majority (56%) of voters without a bachelor degree agree.</span></li>
+<li><span style="font-weight: 400;">Confidence in the result of the election was greatly different with respect to educational backgrounds. A majority of voters with a bachelor's degree (72%) were confident that the results of the election were accurate, while a majority of voters without a degree were (51%) not confident in the accuracy of the results.&nbsp;</span></li>
+<li><span style="font-weight: 400;">A majority of 2020 voters with a 4 year degree (64%) believe that President Trump weakened the legitimacy of the electoral process during his term in office, while only 37% of voters without a bachelor degree agree.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Despite its recent prominence across the United States, the Black Lives Matter Movement remains a highly partisan issue in Pennsylvania. 81% of Democrat respondents held a favorable opinion concerning the movement, while 71% of Republicans had an unfavorable opinion. Also worth noting is that among independent voters, 54% favored BLM to some degree, while only 25% viewed it unfavorably.&nbsp;</span></li>
+<li><span style="font-weight: 400;">While there are some partisan divisions in regards to trust in the U.S. Supreme Court, perceptions of this institution are less partisan in relation to other issues and institutions. A majority of Democrats, Republicans and independent voters trust (either strongly or somewhat) the SCOTUS.</span></li>
+<li><span style="font-weight: 400;">Despite the fact that the court systems have become more more politicized in recent years, a majority of Democrats. Republicans, and Independents still trust the highest court in Pennsylvania. However, Republicans are significantly more likely to distrust the court.</span></li>
+<li>A Majority of Republicans (68%) do not have any confidence in the accuracy of the election while 82% of Democrats and 56% of Independents are very confident the results were accurate.&nbsp;</li>
+</ol>
+<hr>
+<p><strong>Methodological Statement<br></strong><sub><strong><span style="font-weight: 400;">The following report contains the results of a telephone survey of (406) 2020 general election voters in the Commonwealth of Pennsylvania between December 8 and 16, 2020</span><strong>.</strong><span style="font-weight: 400;">&nbsp; Respondents were interviewed in English on both landlines (113) and cell phones (293). With a randomly selected sample of respondents the margin of error for the surveys is +/- 5.5% at a 95% level of confidence</span><strong>. </strong><span style="font-weight: 400;">Margins of error for questions with smaller sample size will be larger</span><strong>.</strong><span style="font-weight: 400;"> In addition to sampling error, one should consider that question wording and other fielding issues can introduce error or bias into survey results. Interviewing was conducted by Communication Concepts of Easton, Pennsylvania under protocols established by the <a href="/aboutus/polling/">Muhlenberg College Institute of Public Opinion</a> (MCIPO). The data has been weighted to gender, age, party registration, race, educational attainment and 20202 general election voting results to reflect voter population parameters. The calculation of sampling error takes into account design effects due to the weighting identified above</span><strong>.</strong><span style="font-weight: 400;">&nbsp;In order to reach a representative sample of registered voters both landlines and cell phones were called up to 3 times. The sampling frame for the study is from the registered voters files of the Commonwealth of Pennsylvania. </span><span style="font-weight: 400;">Only voters who indicated that they voted in the 2020 election were included in the sample.&nbsp;</span><span style="font-weight: 400;">Due to rounding the totals provided in the frequency report may not total 100%. The survey instrument (presented in its entirety below) was designed by members of the Muhlenberg College Pennsylvania Post-Election Poll Project (PPEPP), which is a partnership of the Political Science Department of Muhlenberg College and the MCIPO. The survey was funded by Muhlenberg College and a grant from the Mellon Foundation</span><strong>.</strong><span style="font-weight: 400;">&nbsp;<span>For more detailed information on the methods employed, please contact the MCIPO at 484-664-3444 or email&nbsp;Christopher Borick, director of the MCIPO,&nbsp;at&nbsp;</span><a href="mailto:cborick@muhlenberg.edu">cborick@muhlenberg.edu</a><span>.</span></span></strong></sub></p>
+<hr>
+<p><strong>2020 PENNSYLVANIA POST-ELECTION SURVEY</strong></p>
+<p><strong>INSTRUMENT and FREQUENCY REPORT&nbsp;</strong></p>
+<p><span style="font-weight: 400;">Q1: Thank you. Which of the following categories best describes your current voting registration status?&nbsp; Are you registered as a: (READ LIST)</span><span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span> <span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Democrat‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.. 45%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></li>
+<li><span style="font-weight: 400;">Republican‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶... 44%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></li>
+<li><span style="font-weight: 400;">Independent‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&nbsp; 9%&nbsp;</span></li>
+<li>Other Party‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶&nbsp; 3%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li><span style="font-weight: 400;">Not Registered to Vote in Pennsylvania (END SURVEY)</span></li>
+<li>Not Sure (Volunteered) (END SURVEY)</li>
+</ul>
+<p><span>Next, we have a few questions about your level of confidence in the 2020 electoral process in Pennsylvania. For each aspect of the election process that I mention, tell me if you are very confident, somewhat confident, not too confident or not confident at all with the aspect mentioned. First how confident are you: (ROTATE OPTIONS)</span></p>
+<table>
+<tbody>
+<tr>
+<td colspan="2"><br><br></td>
+<td>
+<p><span>Very Confident</span></p>
+</td>
+<td>
+<p><span>Somewhat Confident</span></p>
+</td>
+<td>
+<p><span>Not Too Confident</span></p>
+</td>
+<td>
+<p><span>Not Confident At All</span></p>
+</td>
+<td>
+<p><span>Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2"><br>
+<p><span>Q2: That the final results of the election accurately reflected how Pennsylvanians voted.</span></p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><span>49%</span></p>
+</td>
+<td>
+<p><span>8%</span></p>
+</td>
+<td>
+<p><span>6%</span></p>
+</td>
+<td>
+<p><span>34%</span></p>
+</td>
+<td>
+<p><span>3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q3: That elections in Pennsylvania were conducted in a fair way.</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>49%</span></p>
+</td>
+<td>
+<p><span>11%</span></p>
+</td>
+<td>
+<p><span>9%</span></p>
+</td>
+<td>
+<p><span>31%</span></p>
+</td>
+<td>
+<p><span>1%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q4 : That Joe Biden received the most votes in the presidential election in Pennsylvania.</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>52%</span></p>
+</td>
+<td>
+<p><span>7%</span></p>
+</td>
+<td>
+<p><span>9%</span></p>
+</td>
+<td>
+<p><span>30%</span></p>
+</td>
+<td>
+<p><span>3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q5: That there was widespread election fraud in the 2020 Presidential Election in Pennsylvania.</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>31%</span></p>
+</td>
+<td>
+<p><span>10%</span></p>
+</td>
+<td>
+<p><span>7%</span></p>
+</td>
+<td>
+<p><span>50%</span></p>
+</td>
+<td>
+<p><span>2%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span>Next, I have some questions regarding your level of trust with some officials and institutions in the United States.&nbsp; For each institution and official please indicate if you strongly trust, somewhat trust, somewhat distrust, or strongly distrust the institution or individual. First: (ROTATE OPTIONS)</span></p>
+<table>
+<tbody>
+<tr>
+<td colspan="2">&nbsp;</td>
+<td>
+<p><span>Strongly Trust</span></p>
+</td>
+<td>
+<p><span>Somewhat Trust</span></p>
+</td>
+<td>
+<p><span>Somewhat Distrust</span></p>
+</td>
+<td>
+<p><span>Strongly Distrust</span></p>
+</td>
+<td>
+<p><span>Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2"><br>
+<p><span>Q6: President Trump</span></p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><span>35%</span></p>
+</td>
+<td>
+<p><span>12%</span></p>
+</td>
+<td>
+<p><span>6%</span></p>
+</td>
+<td>
+<p><span>47%</span></p>
+</td>
+<td>
+<p><span>&lt;1%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q7: Governor Wolf</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>24%</span></p>
+</td>
+<td>
+<p><span>28%</span></p>
+</td>
+<td>
+<p><span>8%</span></p>
+</td>
+<td>
+<p><span>31%</span></p>
+</td>
+<td>
+<p><span>9%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q8: County Election Officials</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>30%</span></p>
+</td>
+<td>
+<p><span>34%</span></p>
+</td>
+<td>
+<p><span>6%</span></p>
+</td>
+<td>
+<p><span>8%</span></p>
+</td>
+<td>
+<p><span>23%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q9: The U.S. Supreme Court</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>28%</span></p>
+</td>
+<td>
+<p><span>41%</span></p>
+</td>
+<td>
+<p><span>13%</span></p>
+</td>
+<td>
+<p><span>5%</span></p>
+</td>
+<td>
+<p><span>14%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q10: The Pennsylvania Supreme Court</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>19%</span></p>
+</td>
+<td>
+<p><span>36%</span></p>
+</td>
+<td>
+<p><span>9%</span></p>
+</td>
+<td>
+<p><span>14%</span></p>
+</td>
+<td>
+<p><span>24%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span>Next, for the following list of people and things that I mention, please let me know if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of the person or thing I mention. First: (ROTATE OPTIONS)</span></p>
+<table style="height: 278px; width: 584px;">
+<tbody>
+<tr>
+<td colspan="2">&nbsp;</td>
+<td>
+<p><span>Very Favorable</span></p>
+</td>
+<td>
+<p><span>Somewhat Favorable</span></p>
+</td>
+<td>
+<p><span>Somewhat Unfavorable</span></p>
+</td>
+<td>
+<p><span>Very<br></span>Unfavorable</p>
+</td>
+<td>
+<p><span>Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">
+<p><span>Q11: The Black Lives Matter Movement</span></p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><span>31%</span></p>
+</td>
+<td>
+<p><span>20%</span></p>
+</td>
+<td>
+<p><span>9%</span></p>
+</td>
+<td>
+<p><span>31%</span></p>
+</td>
+<td>
+<p><span>10%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q12: The Democratic Party</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>22%</span></p>
+</td>
+<td>
+<p><span>27%</span></p>
+</td>
+<td>
+<p><span>11%</span></p>
+</td>
+<td>
+<p><span>35%</span></p>
+</td>
+<td>
+<p><span>5%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q13: The Republican Party</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>22%</span></p>
+</td>
+<td>
+<p><span>26%</span></p>
+</td>
+<td>
+<p><span>16%</span></p>
+</td>
+<td>
+<p><span>32%</span></p>
+</td>
+<td>
+<p><span>4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q14: Donald Trump</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>34%</span></p>
+</td>
+<td>
+<p><span>10%</span></p>
+</td>
+<td>
+<p><span>7%</span></p>
+</td>
+<td>
+<p><span>48%</span></p>
+</td>
+<td>
+<p><span>1%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span>Q15: Joe Biden</span></p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span>29%</span></p>
+</td>
+<td>
+<p><span>23%</span></p>
+</td>
+<td>
+<p><span>8%</span></p>
+</td>
+<td>
+<p><span>36%</span></p>
+</td>
+<td>
+<p><span>3%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="font-weight: 400;">Q16. </span></strong>Which of the following do you think was the biggest threat to Pennsylvania having a safe, secure and accurate election in 2020? (ROTATE OPTIONS)</p>
+<ul>
+<li>Foreign interference in the election‚¶‚¶‚¶....5%</li>
+<li>Voting machines malfunctioning‚¶‚¶‚¶‚¶......5%</li>
+<li>Voter fraud‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶............33%</li>
+<li>Suppression of individuals from voting‚¶‚¶ 30%</li>
+<li>Other factor (Volunteered)‚¶‚¶‚¶‚¶‚¶‚¶‚¶......13%</li>
+<li>Not Sure‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...............15%<span style="font-weight: 400;"></span></li>
+</ul>
+<p>Next I‚m going to read you a few statements.&nbsp; For each statement I read tell me if you strongly agree, somewhat agree, somewhat disagree or strongly disagree with the statement: First:</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Agree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Agree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Disagree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Disagree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Q17: Most </span><span style="font-weight: 400;">media platforms treated President Trump fairly throughout his term.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">27%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">41%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Q18:&nbsp; Pennsylvania should limit the use of mail ballots in future elections.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">38%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">40%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Q19: </span><span style="font-weight: 400;">Social media companies violate users‚ First Amendment rights when they ban users based on the content of their posts.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">29%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">22%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">13%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">20%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">16%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Q20: </span><span style="font-weight: 400;">The spread of fake news and misinformation on the internet is a serious threat to our democracy.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">68%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">19%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Q21: </span><span style="font-weight: 400;">President Trump weakened the legitimacy of the electoral process during his term in office.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">34%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">34%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Q22: Not counting legitimate ballots was more of a problem in 2020 in Pennsylvania than any election fraud.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">23%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">22%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">12%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">25%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Q23:&nbsp; In the 2020 election did you vote in person at a polling station, or vote by mail?<sub><strong><span style="font-weight: 400;"><span><strong><strong><br></strong></strong></span></span></strong></sub></p>
+<ul>
+<li>Vote in Person‚¶‚¶..65%</li>
+<li>Vote by Mail‚¶‚¶‚¶‚¶35%</li>
+</ul>
+<p>Q24:&nbsp; Which of the following best describes your activity in the 2020 Presidential Election?&nbsp; Did you vote for:</p>
+<ul>
+<li><span style="font-weight: 400;">Donald Trump‚¶‚¶‚¶‚¶‚¶‚¶.49%</span></li>
+<li><span style="font-weight: 400;">Joe Biden‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶50%</span></li>
+<li>Some other candidate‚¶‚¶2%</li>
+</ul>
+<p><span style="font-weight: 400;">Q25: Finally, I have a few questions about yourself. Which of the following categories best describes your racial identity?&nbsp; Are you (READ LIST)?</span></p>
+<ul>
+<li>White/Caucasian‚¶‚¶.80%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li>African-American‚¶‚¶10%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li><span style="font-weight: 400;"> Hispanic ‚¶‚¶‚¶‚¶‚¶‚¶....4% &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span> <span style="font-weight: 400;"></span></li>
+<li>Latino‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶....1%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li><span style="font-weight: 400;"> Asian‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.....1%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li>Native American ‚¶‚¶&lt;1%</li>
+<li>Mixed race‚¶‚¶‚¶‚¶‚¶‚¶. 2%</li>
+<li>or other&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶&nbsp; &nbsp; 1% &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span> <span>&nbsp; &nbsp; </span><span style="font-weight: 400;">&nbsp;&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Q26: Which of the following categories best describes your religious affiliation?&nbsp; Are you (READ LIST)?</span>&nbsp; &nbsp; &nbsp;</p>
+<ul>
+<li>Catholic ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.26%&nbsp;</li>
+<li><span style="font-weight: 400;"> Protestant ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶41%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span> <span style="font-weight: 400;"></span></li>
+<li><span style="font-weight: 400;"> Jewish ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...2%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li>Muslim ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶1%</li>
+<li>Hindu &nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶&lt;1%</li>
+<li>Other Religion (including agnostic)‚¶‚¶. 21%</li>
+<li>or Atheist&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..6%</li>
+<li>Not Sure (Volunteered)‚¶‚¶‚¶.3%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp;</li>
+</ul>
+<p><span style="font-weight: 400;">Q27: What is your highest level of education? (READ LIST)</span></p>
+<ul>
+<li><span style="font-weight: 400;">Less than High School&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶..</span><span style="font-weight: 400;">4%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li>High School Graduate&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶.. .31%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
+<li><span style="font-weight: 400;"> Some college or technical school‚¶..23%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li>College graduate (4 year only)‚¶‚¶‚¶27%&nbsp; &nbsp; &nbsp;</li>
+<li><span style="font-weight: 400;"> Graduate or Professional Degree‚¶‚¶14%</span></li>
+<li>Not Sure‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶........&lt;1%<span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Q28: Which of the following categories best describes your family income? Is it (READ LIST)?</span></p>
+<ul>
+<li><span>Under $20,000 ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...11%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li>$20,000-$40,000&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 14%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li><span style="font-weight: 400;"> $40,000-$60,000&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 15%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
+<li>$60,000-$80,000&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶ 14%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li><span style="font-weight: 400;"> $80,000-$100,000 ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶12%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span> <span style="font-weight: 400;"></span></li>
+<li>Over $100,000&nbsp; ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶...28%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li><span style="font-weight: 400;"> Not Sure (Volunteered) ‚¶‚¶‚¶‚¶‚¶‚¶...7%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Q29: Which of the following categories does your current age fall in? Is it (READ LIST)?</span></p>
+<ul>
+<li>18-34‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..21%&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></li>
+<li><span style="font-weight: 400;">35-50‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶..</span><span style="font-weight: 400;">24%</span></li>
+<li><span>51-64 ‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.28%&nbsp;&nbsp;</span></li>
+<li><span style="font-weight: 400;"> 65- and over‚¶‚¶‚¶‚¶‚¶‚¶‚¶..27%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;"></span></li>
+</ul>
+<p>Q30:&nbsp; Finally, to which gender identity do you most identify? (READ LIST)</p>
+<ul>
+<li><span style="font-weight: 400;">Male‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.48%</span></li>
+<li>Female‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶52%</li>
+<li><span style="font-weight: 400;"></span> <span style="font-weight: 400;">Transgender Male‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶&lt;1%</span></li>
+<li>Transgender Female‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶‚¶.&lt;1%</li>
+<li><span style="font-weight: 400;"></span> <span style="font-weight: 400;">Or you do not identify as male, female or transgender‚¶‚¶&lt;1%</span><sub><strong><span style="font-weight: 400;"><span><strong><strong><br></strong></strong></span></span></strong></sub></li>
+</ul>
+<p><strong>SELECTED CROSSTABS</strong></p>
+<p><span style="font-weight: 400;">‚The final results of the election accurately reflected how Pennsylvanians voted.‚</span></p>
+<table style="height: 719px; width: 578px;">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Very Confident</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Confident</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Too<br></span>Confident</p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Confident at All</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>OVERALL</strong></p>
+</td>
+<td>
+<p><strong>49%</strong></p>
+</td>
+<td>
+<p><strong>8%</strong></p>
+</td>
+<td>
+<p><strong>6%</strong></p>
+</td>
+<td>
+<p><strong>34%</strong></p>
+</td>
+<td>
+<p><strong>3%</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Female</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">54%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">29%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Male</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">43%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">40%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Democrat</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">82%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Republican</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">68%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Independent</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">56%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">0%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">25%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">College Degree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">65%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">19%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">No College Degree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">37%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">45%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">White</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">43%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">40%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Non White</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">73%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Trump Voter</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">12%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">69%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Biden Voter</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">88%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">18-34</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">58%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">15%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">35-50</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">48%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">33%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">51-64</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">47%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">42%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">65 and Over</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">46%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">39%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">‚Which of the following do you think was the biggest threat to Pennsylvania having a safe, secure and accurate election in 2020?‚&nbsp;</span></p>
+<table style="height: 736px; width: 581px;">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Foreign Interference in the Election</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Voting Machines Malfunctioning</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Voter Fraud</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Suppression of Individuals from Voting</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Other Factor</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>OVERALL</strong></p>
+</td>
+<td>
+<p><strong>5%</strong></p>
+</td>
+<td>
+<p><strong>5%</strong></p>
+</td>
+<td>
+<p><strong>33%</strong></p>
+</td>
+<td>
+<p><strong>30%</strong></p>
+</td>
+<td>
+<p><strong>13%</strong></p>
+</td>
+<td>
+<p><strong>15%</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Female</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">30%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">35%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">19%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Male</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">37%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">23%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">16%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Democrat</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">46%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">13%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">23%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Republican</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">59%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">13%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Independent</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">0%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">33%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">36%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">College Degree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">21%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">41%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">No College Degree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">41%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">22%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">White</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">37%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">26%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">13%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">13%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Non White</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">43%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">12%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">21%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Trump Voter</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">62%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Biden Voter</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">48%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">22%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">18-34</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">24%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">47%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">35-50</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">33%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">33%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">13%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">51-64</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">37%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">26%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">65 and over</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">35%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">12%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">27%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>‚The spread of fake news and misinformation on the internet is a serious threat to our democracy.‚&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Agree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Agree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Disagree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Disagree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>OVERALL</strong></p>
+</td>
+<td>
+<p><strong>68%</strong></p>
+</td>
+<td>
+<p><strong>19%</strong></p>
+</td>
+<td>
+<p><strong>5%</strong></p>
+</td>
+<td>
+<p><strong>4%</strong></p>
+</td>
+<td>
+<p><strong>4%</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Female</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">67%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Male</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">68%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">21%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Democrat</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">60%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">22%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Republican</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">73%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Independent</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">76%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">College Degree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">65%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">21%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">No College Degree</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">70%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">19%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">White</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">73%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Non White</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">48%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">28%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Trump Voter</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">76%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">16%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Biden Voter</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">61%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">21%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">18-34</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">66%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">35-50</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">68%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">20%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">51-64</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">61%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">28%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">65 and over</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">75%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">12%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">4%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Favorability of the Black Lives Matter Movement in Relation to the Party Affiliation of Respondents:</p>
+<table>
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Very Favorable</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Favorable</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Unfavorable</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Very Unfavorable</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>OVERALL</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">31%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">20%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">31%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Democrat</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">59%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">22%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Republican</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">15%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">57%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Independent</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">30%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">24%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">24%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">19%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Trust in the U.S. Supreme Court in Relation to Party Affiliation:</p>
+<table style="height: 286px; width: 503px;">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Trust</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat<br></span>Trust</p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat<br></span>Distrust</p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Distrust</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>OVERALL</strong></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">30%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">41%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">12%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Democrat</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">23%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">49%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Republican</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">32%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">36%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">10%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">5%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">18%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Independent</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">42%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">28%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">3%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">11%</span></p>
+</td>
+<td><br>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Trust in the Pennsylvania Supreme Court in Relation to Party Affiliation:</p>
+<table>
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Trust</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Trust</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Somewhat Distrust</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Strongly Distrust</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Not Sure</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>OVERALL</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">19%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">36%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">9%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">14%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">24%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Democrat</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">29%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">43%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">7%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">19%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Republican</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">8%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">28%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">12%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">24%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">27%</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Independent</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">17%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">33%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">0%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">25%</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">25%</span></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">Contact Us</span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Institute of Public Opinion</span>
+													</h2>
+													
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:pollinginstitute@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">pollinginstitute@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3066 ">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3066 </span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">Political Science</span>
+														
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

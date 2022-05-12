@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Meet the Board | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Meet the Board">
+  
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/alumni/">Alumni &amp; Friends</a></li><li class="linkitem"><a href="/alumni/volunteer/">Volunteer</a></li><li class="linkitem"><a href="/alumni/volunteer/boardcouncilservice/">Board &amp; Council Service</a></li><li class="linkitem"><a href="/alumni/volunteer/boardcouncilservice/alumniboard/">Alumni Board</a></li><li class="linkitem"><a href="/alumni/volunteer/boardcouncilservice/alumniboard/meettheboard/">Meet the Board</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Meet the Board</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Meet the Board">
+							<span class="sub_nav_handle_label">Meet the Board</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/alumni/volunteer/boardcouncilservice/alumniboard/meettheboard/standingcommittees/">Standing Committees</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/alumni/">Alumni &amp; Friends</a></li><li class="linkitem"><a href="/alumni/volunteer/">Volunteer</a></li><li class="linkitem"><a href="/alumni/volunteer/boardcouncilservice/">Board &amp; Council Service</a></li><li class="linkitem"><a href="/alumni/volunteer/boardcouncilservice/alumniboard/">Alumni Board</a></li><li class="linkitem"><a href="/alumni/volunteer/boardcouncilservice/alumniboard/meettheboard/">Meet the Board</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong>Executive Board Executive Officers</strong></h3>
+<h5><strong>Carol Ekizian Papazian ‚79, President</strong></h5>
+<p><img src="/media/contentassets/images/alumni/unnamed-1-157x157.jpg" alt="" style="     " /></p>
+<p><span>Carol is a member of the Class of 1979 and graduated cum laude with a double major in Humanities (self-designed) and Art. She was a member of the College Choir, the Drama Club, the Cardinal Key Society and Class Council.&nbsp; Carol has served on each of her Reunion Committees and is in her third term on the Alumni Board, serving her second year as president. She is a member of the<span>&nbsp;</span></span><span>Henry Melchior Muhlenberg Society.</span></p>
+<p><span><span>Carol received an M.A. in Communication from Temple University and her expertise is in Marketing Communication and Brand Positioning.&nbsp; She has held leadership and executive positions in advertising and marketing functional areas and has worked for Young &amp; Rubicam and for AT&amp;T. Carol holds two US Patents for product innovation.</span></span></p>
+<p class=""><span>More recently, Carol extended her marketing leadership into the field of Education. She served as Communications Director for the Readington Township Public Schools. As an Adjunct Professor at Raritan Valley Community College, she taught Public Speaking and Public Relations and initiated and developed Service Learning partnerships with business leaders, trade specialists, career services and the local community. She has been cited for ‚best practices‚ and has conducted faculty workshops and presented in non-profit symposiums. Carol‚s company ‚What Next ‚ Life Strategies for Young Adults.‚ provides mentorship for young adults to market and position themselves for career and personal success. Carol has held volunteer leadership roles in community, civic and religious organizations.</span></p>
+<p><span><span><span>Carol and her husband John live in Whitehouse Station, NJ.</span></span></span></p>
+<hr>
+<p><strong>Michael Yellin '05, Vice President<br></strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-4-157x157.jpg" alt="" style="     " /></p>
+<p>Mike earned his undergraduate degree from Muhlenberg College in 2005,&nbsp;<em>cum laude</em>, with honors in Political Science. While at Muhlenberg, Mike was an active member of the community, serving on the Student Government all four years, including as Student Body President during his senior year. During his tenure at the College, Mike was also a Campus Tour Guide, Resident Advisor, member of the Sigma Phi Epsilon fraternity, and Frisbee golf fanatic.</p>
+<p>After graduation, Mike earned his&nbsp;<em>juris doctorate</em>&nbsp;from Seton Hall University School of Law, where he served as Student Bar Association President during his third year. Michael has spent his professional career as an attorney with Cole Schotz P.C., where he was recently named a Partner, focusing his practice on the acquisition and sale of distressed properties and debt, partnership disputes, commercial real estate litigation, project development, asset disposition, foreclosures, and bankruptcy-related workouts and restructuring.</p>
+<p>Since joining the Alumni Board in 2015, Mike has served on the Career Services Committee. Mike has also served on his reunion committee and been an active member of the Northern New Jersey Alumni Club.&nbsp;</p>
+<hr>
+<p><strong>Dawn Everett Lezon ‚87, Secretary<br></strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-3-157x157.jpg" alt="" style="     " />&nbsp;</p>
+<p class=""><span>Dawn is a member of the Class of 1987. She graduated<span>&nbsp;</span></span><span><em>magna cum laude<span>&nbsp;</span></em>with a major in&nbsp;Accounting and a minor in Information Systems. At Muhlenberg, she was a member of the&nbsp;Dance Club, and taught aerobics classes weekly at the fitness center. Dawn also ran a calculus&nbsp;workshop to provide tutoring and studying assistance to students. She is serving her fourth term on the Alumni Board, currently as Secretary, and is a member of the Henry Melchior Muhlenberg Society.</span></p>
+<p class=""><span>Dawn is a CPA and received an MBA in Finance from Stern School of Business, NYU. She is currently the Director of Accounting Programs at Monroe College in NY where she has found immense satisfaction sharing her passion for accounting with young, aspiring professionals. Previously she spent 30 years as an accounting professional, most recently as the Head of Finance at The Investment Fund for Foundations, a not-for-profit organization that provides investment services to endowed non-profits.&nbsp;</span></p>
+<p class=""><span>Dawn and her husband Steven recently moved to Stamford, CT. Their son, Thomas, graduated from Lebanon Valley College and daughter, Rebecca, is currently attending James Madison University.</span></p>
+<hr>
+<p><strong>Bret Kobler '94, Treasurer<br></strong></p>
+<p><strong><img src="/media/contentassets/images/alumni/unnamed-17.jpg" alt="" style="     " /></strong></p>
+<p class=""><span>Bret earned his degree from Muhlenberg College in 1994, magna cum laude, with a double major in Business Administration and Spanish.&nbsp; While at Muhlenberg, Bret was inducted into Phi Sigma Iota, the Foreign Language Honor Society, and Omicron Delta Epsilon, the International Honor Society for Economics. He was a Peer Tutor and Freshman Advisor.</span></p>
+<p class=""><span>Bret is his Class Fund Chair and has served on each of his reunion committees. He is a member of the&nbsp;Henry Melchior Muhlenberg Society.</span></p>
+<p class=""><span>Bret is currently a Corporate Vice President in Learning &amp; Development at Eagle Strategies, LLC, a Registered Investment Adviser and wholly-owned subsidiary of The New York Life Company.</span></p>
+<p class=""><span>Bret and his husband, Mike Doyle, also Class of 1994, reside in New York, NY. Mike and Bret married in The Egner Memorial Chapel in 2016.&nbsp; They honored the occasion by establishing The Bret G. Kobler ‚94 and Michael J. Doyle ‚94 Scholarship, a four-year award that will recognize an incoming freshman who has demonstrated commitment to service and inclusion in his or her school and local community.</span></p>
+<hr>
+<h3><strong>General Members<br></strong></h3>
+<p><strong>Margaret Bernhard '11</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-7.jpg" alt="" style="     " />&nbsp;</p>
+<p>Maggie&nbsp;Bernhard is a proud Mule, having studied History and Media &amp; Communication. While at Muhlenberg, Maggie spent a lot of time in the Office of Community Engagement. She was President of Alpha Phi Omega, chair of the Jefferson Field Day Planning Committee, a Scholar in Service to Pennsylvania through the AmeriCorps program, and led weekly volunteer projects at The Caring Place. Her senior year, she was awarded the Board of Associates Community Service Award.</p>
+<p>Following the path she started on at Muhlenberg, Maggie earned her Master of Public Administration, with a concentration in Non-Profit Management, from Rutgers-Newark. While completing her MPA, Maggie worked in Volunteer Management at Jersey Cares and then New York Cares, both part of the Points of Light Network. At these organizations, Maggie worked to engage corporate and civic groups in volunteer service and train new volunteer leaders.</p>
+<p>Maggie currently works at Family Promise, where she has been since 2018. Family Promise is the leading national non-profit addressing the issue of family homelessness. Maggie works directly with 200 Family Promise Affiliates across the country to ensure they have the resources to engage their community and keep children stably housed.</p>
+<p>In her spare time, you can find Maggie making nerdy crafts, baking cookies, learning about retro video games from her husband, and listening to True Crime podcasts.</p>
+<hr>
+<p><strong>Drew Bitterman '00</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-8.jpg" alt="" style="     " /></p>
+<p><span>Drew graduated from Muhlenberg College in 2000 with a degree in Business Administration. While at Muhlenberg,&nbsp;</span>Drew was his class&nbsp;Treasurer, President of&nbsp;Hillel, Vice President of Sigma Phi Epsilon, Campus Tour Guide and a Cardinal Key Society Member.&nbsp;&nbsp;</p>
+<p><span>Drew and his Wife, Britton, are the Owners/Directors of Camp Watitoh, a resident summer camp located in Becket, MA. Drew is an&nbsp;active member of the American Camp Association, Moderator of the Center Lake District and an American Camp Association Standards visitor.&nbsp;&nbsp;<br></span></p>
+<p>Drew and Britton have two children, Shane and Helen, and live in Maplewood, NJ.&nbsp;&nbsp;</p>
+<hr>
+<p><strong>Kaitie Burger '12</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-9.jpg" alt="" style="     " /></p>
+<p><span>Kaitie Burger received her degree from Muhlenberg in 2012, majoring in Media &amp; Communications with a minor in Dance. While on campus, she was a member of the Muhlenberg Dance Association and the Perkulators Dance team, serving on the Executive Board for both organizations. Kaitie also participated in Student Government, Class Council, and was a Tour Guide. During her senior year, she served as a Presidential Assistant for the Theatre &amp; Dance department. </span></p>
+<p><span>Currently, Kaitie works as a Director of Destination Strategy for Madden Media. In this role, she helps destinations reach potential visitors, managing business development, account management, and marketing duties. She previously worked at Discover Lehigh Valley as a Content &amp; Communications Manager for nearly eight years. In 2016, she was named a future leader in the tourism industry as part of Destination International‚s 30 Under 30 program.</span></p>
+<p><span>Since graduating from Muhlenberg, Kaitie has remained an active volunteer for the College. In addition to her role on the Alumni Board, she served on the executive board of the Young Alumni Council. Kaitie was recognized with the Young Alumni Volunteer Award in 2019.&nbsp;</span><br><br><span>Kaitie lives in Bethlehem, PA and can often be found dining at local restaurants, exploring breweries, and enjoying concerts.&nbsp;</span></p>
+<hr>
+<p><strong>Jamie Hollender Carridi '99</strong></p>
+<p><strong><img src="/media/contentassets/images/alumni/Jamie Cariddi-230x230.jpeg" alt="" style="     " /></strong></p>
+<p><span style="font-weight: 400;">Jamie currently works as a Senior Vice President / Chief Operating Officer for Wells Fargo. At Muhlenberg, she majored in business &amp; economics. She lives in Ridgewood, NJ with her husband and three boys.&nbsp;</span></p>
+<p><span style="font-weight: 400;">In addition to her role on the Alumni Board, Jamie is a Class Leadership Chair, Reunion Chair, and has participated in the Muhlenberg Wall Street Club.</span></p>
+<hr>
+<p><strong>Christina Coviello '02</strong></p>
+<p>&nbsp;<img src="/media/contentassets/images/alumni/unnamed-10.jpg" alt="" style="     " /></p>
+<p><span>Christina Coviello graduated from Muhlenberg in 2002 with a major in Communication and a minor in Spanish. Christina was an active member of the campus community serving as the Student Body Treasurer and member of student council, President of her sorority, Phi Sigma Sigma, as well as being a tour guide and campus delegate.&nbsp;</span><br><span>&nbsp;</span><br><span>Christina worked and interned in the Office of Admission, which lead to a career in higher education at Boston University in the Financial Aid office. While at BU, Christina earned a Master‚s degree in Policy, Planning, and Administration with a specialization in Higher Education Administration. Eager for a challenge, Christina recently changed careers and is now a Financial Consultant with Fidelity Investments.</span><br><span>&nbsp;</span><br><span>Christina lives in Boston and has been an active alumna since graduation, serving as the co-chair for the Boston Regional Alumni Club and the chair for her class reunions. In 2008, she was the recipient of the Young Alumni Achievement Award. She is excited for this next step in her involvement and is looking forward to deepening her commitment to Muhlenberg as a member of the Alumni Board.</span></p>
+<hr>
+<p><strong>Mikel Daniels '96</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-11.jpg" alt="" style="     " /></p>
+<p class="">Dr. Mikel Daniels is the President and Chief Medical Officer of WeTreatFeet Podiatry in Maryland.&nbsp; He is a graduate of Muhlenberg College with a Bachelor's degree in Biology and a minor in Economics, the Temple University School of Podiatric Medicine, with a Doctorate in Podiatric Medicine, and the Western Governors University with an MBA in healthcare administration.&nbsp; He is board certified in foot surgery by the American Board of Foot and Ankle Surgery and is Wound Care Certified. He is a Fellow of the American College of Foot and Ankle Surgeons, the American Professional Wound Care Association, and the American Society of Podiatric Surgeons. &nbsp;</p>
+<p class="">Dr. Daniels has lectured extensively on the treatment of bunions using locking plate technology, and also on multiple diabetic foot-related issues.&nbsp; Dr. Daniels has hosted educational seminars and has served as a consultant for multiple biomedical, instrument, and equipment manufacturers. He is on the speaker‚s panel of several national and international healthcare-related corporations.</p>
+<p class="">As a Baltimore podiatrist, Dr. Daniels offers the latest techniques in foot and ankle surgery. He lives in the Baltimore area with his wife, Melissa (‚96), and his two kids.</p>
+<hr>
+<p><strong>Sarah Grube '03</strong></p>
+<p><img src="/media/contentassets/images/alumni/S_Grube_profile-183x183.jpeg" alt="" style="     " /></p>
+<p class=""><span>Sarah Grube graduated from Muhlenberg in 2003 with a double major in Political Science and French.&nbsp; While at Muhlenberg, Sarah was a member of Phi Sigma Sigma sorority and active as a campus tour guide. After graduation, Sarah went on to pursue her Master‚s in Political Science at Lehigh University as a member of the Community Fellows program. She received her MA from Lehigh in 2004.</span></p>
+<p class=""><span>Upon leaving the Lehigh Valley, Sarah returned to her New England roots and settled in the Boston area. Sarah has spent most of her career at Liberty Mutual Insurance Company in varying program and vendor management positions in their corporate office.&nbsp; Most of her free time is spent with her family and friends, and she enjoys reading, cooking, traveling and running around after her rambunctious Corgi named Gizmo.</span></p>
+<p class=""><span>Sarah has been an active volunteer with the Boston Regional Alumni Club (former New England Alumni Club) since 2016. Most recently, Sarah volunteered as a member of the Class of 2003 reunion committee. She is incredibly honored and eager to be able to continue her work with and in support of Muhlenberg alumni as a newly elected member of the Alumni Board.</span></p>
+<hr>
+<p><strong>Ross Handler '14</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-13.jpg" alt="" style="     " /></p>
+<p class=""><span>Ross earned his undergraduate degree from Muhlenberg College in 2014, magna cum laude, with majors in International Relations and Spanish. While at Muhlenberg, Ross was an active member of the community. Ross served as the President and Vice President of the Cardinal Key Society, Executive Secretary of the Student Government Association, a hearing board member of the Social Judicial Board, and as a Spanish and Political Science tutor.&nbsp; Ross was also a four-year varsity athlete on the Muhlenberg Men‚s Tennis Team.&nbsp;</span></p>
+<p class=""><span>Post-graduation, Ross earned his J.D. and M.A. from American University‚s Washington College of Law and the School of International Service, respectively in 2017.&nbsp; While at the Washington College of Law, Ross served as the Editor-in-Chief of the American Bar Association‚s&nbsp;</span><em>Administrative Law Review</em><span>&nbsp;and as Vice President of the Alternative Dispute Resolution Honors Society.&nbsp; Ross has spent his professional career as a New York and Washington, D.C.-licensed attorney, first with Buckley LLP and currently with Bryan Cave Leighton Paisner LLP.&nbsp; He is an associate in the firm‚s Banking practice group, representing fintech, banking, and consumer financial services companies on regulatory, enforcement, and corporate matters. Ross also serves as a pro bono attorney for the Time‚s Up Legal Defense Fund and Whitman Walker Health Legal Services.&nbsp; &nbsp;&nbsp;</span></p>
+<p class=""><span>Since graduating from Muhlenberg in 2014, Ross has served as a member of the Young Alumni Committee and the Class of 2014 Reunion Committee. Ross currently serves as the chair of the D.C. Regional Alumni Club. He looks forward to serving as a member of the Alumni Board and continuing to see the College‚s alumni network grow.</span></p>
+<hr>
+<p><strong>Samantha Unger Horrow '10</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-21.jpg" alt="" style="     " /></p>
+<p><span>Samantha Unger Horrow ‚10 earned an ABBS in Mathematics and Accounting.&nbsp;While on campus, Samantha was a student worker in the Alumni Relations Office, Vice President of the Cardinal Key Society and President of the Accounting Society.&nbsp;After graduation she moved to Scotland to attend the University of Edinburgh for graduate studies and graduated with a MSc in Financial Mathematics.</span></p>
+<p><span>Sami is a Risk &amp; Financial Advisory Manager at Deloitte &amp; Touche LLP in New York City and a CPA in the State of New York. She focuses on Intellectual Property Protection with specialization in software and royalties. She is co-chair of HMMS and chair of the Alumni Engagement Committee of the Alumni Board. Sami is active as an alumna as part of HMMS and the Alumni Board, recruiting efforts for Deloitte back at Muhlenberg, a volunteer for First Year Move-In Day, and a mentor with the Muhlenberg Network.</span></p>
+<p><span>Sami is an avid soccer player, kickboxer, Orangetheory enthusiast, baker, and a lifelong NY Mets fan (it's painful!).&nbsp;She and her husband, Andrew Horrow, also Muhlenberg class of 2010, live in Queens, NY, with their dog, Taxi.</span></p>
+<hr>
+<p><strong>Paul "Chip" Hurd '86</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-19.jpg" alt="" style="     " /></p>
+<p><span>Chip Hurd, is a 1986 graduate of Muhlenberg College with an A.B. degree in Communications. Chip was a member of Tau Kappa Epsilon fraternity and a tour guide. He received an M.S. in Telecommunications from Kutztown University in 1991. Chip is currently Chief Development Officer at United Way of the Greater Lehigh Valley. </span></p>
+<p><span>In addition to the Muhlenberg College Alumni Board, Chip is involved with the Andre Reed Foundation and former president of Westwood Heights Swim Club and the Allentown Chapter of PIAA basketball officials. He refereed college and high school basketball for more than 20 years. </span></p>
+<p><span>Chip resides in Orefield, PA, with his wife, Susan. They have two adult children, Matt and Abby.</span></p>
+<hr>
+<p><strong>Dana Iannuzzi '03</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-18.jpg" alt="" style="     " /></p>
+<div>Dana Iannuzzi is a proud member of the Alumni Board and even more proud to be the first member graduating from the Theatre &amp; Dance Department. Dana is a member of the Class of 2003 and received a BA in Theatre Arts. While at Muhlenberg, Dana was a Campus Tour Guide, a Student Advisor, a member of The Girls Next Door, the all-female a capella group, and an active member of the Muhlenberg Theatre Association.&nbsp;<br><br>After graduating, Dana has been actively pursuing her career in the entertainment industry. Dana&nbsp;is a New York-based Actor/Director who has had the opportunity to work both regionally and in New York City in Theatre, Film and Television.</div>
+<div></div>
+<div>She has striven to give back to Muhlenberg and prior to her appointment to the board had been developed a program entitled ‚Inside the Fishbowl Studio‚ bringing New York Professionals to be interviewed and have candid conversations with current performance majors. She has also been a resource for the senior classes and aided them in the development of their Senior Showcase. Dana is the producer and founder of ‚Sink or Swim‚ concert series with members of The Fishbowl Collective, which is a Muhlenberg College Alumni Group for Theatre &amp; Dance majors, that takes place every summer.</div>
+<hr>
+<p><strong>Gregory Lambert '74</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-16.jpg" alt="" style="     " /></p>
+<p><span>Gregory Lambert ‚74 is a Manhattan attorney.&nbsp;&nbsp;After Syracuse University School of Law was awarded a juris doctor, he spent more than twenty years working for the U.S. House of Representatives.&nbsp;&nbsp;&nbsp;He spent most of that period working as Counsel for the House Merchant Marine and Fisheries Committee during which time&nbsp;he was Counsel for the Merchant Marine Subcommittee, Chief Counsel for the Fisheries Management Subcommittee and Deputy Chief Counsel of the Committee.&nbsp;&nbsp;As part of his responsibilities with the Merchant Marine subcommittee, he also served as Counsel to the Congressional Port Caucus.&nbsp;&nbsp;During the early 1990s, he was part of the US delegation to the UN Law of the Sea Convention.&nbsp;&nbsp;He served under the chairmanships of the Honorable Walter B. Jones, Honorable Thomas J. Manton and Honorable Gerald Studds.&nbsp;&nbsp;Prior to that, he served as attorney advisor to the Honorable Italo Ablondi of the US International Trade Commission and as an attorney with the General Counsel of the US Department of Housing and Urban Development.&nbsp;</span></p>
+<p><span>Following Greg‚s service in Washington, he returned to New York City, where he opened the law firm of Lambert and Lambert with his mother, the retired Surrogate of New York County.&nbsp;&nbsp;After the death of his mother, he served as the LGBT Liaison&nbsp;for the Honorable Carolyn B. Maloney.</span></p>
+<p><span>Greg is currently the Secretary of the Samuel J. Tilden Democratic Club, a member of the Democratic Committee of the County of Manhattan and&nbsp;a member of the National Arts Club. He has served as Vice-President of the Board of Directors of the Bellevue Hospital Day Care Center and as President of the Village Reform Democratic Club.&nbsp;&nbsp;He was a member of the Bronx Borough President‚s Advisory Council and the LGBT Council of the Manhattan Borough President and a member of the Board of Governors of the Stonewall Democratic Club.</span></p>
+<p><span>Greg has sponsored events for Muhlenberg in New York and for the Washington area alumni groups.&nbsp;&nbsp;He has attended College Volunteer Summits and sponsored a group of current Muhlenberg students at the National Arts Club and arranged for some of those students to meet with the staff of Congresswoman Carolyn Maloney.&nbsp;&nbsp;He is a member of the<span>&nbsp;</span><em>Circle of 1848</em><span>&nbsp;</span>and the Henry Melchior Muhlenberg Society.</span></p>
+<p><span>He is married to Wilbur A. Weder.</span></p>
+<hr>
+<p><strong>Scott Lenz '84</strong></p>
+<p><strong><img src="/media/contentassets/images/alumni/Scott Lenz-230x230.jpeg" alt="" style="     " /></strong></p>
+<p><strong><span style="font-weight: 400;">A member of the class of 1984, Scott received his degree from Muhlenberg in accounting &amp; economics. Following his time at Muhlenberg, Scott received his J.D from the University of Virginia School of Law. He currently works as Law/SVP, Deputy General Counsel &amp; Chief Tax Counsel for New York Life Insurance Co. He calls Summit, NJ home. </span></strong></p>
+<hr>
+<p><strong>Jill Stetz-Lewis '89</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-23.jpg" alt="" style="     " /></p>
+<p class="">Jill Stetz-Lewis graduated in 1989 with a BS in Biology and Natural Sciences.<span>&nbsp;</span>Jill was very involved during her Muhlenberg career.<span>&nbsp;</span>She played Basketball for four years and softball for one. She was a member of Delta Zeta sorority, secretary of Non-Resident Student‚s Association,<span>&nbsp;s</span>tudent ambassador for alumni, senior pledge drive captain and Omicron Delta Kappa.</p>
+<p class="">Jill received her VMD from the University of Pennsylvania School of Veterinary Medicine in 1994. Since then she has worked as a general practicioner for small animals and exotics.<span>&nbsp;</span>Jill has been the owner of Narberth Animal Hospital since 2005. Jill is an active member of the AVMA, IVPA and serves on the American Board of Veterinary Specialties.<span>&nbsp;</span>Jill also provides mentoring for Animal Behavior College, Career Village.org as well as local schools and boy and girl scout troops.</p>
+<p class="">Besides being on the Alumni Board, Jill recently became a Class Fund co-chair.</p>
+<p class="">Jill resides in Chester Springs, PA, with her husband, Joseph, and their many pets: five Giant Schnauzers,one German Shepherd, a macaw, umbrella cockatoo, an Amazon parrot<span>&nbsp;</span>and numerous koi. When not working, Jill enjoys training her dogs and parrots as well as making therapy visits to senior centers with her dogs.</p>
+<hr>
+<p><strong>Sharon (Brewer) Lowe '65</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-15.jpg" alt="" style="     " /></p>
+<p><span>Sharon graduated in 1965 with a BS in Biology and a Secondary Education certification.&nbsp; At Muhlenberg, she was in the Concert and Marching Bands, served as Prosser Dormitory and also Student Council Secretary, was a member of the Homecoming Committee and Homecoming Court, a resident of Bernheim Honor House, and a Senior Counselor.&nbsp; She has recently served as the 50th Reunion Chair for her Class.</span><br><br><span>Sharon has taught first grade, served as office Administrator in her husband's business, and after obtaining an M.Ed. in Elementary School Counseling, worked in that capacity in a local school district.</span><br><br><span>She has volunteered in her church as a vestry member, Sunday School and VBS teacher and coordinator, clergy search team member, usher and Eucharist minister.&nbsp; She also helps plan Fellowship activities, hospitality events, and participates wherever and whenever needed.</span><br><br><span>Sharon was a founding member of a Learning Disability Parent Support Group, helping to create and publish an experiential curriculum to educate parents and in-service to both teachers and administrators.</span><br><br><span>She serves on the Board of Directors for New Vitae Wellness and Recovery, which offers comprehensive behavioral health care services and residential opportunities.</span><br><br><span>Sharon is an avid skier and gardener and has two sons and three grandchildren.</span></p>
+<hr>
+<p><strong>Susan Medalie '10</strong></p>
+<p><strong><img src="/media/contentassets/images/alumni/Susan Medalie-229x229.jpeg" alt="" style="     " /></strong></p>
+<p><span style="font-weight: 400;">Susan currently works as a Family Physician at Faculty Physician and Director of Osteopathic Medicine, Wellspan/ Good Samaritan Family Medicine Residency in Lebanon, PA. A class of 2010 graduate, she majored in neuroscience before receiving her Doctor of Osteopathic Medicine (D.O.).</span></p>
+<p><span style="font-weight: 400;">In addition to her role on the Alumni Board, Susan serves on the Board of Associates.</span></p>
+<hr>
+<p><strong>A. Benjamin Miles, III '13</strong></p>
+<p><img src="/media/contentassets/images/alumni/ben__3_.jpg" alt="" style="     " /></p>
+<p>Ben received his undergraduate degree in 2013, graduating after three years with a major in Business Administration.&nbsp; He concentrated his studies in international business during a semester abroad at the Maastricht University School of Business and Economics in The Netherlands. &nbsp;While at Muhlenberg, Ben was active as a campus tour guide, resident advisor, saxophonist in the Muhlenberg Wind Ensemble and as a DJ for the College radio station 91.7 WMUH.</p>
+<p class="">Since being elected to the Alumni Board in 2015, Ben has served as Chair of the Nomination and Governance Committee and is also a member of the Development Committee.</p>
+<p class="">Ben currently works as a Senior Associate on the client business services team at Private Client Resources, a financial technology firm headquartered in Wilton, CT.</p>
+<hr>
+<p><strong>Cara Murphy '10</strong></p>
+<p><span style="font-weight: 400;"><img src="/media/contentassets/images/alumni/Cara Murphy-230x230.jpeg" alt="" style="     " /></span></p>
+<p><span style="font-weight: 400;">Cara resides in Westfield, NJ, and currently serves as Counsel with Santomassimo Davis LLP (Outside General Counsel Solutions) in Parsippany, New Jersey. She is a graduate of the Class of 2010 where she majored in political science and history. Following her time at Muhlenberg, Cara received her J.D. at Duquesne University School of Law.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Cara is a member of Duquesne University‚s Young Alumni Council. She also serves as an advisor for the Phi Kappa Chapter of Phi Mu at Muhlenberg College and as a New Jersey Crohn‚s &amp; Colitis Foundation Take Steps Executive Committee Member.&nbsp;</span></p>
+<p><span style="font-weight: 400;">In addition to her role on the Alumni Board, Cara is a Class Leadership Committee Chair, Reunion Chair, and THAW Host.</span></p>
+<hr>
+<p><strong>Stuart M. Schnall '80, P'08</strong></p>
+<p>&nbsp;<img src="/media/contentassets/images/alumni/unnamed-25.jpg" alt="" style="     " /></p>
+<p>Stuart is a member of Muhlenberg College‚s Class of 1980 and graduated summa cum laude with a BS in Natural Science. He was also elected into Phi Beta Kappa and was a member of Cardinal Key, WMUH, and numerous intramural athletics. Stu is a member of Henry Melchior Muhlenberg Society and is his Class Fund Chair and Reunion Co-Chair.</p>
+<p>After graduating from Muhlenberg, Stu received a DMD from University of Pennsylvania School of Dental Medicine. He maintained a practice of general dentistry until his retirement in 2018.</p>
+<p>Stu met his wife, Wendy Schwab Schnall ‚78, while at Muhlenberg and they have been married since 1981.&nbsp; They have lived in Hillsborough, NJ, and his daughter, Allie Schnall Keller, graduated from Muhlenberg, in 2008. His son, Andrew, is the traitor in the family having graduated from Lafayette College in 2010. Stu has one grandchild and another on the way.</p>
+<p>Stu has been involved with, and held leadership positions, in several religious and community organizations.&nbsp; He is an avid reader, cook, sports enthusiast, bridge player and lover of music. A big fan of Harry Chapin, Stu has gotten even more connected to Chapin‚s music and his lyrics during today‚s challenging times.</p>
+<hr>
+<p><strong>Michelle Gisolfi Tauber '89, P'16</strong></p>
+<p><img src="/media/contentassets/images/alumni/unnamed-22.jpg" alt="" style="     " /></p>
+<p><span>Michelle was elected to the Alumni Board in 2018 and currently serves on the Engagement Committee. She&nbsp;</span>is a 1989 graduate with a B.A. in Communications and a minor in Accounting. While on campus, Michelle was a member of the Phi Sigma Sigma sorority and Muhlenberg's Pom Pom squad.</p>
+<div>Michelle is a Financial Advisor with Evans Wealth Strategies in Emmaus, PA, and holds her securities licenses Series 7, 63 and 65. Prior to joining the Evans Wealth Strategies team, she enjoyed a successful career in the publishing industry. Michelle&nbsp;held the positions of Vice President, Retail Sales, at Rodale, Inc. and Vice President,&nbsp;<span>New Business Development at Kappa Publisher Services</span>.</div>
+<div><span></span></div>
+<div><span></span>Muhlenberg roots run deep in Michelle's life. She and her husband, Ian, who is also class of 1989 and currently works in Muhlenberg's Advancement Office, married in the Egner Memorial Chapel.&nbsp; They settled in Allentown, PA where they raised their 3 children. Their son, Brandon, graduated from Muhlenberg in 2016. In 2019, their daughter Alyssa graduated&nbsp;from&nbsp;<span>the Maryland Institute College of Art and her twin sister&nbsp;</span>Kristen graduated from the University of Delaware. Michelle's brother, John Gisolfi, is a member of the class of 1985, and her mother, Arlene Gisolfi, worked at Muhlenberg for 40 years.&nbsp;<span></span></div>
+<hr>
+<p><strong>Amy Venuto '11</strong></p>
+<p><img src="/media/contentassets/images/alumni/download.png" alt="" style="     " />&nbsp;</p>
+<p>Amy received her undergraduate degree in 2011, magna cum laude, with a major in History and a minor in Poltical Science.&nbsp; While at Muhlenberg, Amy served as a tour guide and campus delegate, and was also a member of the Women's Golf Team.&nbsp; Since graduating, Amy has gained experience in several industries including local government, financial services and re-insurance.&nbsp; Currently, Amy works as a project manager on the operations team at Guy Carpenter.&nbsp; She also received her MBA from Villanova University in 2017.&nbsp;</p>
+<p>In addition to being a member of the Alumni Board, Amy serves as President of the Muhlenberg College Young Alumni Council and as co-leader of the Philadelphia Regional Alumni club.</p>
+<p>Amy resides in Philadelphia.</p>
+<hr></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

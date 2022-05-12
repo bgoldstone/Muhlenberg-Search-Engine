@@ -1,0 +1,2007 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Course Descriptions | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Course Descriptions">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/jewish-studies/">Jewish Studies</a></li><li class="linkitem"><a href="/academics/jewish-studies/coursedescriptions/">Course Descriptions</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Course Descriptions</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","500px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","740px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","980px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","1220px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","500px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","740px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","980px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg","1220px":"/media/contentassets/images/academics/jewish-studies/jst_header_1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_6">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/jewish-studies/">Jewish Studies</a></li><li class="linkitem"><a href="/academics/jewish-studies/coursedescriptions/">Course Descriptions</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Course Descriptions</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Course Descriptions">
+							<span class="sub_nav_handle_label">Course Descriptions</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/jewish-studies/majorminorrequirements/">Major &amp; Minor Requirements</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/jewish-studies/coursedescriptions/">Course Descriptions</a></span></li><li class="sub_nav_item"><a href="/academics/jewish-studies/faculty/">Faculty</a></li><li class="sub_nav_item"><a href="/academics/jewish-studies/eventsandprograms/">Events and Programs</a></li><li class="sub_nav_item"><a href="/academics/jewish-studies/interdisciplinaryprogramsandcampuspartners/">Interdisciplinary Programs and Campus Partners</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/jewish-studies/">Jewish Studies</a></li><li class="linkitem"><a href="/academics/jewish-studies/coursedescriptions/">Course Descriptions</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><span style="font-weight: 400;">In addition to the courses listed below, in most semesters additional ‚Special Topics‚ courses are offered that may count toward the Jewish studies major and minor. Please see the course listings for the latest semester.</span></strong></p></div>
+
+</div>
+</div>
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><h4><strong>Jewish Religion, Literature and Thought</strong></h4><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#ENG2532" 
+     aria-expanded="false" 
+     aria-controls="ENG2532">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="ENG253">
+      <p class="panel-title pull-left">
+          ENG 253 Modern Jewish Writers
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="ENG2532" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="ENG253">
+    <div class="panel-body">
+        <p><span>A study of the narrative, drama, poetry, memoirs and essays produced over the past two centuries by writers who identified&nbsp;with or were identified by their Jewish backgrounds, both secular and religious, and beginning in the nineteenth century, produced work written in English, Hebrew, Yiddish, and other European languages. Foci will include literary enactments of conflicts between heritage and ‚assimilation‚; literary engagement with such ideological developments as Zionism and Socialism; cultural practices associated with Diaspora and cosmopolitanism; the emergence of a distinctive urban Jewish sensibility in the mid-twentieth century; ethnic voicing and ideological conflict; immigrant and immigrant-offspring writers‚ contribution to the paradigms subsequently employed in the development of other ethnic literatures. Writers studied are likely to include Franz Kafka, Heinrich Heine, Emma Lazarus, Sholem Aleichem, Philip Roth, Henry Roth, Joseph Roth, Grace Paley, Ayelet Tsabari, Paul Celan, Saul Bellow, Cynthia Ozick, Abraham Yehoshua, Isaac Bashevis Singer, Primo Levi, Muriel Rukeyser, S.Y. Agnon, Aharon Appelfeld, Bernard Malamud, Allen Ginsberg, Mordecal Richler, Stefan Zweig, Clifford Odets, Mike Gold, Abraham Cahan, Chaim Grade, etc.&nbsp;<br></span><br><span></span><span></span><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#GRM2572" 
+     aria-expanded="false" 
+     aria-controls="GRM2572">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="GRM257">
+      <p class="panel-title pull-left">
+          GRM 257 Freud‚s Vienna
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="GRM2572" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="GRM257">
+    <div class="panel-body">
+        <p><span>Using Carl E. Schorske‚s Fin-de-Siecle Vienna as a starting point, this course will explore the literature, art, architecture, and social sciences as indicators of social and cultural transformation in late nineteenth and early twentieth century Vienna. After beginning with a brief historical and cultural overview of the Austro-Hungarian Empire, the course will focus on the progression from Austrian liberalism to modernism. Some of the topics to be investigated are the Ringstrasse and the modern architecture of Otto Wagner and Adolf Loos; the failure of liberalism and the resulting political and artistic secessions, such as Theodor Herzl‚s Zionism as a reaction to Austrian anti-Semitism and the Secession artists such as Gustav Klimt and their interrelationship with the Wiener Werkstatte arts and crafts movement; the new paradigms by Freud and Mach for understanding reality and how instinct, the irrational, and empiriocriticism are presented in the literary works of Hugo von Hofmannsthal and Arthur Schnitzler (Freud considered Schnitzler his Doppelganger, whose novellas and dramas present the same problems that the former had diagnosed in his patients and his time period); expressionism in art (Schiele and Kokoschka). These social and artistic strands will be synthesized to produce a richer understanding of the dynamic relationship between the arts and social sciences. This course covers some literary works, artworks, and films that deal with mature subject matter, such as human sexuality. Students will be expected to study and discuss these works in a mature manner.</span></p>
+<p><em>Meets general academic requirement HU and is a cluster course and a linked (IL) course.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HBW4302" 
+     aria-expanded="false" 
+     aria-controls="HBW4302">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HBW430">
+      <p class="panel-title pull-left">
+          HBW 430 Hebrew Literature in Translation
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HBW4302" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HBW430">
+    <div class="panel-body">
+        <p><span>A survey of Hebrew literature from the post-biblical era of the second century B.C.E. to the period of emergent modernism in the seventeenth century C.E. Readings embrace the genres of prose fiction, drama, and selections from the Talmud and medieval and religious prose, poetry, and prayers.</span><br><span></span><span></span><em><br>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1162" 
+     aria-expanded="false" 
+     aria-controls="REL1162">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL116">
+      <p class="panel-title pull-left">
+          REL 116 Monotheism: Creating God
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1162" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL116">
+    <div class="panel-body">
+        <p>O sole God, like whom there is no other! The idea of one God was first expressed by the pharaoh Akhenaten who lived between 1352-1336 b.c.e. Over 3000 years later, three major world religions are still struggling to understand and incorporate this seemingly simple concept of monotheism. In this course we will explore some of the issues that surround monotheism and examine how the idea of one God has shaped the development of Judaism, Christianity, and Islam individually and in relation to each other. In doing so, we will attempt to gain a better understanding of the nature, role, and meaning of the ideas of God in western consciousness and culture.</p>
+<p><em>Meets general academic requirement HU&nbsp;and&nbsp; IL.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1312" 
+     aria-expanded="false" 
+     aria-controls="REL1312">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL131">
+      <p class="panel-title pull-left">
+          REL 131 Myth, Religion, and Creation
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1312" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL131">
+    <div class="panel-body">
+        <p><span>From Genesis‚ depiction of the divine organization of the universe in the Hebrew Bible to Hindu traditions of creation‚s emanation from Brahma, narratives concerning the origin of the world have attracted devotional and scholarly attention from around the globe since ancient times. In this course, we will use the comparison of creation stories as an introduction to the study of myth, its&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>ationship to ritual, and its place and function in<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious traditions. Furthermore, we will critically examine the ways in which different cultures have used stories of origins to address questions regarding contemporary political, social, or<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious contexts. Particular emphasis will be placed on creation stories from the ancient Near East and Bible, and the symbolic and literary connections between them.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement DE and HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL201_2022" 
+     aria-expanded="false" 
+     aria-controls="REL201_2022">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL201_202">
+      <p class="panel-title pull-left">
+          REL 201, 202 Theory & Method in the Study of Religion
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL201_2022" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL201_202">
+    <div class="panel-body">
+        <p><span>In this course, students explore the methodological and theoretical frameworks that define the academic study of&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igion. Coverage includes analysis of multiple disciplinary perspectives including sociology, anthropology, history, phenomenology, and psychology. Additionally, students will put the theoretical into practice by using the methods studied in class to analyze the beliefs and practices of various<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious traditions.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU (and W when offered as 202).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2292" 
+     aria-expanded="false" 
+     aria-controls="REL2292">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL229">
+      <p class="panel-title pull-left">
+          REL 229 Jewish Traditions
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2292" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL229">
+    <div class="panel-body">
+        <p><span>Judaism has ancient roots&nbsp;and encompasses a multifaceted array of rituals, laws, holidays and life-cycle events. Using ‚Time‚ and ‚Space‚ as the dual focal points of our course, we will examine the development of diverse Jewish communities from antiquity to the modern era in order to better understand the origins and practices of the spectrum of Jewish groups encountered today. Consequently, this course will emphasize the heterogeneity of Judaism as a&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious system throughout history, while also examining what makes this diverse group of traditions and texts ‚Jewish.‚</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2522" 
+     aria-expanded="false" 
+     aria-controls="REL2522">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL252">
+      <p class="panel-title pull-left">
+          REL 252 Hebrew Bible
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2522" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL252">
+    <div class="panel-body">
+        <p><span>Jews and Christians alike regard the books of the Hebrew Bible as scripture. Yet, modern scholarship has sought an alternative approach to understanding this complicated collection of ancient texts that sets aside its identification as revelation and attempts to grasp the historical, political, and cultural contexts that surrounded its composition. Consequently, this course will introduce students to the Hebrew Bible as a repository of ancient Israelite traditions that were developed and shaped in specific historical and social contexts. To that end, rather than read the Bible from front to back like a novel written of whole cloth, we will begin by reading the final portion of the Bible, known as the ‚Writings,‚ first and work our way back through the Prophets, finishing with the Torah. By doing this, we will examine first those biblical books that provide the clearest glimpse of the scribal practices that framed production of the Hebrew Bible as a whole, as well as its compositional complexity. In addition, students will place particular biblical passages in dialogue with texts from Mesopotamia, Egypt, Moab, and Ugarit, illuminating Israel‚s place in the&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious and political world of the ancient Near East.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU. Also counts toward Jewish Studies.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2542" 
+     aria-expanded="false" 
+     aria-controls="REL2542">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL254">
+      <p class="panel-title pull-left">
+          REL 254 New Testament
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2542" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL254">
+    <div class="panel-body">
+        <p><span>This course studies the distinctive scriptural foundation of Christianity in its literary, historical, and theological contexts. Topics may include Jesus as an historical figure and as the object of early Christian faith; the&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>ationships of various early Christian communities to one another and to contemporary Judaisms, Greek<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igions, and philosophies; the place and role of Paul; the gospel genre and its several examples; the definition of the canon; approaches to interpreting the New Testament. No prior study of the New Testament is expected.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3082" 
+     aria-expanded="false" 
+     aria-controls="REL3082">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL308">
+      <p class="panel-title pull-left">
+          REL 308 Scrolls, Scribes, and Scriptures
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3082" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL308">
+    <div class="panel-body">
+        <p><span>Did you ever wonder how ancient texts, like the New Testament, reach the modern world? In this course, students will explore the challenges and opportunities of studying New Testament and other ancient Christian materials in their oldest forms. Central to this examination will be how the texts were read, interpreted, and transmitted within Christian communities over time. This course will include an introduction to several techniques used to analyze ancient scriptural materials as well as the basic syntax and vocabulary of Koine Greek. No previous language skills are expected or required.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL353_3542" 
+     aria-expanded="false" 
+     aria-controls="REL353_3542">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL353_354">
+      <p class="panel-title pull-left">
+          REL 353, 354 Gender & Sexuality in Judaism
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL353_3542" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL353_354">
+    <div class="panel-body">
+        <p><span>In this course we will examine how issues&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>ating to gender and sexuality have influenced Jewish experience. We will discuss a wide range of Jewish history and literature, extending from the Bible to contemporary Jewish culture, in order to gain a broad perspective on how gender and sexuality have played a role in Jewish life and thought over time. We will consider how gender and sexuality<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>ate to questions of power and authority and discuss the ways that bodies, both gendered and sexual, become meaningful in different Jewish contexts.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU (and W when offered as 354).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3712" 
+     aria-expanded="false" 
+     aria-controls="REL3712">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL371">
+      <p class="panel-title pull-left">
+          REL 371 Paths in Jewish Thought
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3712" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL371">
+    <div class="panel-body">
+        <p><span>Writers, philosophers, and scholars have engaged a fascinating array of questions from within the Jewish tradition since before the Common Era. &nbsp;In this seminar, we will survey the works of particular Jewish thinkers, from antiquity to the modern day, with special attention to certain topics and historical developments. &nbsp;Subjects to be considered include the Jewish people‚s encounter with the&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious or cultural ‚other,‚ the opposition or congruence of faith and reason, the persistence of evil, the nature of God and scripture, and what it means to be ‚Jewish.‚ &nbsp;The structure of the course will constitute a ‚who‚s who‚ of Jewish thinkers through history, such as Philo of Alexandria, Moses Maimonides, Baruch Spinoza, and Ahad ha-Am. &nbsp;The final project will also allow&nbsp;students&nbsp;to discover and present the thought of a Jewish intellectual not included in this selective survey at the end of the semester.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><h4><strong>Jewish History, Experience and Culture</strong></h4><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#GRM2572" 
+     aria-expanded="false" 
+     aria-controls="GRM2572">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="GRM257">
+      <p class="panel-title pull-left">
+          GRM 257 Freud‚s Vienna
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="GRM2572" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="GRM257">
+    <div class="panel-body">
+        <p><span>Using Carl E. Schorske‚s Fin-de-Siecle Vienna as a starting point, this course will explore the literature, art, architecture, and social sciences as indicators of social and cultural transformation in late nineteenth and early twentieth century Vienna. After beginning with a brief historical and cultural overview of the Austro-Hungarian Empire, the course will focus on the progression from Austrian liberalism to modernism. Some of the topics to be investigated are the Ringstrasse and the modern architecture of Otto Wagner and Adolf Loos; the failure of liberalism and the resulting political and artistic secessions, such as Theodor Herzl‚s Zionism as a reaction to Austrian anti-Semitism and the Secession artists such as Gustav Klimt and their interrelationship with the Wiener Werkstatte arts and crafts movement; the new paradigms by Freud and Mach for understanding reality and how instinct, the irrational, and empiriocriticism are presented in the literary works of Hugo von Hofmannsthal and Arthur Schnitzler (Freud considered Schnitzler his Doppelganger, whose novellas and dramas present the same problems that the former had diagnosed in his patients and his time period); expressionism in art (Schiele and Kokoschka). These social and artistic strands will be synthesized to produce a richer understanding of the dynamic relationship between the arts and social sciences. This course covers some literary works, artworks, and films that deal with mature subject matter, such as human sexuality. Students will be expected to study and discuss these works in a mature manner.</span></p>
+<p><em>Meets general academic requirement HU and is a cluster course and a linked (IL) course.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HST1112" 
+     aria-expanded="false" 
+     aria-controls="HST1112">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HST111">
+      <p class="panel-title pull-left">
+          HST 111 Introduction to History: Holocaust in Cinema
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HST1112" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HST111">
+    <div class="panel-body">
+        <p><span>Film is one of the primary means by which people across the world come to think about the Holocaust. And the cinematic representation of the Holocaust is deeply inscribed by historians‚ and popular conceptions of the Holocaust contemporary to each film. Our study of Holocaust film, therefore, is necessarily a study of the history of the Holocaust, the history of its changing representation, and the great debates on its origins, development, and impacts. Students will devote most of the semester to examination of films on the Shoah from six countries. The films of the United States, Great Britain, Italy, France, Germany, and Poland will allow us to compare and contrast different nation‚s memories of these events and to explore the surprising controversies that surround popular representation of the Holocaust.</span><br><span></span><span></span><em><br>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HST2772" 
+     aria-expanded="false" 
+     aria-controls="HST2772">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HST277">
+      <p class="panel-title pull-left">
+          HST 277 Modern Middle Eastern History
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HST2772" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HST277">
+    <div class="panel-body">
+        <p><span>A history of the Middle East in the nineteenth and twentieth centuries. Topics covered include attempts at reform in the Ottoman Empire and Iran, the impact of developing nationalisms and European imperialism, the impact of World War I and World War II, the emergence of new states, and the Arab/Israeli conflict.</span><br><span></span><span></span><em><br>Meets general academic requirement DE and HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HST369_3702" 
+     aria-expanded="false" 
+     aria-controls="HST369_3702">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HST369_370">
+      <p class="panel-title pull-left">
+          HST 369, 370 Jewish Latin America and the Caribbean
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HST369_3702" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HST369_370">
+    <div class="panel-body">
+        <p><span>This course studies the movement of Jewish people from Spain and Portugal to Latin America and the Caribbean, traces the adaptation of Jews and their descendants to multiple environments, and reflects upon the diversity of Jewish communities and traditions across the region. Major themes include Diaspora, Ethnicity, Race, Gender, and Memory. Topics include consolidation of Catholic Spain in 1492, expulsion of Jews from Spain and Portugal, and the Inquisition; the effect of Jews on modern Latin American national identities; and the surge of twentieth century anti-Semitism in political and cultural realms.</span><br><span></span><span></span><em><br>Meets general academic requirement DE and HU (and W when offered as 370).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HST3932" 
+     aria-expanded="false" 
+     aria-controls="HST3932">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HST393">
+      <p class="panel-title pull-left">
+          HST 393 The Arab-Israeli Conflict
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HST3932" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HST393">
+    <div class="panel-body">
+        <p><span>Every day the news is filled with stories of the violent struggle between Israel and the Arabs. This course will examine the origins and development of that conflict. We will discuss a range of topics, including the emergence of Zionism, pan-Arabism and Palestinian nationalism, the wars between Israel and the Arab states, the rise of terrorist groups, the role of the world community and especially the United States, and the continuing efforts to find a peaceful settlement to the region‚s problems. Particular emphasis will be placed on the diversity of perspectives regarding the conflict, its history, and potential solutions.</span><br><span></span><span></span><em><br>Meets general academic requirements DE and HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#ITL3232" 
+     aria-expanded="false" 
+     aria-controls="ITL3232">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="ITL323">
+      <p class="panel-title pull-left">
+          ITL 323 Jewish Italy
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="ITL3232" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="ITL323">
+    <div class="panel-body">
+        <p><span>The Jews of Italy constitute the most ancient uninterrupted Jewish community outside of Israel, dating back at least to the first century B.C.E. Over the course of the last 2100 years, the Jewish minority in Italy has experienced periods of freedom and cultural brilliance, as well as moments of repression and violent persecution. This course explores the history, culture, literature, and art of Italian Jews, beginning with their ancient origins, through the Renaissance, the ghetto period, political emancipation, Fascist persecution, the Shoah, the post-war return, and the present day. We will discover the multifaceted nature of this long-lived group, and the many ways in which the Jews of Italy have sought to adapt to changing political and social conditions in order to survive. This course is taught in English and no knowledge of Italian language is necessary.</span><br><span></span><span></span><em><br>Meets general academic requirements HU and DE.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#JST1092" 
+     aria-expanded="false" 
+     aria-controls="JST1092">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="JST109">
+      <p class="panel-title pull-left">
+          JST 109 Jewish Experience in a Secular Age 
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="JST1092" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="JST109">
+    <div class="panel-body">
+        <p><span>This course will explore secular Jewish experiences in the modern west. We will examine how traditional Jewish society has been transformed by new ideas and new social realities by exploring the many and multifaceted ways that Jews have constructed modern, secular identities in the wake of those transformations. Using a variety of primary and secondary sources, as well as film and literature, this course will consider the ways in which Jewish identity has been defined and redefined in the modern period across Europe and the United States. Particular attention will be paid to questions of gender and the ways that men and women each experienced processes of modernization and secularization.</span><br><span></span><span></span><em><br>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#JST2012" 
+     aria-expanded="false" 
+     aria-controls="JST2012">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="JST201">
+      <p class="panel-title pull-left">
+          JST 201 American Jewish Life & Culture
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="JST2012" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="JST201">
+    <div class="panel-body">
+        <p><span>This course will offer a history of Jewish life in the United States. It will examine the different ways that American Jews have defined Jewish life in America and consider the challenges faced by Jewish immigrants as they worked to build a distinctly American Jewish culture. The tension and balance between religious meaning and the value placed on secularism in America form a vital part of this study.</span><br><span></span><span></span><em><br>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#JST203_2042" 
+     aria-expanded="false" 
+     aria-controls="JST203_2042">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="JST203_204">
+      <p class="panel-title pull-left">
+          JST 203, 204 From Zion to Zionism: History of Jewish Nationalism
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="JST203_2042" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="JST203_204">
+    <div class="panel-body">
+        <p>The very words Zion and Zionist have become powerful political signifiers both within and without Jewish communities, as well as in international discourse. Why are these words so hotly contested, and what do they signify? This course examines the historical evolution of modern Zionism. It considers the different religious, political, and cultural forms that Jewish nationalist thought has taken over the course of the nineteenth and twentieth centuries and situates these ideas within their historic and geographic contexts. Students will read the works of Jewish nationalist thinkers like Theodore Herzi, Max Nordau, Ahad Ha‚am, Yitzchak Baer, Simon Dubnow, and Louis Brandeis and analyze their competing visions of Jewish nationhood and the specific historical concerns that fuel the emergence of different nationalist ideologies.<br><em><br>Meets general academic requirement HU (and W when offered as 204).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#PSC248_2492" 
+     aria-expanded="false" 
+     aria-controls="PSC248_2492">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="PSC248_249">
+      <p class="panel-title pull-left">
+          PSC 248, 249 Governments & Politics of the Middle East
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="PSC248_2492" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="PSC248_249">
+    <div class="panel-body">
+        <p><span>This course will examine the domestic politics and international relations of the Middle East. In particular, the course will examine the effect of historical culture, economic conditions, and colonial penetration upon the current political conditions of the area.</span><br><span></span><span></span><em><br>Meets general academic requirement SL and DE (and W when offered as 249).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3572" 
+     aria-expanded="false" 
+     aria-controls="REL3572">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL357">
+      <p class="panel-title pull-left">
+          REL 357 The Holocaust: Nazi Germany & the Jews
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3572" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL357">
+    <div class="panel-body">
+        <p><span>This course will examine the Holocaust and its historical context by considering both the pre-war position of Jews in Europe and the factors that led to the destruction of European Jewry during WWII. Religious context and responses to these events within affected communities will be studied through a variety of sources, including literature, film, and memoirs.</span><br><span></span><span></span><em><br>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#THR2212" 
+     aria-expanded="false" 
+     aria-controls="THR2212">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="THR221">
+      <p class="panel-title pull-left">
+          THR 221 Jewish Drama
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="THR2212" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="THR221">
+    <div class="panel-body">
+        <p>In Europe, until the middle of the&nbsp;nineteenth century, Jewish characters (with a few minor exceptions) only appeared in stage productions created by non-Jews. In general, these performances of ‚Jewishness‚ perpetuated extremely negative stereotypes that were a major factor in the development of the virulent anti-Semitic attitudes that led to mass migration and the almost complete destruction of the vibrant European Jewish community by the middle of the&nbsp;twentieth century. In spite of this dark history, a profound change occurred with the coming of the enlightenment at the end of the&nbsp;eighteenth century and the integration of many newly emancipated Jews into western intellectual and artistic life during the late&nbsp;nineteenth century. Through a tiny minority in most western nations, including the United States, Jews, often barred from participation and employment in many areas of the economy, became major players in the development of the modern art theatre and the growing urban entertainment industry. Jews were welcomed in the relatively liberal ‚show business.‚ By exploring the Jewish drama and examining a range of Jewish plays, films, and broadcasts, students in the course will, hopefully, gain significant insights into important issues of ethnic identification and assimilation, political repression, Jewish self-hatred, gender construction, and the influence that popular performance culture, both lowbrow and highbrow, has had on Jewish history, western social history, and our own performance of self.<br><em><br>Meets general academic requirements HU and DE.</em></p>
+    </div>
+  </div>
+</div><h4><strong>Culminating Undergraduate Experience (CUE) Seminar</strong></h4>
+<p>All majors must take the CUE seminar and produce a culminating research project during the final year of the major.</p><h4><strong>Language Courses</strong></h4>
+<p>Only one language course may be counted toward the Jewish studies minor and a maximum of two toward the Jewish studies major.</p><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HBW1012" 
+     aria-expanded="false" 
+     aria-controls="HBW1012">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HBW101">
+      <p class="panel-title pull-left">
+          HBW 101 Elementary Hebrew I
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HBW1012" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HBW101">
+    <div class="panel-body">
+        <p>An introduction to basic grammar and vocabulary as well as communication skills in Hebrew within its cultural contexts. Students will use a variety of authentic text and media resources to acquire and enhance linguistic skills. The first semester is designed for students with no knowledge of or with a weak background in Hebrew; the second is for students with limited but residual previous exposure to Hebrew. Assignment by placement test. Four class hours per week plus Language Learning Center assignments.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HBW1022" 
+     aria-expanded="false" 
+     aria-controls="HBW1022">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HBW102">
+      <p class="panel-title pull-left">
+          HBW 102 Elementary Hebrew II
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HBW1022" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HBW102">
+    <div class="panel-body">
+        <p>An introduction to basic grammar and vocabulary as well as communication skills in Hebrew within its cultural contexts. Students will use a variety of authentic text and media resources to acquire and enhance linguistic skills. The first semester is designed for students with no knowledge of or with a weak background in Hebrew; the second is for students with limited but residual previous exposure to Hebrew. Assignment by placement test. Four class hours per week plus Language Learning Center assignments.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HBW2032" 
+     aria-expanded="false" 
+     aria-controls="HBW2032">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HBW203">
+      <p class="panel-title pull-left">
+          HBW 203 Intermediate Hebrew I
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HBW2032" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HBW203">
+    <div class="panel-body">
+        <p>An accelerated review of basic Hebrew grammar through speaking, reading, writing, and other linguistically appropriate activities. The introduction of more advanced grammatical structures and a variety of authentic text and multimedia resources will enhance the students‚ linguistic skills and sociocultural awareness of the Hebrew speaking world. The development of functional skills and communicative ability is emphasized. Students also acquire the linguistic tools needed to continue learning Hebrew as it pertains to their fields of interest. Assignment by placement test. Three class hours per week plus Language Learning Center assignments.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#HBW2042" 
+     aria-expanded="false" 
+     aria-controls="HBW2042">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="HBW204">
+      <p class="panel-title pull-left">
+          HBW 204 Intermediate Hebrew II
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="HBW2042" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="HBW204">
+    <div class="panel-body">
+        <p>An accelerated review of basic Hebrew grammar through speaking, reading, writing, and other linguistically appropriate activities. The introduction of more advanced grammatical structures and a variety of authentic text and multimedia resources will enhance the students‚ linguistic skills and sociocultural awareness of the Hebrew speaking world. The development of functional skills and communicative ability is emphasized. Students also acquire the linguistic tools needed to continue learning Hebrew as it pertains to their fields of interest. Assignment by placement test. Three class hours per week plus Language Learning Center assignments.</p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">Contact</span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Jessica Cooperman</span>
+													</h2>
+													<div class="contact_title" itemprop="jobTitle">
+														<span class="contact_title_label">Director of Jewish Studies</span>
+													</div>
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:jessicacooperman@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">jessicacooperman@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3435">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3435</span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">Jewish Studies</span>
+														<span class="contact_type_address_label">Moyer 226</span>
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Community Resources | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Community Resources">
+  
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/student-life/studentservices/">Student Services</a></li><li class="linkitem"><a href="/financialhardship/">Financial Hardship</a></li><li class="linkitem"><a href="/financialhardship/resources/">Resources</a></li><li class="linkitem"><a href="/financialhardship/resources/communityresources/">Community Resources</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Community Resources</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Community Resources">
+							<span class="sub_nav_handle_label">Community Resources</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/financialhardship/resources/mulecommunitycabinet/">M.U.L.E. Community Cabinet</a></li><li class="sub_nav_item"><a href="/financialhardship/resources/on-campusresources/">On-Campus Resources</a></li><li class="sub_nav_item"><a href="/financialhardship/resources/off-campusresources/">Off-Campus Resources</a></li><li class="sub_nav_item"><a href="/financialhardship/resources/onlineresources/">Online Resources</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/financialhardship/resources/communityresources/">Community Resources</a></span></li><li class="sub_nav_item"><a href="/financialhardship/resources/submitaresource/">Submit a Resource</a></li><li class="sub_nav_item"><a href="/financialhardship/housingandfoodinsecurityconcerns/">Housing and Food Insecurity</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/student-life/studentservices/">Student Services</a></li><li class="linkitem"><a href="/financialhardship/">Financial Hardship</a></li><li class="linkitem"><a href="/financialhardship/resources/">Resources</a></li><li class="linkitem"><a href="/financialhardship/resources/communityresources/">Community Resources</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p>These are some compiled resources for folks in the Lehigh Valley. We recognize this list is not exhaustive, and might fall out of date quickly, so we direct you to visit the United Way of the Greater Lehigh Valley‚s <a href="https://www.unitedwayglv.org/gethelp">COVID-19 resource page</a>, dial 211 or <a href="https://www.uwp.org/programs/2-1-1/">visit 211 online</a> or utilize <a href="https://www.valleyyouthhouse.org/covid-19-resources-for-youth-families/?fbclid=IwAR0TezQ3OVBeXsrf1kL_a0aib6lwQ1et1KuwmvfjoDBxOCrLYF9CRNilIpQ">this website</a> compiled by Valley Youth House for further information. Below are some resources divided by topic area.&nbsp;</p>
+<p><strong>Health</strong></p>
+<p style="padding-left: 30px;"><strong>NHCLV</strong>- Neighborhood Health Clinic of the Lehigh Valley- Federally Qualified Healthcare Center&nbsp;</p>
+<p style="padding-left: 30px;">Allentown Health Center:<br>(located inside Casa Guadalupe Center)<br><a href="https://www.google.com/maps/dir//218+North+2nd+Street,+Allentown,+PA+18102">218 North 2nd Street, Allentown, PA 18102<br></a>Phone- 610-841-8400<br><a href="https://www.nhclv.org/health-centers/allentown-es/">https://www.nhclv.org/health-centers/allentown-es/</a><a href="https://www.nhclv.org/health-centers/allentown-es/"><br></a><a href="https://www.nhclv.org/health-centers/allentown">https://www.nhclv.org/health-centers/allentown</a><a href="https://www.nhclv.org/health-centers/allentown/">/<br><br></a></p>
+<p style="padding-left: 30px;">Bethlehem Health Center: <br>Fowler Family Health Center<br>(inside Donegan Elementary School)<br><a href="https://www.google.com/maps/dir//1210+East+4th+Street,+Bethlehem,+PA+18015">1210 East 4th Street, Bethlehem, PA 18015<br></a>En espanol: <a href="https://www.nhclv.org/health-centers/bethlehem-es/">https://www.nhclv.org/health-centers/bethlehem-es/</a><a href="https://www.nhclv.org/health-centers/bethlehem-es/"><br></a>In English: <a href="https://www.nhclv.org/health-centers/bethlehem/">https://www.nhclv.org/health-centers/bethlehem/</a><a href="https://www.nhclv.org/health-centers/bethlehem/"><br><br></a></p>
+<p style="padding-left: 30px;">Easton Health Center:<br>Two Rivers Health and Wellness Building<br><a href="https://www.google.com/maps/dir//1101+Northampton+Street,+Easton,+PA+18042">1101 Northampton Street, Easton, PA 18042<br></a>PHONE: 484-544-3113<br><a href="https://www.nhclv.org/health-centers/easton/">https://www.nhclv.org/health-centers/easton/</a><a href="https://www.nhclv.org/health-centers/easton/"><br></a><a href="https://www.nhclv.org/health-centers/easton-es/">https://www.nhclv.org/health-centers/easton-es/</a><a href="https://www.nhclv.org/health-centers/easton-es/"><br></a><strong><strong>&nbsp;</strong></strong></p>
+<p style="padding-left: 30px;"><strong>WIC </strong>Pennsylvania - Women, Infant &amp; Children‚s Food and Nutrition Program</p>
+<p style="padding-left: 60px;">610-435-5673 for appointment at Casa Guadalupe WIC Center, 218 N 2nd St., Allentown, PA 18102</p>
+<p style="padding-left: 60px;">610-691-6491 for appointment at Hispanic Center of the Lehigh Valley, 502 E. 4th St., 2nd FL, Bethlehem, PA 18015-1882</p>
+<p style="padding-left: 30px;">WIC Online:<br>En espanol: <a href="https://www.pawic.com/BienvenidosWIC.aspx">https://www.pawic.com/BienvenidosWIC.aspx</a><a href="https://www.pawic.com/BienvenidosWIC.aspx"><br></a>In English: <a href="https://www.pawic.com/default.aspx">https://www.pawic.com/default.aspx</a></p>
+<p style="padding-left: 30px;">Many grocery stores accept WIC benefits as payment for items intended for your youngest kid at home (WIC supports kids under age 5).<br><br></p>
+<p style="padding-left: 30px;"><strong>Sobriety &amp; Support Meetings </strong>- Some AA locations are closed but others are hosting online <a href="https://www.aalv.org/meetings">https://www.aalv.org/meetings</a>. If you choose to continue meeting with your support group, please practice social distancing.&nbsp;</p>
+<p style="padding-left: 30px;"><a href="https://www.na.org/meetingsearch/text-results.php?country=USA&amp;state=Pennsylvania&amp;city=Lehigh%20Valley&amp;zip=&amp;street=&amp;within=20&amp;day=0&amp;lang=&amp;orderby=distance">Same with NA</a> - some online meetings because most are not meeting in person.&nbsp;</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>Mental Health Focus</strong></p>
+<p style="padding-left: 30px;"><strong>NAMI </strong>(National Alliance on Mental Illness) Lehigh Valley - NAMI offers general support through phone in addition to support groups on zoom for general, family and peer support.<br>Online:&nbsp; <a href="http://www.nami-lv.org">www.nami-lv.org</a></p>
+<p style="padding-left: 30px;">Support group info:<br><a href="http://www.nami-lv.org/wp-content/uploads/2020/05/zoom-support-group-flyer-pdf.pdf">http://www.nami-lv.org/wp-content/uploads/2020/05/zoom-support-group-flyer-pdf.pdf</a>&nbsp;<br><br></p>
+<p style="padding-left: 30px;"><strong>Open Path Collective </strong>-&nbsp; During these challenging times, we remain dedicated to connecting clients with therapists offering affordable care. Many of our therapists are transitioning to online sessions until this crisis passes (and still, there are some that will work with you, in-person).&nbsp; To search for online therapy, look for the online therapy option in the left sidebar. Then, choose your state. You will then see a list of therapists who are licensed in your state to work online with you.&nbsp; &nbsp;</p>
+<p style="padding-left: 30px;">Online: <a href="https://openpathcollective.org/">https://openpathcollective.org/</a><a href="https://openpathcollective.org/"><br><br></a></p>
+<p style="padding-left: 30px;"><strong>Muhlenberg College</strong> - campus resource page:<br><a href="https://www.muhlenberg.edu/offices/counseling/informationforstudents/self-helpforstudents/usefullinks/">https://www.muhlenberg.edu/offices/counseling/informationforstudents/self-helpforstudents/usefullinks/</a><a href="https://www.muhlenberg.edu/offices/counseling/informationforstudents/self-helpforstudents/usefullinks/"><br><br></a></p>
+<p style="padding-left: 30px;"><strong>Psychology Today </strong>- search for local providers and filter by insurance, zip code, etc.<br> Online: <a href="http://www.pyschologytoday.com">www.pyschologytoday.com</a><a href="http://www.pyschologytoday.com"><br><br></a></p>
+<p style="padding-left: 30px;"><strong>Virtual Therapy Tools </strong>- there are many online resources available at this time to find a therapist online.&nbsp; There are also many virtual tools including applications to support mindful action.<br><br></p>
+<p style="padding-left: 30px;"><strong>Mindfulness Apps</strong> -&nbsp; Some of the apps below have a cost, while others are free.<strong>&nbsp;&nbsp;</strong></p>
+<p style="padding-left: 60px;">Mindshift - uses and teaches Cognitive Behavioral Therapy (CBT) tools to help alleviate anxiety. Features include: Coping skills, journal, check-in, healthy habits etc. <em>Free</em></p>
+<p style="padding-left: 60px;">Headspace - Relaxation, meditation and mindfulness tools. Annual fee but offering a free content package during pandemic. Educator/student discount as well. Limited free features, $95/year</p>
+<p style="padding-left: 60px;">Calm - Relaxation and meditation with main focus on healthy sleep and mindfulness. Limited free version, $70/year</p>
+<p style="padding-left: 60px;">Happify - Focus on gratitude, empathy and healthy living with tips, activities and games. Extensive free features, $12/month</p>
+<p style="padding-left: 60px;">Mood Path - Geared towards managing depressive symptoms. Free with In-app purchases</p>
+<p style="padding-left: 60px;">Sanvello - Free access during pandemic; self-care courses, track habits, goals, mood. Geared towards managing depressive symptoms.&nbsp;<br><br></p>
+<p style="padding-left: 30px;"><strong>Insurance</strong> - Most insurance plans include behavioral health as part of the benefits. Be sure to check with your insurance provider that behavioral health is included and if you have an individual/family deductible you need to meet. You may also want to familiarize yourself with the out-of-network policy in case the provider you choose is out-of-network. During the pandemic, some insurance companies have temporarily waived copays for behavioral health visits.&nbsp;</p>
+<p style="padding-left: 30px;">To Find a Therapist Through Insurance: Call the number on the back of your insurance card to hear a list of providers in your area. Alternatively, visit your insurance network‚s website to obtain a more comprehensive list. Call or send an email to the provider you‚re looking to work with to check their availability as well as if they are accepting new clients.&nbsp;</p>
+<p style="padding-left: 30px;">Internet Search: Open search engine and type ‚Mental Health + zip code‚ or ‚Counselor + Zip code + speciality‚ for example: ‚Therapist + 18045 + anxiety‚. Visiting their profiles or websites can give you an idea of what type of therapy they offer and see if they‚d be a good fit. Most providers offer a free 10 minute consultation where you can ask questions to gauge your own comfortability such as ‚What types of concerns/issues do you treat?‚ ‚What does a typical session look like?‚ ‚What‚s your approach?‚ Most providers are practicing telehealth right now so be prepared to start with your therapist virtually instead of in person.&nbsp;<br><br></p>
+<p><strong>Housing</strong></p>
+<p style="padding-left: 30px;">UPDATE: An executive order was signed on 5.7.20 that will protect Pennsylvanians from foreclosures or evictions through 7.10.20.<br><br></p>
+<p style="padding-left: 30px;"><strong>Renters</strong> - people residing in rental properties who are currently concerned about paying their rent can not be evicted until May 11 (later in some cases).&nbsp; There are resources available to support renters and if evicted after the May 11 date renters are not required to vacate properties until August 24.</p>
+<ul>
+<li>Renters cannot be <a href="http://www.pacourts.us/assets/files/page-1305/file-9159.pdf"><strong>evicted</strong></a> until May 11(Now July 10)</li>
+<li><a href="https://www.hud.gov/topics/rental_assistance"><strong>Rental assistance</strong></a> is available through HUD</li>
+<li>Renters in apartment complexes whose owners have federally-backed loans (<a href="https://myhome.freddiemac.com/rent/relief_mf_landlords_renters.html"><strong>Freddie Mac</strong></a>, <a href="https://multifamily.fanniemae.com/sites/g/files/koqyhd161/files/2020-03/covid-19-disaster-response_1.pdf"><strong>Fannie Mae</strong></a>, or HUD) cannot be evicted until July 25</li>
+<li>Renters will not be charged any fees related to nonpayment of rent during this time</li>
+<li>The earliest that evicted renters will be required to vacate the property is Aug. 24</li>
+</ul>
+<p style="padding-left: 30px;">Resource (UW of PA): <a href="https://www.uwp.org/pacovid/">https://www.uwp.org/pacovid/</a><a href="https://www.uwp.org/pacovid/"><br><br></a></p>
+<p style="padding-left: 30px;"><strong>Homeowners - </strong>There are resources for those impacted by COVID 19 and specific resources for home loans backed by Veterans Affairs (VA).</p>
+<ul>
+<li>Homeowners cannot be <a href="http://www.pacourts.us/assets/files/page-1305/file-9159.pdf"><strong>foreclosed</strong></a> upon until May 11 (Now July 10)</li>
+<li>Homeowners impacted by COVID-19 are eligible for a mortgage forbearance for up to 12 months (if mortgage is through <a href="https://www.knowyouroptions.com/covid19assistance"><strong>Fannie Mae</strong></a> or <a href="https://myhome.freddiemac.com/own/getting-help-disaster.html"><strong>Freddie Mac</strong></a>)</li>
+<li>Single-family homeowners with FHA-insured mortgages cannot be <a href="https://www.hud.gov/press/press_releases_media_advisories/HUD_No_20_042"><strong>foreclosed</strong></a> upon until May 18, 2020</li>
+<li>CFPB guidelines for <a href="https://www.consumerfinance.gov/about-us/blog/guide-coronavirus-mortgage-relief-options/"><strong>COVID-19 mortgage relief options</strong></a></li>
+<li><strong>Hotline for VA-Backed Home Loans:</strong> 1-877-827-3702</li>
+</ul>
+<p style="padding-left: 30px;">Resource (UW of PA): <a href="https://www.uwp.org/pacovid/">https://www.uwp.org/pacovid/</a><a href="https://www.uwp.org/pacovid/"><br><br></a></p>
+<p style="padding-left: 30px;"><strong>Homelessness</strong> - for those experiencing homelessness at this time.</p>
+<p style="padding-left: 30px;"><strong>Call the United Way Help Hotline dial: 211</strong>-- this resource assists within placement of families experiencing homelessness and need for additional resources.&nbsp;</p>
+<p style="padding-left: 30px;">Online: <a href="https://www.uwp.org/programs/2-1-1/">https://www.uwp.org/programs/2-1-1/</a></p>
+<p style="padding-left: 30px;"><strong>Gateway Center at the Rescue Mission</strong> (men only) - a one night voucher can be obtained from the Allentown Police Department. The voucher must be used the night of the date it is obtained. During the evolving pandemic of the Coronavirus, the Allentown Rescue Mission has stayed open and continues to accept men.&nbsp;</p>
+<p style="padding-left: 30px;">The Rescue Mission <br>(610) 740-5500<br><a href="mailto:info@armpa.org">info@armpa.org</a><a href="mailto:info@armpa.org"><br></a>355 W. Hamilton Street, PO Box 748<br>Allentown, Pennsylvania 18105</p>
+<p style="padding-left: 30px;"><strong>The Synergy Project </strong>(Valley Youth House) - The Synergy Project supports youth experiencing homelessness and living in non-permanent structures.&nbsp; The Project supplies camping gear and hygiene products.</p>
+<p style="padding-left: 30px;">Phone: (484) 866-5556&nbsp;</p>
+<p style="padding-left: 30px;"><strong>Pathways Housing Services </strong>(Lehigh Conference of Churches)<br>1031 W Linden Street<br>Allentown, PA 18102<br>Online: <a href="https://lehighchurches.org/what-we-do/pathways-housing-services/">https://lehighchurches.org/what-we-do/pathways-housing-services/</a><a href="https://lehighchurches.org/what-we-do/pathways-housing-services/"><br></a>Phone: 610-439-8653<br>Call for current information and support.<br><br></p>
+<p><strong>Meals &amp; Food Insecurity</strong></p>
+<p style="padding-left: 30px;"><strong>Daybreak</strong> - Daybreak is a drop in center which also serves 3 meals per day to members (Need original form filed out by MH physician/therapist).&nbsp; Currently the center is closed, but staff continued to connect with members remotely and to do a weekly food distribution from the site for enrolled Daybreak members.&nbsp;</p>
+<p style="padding-left: 30px;">457 W Allen St, Allentown, PA 18102<br>Online: <a href="https://lehighchurches.org/what-we-do/daybreak/">https://lehighchurches.org/what-we-do/daybreak/</a><a href="https://lehighchurches.org/what-we-do/daybreak/"><br></a>Phone: (610) 820-5049<br>Please call ahead if wanting to become a member of Daybreak.<br><br></p>
+<p style="padding-left: 30px;"><strong>Salvation Army-</strong> Food Bank on Wednesdays.&nbsp; <br>Call: 610-432-0129.&nbsp; <br>Pick up location: 144 N. 8th Street Allentown<br><strong><strong>&nbsp;</strong></strong></p>
+<p style="padding-left: 30px;"><strong>Jewish Family Services-&nbsp; </strong>Food pantry services are currently closed, however Jewish Family Services ask families in need of food to call the number below so they can offer support.<br><br>Call Rebecca Axelrod-Cooper: 610-821-8722 ext 105&nbsp;<br><br></p>
+<p style="padding-left: 30px;"><strong>Allentown YMCA</strong> (and many area YMCAs) will serve Grab &amp; Go meals to youth 18 and under ‚ no Y membership required. Meals are available Mondays, Wednesdays, and Fridays (serving multiple days of meals together extra on Fridays for the weekend).</p>
+<p style="padding-left: 60px;">Allentown: 425 S. 15th Street, Allentown, PA 18102 4-5 pm</p>
+<p style="padding-left: 60px;">Bethlehem: 430 E. Broad Street, Bethlehem, PA 18018 4-5 pm</p>
+<p style="padding-left: 60px;">Fountain Hill Park: 1301 Stanley Ave., Fountain Hill, PA 18015 5-6 pm</p>
+<p style="padding-left: 60px;">Lynfield Community Center: 1889 Lynfield Dr., Bethlehem, PA 18015 4-5 pm</p>
+<p style="padding-left: 60px;">Macungie Memorial Park: Main Parking Lot, 50 N Poplar St., 5-6 pm<br><br></p>
+<p style="padding-left: 30px;"><strong>On Campus - M.U.L.E. Community Cabinet </strong>(located in the lower level of Seegers Union). The Muhlenberg Useful Living Essentials <a href="https://www.muhlenberg.edu/financialhardship/resources/mulecommunitycabinet/">(M.U.L.E.) Community Cabinet</a> provides non-perishable food items, school supplies, and hygiene products to the student body. All Muhlenberg students are welcome to take items from the cabinet which is located in the lower level of Seegers Union in room 059.&nbsp;</p>
+<p style="padding-left: 30px;">Current hours are by appointment. <br>Email <a href="mailto:mulecabinet@muhlenberg.edu">mulecabinet@muhlenberg.edu</a> if you need access.&nbsp;</p>
+<p style="padding-left: 30px;"><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>Utilities</strong></p>
+<p style="padding-left: 30px;"><strong>PPL Electric</strong>: <a href="https://www.pplelectric.com/landing-pages/coronavirus.aspx">https://www.pplelectric.com/landing-pages/coronavirus.aspx</a><a href="https://www.pplelectric.com/landing-pages/coronavirus.aspx"><br></a>A variety of payment assistance programs are available if you‚re struggling to pay your bill during this time.</p>
+<p style="padding-left: 30px;">OnTrack offers a lower, fixed monthly bill and debt forgiveness for customers who are income-eligible.</p>
+<p style="padding-left: 30px;">Operation HELP is a fund supported by our company, employees and customers. It provides grants to help eligible customers pay their heating bills. We‚re happy to say that our PPL Foundation recently donated an extra $500,000 to Operation HELP and we have extended eligibility to customers with income up to 250% of the poverty line.</p>
+<p style="padding-left: 30px;">Budget billing can smooth out your payments so they‚re consistent and predictable throughout the year.</p>
+<p style="padding-left: 30px;">Installment billing: PPL may be able to set you up with a payment arrangement to split up past due balances into installments.<br><br></p>
+<p style="padding-left: 30px;"><strong>UGI Gas Company</strong>: <a href="https://www.ugi.com/covid-19-response-plan">https://www.ugi.com/covid-19-response-plan</a><a href="https://www.ugi.com/covid-19-response-plan/">/<br></a>If you are having payment difficulties, please call our office to discuss your options. We will help you determine which payment plans or programs will best meet your current needs. UGI Customer Care team is available 8:00 a.m. to 5:00 p.m. Monday through Friday.&nbsp;</p>
+<p style="padding-left: 30px;">Please call 800-276-2722 or review UGI<a href="https://www.ugi.com/covid-19-response-plan/#faq"> Frequently Asked Questions</a>.<br><br></p>
+<p style="padding-left: 30px;"><strong>Mobile Carriers</strong> - during COVID 19 mobile carriers are offering bill forgiveness and temporary unlimited Data.&nbsp; National carriers, including AT&amp;T and T-Mobile are offering both bill forgiveness and temporary unlimited data for all customers.&nbsp;</p>
+<p style="padding-left: 60px;">AT&amp;T: Additional steps from AT&amp;T include offering open hotspots, suspending broadband usage caps, and pausing service termination. More details are shared on the AT&amp;T website.&nbsp;</p>
+<p style="padding-left: 60px;">T-Mobile is offering unlimited data for 60 days, extending limited hotspots, offering additional international services, and creating bill payment arrangement. More details are shared on the T-Mobile website.&nbsp;</p>
+<p style="padding-left: 60px;">Verizon is waiving late fees for 60 days and suspending customer termination, offering free international calling, and waiving activation fees. Verizon has additional resources available on its website.&nbsp;</p>
+<p style="padding-left: 60px;">Charter Communications is offering free access to Spectrum Broadband and Wi-Fi for 60 days. Details are available on the Charter website.&nbsp;</p>
+<p style="padding-left: 60px;">Sprint: Similarly, Sprint is offering unlimited data for existing customers and hot-spots for 60 days at no extra charge with details on the Sprint website.<br><br></p>
+<p style="padding-left: 30px;"><strong>Virtual Textbooks</strong> - VitalSource is Offering Free Access to Textbooks from Major Publishers.&nbsp; VitalSource is a company that offers Bookshelf. In light of COVID-19, Bookshelf is offering access to an expansive, curated catalog of etexts from participating publishers, available through May 25, 2020.&nbsp; Publishers include Wiley, Cengage, Pearson, Macmillan, and McGraw-Hill. Students and faculty can both take advantage of this offering by <a href="https://bookshelf.vitalsource.com/#/user/signin">creating an account on the Bookshelf website</a>.<br><br></p>
+<p style="padding-left: 30px;"><strong>Low-Cost Mobile Service</strong> - SafeLink Wireless is a mobile phone service provider for individuals enrolled in government support programs, such as Medicaid and food stamp programs. The actual network depends on the region in which the individual lives. All services are provided on a no-contract basis through TracFone Wireless, Inc.&nbsp;</p>
+<p style="padding-left: 30px;">Online: safelinkwireless.com&nbsp;</p>
+<p style="padding-left: 30px;"><a href="https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/newHome">More information, including checking availability and submitting the proper application documentation, is available on the SafeLink website</a>.<br><br></p>
+<p style="padding-left: 30px;"><strong>Low-Cost Computers and Laptops</strong> - Internet Essentials, the low-cost internet package available for low-income families through Comcast, already offers discounted laptops and desktop computers. Once you are an Internet Essentials customer, you have the option to purchase one. The steps include completing a brief online application and then placing the order online or over the phone.&nbsp;</p>
+<p style="padding-left: 30px;">Online: internetessentials.com</p>
+<p style="padding-left: 30px;"><a href="https://www.internetessentials.com/low-cost-computer">Specifics regarding how to take advantage of this program are available on the Internet Essentials website</a>.</p>
+<p><strong><br>Finances</strong></p>
+<p style="padding-left: 30px;"><strong>Free stimulus check cashing - </strong><a href="https://www.lehighvalleyfoundation.org/news/press-releases/lehigh-valley-area-banks-offering-free-stimulus-check-cashing">https://www.lehighvalleyfoundation.org/news/press-releases/lehigh-valley-area-banks-offering-free-stimulus-check-cashing</a>&nbsp;</p>
+<p style="padding-left: 30px;"><strong><br><strong>Unemployment benefits- </strong><a href="https://www.careeronestop.org/WorkerReEmployment/UnemploymentBenefits/unemployment-benefits.aspx">https://www.careeronestop.org/WorkerReEmployment/UnemploymentBenefits/unemployment-benefits.aspx</a></strong></p></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

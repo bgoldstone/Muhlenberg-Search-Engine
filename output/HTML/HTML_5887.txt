@@ -1,0 +1,1452 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Academic Advising Guide | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Academic Advising Guide">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/">Dean of Academic Life</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/">Academic Advising</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/">Academic Advising Guide</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Academic Advising Guide</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_4">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/">Dean of Academic Life</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/">Academic Advising</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/">Academic Advising Guide</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Academic Advising Guide</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Academic Advising Guide">
+							<span class="sub_nav_handle_label">Academic Advising Guide</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                <!--
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><span class="currentbranch0"><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/">Academic Advising Guide</a></span></li><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/academicdepartmentchairs/">Academic Department Chairs</a></li><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/courseplacementinformation/">Course Placement Information</a></li><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/recommendedcoursesbydepartmentsprograms/">Recommended Courses by Departments &amp; Programs</a></li><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/referralguide/">Referral Guide</a></li></ul>
+                -->
+                <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/academicdepartmentchairs/">Academic Department Chairs</a></li>
+<!---->
+
+<li class="sub_nav_item"><a href="http://catalog.muhlenberg.edu/content.php?catoid=9&amp;navoid=156">Academic Policies and Procedures/College Catalog</a></li>
+<li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/courseplacementinformation/">Course Placement Information</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/recommendedcoursesbydepartmentsprograms/">Recommended Courses by Departments &amp; Programs</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/referralguide/">Referral Guide</a></li>
+<!---->
+</ul>
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/">Dean of Academic Life</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/">Academic Advising</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/">Academic Advising Guide</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p>Academic advising plays an important role in the development of our students beginning with the transition from high school to college and throughout their college experience.&nbsp; Academic advisors are one of the few sustained relationships with the college and the quality of this relationship is important for student success and engagement. Results from the national 2020 NSSE student survey (see below) of first year and senior year students suggests that the quality of academic advising is crucial to student success and engagement.</p>
+<p>While our conversations with advisees change as students move through the curriculum and engage in new opportunities, at the heart of advising are several core conversations that ensure that they are on the right path to graduate and that they have engaged in meaningful conversations about life beyond college.&nbsp;&nbsp;</p>
+<p><span>As an advisor, you are not expected to know all the ins and outs of every major, minor or program or policy. You are not expected to know all the details about how to petition for an exception to policy, or what happens if a student misses a deadline, but you should know where to find that information. Also, you should be able to direct the student to any resources on campus they need to help them become successful. The aim of this&nbsp;webpage is to provide information that may be useful as you work with your advisees. On the pages that follow, you will find a list of contacts for more information about a wide variety of topics and then specific information about each major and program we offer.</span></p>
+<p style="text-align: center;"><strong>Thank you for your willingness to serve and advise our students!</strong></p></div>
+
+</div>
+</div>
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#content-info-virtual-files2" 
+     aria-expanded="false" 
+     aria-controls="content-info-virtual-files2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="content-info-virtual-files">
+      <p class="panel-title pull-left">
+          Virtual Advising Files
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="content-info-virtual-files2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="content-info-virtual-files">
+    <div class="panel-body">
+        <h3>How to Locate Virtual Student Advisee Files</h3>
+<h5>Class of 2024, 2025 and Transfer student file instructions</h5>
+<p>All student files will be virtual and accessed through Google Drive.&nbsp; Having one folder for each student will allow advisors and academic staff to share information or keep some information private, as needed, reduce redundancy and provide a more holistic view of our students. Follow the instructions below to access your advisees<span>â</span> files.&nbsp; If you have any questions, please contact Phedra Henninger at <a href="mailto:phedrahenninger@muhlenberg.edu">phedrahenninger@muhlenberg.edu</a>.</p>
+<ul>
+<li>Launch the Google Drive app (<a href="https://drive.google.com/" target="_blank">https://drive.google.com/</a>)</li>
+<li>Select Shared Drives in the left side panel</li>
+<li>For Summer Advising - choose 2021 Summer Advising folder, then choose your folder (e.g. Deegan, Michele), then choose the student's folder</li>
+<li>For Orientation and beyond - open the folder named <strong>ADV: Last Name, First Name</strong> (e.g., ADV: Deegan, Michele)</li>
+<li>Advisee folders can found in this shared drive with the naming convention Student Last Name, Student First Name (e.g, Henninger, Phedra)</li>
+<li>As a Content Manager of this Shared Drive, you may add additional files and folder and assign rights to individual files on case by case basis</li>
+<li><a href="https://muhlenbergcollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=512a00de-d7c2-40ce-afae-acea003e2e96" target="_blank">Watch the video tutorial to learn more</a></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-guidelines2" 
+     aria-expanded="false" 
+     aria-controls="advising-guidelines2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-guidelines">
+      <p class="panel-title pull-left">
+          Advising Guidelines
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-guidelines2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-guidelines">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">There are many reasons why you or your advisee may decide to meet, including a discussion of their course of study, graduation requirements, post graduation plans, academic or personal challenges, requests for letters of recommendation, to name a few.&nbsp; As a partner in student success, you play a vital role in information dissemination, providing support and encouragement to your advisee.&nbsp;</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">At minimum, you must meet with your advisees prior to registration for the upcoming semester.&nbsp; However, you donât have to wait for an advisee to initiate a conversation, particularly if you receive a correspondence from the Academic Resource Center or another faculty or staff member who is concerned about your advisee.&nbsp; An advising schedule will help to ensure that you have good interaction with your advisees.&nbsp; Possible times to meet with your advisees include:</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">At the beginning of each semester to review course selections and any changes to their academic plans, new opportunities and reminders about the academic calendar (e.g., drop/add dates, withdraw, internship, study abroad deadlines).</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The student is experiencing academic difficulties that are reported by the student, a faculty member, Academic Resource Center staff or the Dean of Academic Life.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Contact students prior to registration to discuss course options and program requirements.</span></li>
+</ul>
+<li><span style="font-weight: 400;"></span> <span style="font-weight: 400;">A studentâs file is confidential, open only to the student and you. It is illegal to&nbsp;<span>discuss a studentâs record with other students. Faculty should not discuss a student's academic situation with a parent/guardian unless the student has given the parent/guardian permission (THIRD PARTY PERMISSION IN WORKDAY) to do so. It is preferrable that you do not talk directly with parents/guardians without consent of the student even with this permission and it is preferable that you engage with the Dean of Academic Life before engaging with a parent/guardian as we want students to learn how to manage difficult situations as independent adults.&nbsp;&nbsp;</span></span></li>
+<li><span style="font-weight: 400;"></span> <span style="font-weight: 400;">Allow adequate time for your advising appointment.&nbsp; First Year student advising </span> <span style="font-weight: 400;">takes longer than for students in other class years.&nbsp; Pre-registration advising may </span> <span style="font-weight: 400;">take longer for a new major.&nbsp; A good rule of thumb is to allow for a&nbsp; minimum of </span> <span style="font-weight: 400;">45 minutes per advising session for a FY student and 30 minutes for other </span> <span style="font-weight: 400;">meetings.</span><span style="font-weight: 400;"></span></li>
+<li><span style="font-weight: 400;"><span style="font-weight: 400;">Familiarize yourself with online academic advisor resources found at&nbsp;</span></span><span style="font-weight: 400;"><a href="/offices/deanofacademiclife/academicadvising/">Academic Advising</a></span><span style="font-weight: 400;"><span>&nbsp;</span>and, as needed, the our catalog for academic policies<span>&nbsp;</span></span><a href="http://catalog.muhlenberg.edu/"><strong><em>catalog.muhlenberg.edu</em></strong></a><span style="font-weight: 400;">.&nbsp; Any changes to academic policies during the<span>&nbsp;</span></span><span style="font-weight: 400;">academic year will be posted on the Dean of Academic Life Advising webpage<span>&nbsp;</span></span><span style="font-weight: 400;">and on the Office of the Registrar webpage.</span></li>
+<li><span style="font-weight: 400;"> </span> <span style="font-weight: 400;">Ensure that you ask a studentâs preferred name and pronouns and share this </span> <span style="font-weight: 400;">information about yourself to your students.</span></li>
+<li><span style="font-weight: 400;">Academic advisers, as are all employees of the college, are required to contact </span> <span style="font-weight: 400;">the Title IX Coordinator if a student shares information related to a sex or gender </span> <span style="font-weight: 400;">based harassment incident including, but not limited to: sexual harassment, </span> <span style="font-weight: 400;">sexual misconduct, intimate partner violence, domestic violence, stalking and/or </span> <span style="font-weight: 400;">sexual assault.&nbsp; Report this information <a href="/webapps/incidentreporting/">here</a>.</span></li>
+<li><span style="font-weight: 400;"></span> <span style="font-weight: 400;">Make sure your advisee knows about the schoolâs policy regarding academic </span> <span style="font-weight: 400;">integrity. Review the&nbsp;<a href="/offices/deanofacademiclife/integrity/">Academic Integrity Code and Procedures</a>.</span></li>
+<li><span style="font-weight: 400;">If your advisee is facing academic challenges you may want to speak with a </span> <span style="font-weight: 400;">member of the Academic Resources Center, Office of Disability Services or the </span> <span style="font-weight: 400;">Dean of Academic Life prior to your meeting with the student. Professionals in </span> <span style="font-weight: 400;">these offices will be able to provide you with some additional information and </span> <span style="font-weight: 400;">support to guide your conversation.</span></li>
+<li><span style="font-weight: 400;"></span> <span style="font-weight: 400;">Discuss plans for study abroad, internships, independent research, possible </span> <span style="font-weight: 400;">summer study or transfer credits.&nbsp;</span></li>
+<li><span style="font-weight: 400;">You may find yourself talking about non-academic concerns or challenges that </span> <span style="font-weight: 400;">students may be experiencing.&nbsp; Remember, you are a part of a team of </span> <span style="font-weight: 400;">professionals and you should make recommendations to students to reach out to </span> <span style="font-weight: 400;">appropriate other staff on our <a href="/offices/deanofacademiclife/academicadvising/referralguide/">campus referral page</a></span><span style="font-weight: 400;">/or complete</span><span style="font-weight: 400;">&nbsp;an <a href="/webapps/incidentreporting/">incident report.</a></span></li>
+</ol>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#new-advisor-info2" 
+     aria-expanded="false" 
+     aria-controls="new-advisor-info2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="new-advisor-info">
+      <p class="panel-title pull-left">
+          New Advisor Information
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="new-advisor-info2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="new-advisor-info">
+    <div class="panel-body">
+        <p>Whether you are a First Year advisor or an advisor for a major or minor, you play an important role to help students feel connected to our community and all of the rich academic and non-academic resources available to them.&nbsp; During your first meeting, you will begin to forge an important relationship with your advisee that should develop beyond a conversation about graduation requirements. This page provides information to guide your initial conversations.</p>
+<h3>Before your first advising appointment:</h3>
+<ul>
+<ul>
+<li>Class of â22 and â23 hard copy of folders in your departmental office</li>
+<li>Class of â24 and â25 are placed in a Google Shared drive in your advising file</li>
+<li>Check on studentâs academic progress on Workday or other correspondences from the Academic Resource Center or offices or information in the studentâs folder</li>
+</ul>
+<li>Review student virtual files.</li>
+<ul>
+<li>Common App</li>
+<li>High School Transcript</li>
+<li>Summer advising language, math and chem (class 2025) placement scores&nbsp;</li>
+</ul>
+<li>Student Folders will contain:</li>
+<ul>
+<li>Office of Disability Services (ODS) pre advising information</li>
+<li>SAT/ACT score if taken - also on Workday</li>
+<li>If the student is a part of an honorâs program (Dana, EL, MBS, RJ, Shankweiler)</li>
+<li>Notes from DoAL, Registrar, other college offices</li>
+</ul>
+<li>View Readings below and those related to working with Special Populations of Students on this webpage</li>
+<li>Review our catalog for academic policies <a href="http://catalog.muhlenberg.edu/"><strong><em>catalog.muhlenberg.edu</em></strong></a><span style="font-weight: 400;">&nbsp;and check for any academic policy updates on the Office of the Registrar or Dean of Academic</span>Life webpages.</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sample Questions for first meeting to help you in getting to know your advisees:</span>
+<ul>
+<li>What specific academic areas are of greatest interest to you and why?</li>
+<li>How would you describe yourself as a learner?</li>
+<li>What was your most rewarding academic experience in high school or at Muhlenberg?</li>
+<li>What skills do you hope to develop, improve upon, or refine?</li>
+<li>What types of activities/clubs do you plan to (or do) participate in at Muhlenberg?</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Generally, your conversations should cover topics about:
+<ul>
+<li>institutional policies and procedures
+<ul>
+<li>degree requirements</li>
+<li>critical dates and deadlines</li>
+<li>programs of study</li>
+</ul>
+</li>
+<li>the individual student
+<ul>
+<li>core values</li>
+<li>aptitudes/interests</li>
+<li>strengths/areas for improvement</li>
+<li>involvment in extracurricular activities</li>
+</ul>
+</li>
+<li>the future and goal setting
+<ul>
+<li>how students visualize their future personal life and career</li>
+<li>steps to make this a reality related to their college experiece</li>
+<li>how students have changed as a result of their education.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;* adapted from Drake, Jayne, et al. <em>A Faculty Guide to Academic Advising</em>. NACADA, 2009.</p>
+<div></div>
+<h4>&nbsp;</h4>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#pre-registration-advising2" 
+     aria-expanded="false" 
+     aria-controls="pre-registration-advising2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="pre-registration-advising">
+      <p class="panel-title pull-left">
+          Pre-registration advising
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="pre-registration-advising2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="pre-registration-advising">
+    <div class="panel-body">
+        <p>OIT has provided many resources for faculty to use Workday to view student records online.&nbsp; Access at: <a href="https://sites.google.com/muhlenberg.edu/workdaytraining/workday-student" target="_blank">Workday Guides and Tutorials Website</a></p>
+<ul>
+<li>Return to <a href="/offices/deanofacademiclife/academicadvising/">advising guidelines</a> for student file information and catalog for current academic policies <a href="http://catalog.muhlenberg.edu/"><strong><em>catalog.muhlenberg.edu</em></strong></a> Any changes to academic policies adopted during the current year can be found on the Dean of Academic Life advising and the Office of the Registrar webpages.<strong><strong><br></strong></strong></li>
+<li>Check-in</li>
+<li>Is student making adequate progress towards degree completion?</li>
+<li>32 credits (4 courses per semester)</li>
+<li>Cumulative gpa at 2.0 or higher</li>
+<li>Major/minor gpa at 2.0 or higher</li>
+<li>Fulfilling GARs in a timely manner (e.g., PPD taken, moving through other GARs along with major/minor</li>
+<li>During the meeting be sure to communicate registration date and time.</li>
+<li>Discuss upcoming Academic Plan within the larger context of future career and educational plans.</li>
+<li>Discuss plans for study abroad, internships, independent research, possible summer study or transfer credits.</li>
+<li>Remind students of many campus resources available</li>
+<li><a href="/offices/deanofacademiclife/academicadvising/referralguide/">Campus referral resources</a></li>
+<li>Review any readings on working with Special Student Populations on this webpage.</li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#general-advising-readings2" 
+     aria-expanded="false" 
+     aria-controls="general-advising-readings2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="general-advising-readings">
+      <p class="panel-title pull-left">
+           Advising Resources
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="general-advising-readings2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="general-advising-readings">
+    <div class="panel-body">
+        <p>NACADA is the international network for international academic advisors.&nbsp; Their webpage provides useful information on all advising related topics:&nbsp;&nbsp;<a href="https://nacada.ksu.edu/">https://nacada.ksu.edu/</a>.</p>
+<ol>
+<li><a href="https://muhlenberg.on.worldcat.org/v2/oclc/855970107" target="_blank">Academic Advising Approaches : Strategies That Teach Students to Make the Most of College.</a><br>Authors:&nbsp;Jayne K Drake,<span>&nbsp;</span>Peggy Jordan,<span>&nbsp;</span>Marsha A Miller</li>
+<li><a href="https://muhlenberg.on.worldcat.org/v2/oclc/908935647" target="_blank">The new advisor guidebook : Mastering the Art of Academic Advising</a><br>Authors: Pat Folsom (Editor), Franklin L Yoder (Editor), Jennifer Joslin (Editor)</li>
+<li><a href="https://www.activeminds.org/wp-content/uploads/2020/04/Faculty-Resource_Creating-a-Culture-of-Caring.pdf" target="_blank">Creating a Culture of Caring Practical Approaches for College and University Faculty to Support Student Wellbeing and Mental Health Faculty Resource</a><br>by Active Minds and the Association of College and University Educators</li>
+<li><a href="https://www.insidehighered.com/news/2020/12/14/study-abcs-advising-are-listen-respect-care" target="_blank">Thriving in Transitions : a Research-Based Approach to College Student Success</a><br>by Laurie A Schreiner, Michelle C Louis, Denise D Nelson'</li>
+<li><a href="https://muhlenberg.on.worldcat.org/v2/oclc/8671062963" target="_blank">Effective Advising: How Academic Advising Influences Student Learning Outcomes in Different Institutional Contexts</a><br>by Lanlan Mu, Kevin Fosnacht</li>
+<li><strong>The Review of Higher Education</strong><br>Volume 42, Number 4, Summer 2019, pp. 1283-1307 (Article)</li>
+<li><a href="https://www.insidehighered.com/news/2020/12/14/study-abcs-advising-are-listen-respect-care" target="_blank">Advising in the Time of COVID</a><br>by Colleen Flaherty<br>Inside Higher Education December 14, 2020</li>
+<li><a href="https://muhlenberg.on.worldcat.org/v2/oclc/8835679478" target="_blank">If Advising is Teaching, What Do Advisors Teach?</a><br>by Marc Lowenstein, Stockton University<br>NACADA Journal Volume 40(2) 2020</li>
+</ol>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#student-populations2" 
+     aria-expanded="false" 
+     aria-controls="student-populations2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="student-populations">
+      <p class="panel-title pull-left">
+          Advising Resources and Special Populations of Students
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="student-populations2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="student-populations">
+    <div class="panel-body">
+        <p><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/educationstudents/">Education Students</a></p>
+<p><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/firstgenerationstudentsinfo/">First Generation Students</a></p>
+<p><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/firstyearstudentsinfo/">First Year Students&nbsp;</a></p>
+<p><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/genderidentitypronounslgbtq/">Gender identity, pronouns, LGBTQ+</a></p>
+<p><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/internationalstudentsinfo/">International Students</a></p>
+<p><span><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/individualswithdisabilitiesinfo/">Individuals with Disabilities</a></span></p>
+<p><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/prehealthstudents/">Prehealth Students</a>&nbsp;</p>
+<p>Transfer Students&nbsp;<em>(in progress)</em></p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div><!-- Topic Block -->
+						<div class="related_program_block">
+							<div class="fs-row">
+								<div class="fs-cell fs-lg-8">
+									<article class="related_program">
+										<div class="related_program_inner">
+											<div class="related_program_media" aria-hidden="true">
+												<figure class="related_program_figure">
+													<img class="related_program_image" src="/media/muhlenbergedu/contentassets/buildimages/themedgroupings/tower740x416.jpg" alt="Image for Academic Advising: Quality Matters More Than Quantity" itemprop="image" data-caption="Read about NSSE survey results regarding academic advising.">
+												</figure>
+											</div>
+											<div class="related_program_wrapper">
+												<header class="related_program_header">
+													<span class="related_program_label">NSSE survey results</span>
+													<h2 class="related_program_title">Academic Advising: Quality Matters More Than Quantity</h2>
+												</header>
+												<div class="related_program_body">
+													<div class="related_program_description">
+														<p>Read about NSSE survey results regarding academic advising.</p>
+													</div>
+												</div>
+												<footer class="related_program_links">
+													
+                                                  
+                                                    <a class="related_program_link" target="_blank" href="https://nsse.indiana.edu/research/annual-results/past-annual-results/nsse-annual-results-2019/selected-results/academic-advising.html">
+														<span class="related_program_link_label">Learn More</span>
+														<span class="related_program_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+								</div>
+							</div>
+						</div>
+						<!-- END: Topic Block -->					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

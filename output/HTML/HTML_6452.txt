@@ -1,0 +1,1550 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Theatre Faculty &amp; Staff | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Theatre Faculty &amp; Staff">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/thetheatreprogram/">The Theatre Program</a></li><li class="linkitem"><a href="/academics/theatre-dance/thetheatreprogram/theatrefacultystaff/">Theatre Faculty &amp; Staff</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Theatre Faculty &amp; Staff</h1>
+							<p class="page_intro">Profiles &amp; Directory</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Theatre Faculty &amp; Staff">
+							<span class="sub_nav_handle_label">Theatre Faculty &amp; Staff</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                <!--
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatreauds.html">Theatre Auditions &amp; Interviews</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrevideo.html">Meet Our Students</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/performancesphotos/">Performances &amp; Photos</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/">The Theatre Curriculum</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/theatre-dance/thetheatreprogram/theatrefacultystaff/">Theatre Faculty &amp; Staff</a></span></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatreguestartists/">Theatre Guest Artists</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrefacilities/">Theatre Facilities</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/meetouralumni/">Meet Our Alumni</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/admission.html">Admissions &amp; Financial Aid</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrefairs.html">College Fairs</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/missionlearninggoals/">Mission &amp; Learning Goals</a></li><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatre.html">Frequently Asked Questions</a></li></ul>
+                -->
+                <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatreauds.html">Theatre Auditions &amp; Interviews</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrevideo.html">Meet Our Students (Video!)</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/performancesphotos/">Photos &amp; Performances</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/">Explore the Theatre Curriculum</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrefacultystaff/">Faculty &amp; Staff Directory &amp; Bios</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatreguestartists/">Guest Artists</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrefacilities/">Theatre Facilities (Video!)</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/meetouralumni/">Meet Our Alumni</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/admission.html">Admissions &amp; Financial Aid</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatrefairs.html">College Fairs</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/missionlearninggoals/">Mission &amp; Learning Goals</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/theatre.html">Frequently Asked Questions</a></li>
+<!---->
+</ul>
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/thetheatreprogram/">The Theatre Program</a></li><li class="linkitem"><a href="/academics/theatre-dance/thetheatreprogram/theatrefacultystaff/">Theatre Faculty &amp; Staff</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <figure class="block_right">
+<img class="_image" src="/media/contentassets/images/theatreampdance/homepageheader/0213_KEK9508.jpg" alt="" data-caption="">
+</figure>
+<p>This page contains professional&nbsp;profiles and contact information for Theatre Program faculty and staff.</p>
+<p>You can also find&nbsp;<a href="/academics/theatre-dance/thedanceprogram/dancefacultystaffbios/">Dance Program Faculty</a>.</p>
+<p>From off campus, dial <strong>484-664-</strong>&nbsp;plus the four-digit extension. If no number is listed, please call the main Theatre &amp; Dance number, 484-664-3335.</p>
+<p>&nbsp;</p></div>
+
+</div>
+</div>
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#FacultyProfiles2" 
+     aria-expanded="false" 
+     aria-controls="FacultyProfiles2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="FacultyProfiles">
+      <p class="panel-title pull-left">
+          Theatre Faculty
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="FacultyProfiles2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="FacultyProfiles">
+    <div class="panel-body">
+        <table cellpadding="5">
+<tbody>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/peck20-sm.jpg" alt="James Peck" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="peck"></a>James Peck, Theatre Program Chair</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Professor: Directing, Performance Studies, and Theatre History<br>Ph.D., New York University; M.F.A., University of California, San Diego; B.A., Carleton College<br>Member, Stage Directors &amp; Choreographers Society</p>
+<p style="font-size: 70%;">Dr. James Peck has directed over 60 productions of plays, operas, and musicals at theatres throughout the United States. He has published numerous scholarly articles in academic journals and in books from university presses. His current research focuses on the history and practice of directing. He is Series Editor of <em>The Great North American Stage Directors</em>, an eight-volume history of the art form of theatre direction published by Methuen Drama.&nbsp;He has also served as editor of<span>&nbsp;</span><em>Theatre Topics</em><span>&nbsp;</span>and book review editor of<span>&nbsp;</span><em>Theatre Journal</em>.</p>
+<p style="font-size: 70%;">At Muhlenberg,&nbsp;Jim has received the Class of '32 Research Professorship, the Lindback Award for Distinguished Teaching, the Williams Award for Research by a Junior Faculty Member, and the First-Year Advising Award.&nbsp;<span>In 2020, he received the Oscar Brockett Award for the Outstanding Teacher of Theatre in Higher Education from The Association for Theatre in Higher Education (ATHE).&nbsp;Jim</span>&nbsp;chaired the Department of Theatre &amp; Dance from 2006 to 2013. In addition to Muhlenberg, he<span>&nbsp;has taught at the Yale School of Drama, the New York University Tisch School of the Arts, and the Playwrights Horizons Theater School.</span></p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:jimpeck@muhlenberg.edu">jimpeck@muhlenberg.edu</a>&nbsp; |&nbsp; x3582</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/lustig headshot w.jpg" alt="" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="lustig"></a>Rebecca Lustig,&nbsp;</strong><strong><span>Director of the Co-Curricular/Production Program</span></strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Associate&nbsp;Professor: Costume Design<br>M.F.A., University of California, San Diego;&nbsp;B.A., University of&nbsp;California, Santa Cruz<br>Member, United Scenic Artists</p>
+<p style="font-size: 70%;">Rebecca Lustig is a costume designer whose work has appeared across the U.S. and was featured in the United States Exhibit at the 2015 Prague Quadrennial. Favorite projects include <em>The Happiness Lecture</em> created by the incomparable Bill Irwin at the Philadelphia Theatre Company, the Page-To-Stage version of <em>I Am My Own Wife </em>starring Jefferson Mays and directed by playwright Doug Wright at the La Jolla Playhouse, the original workshop production of Rajiv Joseph‚s <em>Bengal Tiger at the Baghdad Zoo</em> at SUNY Purchase, and <em>The Two Gentlemen of Verona</em> directed by Eric Tucker at the Hudson Valley Shakespeare Festival.</p>
+<p style="font-size: 70%;">Rebecca was the Assistant Costume Designer on the North American productions of <em>Billy Elliot the Musical </em>(Broadway and National Tours) and Assistant/Associate Designer on the Hal Prince directed productions <em>LoveMusik </em>on Broadway, <em>Paradise Found</em> in London, and <em>Candide</em> at the New York City Opera. Rebecca holds an MFA in Design from the University of California, San Diego.&nbsp;<a href="http://www.rebeccalustig.com" target="_blank">rebeccalustig.com</a></p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:rebeccalustig@muhlenberg.edu">rebeccalustig@muhlenberg.edu</a>&nbsp; |&nbsp; x3331</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/bienj.jpg" alt="bienj" width="80" height="90"></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="bien"></a>Jessica Bien,&nbsp;</strong><strong><span>Director of Operations and Production</span></strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>: Stage Management, Arts Accessibility<br>B.A., Hartwick College</p>
+<p style="font-size: 70%;">Jessica&nbsp;Bien has served as the department's general manager since 2006. She returns to her native Allentown from Boston, where she worked as executive assistant to the chief operating officer of the Wang Center for the Performing Arts. She also held positions as theatre manager and access coordinator at the Wang. She has served as marketing associate for Zoellner Center for the Arts, at Lehigh University; box office manager and director of marketing for the AmeriCulture Arts Festival; marketing and public relations intern for the Williamstown Theatre Festival; and communications and publications assistant for Hartwick College. Jess has also held production and administrative positions for events at Kutztown University, Civic Theatre, and Muhlenberg Summer Music Theatre.</p>
+<p style="font-size: 70%;">Jess holds a certificate in Arts Administration from the University of Massachusetts and is also a 200-hour certified yoga teacher. She is the recipient of the 2018 Arts Ovation Award for Service to the Arts.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:bien@muhlenberg.edu">bien@muhlenberg.edu</a>&nbsp; |&nbsp; x3087</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/hollycate_000.jpg" alt="hollycate_000" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="cate"></a>Holly Cate</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Associate Professor: Acting<br>M.F.A., Brandeis University; A.B., Harvard University<br>Member, SAG-AFTRA, Actors‚ Equity Association</p>
+<p style="font-size: 70%;">Holly Cate is an award-winning actor who has appeared on Broadway in<span>&nbsp;</span><em>An Ideal Husband,</em><span>&nbsp;</span>directed by Sir Peter Hall, and regionally in<span>&nbsp;</span><em>Blithe Spirit<span>&nbsp;</span></em>(Portland Stage),<span>&nbsp;</span><em>An Ideal Husband</em><span>&nbsp;</span>(Pioneer),<span>&nbsp;</span><em>All My Sons</em><span>&nbsp;</span>(American Stage), and<span>&nbsp;</span><em>Arms and the Man<span>&nbsp;</span></em>(Asolo), in addition to numerous New York Theatre&nbsp;credits.&nbsp;Holly has performed in&nbsp;two world premiere productions at Philly Fringe:&nbsp;<em>Judith/Dresses/Joe</em>, an evening of avant-garde masterworks, at the Walnut Street Theatre, and <em>Then Athena</em>, a&nbsp;devised work about women, war, and wisdom, at the Drake Theatre. She&nbsp;recently appeared&nbsp;in the web series&nbsp;<em>The Other F Word</em>, which can be found on <a href="http://www.theotherfwordseries.com" target="_blank">theotherfwordseries.com</a>.</p>
+<p style="font-size: 70%;">Holly&nbsp;also played the deliciously evil Janice Maxwell on<span>&nbsp;</span><em>As the World Turns</em>, has appeared in over 20 national television and radio commercials, and works as an audio book narrator. In addition to performing,&nbsp;Holly also creates and directs her own theatre, including <em>HENRY</em>, a three-play adaptation of Shakespeare's <em>Henry VI&nbsp;</em>tetralogy.&nbsp;She is a Stanislavski-based acting technique teacher with&nbsp;an emphasis on the role of the body in the actor's process, both on stage and on camera.&nbsp;<a href="http://www.hollycateactor.com" target="_blank">hollycateactor.com</a></p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:hcate@muhlenberg.edu">hcate@muhlenberg.edu</a>&nbsp; |&nbsp; x4019</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/chen-web.jpg" alt="You-Shin Chen" style="     " />&nbsp;</td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="chen"></a>You-Shin Chen</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Assistant Professor:&nbsp;Scenic Design<br>B.A., National Taiwan Univ.; M.F.A. New York Univ. Tisch School of the Arts<br>Member, IATSE, International Alliance of Theatrical Stage Employees, Local USA829</p>
+<p style="font-size: 70%;">You-Shin Chen is a Taiwanese designer who is committed to diversity and humanity. Trained as a scenic designer, she centers the human experience in the process of creating a three-dimensional space. Her design for <em>Eclipsed</em> (Lewis Center for the Arts) is featured in the USA exhibition at the 2019 Prague Quadrennial. She is the recipient of the 2019 Daryl Roth Creative Spirit Award at The Lilly Awards, as well as a Lucille Lortel Award for Outstanding Scenic Design in 2020. Some of her favorite credits include: <em>Mlima‚s Tale</em> (St. Louis Rep); Troy Anthony‚s <em>The Revival:&nbsp;It Is Our Duty</em> (The Shed, NYC); <em>SKiNFoLK</em> (the Bushwick Starr &amp; National Black Theatre); <em>UGLY &amp;&nbsp;The KILL ONE Race</em> (Raja Feather Kelly &amp; the feath3r theory); <em>Mrs. Murray‚s Menagerie</em> (ArsNova); <em>Monsoon Season</em> (AFO Theatre); and&nbsp;<em>Man of God</em> (InterAct Theatre Company). As a scenic design associate/assistant she has worked closely with Mimi Lien and Laura Jelinek on theatre and opera productions in NYC and regionally. Member of USA829.&nbsp;<a href="http://www.youshinchen.com" target="_blank">www.youshinchen.com</a></p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:you-shinchen@muhlenberg.edu">you-shinchen@muhlenberg.edu</a>&nbsp; |&nbsp; x4281</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/eric.jpg" alt="eric" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="covell"></a>Eric Covell</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Adjunct Professor: Scenic Construction; Technical Director<br>B.A., Hartwick College</p>
+<p style="font-size: 70%;">Eric&nbsp;Covell's responsibilities include&nbsp;overseeing&nbsp;all scenic builds for department productions, and supervising and teaching work study, stagecraft and volunteer students in shop safety and construction. His professional experience includes freelance designer and sound engineer at Fitchburg State College, Bay Street Theatre, and AmeriCulture Arts Festival. He served for two years as resident scenic and lighting designer, facility manager, and technical director at Civic Theatre of Allentown. Most recently he was the project manager for Great Eastern Seating, restoring and installing theatre seats in the tri-state area, including work at the Apollo Theatre.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:ecovell@muhlenberg.edu">ecovell@muhlenberg.edu</a>&nbsp; |&nbsp; x3644</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/dean-gabriel-w.jpg" alt="Gabriel Jason Dean" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="deang"></a>Gabriel Jason Dean</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Visiting Assistant Professor: Playwriting &amp; Theatre Scholarship<br>M.F.A.,&nbsp;University of Texas ‚ Austin's Michener Center for Writers</p>
+<p style="font-size: 70%;">Dubbed ‚feisty as hell‚ by <em>The New Yorker</em> and ‚a great modern American playwright‚ by <em>Broadway World</em>, Dean‚s plays have been produced/developed Off-Broadway and Regionally at distinguished companies such as New York Theatre Workshop, Manhattan Theatre Club, McCarter, The Kennedy Center, Oregon Shakespeare, and many others. Notable plays include <em>Heartland</em>&nbsp;(Pulitzer Prize nomination, National New Play Network Rolling World Premiere);&nbsp;<em>In Bloom</em>&nbsp;(Canadian Risk Theatre Modern Tragedy Award);&nbsp;<em>Terminus</em>&nbsp;(Austin Critic‚s Table Award);&nbsp;<em>Qualities of Starlight</em>&nbsp;(Broadway Blacklist);&nbsp;<em>Entangled</em>&nbsp;(New York Innovative Theatre Award nomination); and his often-produced play for young audiences&nbsp;<em>The Transition of Doodle Peque√±o</em> (AATE Distinguished Play Award, NETC Aurand Harris Award). Dean penned book and lyrics for the young audiences musical&nbsp;<em>Mario &amp; the Comet</em>&nbsp;and the activist musical&nbsp;<em>Our New Town</em> (The Civilians R&amp;D Group). He was recently hired to polish the feature film&nbsp;<em>Get Gomez</em> by Cranium Entertainment, and his script for television, <em>We Belong</em>, was a finalist for the Humanitas New Television Writer Award. Dean received the Hodder Fellowship from Princeton University, was a Dramatist‚s Guild Fellow, Core Writer/Affiliated Writer at the Playwrights‚ Center, and is a Usual Suspect at New York Theatre Workshop. He is published by Samuel French, Playscripts and Dramatic Publishing. <a href="http://www.GabrielJasonDean.com" target="_blank">GabrielJasonDean.com</a>.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:gabrieldean@muhlenberg.edu">gabrieldean@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/dean-jessie-w.jpg" alt="Jessie Dean" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="deanj"></a>Jessie Dean</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>: Acting<br>M.F.A., Illinois State University; B.A.,&nbsp;Oglethorpe University</p>
+<p style="font-size: 70%;">Jessie Dean has trained at the Globe Theatre in London and earned her MFA with a focus on classical work from Illinois State University. Jessie is a multi-discipline theatre maker, writer, performer, director, musician, and Associate Artistic Director of Moli√®re in the Park, Brooklyn‚s first free theatre in Prospect Park. Previously, she has also served as Co-Artistic Director of Monk Parrots, and Managing Director of Dad‚s Garage Theatre. She is the co-author of Our New Town, a musical developed with the Civilians, and the movie Get Gomez, set to begin filming this summer. Jessie began working in the theatre professionally in Atlanta, Georgia after graduating from Oglethorpe University with a BA in theatre. She quickly became an acclaimed director and musical theatre performer specializing in comedy and musicals. After building a theatre company in Atlanta, Relativity Theatre Concern, and working in real estate to support it, she decided to go back to school to earn her MFA in performance. Since moving to New York after graduate school, Jessie has performed and produced groundbreaking avant-garde work with Monk Parrots, classical work with Moli√®re in the Park, written a book, become a mother, and began writing sketch comedy. Jessie has performed and developed work at Oregon Shakespeare Festival, Illinois Shakespeare Festival, Georgia Shakespeare Festival, Dad‚s Garage Theatre, New York Theatre Workshop, La MaMa, and the Kennedy Center and continues to produce and perform work in New York.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:jessicadean@muhlenberg.edu">jessicadean@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/Dwyer-2015-sm.jpg" alt="Dwyer-2015-sm" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="dwyer"></a>Troy Dwyer</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Associate Professor: Acting, Voice &amp; Speech, Theatre History &amp; Theory<br>M.F.A. w/ Distinction, University of Wisconsin; B.A., Oglethorpe University<br>Member, Actors' Equity Association, Voice &amp; Speech Trainers Association;&nbsp;Associate Member, Stage Directors &amp; Choreographers Society</p>
+<p style="font-size: 70%;">Troy Dwyer is an actor, writer and director who has devised and performed in new experimental theatre at venues throughout the&nbsp;United States, including Velocity Dance Center (Seattle), The Painted Bride (Philadelphia), Project Artaud (San Francisco),&nbsp;Horizon Theatre Company (Atlanta), the Ensemble Theatre of Cincinnati, and many others. His original full-length works for the&nbsp;stage range from dance theatre epics such as&nbsp;<em>World Headquarters</em>&nbsp;and&nbsp;<em>Caw</em>&nbsp;(both with Charles O. Anderson), to new musicals&nbsp;such as&nbsp;<em>Lures &amp; Snares</em>&nbsp;(with Beth Schachter and Mike Krisukas), as well as community-engaged devised performances closer to home, such as&nbsp;<em>Then Athena</em> (with Allentown Public Theatre).&nbsp;Troy is an acting-styles teacher&nbsp;with specializations ranging&nbsp;from classical lyric performance (such as Shakespeare) to the contemporary realist acting methodologies of Sanford Meisner. He&nbsp;is also a teacher of voice &amp; speech specializing in the work of Kristin Linklater and Arthur Lessac. At Muhlenberg, he served as&nbsp;the faculty director of the Sedehi Diversity Project from 2008 to 2019, and was the recipient of the 2018 Paul&nbsp;C. Empie Memorial Award for Excellence in Teaching. His scholarly writings on queerness, voice and acting have appeared in leading academic journals such as&nbsp;<em>Theatre Journal</em>&nbsp;and&nbsp;<em>The Voice &amp; Speech Review</em>.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:dwyer@muhlenberg.edu">dwyer@muhlenberg.edu</a>&nbsp; |&nbsp; x3786</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/gunter-sm.jpg" alt="La Sonya Gunter" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="gunter"></a>La Sonya Gunter</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>: Stage&nbsp;Makeup</p>
+<p style="font-size: 70%;">A "<a href="https://bellamag.co/the-make-up-goddess-behind-billy-porters-met-gala-egyptian-sun-god/" target="_blank">legend in the theatrical make-up world</a>," Prime Time Emmy-nominated celebrity makeup artist La Sonya Gunter travels globally to design makeup for theatre TV, film, commercials, print, editorial, runway and fashion. Her work on Jesus Christ Superstar Live on NBC was nominated for an Emmy Award, and her Broadway credits as a makeup artist, makeup supervisor, and designer include Kinky Boots, The Rose Tattoo, SpongeBob, and Hairspray. She also created the makeup for&nbsp;<a href="https://www.vogue.com/article/billy-porter-met-gala-2019-the-blonds" target="_blank">Billy Porter's Sun God look</a> at the 2019 Met Gala.&nbsp;<a href="http://www.lasonyaguntermakeup.com" target="_blank">lasonyaguntermakeup.com</a></p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:lasonyagunter@muhlenberg.edu">lasonyagunter@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/gurst-web.jpg" alt="Lex Gurst" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="gurst"></a>Lex Gurst<br></strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Adjunct Professor: Costuming; Wordrobe, Crafts &amp; Stock Coordinator<br>B.F.A., Moore College of Art &amp; Design</p>
+<p style="font-size: 70%;">Lex Gurst's costume credits include<span>&nbsp;</span><em>Big Love</em>,<span>&nbsp;</span><em>The Possibilities</em>,<span>&nbsp;</span><em>Polaroid Stories</em>,<span>&nbsp;</span><em>On the Town</em>,<span>&nbsp;</span><em>Stop Kiss</em>,<span>&nbsp;</span><em>The Winter‚s Tale</em>, and<span>&nbsp;</span><em>Dance Emerge</em><span>&nbsp;</span>for<span>&nbsp;</span><em>Muhlenberg College</em>;<span>&nbsp;</span><em>Psycho Beach Party</em><span>&nbsp;</span>and<span>&nbsp;</span><em>Belle Reprieve</em><span>&nbsp;</span>for The Theatre Outlet; and Muhlenberg Summer Music Theatre productions of<span>&nbsp;</span><em>Avenue Q</em>,<span>&nbsp;</span><em>The 25th Annual Putnam County Spelling Bee</em>,<span>&nbsp;</span><em>Seussical</em>,<span>&nbsp;</span><em>A Year with Frog and Toad</em>, and the world premieres of<span>&nbsp;</span><em>Gruff!</em><span>&nbsp;</span>and<span>&nbsp;</span><em>Grimm!</em><span>&nbsp;</span>Previously, she has worked at the Creede Repertory Theatre in Creede, Colo. In her spare time, Lex is known as Minerva Steel and volunteers with the Lehigh Valley‚s premier roller derby league, The Lehigh Valley Roller Girls.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:alexis.gurst@muhlenberg.edu">alexis.gurst@muhlenberg.edu</a>&nbsp; |&nbsp; x3589</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/jackson-w.jpg" alt="" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="jackson"></a>Bridgett Jackson</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>: Voice &amp; Speech<br>M.S.,&nbsp;Howard University</p>
+<p style="font-size: 70%;">Bridgett&nbsp;Jackson is a dialect coach, accent coach, speech/diction coach and a speech-language pathologist. In addition, she is a teacher of voice, phonetics and communication. She has also been a guest lecturer at Gallaudet University and with the Stella Adler Studio of Acting. She holds a Master of Science degree from Howard University, with a specialization in speech and accents. She is a member of the American Speech-Language Hearing Association (ASHA) and was the recipient of the ASHA Ace Award in 2018. Recent credits include <em>Aint No Mo‚</em> and <em>Cullud Wattah</em> with The Public Theater in New York, and <em>Cost of Living</em> (2018 Pulitzer Prize Winner) with The Fountain Theatre in Los Angeles, as well as 2020's <em>A Raisin in the Sun</em>, here at Muhlenberg. Some of the regional dialects and accents she has coached include: General American, Southern, Western, Midwestern, Eastern, New York, New Jersey, Philadelphia, Washington, D.C., Maryland, Florida, Georgia, Texas, Kentucky, California, Detroit, Chicago, London, Australia, West Africa, Jamaica, Dominican Republic and Puerto Rico, just to name a few.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:bridgettjackson@muhlenberg.edu">bridgettjackson@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/mckenna.jpg" alt="" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="mckenna"></a>Mark McKenna</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>: Acting<br>Teaching Artist Certification, University of the Arts;&nbsp;Certificate of Completion, √cole Internationale de Th√©√¢tre Jacques Lecoq;&nbsp;B.A., University of New Hampshire</p>
+<p style="font-size: 70%;">Mark McKenna is a theater artist (actor, director, producer) and educator. He specializes in devised work, physical theatre styles, facilitating structures of play for learning, integrating art with academic curricula, and developing relationships and civic dialogue through theater. He was a full-time resident ensemble member at Bethlehem‚s Touchstone Theatre from 1986 to 2008, and artistic/producing director from 1995. Nationally recognized community-scaled highlights include<span>&nbsp;</span><em>Steelbound</em>, a co-production with Cornerstone Theatre, and<span>&nbsp;</span><em>Don Quixote of Bethlehem</em>. He has co-created and performed in over 40 devised theatre works. Script-based acting credits include:<span>&nbsp;</span><em>Stones in His Pockets</em>,<span>&nbsp;</span><em>Twelfth Night</em>,<span>&nbsp;</span><em>Waiting for Godot</em>,<span>&nbsp;</span><em>Frankenstein</em>,<span>&nbsp;</span><em>Fool for Love</em><span>&nbsp;</span>and<span>&nbsp;</span><em>The Glass Menagerie</em>. He has participated in over 75 arts-in-education residencies in pre-K to 12th-grade classrooms throughout the Mid-Atlantic region. Service history includes the national board of the Network of Ensemble Theaters, peer review panels for the National Endowment for the Arts, the Pennsylvania Council on the Arts, and the New Jersey&nbsp;Arts Council. Mark serves as secretary for the Bethlehem Chapter of PIAA Basketball Officials.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:mckennamark@verizon.net">mckennamark@verizon.net</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/mckittrick 8090.jpg" alt="mckittrick_000" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="mckittrick"></a>Jamie McKittrick</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Visiting Assistant&nbsp;Professor</span>: Acting<br>M.F.A., Naropa University;&nbsp;B.A., Muhlenberg College<br>Certification in Basic Neurocellular Patterning from BMC</p>
+<p style="font-size: 70%;">Jamie McKittrick straddles the modes of theatre, dance, and performance art as performer, creator, choreographer, director, intimacy choreographer, and teacher. Recently, she directed Jacked! by Idris Goodwin for Metro Theater Company and it was a featured production for TYA USA, Gruesome Playground Injuries for Creative Inhabitor (St. Louis Best Theatre), and <em>Urinetown the Musical</em> and <em>Lysistrata</em> for Webster Conservatory of the Arts. Notable original work includes: <em>Sparkle ‚ TA DAAA!!!</em> (Critic‚s Choice Award winner of the St. Louis Fringe Festival), <em>SURIVE!</em> (‚Best of the Year‚- Philadelphia Weekly), <em>Lady M </em>(Curated by LiveArts Fest), and national tours with Enchantment Theatre Company. She‚s been on faculty at Webster University‚s Conservatory, Muhlenberg College, UMSL, Lindenwood University, and of theatre teaching acting, movement, directing, and storytelling.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:jamiemckittrick@muhlenberg.edu">jamiemckittrick@muhlenberg.edu</a>&nbsp; |&nbsp; x3905</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/moore website.jpg" alt="" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="moore"></a>Matt Moore</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Assistant Professor: Directing, Performance Studies, Theatre History &amp; Theory<br>Ph.D., Stanford University; B.A., Muhlenberg College<span>&nbsp;</span><br>Member, Stage Directors and Choreographers Society</p>
+<p style="font-size: 70%;">Dr. Moore has directed at theatres in New York, Washington, D.C., Philadelphia, San Francisco and Ireland, and is a founding member of The Proper Villains Theatre Co. He has taught courses in directing, devising, theatre history and theory at Stanford University as well as courses in acting and playwriting for the University of New Orleans. His current artistic work centers on group devising practices and methods of physical training, both of which played a key role in his production of<span>&nbsp;</span><em>Agamemnon</em><span>&nbsp;</span>at Muhlenberg College. His scholarly interests include the avant-garde, ecological theatre and performance theory.</p>
+<p style="font-size: 70%;">NEWS:&nbsp;<a href="/news/2019/matthewmoorerecognizedat2019honorsconvocation.html">Matthew Moore recognized at 2019 Honors Convocation</a>&nbsp;</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:matt.moore@muhlenberg.edu">matt.moore@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/naylor, leah w.jpg" alt="" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="naylor"></a>Leah Naylor</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>:&nbsp;Staging Creativity &amp; Introduction to Early Childhood Education<br>M.A., New York University: B.S., University of Pittsburgh</p>
+<p style="font-size: 70%;"><span><span>Filled with a passion for learning and teaching, Leah Naylor has worked professionally with children for more than 18 years in a variety of settings from preschools and after school tutoring centers to elementary schools and at the college level. Upon receiving a bachelor's degree in Children and Family Studies and a master's in Elementary Education from New York University, Leah has taught in the New York City public schools, Denver (Colorado) public schools, a Pennsylvania charter school and a Pennsylvania college. Her goal is to guide and encourage shared experiences and explorations where children (and really anyone) can flourish and grow authentically. Leah‚s involvement in the schools range from&nbsp;early childhood education through sixth grade and on to college-level courses based on teaching and inspiring children</span>.</span></p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:leahnaylor@muhlenberg.edu">leahnaylor@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/philbrick-w.jpg" alt="" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="philbrick"></a>Ethan Philbrick</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Visiting Assistant Professor:&nbsp;Performance Studies and Theatre History<br>Ph.D., New York University; M.A., University of Cincinnati; B.A.,&nbsp;Brown University</p>
+<p style="font-size: 70%;">Dr. Ethan Philbrick is a performer and writer based in Brooklyn. He has recently performed original work in New York at Abrons Arts Center, BRIC, Dixon Place, Grey Art Gallery, SculptureCenter, and NYU Skirball, and his writing has been published in <em>The Drama Review</em>, <em>Movement Research Performance Journal,</em> <em>PAJ: A Journal of Performance and Art</em>, <em>Studies in Gender and Sexuality,</em> and <em>Women and Performance: a journal of feminist theory.&nbsp;</em><span>Ethan&nbsp;</span><span>holds a Ph.D. in Performance Studies from New York University, where his dissertation received the Monroe Lippman Memorial Award for Distinguished Doctoral Dissertation. Before joining the faculty at Muhlenberg,&nbsp;Ethan taught in&nbsp;</span><span>the MFA program in Performance + Performance Studies at Pratt Institute and in the Performance Studies program at New York University</span>.&nbsp;<a href="http://ethanphilbrick.com/" target="_blank">ethanphilbrick.com</a></p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:ethanphilbrick@muhlenberg.edu">ethanphilbrick@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/Robles-Moreno_web.jpg" alt="Leticia Robles-Moreno" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="robles-moreno"></a>Leticia Robles-Moreno<br></strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Assistant Professor: Performance Studies, Theatre&nbsp;History &amp; Theory<br>Ph.D., New York University;&nbsp;M.A., New York University; M.A. University of Colorado at Boulder;&nbsp;B.A., Pontificia Universidad Cat√≥lica del Per√∫</p>
+<p style="font-size: 70%;">Dr. Leticia Robles-Moreno teaches courses on Performance, Race, Gender, Memory, and Politics in the Americas. In addition to her academic background, she studied theatre arts in the Club de Teatro de Lima, as well as improvisational theatre and Theatre of the Oppressed techniques. Her doctoral research focuses on theatre groups of ‚creaci√≥n colectiva‚ in Latin America ‚ particularly in Peru, Colombia, and Ecuador ‚ exploring their networked practices as strategies of political survival, from a combined perspective of Performance Studies, and Memory and Affect Studies. As a member of the Women Mobilizing Memory research group at the Center for the Study of Social Difference at Columbia University, she has studied&nbsp;Latin American Antigones‚ role in post-conflict contexts. She has published in<span>&nbsp;</span><em>Latin American Theatre Review</em>,<span>&nbsp;</span><em>Contemporary Theatre Review</em>,<span>&nbsp;</span><em>Hispanic Issues Online</em>,&nbsp;and<span>&nbsp;</span><em>Conjunto</em>. Her dissertation, "Becoming Collective: Relational Cartographies of<span>&nbsp;</span><em>creaci√≥n colectiva</em><span>&nbsp;</span>in Latin America," was awarded the Deena Burton Memorial Award for Outstanding Dissertation Research.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:leticiarobles@muhlenberg.edu">leticiarobles@muhlenberg.edu</a>&nbsp; |&nbsp; x4367</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="120"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/schachterb-sm.jpg" alt="schachterb2" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="schachter"></a>Beth Schachter</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Professor: Acting, Directing,&nbsp;Theatre&nbsp;History &amp; Theory<br>Ph.D., City University of New York; M.F.A., University of California,<span>&nbsp;</span>San Diego; B.A., Harvard-Radcliffe University</p>
+<p style="font-size: 70%;">Dr. Beth Schachter has directed at New York Theatre Workshop, Second Stage, The Public Theatre, McCarter Theatre, Long Wharf Theatre, Adirondack Theatre Festival, Cincinnati Playhouse in the Park, and The Vineyard Theatre, among others. She has directed world premieres of plays by Suzan-Lori Parks, Doug Wright, Theresa Rebeck, and Mac Wellman. She also co-wrote and directed the musical<span>&nbsp;</span><em>Lures and Snares</em><span>&nbsp;</span>with Troy Dwyer.&nbsp;Beth is formerly the director of Muhlenberg‚s Women‚s Studies Program. Her areas of expertise include contemporary American avant-garde theatre, feminist theatre and theory, African-American drama, and Jewish ethnicity studies. Before coming to Muhlenberg,&nbsp;Beth taught at Princeton University, Brooklyn College, City College, and UCSD. She recently directed the world premiere of Brighde Mullins's<span>&nbsp;</span><em>The Bourgeois Pig</em><span>&nbsp;</span>at Muhlenberg College, as well as two staged readings for The Blank Theatre (Los Angeles).</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:bethschachter@muhlenberg.edu">bethschachter@muhlenberg.edu</a>&nbsp; |&nbsp; x3558</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/semaj-web.jpg" alt="Nigel Semaj" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="semaj"></a>Nigel Semaj</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Visiting Assistant Professor:&nbsp;Directing<br>M.F.A.,&nbsp;T<span>he New School, NYC;&nbsp;</span>B.F.A.,&nbsp;Lycoming College</p>
+<p style="font-size: 70%;"><span>Nigel Semaj is a New York City-based director, movement director, choreographer and educator from Washington, D.C. Notable directing credits include&nbsp;</span><em>For Colored Girls Who Have Considered Suicide When the Rainbow Is Enuf,</em><span>&nbsp;which won awards from the Kennedy Center in Direction, Ensemble and Excellence in Costume Design; Ntozake Shange‚s&nbsp;</span><em>Spell No. 7;</em><span>&nbsp;and Paula Vogel‚s&nbsp;</span><em>The Baltimore Waltz;</em><span>&nbsp;as well as new works such as&nbsp;</span><em>Black Hollow</em><span>,&nbsp;by Aeneas Sagar Hemphill, and&nbsp;</span><em>wolfchildren runslowly through a bruegel landscape, 1558</em><span>,</span><em>&nbsp;</em><span>by Ruth Tang. Their adaptation work includes a five-female adaptation of Shakespeare's&nbsp;</span><em>Titus Andronicus</em><span>&nbsp;entitled&nbsp;</span><em>10,000 Moor</em><span>, and a queer retelling of the Hercules myth. In addition to Nigel's body of artistic endeavors their work has included residential life, Title IX policy creation to protect students of color, and working to decolonize&nbsp;traditional academia structures and work towards a more equitable, diverse, inclusive, and accessible education system. Nigel's work in education and academia incorporates anti-racist and restorative justice techniques. When Nigel is not doing this work, they are most likely dying of laughter from memes or cooking.&nbsp;<a href="http://www.nigelsemaj.com/" target="_blank">nigelsemaj.com</a></span></p>
+<p style="font-size: 80%; text-align: right;">they/them/theirs<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:nigelsemaj@muhlenberg.edu">nigelsemaj@muhlenberg.edu</a><!--&nbsp; |&nbsp; xXXXX--></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/singer.jpg" alt="singer" style="     " />&nbsp;</td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="singer"></a>Larry Singer</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Visiting Assistant Professor: Acting<br>B.F.A., Boston University<br>Member, SAG-AFTRA</p>
+<p style="font-size: 70%;">Larry Singer established The Larry Singer Studios in 2006, where he teaches professional actors in New York City. He received a B.F.A. from Boston University in 1977 and made his Broadway debut in the comedy Gemini in 1980. He then worked Off-Broadway, landing the lead in Andora, by Max Frisch, as well as roles at Ensemble Studio Theatre, and Circle Rep Mr. Singer‚s acting career has included work in regional theatres, commercials, television, and film. In 1988 he began his work as a teacher and director. He has taught at New York University (founding board member of CAP 21), AADA, AMDA, and the prestigious Michael Howard Studios. In 2002 he joined the faculty of the Columbia University M.F.A.&nbsp;He recently established LSS ONstage, that produces ensemble work with high artistic standards. He also established a summer conservatory which is accredited by Muhlenberg college to further actors abilities and educate them in preparation for professional careers.&nbsp;<a href="http://larrysingerstudios.com/" target="_blank">larrysingerstudios.com</a></p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:lsinger@muhlenberg.edu">lsinger@muhlenberg.edu</a></strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="120"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/stabp james w.jpg" alt="" style="     " />&nbsp;</td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="stabp"></a>James Stabp</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>:&nbsp;Acting the Song<br>M.F.A., The Boston Conservatory; B.A., DeSales University</p>
+<p style="font-size: 70%;">Philadelphia-based actor and director James Stabp maintains a body of work that spans traditional musical theatre, premieres of contemporary new works, and uniquely curated projects of multidisciplinary theatre. Recent engagements include directing assistant to Gina Lamparella on Pennsylvania Shakespeare Festival's (PSF) production of <em>Crazy for You</em>, Younger Brother in PSF's production of <em>Ragtime</em>, and Albert Lennox in <em>The Secret Garden</em> at the Arden Theatre in Philadelphia. James holds an M.F.A. in Musical Theatre from The Boston Conservatory. There, he had the great privilege to perform and work closely with Adam Guettel and Tina Landau on new material for their musical, <em>Floyd Collins</em>, as well as devising a song cycle for his thesis based on the religious undertones and poetic prose in the alternative-rock album <em>Babel</em> by the band Mumford &amp; Sons. Social media: @jdstabp.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:jamesstabp@muhlenberg.edu">jamesstabp@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="120"><img src="/media/contentassets/images/theatreampdance/images/staff/theisenp.jpg" alt="theisenp" style="     " />&nbsp;</td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="theisen"></a>Paul E. Theisen, Jr.</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>: Lighting &amp; Sound Design; Theatre Technician<br>M.F.A., University of Delaware's Professional Training Program; B.A.,&nbsp;Viterbo College</p>
+<p style="font-size: 70%;">Paul Theisen is the resident master electrician for the Department, and lighting and sound supervisor for Muhlenberg Summer Music Theatre since 1999. A Wisconsin native, he has contributed lighting, sound, and scenic designs to numerous Muhlenberg productions, including&nbsp;<em>Urinetown</em>,&nbsp;<em>Cabaret</em>,&nbsp;<em>Dancing at Lughnasa</em>,&nbsp;<em>Pentecost</em>, and&nbsp;<em>Wonderful Town</em>. He is also the resident lighting designer and technical coordinator for all Muhlenberg Dance concerts</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:paultheisen@muhlenberg.edu">paultheisen@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<!--
+<tr>
+<td align="center" valign="top"><img class="t4-tag-content-item mceNonEditable" src="https://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&fnno=60&ceid=48791fc08d8c908a586825728539adfe7f068883" alt="" data-t4-instance-id="202" data-t4-media-id="422916" data-t4-markup-for="422916" data-t4-media-attributes="{&quot;attributes&quot;:{}}" data-t4-media-formatter="image/*" data-t4-media-language="en" data-t4-type="media" />&nbsp;</td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="tucker"></a>Charley Tucker</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>: Acting<br />M.F.A., Asolo Conservatory/FSU; B.S., James Madison University<br />Member, Actors&rsquo; Equity Association, SAG/AFTRA</p>
+<p style="font-size: 70%;"><span>Charley Tucker is a professional actor, living in New York City where he has worked in theatre, film,&nbsp;and television for the over 25 years. New York and regional credits include&nbsp;<em>Hedda Gabler</em> (American Globe),&nbsp;<em>Uncle Tom's Cabin</em>&nbsp;(The Drama Dept.- Workshop Co.), <em>Misalliance</em>&nbsp;(Pennsylvania Center Stage),&nbsp;<em>Desire Under the Elms </em>(American Stage)<em>, Six Degrees of Separation</em>&nbsp;(Florida Studio Theatre), and <em>American Buffalo</em> (Asolo Conservatory Theatre-guest artist). Film and T.V.: <em>Curdled</em> (Miramax), <em>Amy Schumer Show</em> (Comedy Central),&nbsp;<em>Tennessee</em> (Lee Daniels Entertainment), and several television and radio commercials.&nbsp;Currently Charley&nbsp;has three films in production.<br /></span></p>
+<p style="font-size: 70%;">As a teaching artist, Charley has worked at New York University (co-teacher with Phylicia&nbsp;Rashad), American Globe Theatre (Shakespeare First Folio Technique), University of Texas-Austin, Penn State University and New York Film Academy where he is currently teaching Acting&nbsp;for Film, Scene Study and the Meisner Technique.</p>
+<p style="font-size: 80%; text-align: right;"><span>he/him/his</span><strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:charleytucker@muhlenberg.edu">charleytucker@muhlenberg.edu</a></strong>&nbsp;</p>
+</td>
+</tr>
+-->
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/vanvalen-jim-sm.jpg" alt="" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="vanvalen"></a>Jim VanValen</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Full-Time Lecturer: Acting<br>M.F.A., University of Iowa; M.A. &amp; B.A., Stony Brook University<br>Member, Actors‚ Equity Association</p>
+<p style="font-size: 70%;"><span>Jim VanValen is a professional actor who teaches courses in scene and monologue study, voice and speech, Meisner Technique, and auditioning. He directed <em>The Importance of Being Earnest</em> in the Baker Theatre in fall of 2019, and he recently partnered with the Rehabilitation Sciences Department at Moravian College developing a Standardized Patient program for Muhlenberg actors to collaborate with Moravian healthcare students. Prior to his arrival at Muhlenberg in 2018,&nbsp;Jim spent nine years at Cornell College in Mount Vernon, Iowa, where he was an associate professor of theatre and head of the acting program. He has trained with acting teacher Terry Knickerbocker at TK Studio, studied Shakespeare and voice and text training with Patsy Rodenburg OBE, and received his Meisner Teaching Certification through the True Acting Institute. As an actor, Jim spent three years with the Barter Theatre and has performed throughout the country in such regional theatres as The Fulton Opera House, The Bread Loaf Acting Ensemble, Florida Rep, Riverside Theatre in Iowa, Riverside Theatre in Florida, Iowa Summer Rep, Connecticut Theatre Festival, Old Creamery Theatre, and Muhlenberg's Summer Music Theatre.&nbsp;</span><a href="http://www.jimvanvalen.com/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.jimvanvalen.com/&amp;source=gmail&amp;ust=1533306360292000&amp;usg=AFQjCNF8hcxWxAU9DvHCUr9aRNZ0gc3cow">jimvanvalen.com</a></p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:jamesvanvalen@muhlenberg.edu">jamesvanvalen@muhlenberg.edu</a>&nbsp; |&nbsp; x4393</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/vaughan-w.jpg" alt="Whitney Vaughan" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="theisen"></a>Whitney Vaughan</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor: Costuming;&nbsp;Costume Shop Manager</span><br>M.F.A.,&nbsp;Boston University</p>
+<p style="font-size: 70%;">Whitney Vaughan has worked all over the country working in costuming. Before attending graduate school she worked in wardrobe management for opera, theatre and dance. Some of her highlights include working for Pittsburgh Public Theater, Playmakers Repertory Company, and touring with the Broadway tour of Evita. After many years in wardrobe Whitney decided to attend graduate school to receive her M.F.A. in costume production from Boston University, to pursue her goal of becoming a costume shop manager. After graduating, Whitney went on to be the Costume Head at the Pennsylvania Renaissance Faire. Whitney‚s love in life is creating costumes and being a part of a costume shop. <br>.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:whitneyvaughan@muhlenberg.edu">whitneyvaughan@muhlenberg.edu</a>&nbsp; |&nbsp; x3589</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/whitney-joanna-w.jpg" alt="Joanna Whitney" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="whitney"></a>Joanna Whitney</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Adjunct Professor</span>:&nbsp;Voice &amp; Speech<br>M.F.A., University of Wisconsin ‚ Madison; B.A.,&nbsp;University of North Carolina ‚ Chapel Hill</p>
+<p style="font-size: 70%;">Originally from the mountains of North Carolina, Joanna Whitney received her BA in Dramatic Arts from The University of North Carolina at Chapel-Hill and her MFA in Acting from the University of Wisconsin-Madison. In addition to teaching at Muhlenberg, she has taught at Cedar Crest College, Lehigh University and DeSales University, teaching Fundamentals of Acting, Public Speaking, Collaborative Arts, and Healthcare Theatre among other courses. Her directing credits include <em>Schoolhouse Rock, Live!</em>, <em>The Velveteen Rabbit</em>, <em>A Voice of Our Own</em>, and <em>Emotional Creatures</em> at Cedar Crest College. Through her private coaching business, she works with adults and middle and high school students on voice and speech, audition preparation, acting, and acting for music theatre, and offers summer camps. Joanna has trained with Richard Gough of the Center for Performance Research, Anne Bogart and the SITI Company in Viewpoints and Suzuki, and Frankie Armstrong and Janet Rogers in Vocal Archetyping, and she apprenticed at the Actors Theatre of Louisville and the Ensemble Theatre of Cincinnati. Passionate about the ‚real world‚ implications of the study of theatre, Joanna enjoys working with students of all ages, experience and walks of life to help them develop their confidence and sense of self and find their authentic voice.</p>
+<p style="font-size: 80%; text-align: right;"><span>she/her/hers</span><strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:joannawhitney@muhlenberg.edu">joannawhitney@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top">
+<p style="font-size: 150%; font-weight: bold; text-align: left; margin-top: 12px;">Emeritus Faculty</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/richterc2.jpg" alt="richterc2" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="richter"></a>Charles Richter, Founding Director of Theatre</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Professor Emeritus: Directing, Theatre History&nbsp;&amp; Theory<br>M.F.A., Southern Methodist University; B.S., Syracuse University; Certificate in Drama, University of Bristol, England<br>Member, Stage Directors &amp; Choreographers Society</p>
+<p style="font-size: 70%;">Charles&nbsp;Richter is the director of theatre at Muhlenberg College, where he has taught and directed for the past 40 years. His productions of <em>The Good Woman of Setzuan, The School for Scandal</em>, and <em>Spring Awakening</em> were selected for presentation at American College Theatre Festival regional festivals. He has directed over 80 productions at Muhlenberg , including <em>Life‚s a Dream, Cabaret, The Pirates of Penzance, Wonderful Town, The Mikado, West Side Story, A Chorus Line, Hamlet</em>, and <em>On the Town</em>. He is a founding artistic director of the Muhlenberg Summer Music Theatre, former artistic director of the Pennsylvania Stage Company, and a member of the Stage Directors and Choreographers Society. His productions for the Muhlenberg summer stage also include: <em>Candide, Annie Get Your Gun, Hairspray, 42nd Street, Anything Goes, Hello, Dolly!, My Fair Lady</em> and&nbsp;<em>How to Succeed in Business Without Really Trying</em>. He has also directed for the New York City Opera Education Department, Cincinnati Playhouse in the Park, New York‚s Ensemble Studio Theatre and Theatre Three in Dallas. He holds an MFA in directing from Southern Methodist University, and a certificate in Drama from the University of Bristol, England. Charles is a fellow of the Society for Values in Higher Education, a Fulbright Scholar, and a Danforth Fellow. In the spring of 2018, as artist-in-residence at the University of Music and Art of the City of Vienna in Austria, he directed two choral operas by Jean Berger.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/theatrefaculty/dretschc.jpg" alt="dretschc" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="dretsch"></a>Curtis Dretsch</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Professor Emeritus: Scenic, Costume, and Lighting Design<br>M.F.A., Southern Methodist University; B.A., Montana State University</p>
+<p style="font-size: 70%;">In addition to his more than 100 designs for Muhlenberg College Theatre and Muhlenberg Summer Music Theatre over the past 36 years, Curtis Dretsch‚s designs have been seen in New York City, Philadelphia, Washington, D.C., Baltimore, Dallas, Edinburgh, and London. He has designed for the Dallas Shakespeare Festival, Terry Beck Dance Troupe, and Pennsylvania Stage Company, where he did scenery and/or lights 41 times over 12 years. During the 1990s he served Muhlenberg as Dean of the College for Faculty and Vice President for Academic Affairs.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#StaffProfiles2" 
+     aria-expanded="false" 
+     aria-controls="StaffProfiles2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="StaffProfiles">
+      <p class="panel-title pull-left">
+          Theatre & Dance Staff
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="StaffProfiles2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="StaffProfiles">
+    <div class="panel-body">
+        <p>&nbsp;</p>
+<table cellpadding="5">
+<tbody>
+<tr>
+<td align="center" valign="top" width="120"><img src="/media/contentassets/images/theatreampdance/images/staff/bienj.jpg" alt="bienj" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="bien"></a>Jessica Bien</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Director of Operations and Production</span><br>B.A., Hartwick College</p>
+<p style="font-size: 70%;">Jessica&nbsp;Bien has served as the department's general manager since 2006. She returns to her native Allentown from Boston, where she worked as executive assistant to the chief operating officer of the Wang Center for the Performing Arts. She also held positions as theatre manager and access coordinator at the Wang. She has served as marketing associate for Zoellner Center for the Arts, at Lehigh University; box office manager and director of marketing for the AmeriCulture Arts Festival; marketing and public relations intern for the Williamstown Theatre Festival; and communications and publications assistant for Hartwick College. Jess has also held production and administrative positions for events at Kutztown University, Civic Theatre, and Muhlenberg Summer Music Theatre.</p>
+<p style="font-size: 70%;">Jess holds a certificate in Arts Administration from the University of Massachusetts and is also a 200-hour certified yoga teacher. In addition to her administrative role, she teachers courses in Stage Management and Accessibility in the Arts. She is the recipient of the 2018 Arts Ovation Award for Service to the Arts.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:bien@muhlenberg.edu">bien@muhlenberg.edu</a>&nbsp; |&nbsp; x3087</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/eric.jpg" alt="eric" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="covell"></a>Eric Covell</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Technical Director<br>B.A., Hartwick College</p>
+<p style="font-size: 70%;">Eric&nbsp;Covell's responsibilities include&nbsp;overseeing&nbsp;all scenic builds for department productions, and supervising and teaching work study, stagecraft and volunteer students in shop safety and construction. His professional experience includes freelance designer and sound engineer at Fitchburg State College, Bay Street Theatre, and AmeriCulture Arts Festival. He served for two years as resident scenic and lighting designer, facility manager, and technical director at Civic Theatre of Allentown. Most recently he was the project manager for Great Eastern Seating, restoring and installing theatre seats in the tri-state area, including work at the Apollo Theatre.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:ecovell@muhlenberg.edu">ecovell@muhlenberg.edu</a>&nbsp; |&nbsp; x3644</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/costanzo web.jpg" alt="Maya Costanzo" style="     " /></td>
+<td valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="covell"></a>Maya Costanzo</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Audience Services and Company Manager</span><br>B.A.,&nbsp;American University</p>
+<p style="font-size: 70%;">Maya Costanzo is a 2021 graduate and Scholar of American University, where she double-majored in International Studies&nbsp;&amp; Foreign Language and Communication Media Studies, with specializations in Film &amp; Media Arts. Most recently, she has enjoyed working with (and might have sold her soul to) the AU Rude Mechanicals as an actor, director, and executive board member. She is especially grateful for her time with The Harold and Sylvia Greenberg Theater and Wildwood Summer Theater. Maya is passionate about exploring the relationship that the arts share with identity and community growth. She has a love for telling and elevating human stories and experiences through service, theatre, film, photography, and design. She especially enjoys when opportunities to work and exist and create in these worlds intersect. Maya is beyond excited to craft the new role of Audience Services and Company Manager with and for the faculty, staff, and students of Muhlenberg College! Learn more about Maya here:&nbsp;<a href="https://mayarenee616.wixsite.com/mysite" target="_blank">mayarenee616.wixsite.com/mysite</a></p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:mcostanzo@muhlenberg.edu">mcostanzo@muhlenberg.edu</a>&nbsp; |&nbsp; x3637</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/gurst-web.jpg" alt="Lex Gurst" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="gurst"></a>Lex Gurst<br></strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Wardrobe, Crafts &amp; Stock Coordinator<br>B.F.A., Moore College of Art &amp; Design</p>
+<p style="font-size: 70%;">Lex Gurst's costume credits include<span>&nbsp;</span><em>Big Love</em>,<span>&nbsp;</span><em>The Possibilities</em>,<span>&nbsp;</span><em>Polaroid Stories</em>,<span>&nbsp;</span><em>On the Town</em>,<span>&nbsp;</span><em>Stop Kiss</em>,<span>&nbsp;</span><em>The Winter‚s Tale</em>, and<span>&nbsp;</span><em>Dance Emerge</em><span>&nbsp;</span>for<span>&nbsp;</span><em>Muhlenberg College</em>;<span>&nbsp;</span><em>Psycho Beach Party</em><span>&nbsp;</span>and<span>&nbsp;</span><em>Belle Reprieve</em><span>&nbsp;</span>for The Theatre Outlet; and Muhlenberg Summer Music Theatre productions of<span>&nbsp;</span><em>Avenue Q</em>,<span>&nbsp;</span><em>The 25th Annual Putnam County Spelling Bee</em>,<span>&nbsp;</span><em>Seussical</em>,<span>&nbsp;</span><em>A Year with Frog and Toad</em>, and the world premieres of<span>&nbsp;</span><em>Gruff!</em><span>&nbsp;</span>and<span>&nbsp;</span><em>Grimm!</em><span>&nbsp;</span>Previously, she has worked at the Creede Repertory Theatre in Creede, Colo. In her spare time, Lex is known as Minerva Steel and volunteers with the Lehigh Valley‚s premier roller derby league, The Lehigh Valley Roller Girls.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:alexis.gurst@muhlenberg.edu">alexis.gurst@muhlenberg.edu</a>&nbsp; |&nbsp; x3589</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">&nbsp;</td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="miller"></a>Katrina Miller</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Props Master, Scenic Artist<br>M.F.A., Purdue University; B.F.A., Northern Illinois University</p>
+<p style="font-size: 70%;">Ms. Miller has served as charge artist at the Barn Theatre, Orlando Shakespeare Theatre, Music Theatre Wichita, and Lehigh University. She has also served as Props Supervisor and Scenic Charge Artist for two seasons at Muhlenberg Summer Music Theatre.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:katrinamiller@muhlenberg.edu">katrinamiller@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">&nbsp;</td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="miller"></a>Erin Miller-Todd</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Costume Shop First Hand</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:erinmiller-todd@muhlenberg.edu">erinmiller-todd@muhlenberg.edu</a></strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/neal-sm.jpg" alt="" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="snyder"></a>Gianna Neal</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Office Manager<br>B.A.,&nbsp;Muhlenberg College</p>
+<p style="font-size: 70%;">Gianna began working professionally onstage and in TV/film early in her career, with credits including <em>Annie</em> (‚99 Nat‚l Tour), <em>ER/Third Watch</em> (NBC), and <em>The Secret Lives of Dentists</em> (Holedigger Productions), before graduating with a B.A. in theatre with an acting concentration from Muhlenberg in 2015. Throughout her four years at Muhlenberg, Gianna performed in both Mainstage and Muhlenberg Summer Music Theatre productions, including <em>HMS Pinafore</em>, <em>Crazy for You</em>, and <em>A Chorus Line</em>, and also had the opportunity to study abroad at the&nbsp;Queen Mary University of London. For the past six years, Gianna has served as theatre director and choreographer for Northampton Area High School and has directed and taught theatre and dance at various organizations in the area, including Pennsylvania Youth Theatre, Saucon Valley Middle School, and the Allentown YMCA. Previously, she worked as a math paraeducator at Whitehall-Coplay School District. She has also held front-of-house positions at Zoellner Arts Center, Pines Dinner Theatre, and Muhlenberg.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:giannaneal@muhlenberg.edu">giannaneal@muhlenberg.edu</a>&nbsp; |&nbsp; x3335</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/snyders.jpg" alt="snyders" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="snyder"></a>Scott Snyder</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Marketing &amp; Development Manager<br>B.S./B.A., Syracuse University</p>
+<p style="font-size: 70%;">Scott&nbsp;Snyder served for 11 years as managing director of the Civic Theatre of Allentown. In that position, he developed marketing and communications strategies that increased attendance, personal contributions, and corporate and foundation support for the theatre, helping to position Civic as a community arts center for the region. Prior to beginning work at Muhlenberg in 2010, he spent three years as director of alumni communications for Lehigh University.&nbsp;Scott&nbsp;has also served as production stage manager and designed sound, props, and projections for numerous theatre productions.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:scottsnyder@muhlenberg.edu">scottsnyder@muhlenberg.edu</a>&nbsp; |&nbsp; x3693</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/samatha southard jpg.jpg" alt="A picture of Samantha Southard" style="     " />&nbsp;</td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="southard"></a>Samantha Southard</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Costume Cutter/Draper<br>Technical Certificate, Yale School of Drama</p>
+<p style="font-size: 70%;"><span>Samantha trained at Swarthmore College and the David Geffen School of Drama at Yale, and has pursued a career that has brought her to operas and regional theaters up and down the eastern seaboard. Her work has been onstage at Yale Repertory Theater, Glimmerglass Opera, Arena Stage, Bristol Riverside Theater, the Pennsylvania Shakespeare Festival, and Radio City Music Hall, among others. Locally, she has been involved in the Theater&nbsp;Departments at Lehigh University, DeSales University, and Muhlenberg College prior to joining in this full time role.</span></p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:samanthasouthard@muhlenberg.edu" target="_blank">samanthasouthard@muhlenberg.<wbr>edu</a><a href="mailto:scottsnyder@muhlenberg.edu"></a>&nbsp; |&nbsp; x3589</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/theisenp.jpg" alt="theisenp" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="vaughan"></a>Paul E. Theisen, Jr.</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;">Theatre Technician<span>&nbsp;</span><br>M.F.A., University of Delaware; B.A., Viterbo College</p>
+<p style="font-size: 70%;"><span><span>Paul E. Theisen, Jr. has designed lights, sound, projection content, and scenic elements for many of the theatre and dance productions on the Muhlenberg Theatre &amp; Dance mainstage. Paul is the resident lighting designer for the student dance concerts at Muhlenberg. He earned his MFA in technical&nbsp;productions from&nbsp;the University of Delaware. Paul has had experience as technical director in the York Little Theatre and the Lincoln Amphitheatre, and as a free-lance designer/technician in Wisconsin, Delaware, New York, and Pennsylvania</span></span>.</p>
+<p style="font-size: 80%; text-align: right;">he/him/his<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:paultheisen@muhlenberg.edu">paultheisen@muhlenberg.edu</a>&nbsp; |&nbsp; x3119</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/vaughan-w.jpg" alt="Whitney Vaughan" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="theisen"></a>Whitney Vaughan</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Costume Shop Manager&nbsp;</span><br>M.F.A.,&nbsp;Boston University</p>
+<p style="font-size: 70%;">Whitney Vaughan has worked all over the country working in costuming. Before attending graduate school she worked in wardrobe management for opera, theatre and dance. Some of her highlights include working for Pittsburgh Public Theater, Playmakers Repertory Company, and touring with the Broadway tour of Evita. After many years in wardrobe Whitney decided to attend graduate school to receive her M.F.A. in costume production from Boston University, to pursue her goal of becoming a costume shop manager. After graduating, Whitney went on to be the Costume Head at the Pennsylvania Renaissance Faire. Whitney‚s love in life is creating costumes and being a part of a costume shop. <br>.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:whitneyvaughan@muhlenberg.edu">whitneyvaughan@muhlenberg.edu</a>&nbsp; |&nbsp; x3589</strong></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="/media/contentassets/images/theatreampdance/images/staff/welch-kait.jpg" alt="Kait Welch" style="     " /></td>
+<td style="text-align: left;" align="center" valign="top">
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><strong><a id="welch"></a>Kait Welch</strong></p>
+<p style="margin-top: 4px; margin-bottom: 0px; font-size: 80%;"><span>Assistant Technical Director&nbsp;</span><br>B.A.,&nbsp;DeSales University</p>
+<p style="font-size: 70%;">Kait Welch is a graduate of DeSales University, where she earned her Bachelor of Arts in Theatre. Her love for the arts goes beyond performing on stage, as she has enjoyed applying her technical skills to the shows she has been involved in. She has done work for the Pennsylvania Shakespeare Festival, McCarter Theatre, and various community theatres in the Lehigh Valley. <br>.</p>
+<p style="font-size: 80%; text-align: right;">she/her/hers<strong>&nbsp; |&nbsp;&nbsp;<a href="mailto:kaitwelch@muhlenberg.edu">kaitwelch@muhlenberg.edu</a>&nbsp; |&nbsp; x3332</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+<hr style="width:100%; color:black; background-color:black; height:4px; margin-top:18px; border-width:0;">
+<h2>Want to Know More?</h2>
+<p>Thank you for your interest in Muhlenberg College. This form is for prospective students to request additional information about the Theatre & Dance Department.</p>
+<p> Performance Patrons: to sign up for the mailing list, or to request information other than prospective student info, please the <a href="https://www.muhlenberg.edu/academics/theatre-dance/onstage/mainstage.html">See a Show</a> page, and click Mailing List Signup in the sidebar menu.</p>
+<div id="form_a438cf81-b313-4a7f-9d2a-d3fd16547009">Loading...</div><script async="async" src="https://admissions.muhlenberg.edu/register/?id=a438cf81-b313-4a7f-9d2a-d3fd16547009&output=embed&div=form_a438cf81-b313-4a7f-9d2a-d3fd16547009">/**/</script>
+
+</div>
+</div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

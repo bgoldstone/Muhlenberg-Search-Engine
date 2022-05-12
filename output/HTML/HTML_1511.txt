@@ -1,0 +1,1208 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>News | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="News">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/mathcs/math-cs-header-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/mathcs/">Math &amp; Computer Science</a></li><li class="linkitem"><a href="/academics/mathcs/about/">About</a></li><li class="linkitem"><a href="/academics/mathcs/about/news/">News</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">News</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/mathcs/math-cs-header-1220x523.jpg","500px":"/media/contentassets/images/academics/mathcs/math-cs-header-740x555.jpg","740px":"/media/contentassets/images/academics/mathcs/math-cs-header-980x420.jpg","980px":"/media/contentassets/images/academics/mathcs/math-cs-header-1220x523.jpg","1220px":"/media/contentassets/images/academics/mathcs/math-cs-header-1440x617.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/mathcs/math-cs-header-1220x523.jpg","500px":"/media/contentassets/images/academics/mathcs/math-cs-header-740x555.jpg","740px":"/media/contentassets/images/academics/mathcs/math-cs-header-980x420.jpg","980px":"/media/contentassets/images/academics/mathcs/math-cs-header-1220x523.jpg","1220px":"/media/contentassets/images/academics/mathcs/math-cs-header-1440x617.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_2">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/mathcs/">Math &amp; Computer Science</a></li><li class="linkitem"><a href="/academics/mathcs/about/">About</a></li><li class="linkitem"><a href="/academics/mathcs/about/news/">News</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">News</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="News">
+							<span class="sub_nav_handle_label">News</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/mathcs/about/learningoutcomes/">Learning Outcomes</a></li><li class="sub_nav_item"><a href="/academics/mathcs/about/upcomingevents/">Upcoming Events</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/mathcs/about/news/">News</a></span></li><li class="sub_nav_item"><a href="/academics/mathcs/about/facultystaff/">Faculty &amp; Staff</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/mathcs/">Math &amp; Computer Science</a></li><li class="linkitem"><a href="/academics/mathcs/about/">About</a></li><li class="linkitem"><a href="/academics/mathcs/about/news/">News</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <!-- InstanceBeginEditable name="EditMainContent" --><center style="text-align: left;">
+<h3 style="text-align: center;">Mathematics &amp; Computer Science<br>Department News</h3>
+<p>&nbsp;</p>
+<h3 style="text-align: center;"><strong>Fall 2021 - Spring 2022<br></strong></h3>
+<p>&nbsp;</p>
+<p><strong>March 11, 2022<br></strong></p>
+<p><strong>Linda McGuire</strong>&nbsp;, Truman Koehler Professor of Mathematics, published The EPaDel Community (w/ X. Catepillan) in Count Me In: Community &amp; Belonging in Mathematics (D. Dumbaugh &amp; D. Haunsperger, eds), co-published w/ American Mathematical Society &amp; Mathematical Association of America (978-1-4704-6566-7)</p>
+<p>&nbsp;</p>
+<p><strong>March 3, 2022</strong></p>
+<p><strong>Spring 2022 Colloquium Series:</strong><br>Murong Xu, Department of Mathematics, University of Scranton</p>
+<p>New DigitalWatermarking Alorithm and its Application.</p>
+<p>Digital watermarking is the process of hiding digital information in a carrier signal. The feature codes (such as hash value or message authentication code) of an object to be authenticated are self-embedded as a watermark, and then feature extracted in the same way will be compared with the watermark retrieved to determine if there are any changes. In such way, the ownership of the copyright of such signal could be identified. Digital watermarking is a very important technique on cryptography study.</p>
+<p>For a grayscale digital image, the value of each pixel is a single sample representing only an amount of light, that is, it carries only intensity information. The pixel value is ranged from 0 to 255, in which Black is 0 and White is 255. So every grayscale digital image watermark can be converted into a matrix and embedded to the digital image. A good watermarking should not only make the hidden watermark invisible to human eyes, but also be robust enough to survive most signal distortions.</p>
+<p>In this talk, a new image digital watermarking algorithm will be introduced and simulation results will be presented as well.</p>
+<p>&nbsp;</p>
+<p><strong>February 10, 2022</strong></p>
+<strong>Spring 2022 Colloquium Series:</strong><br>John Kriter, Senior Technical Architecture at Accenture (a multinational information technology company)
+<p>Synopsis: For the last 10 years, John has focused his energy on helping organizations around the world implement technology solutions to solve problems. Joining Accenture as a Computer Science Major, he has applied his knowledge and skills working with &gt; 25 different organizations across &gt; 10 countries. As a Technical Architect, John has received numerous certifications from organizations like AWS, Microsoft, Google, Ali, Tencent, and CNCF.&nbsp; When not toying with some new piece of technology, John is an avid 3D printer &amp; motorcycle enthusiast.</p>
+<p>During this session, we will explore some of the pivotal experiences this career has brought. We will look at some tips on how to learn and grow within the technology space, life working with large brands in corporate environments, and some of the in-demand skillsets in the current job market.</p>
+<br>
+<h3 style="text-align: center;"><strong>Fall 2020 - Spring 2021<br></strong></h3>
+<p><strong>Spring 2021<br></strong></p>
+<p>There is a special series of online talks being organized by Muhlenberg's (relatively new) student chapter of the Association for Women in Mathematics (AWM).&nbsp;This year marks the 50<sup>th</sup>&nbsp;anniversary of the founding of the AWM. To celebrate this milestone, Muhlenberg‚s student chapter is organizing a virtual Salon Series for the spring 2021 term. One component of this celebration is a speaker series that will exclusively feature talks by women mathematicians. statisticians, and computer scientists who are currently active in STEM fields. Please contact the department for additional information.</p>
+<p>February 19th at 2PM: Student Panel</p>
+<p>February 26th at 12 PM: Conversation Hour with Muhlenberg‚s Women in STEM Club</p>
+<p>March 5th, 2 PM: Dr. Sherli Koshy Chenthittayil, University of Connecticut</p>
+<p>March 19th, 2 PM: Dr. Kari Lock Morgan, Penn State University</p>
+<p>April 8th, 4:30 PM: Dr. Loredana Lanzani, Syracuse University</p>
+<p>April 16th, 3 PM: Dr. Harsha Gwalani, Data Analyst at Twitter</p>
+<p>April 20th at 2 PM: Dr. Chawne Kimber, Lafayette College</p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h3 style="text-align: center;"><strong>Spring 2020<br></strong></h3>
+<p><strong>March 2<br></strong>Elyn Rykken, professor of mathematics, and co-author Maureen Carroll were recently featured in the "New Books in Mathematics" podcast for their 2018 book, "Geometry: The Line and the Circle." <a href="https://newbooksnetwork.com/maureen-t-carroll-and-elyn-rykken-geometry-the-line-and-the-circle-maa-press-2018/">Read More</a></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<p><strong>February 27 - Math/CS Presentation<br></strong></p>
+<p><strong>Elyn Rykken</strong>, Muhlenberg College: <strong>Building Community through Problem Solving: Two geometry problems and a national mathematics program </strong></p>
+<p style="padding-left: 30px;">This talk begins with a practical home construction question encountered by my father in his volunteer work at Habitat for Humanity.&nbsp; After considering this and a few related geometry problems, we will discuss the connection between these problems and the goals and aims of the Mathematics Teacher‚s Circle Network.</p>
+<br>
+<p><strong>February 26 - Math/CS Presentation<br></strong></p>
+<p><strong>Linda McGuire</strong>, Muhlenberg College: <strong>Other</strong><em><strong> Hidden Figures</strong></em><strong> in Mathematics </strong></p>
+<p style="padding-left: 30px;">National data trends indicate a critical need to increase representation in the mathematical sciences. By sharing a series of mathematical stories and probing a few mathematical topics, we will consider how issues of identity, visibility, and belonging, influence who does mathematics. We will also discuss ways that we, as a community, might better promote inclusion in the practice of mathematics, statistics, and computer science.</p>
+<p>&nbsp;</p>
+<p><strong>January 31 - Math/CS Colloquium Series</strong></p>
+<p><strong>Elizabeth Eisenhauer</strong> is a PhD candidate in the Statistics Department at Penn State. She grew up in Cape May County, NJ and earned a BA in mathematics from The College of New Jersey. She currently works with Dr. Ephraim Hanks at Penn State on animal movement modeling.</p>
+<p style="padding-left: 30px;"><strong>A Lattice and Random Intermediate Point Sampling Design for Animal Movement</strong></p>
+<p style="padding-left: 30px;">Animal movement studies have become ubiquitous in animal ecology for estimation of space use and analysis of movement behavior. In these studies, animal movement data are primarily collected at regular time intervals. We propose an irregular sampling design which could lead to greater efficiency and information gain in animal movement studies. Our novel sampling design, called lattice and random intermediate point (LARI), combines samples at regular and random time intervals. We compare the LARI sampling design to regular sampling designs in an example with common black carpenter ant location data, an example with guppy location data, and a simulation study of movement with a point of attraction. We modify a general stochastic differential equation model to allow for irregular time intervals and use this framework to compare sampling designs. When parameters are estimated reasonably well, regular sampling results in greater precision and accuracy in prediction of missing data. However, in each of the data and simulation examples explored in this paper, LARI sampling results in more accurate and precise parameter estimation, and thus better prediction of missing data as well. This result suggests that researchers might gain greater insight into underlying animal movement processes by choosing LARI sampling over regular sampling.</p>
+<p>&nbsp;</p>
+<p><strong>January 17<br></strong>Students from Muhlenberg presented their research at the Joint Mathematics Meeting's&nbsp;Student Research Poster Session, on Friday, January 17, 2020, in Denver Colorado. Brittany Gelb (Class of 2021), Olivia Schwager (2020) and Jordan Segrave (2020) presented their work at the session, which&nbsp;is reserved for undergraduate and first-year graduate students submitting posters on work done while an undergraduate. Posters were viewed during the session and feedback was provided by professionals and mathematicians.&nbsp;The Joint Mathematics Meeting is the largest annual mathematics meeting in the world and offers a variety of sessions that are designed to appeal to undergraduates.&nbsp;</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><br><!-- cbrownray 2022/03/02 tshoot --><!-- cbrownray 2022/03/02 tshoot --><img src="/media/contentassets/images/academics/mathcs/reu/images/REU1-460x258.jpg" alt="" style="     " /><br><br></td>
+<td style="width: 230px; height: 129px;" scope="col"><!-- cbrownray 2022/03/02 tshoot --><!-- cbrownray 2022/03/02 tshoot --><img src="/media/contentassets/images/academics/mathcs/reu/images/REU3-460x258.jpg" alt="" style="     " /></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><br><!-- cbrownray 2022/03/02 tshoot --><!-- cbrownray 2022/03/02 tshoot --><img src="/media/contentassets/images/academics/mathcs/reu/images/REU4-460x258.jpg" alt="" style="     " /><br><br></td>
+<td style="width: 100px; height: 55px;"><!-- cbrownray 2022/03/02 tshoot --><!-- cbrownray 2022/03/02 tshoot --><img src="/media/contentassets/images/academics/mathcs/reu/images/REU5-460x258.jpg" alt="" style="     " /></td>
+</tr>
+<tr>
+<td><br><!-- cbrownray 2022/03/02 tshoot --><!-- cbrownray 2022/03/02 tshoot --><img src="/media/contentassets/images/academics/mathcs/reu/images/REU6-460x258.jpg" alt="" style="     " /><br><br></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;"><strong>January 16<br></strong>First event in the department colloquium series.</p>
+<p style="text-align: left;">&nbsp;</p>
+<h3 style="text-align: left;">&nbsp;<strong>Fall 2019</strong></h3>
+<p style="text-align: left;"><strong>November 8<br></strong>Chris Herrick, Professor of Political Science and Jorge Silveyra, Assistant Professor of Computer Science co-presented a paper, Chinese Foreign Policy Rhetoric in the Era of Xi Jinping Thought, at the Northeastern Political Science Association conference in Philadelphia on Nov. 8, 2019.</p>
+<p style="text-align: left;"><strong>November 1<br>Math/CS Colloquium Series</strong></p>
+<p style="text-align: left;">Michael Tait, Villanova University</p>
+<p style="padding-left: 30px; text-align: left;"><strong>The card game SET, finite geometry, and additive combinatorics</strong></p>
+<p style="padding-left: 30px; text-align: left;">In this talk we will discuss the connection between the card game SET and one of the most famous problems in combinatorics: the cap-set problem.</p>
+<p style="padding-left: 30px; text-align: left;">The cap-set problem and a generalization of it that we will discuss will foray into the worlds of finite geometry and combinatorial number theory. The talk will be accessible to undergraduate students.</p>
+<p style="padding-left: 30px; text-align: left;">This is joint work with Alice Huang and Rob Won.</p>
+<p style="padding-left: 30px; text-align: left;">Dr. Michael Tait is an assistant professor with the Villanova University Department of Mathematics. He completed his PhD in 2016 at UC-San Diego under the direction of Jacques Baudouin Alain Verstraete. Prior to arriving at Villanova University, he completed a postdoctoral fellowship mentored by Po-Shen Loh at Carnegie Mellon University. He recently received a National Science Foundation grant to research algebraic methods in extremal combinatorics. He is an avid runner and sports enthusiast, particularly baseball.</p>
+<p style="text-align: left;"><strong>October 29<br></strong>Linda McGuire, professor of mathematics, recently published the article Promoting Inclusion by Tracing Our Mathematical Roots in The National Teaching and Learning Forum, Wiley Online, Volume 28(5), 2019.</p>
+<p style="text-align: left;"><strong>October 24<br></strong>Michael Huber, Professor of Mathematics, had "How 'Ruthian' was Babe Ruth" and five other chapters published in "Babe Ruth," a definitive statistical and historic collection on the great ballplayer, published by the Society for American Baseball Research, Inc., 2019.</p>
+<p style="text-align: left;"><strong>Friday, October 4<br>Math/CS Colloquium Series</strong></p>
+<p style="text-align: left;">Dr. William Dunham, <span class="st">Emeritus Truman Koehler Professor of Mathematics</span><em><strong><br></strong></em></p>
+<p style="padding-left: 30px; text-align: left;"><strong>How Odd are Odd Perfect Numbers?</strong></p>
+<p style="padding-left: 30px; text-align: left;">Greek mathematicians defined a whole number to be perfect if it is the sum of its proper divisors, where ‚proper‚ means the divisor is smaller than the number itself.&nbsp;&nbsp; An example is&nbsp; 6 ,&nbsp; because the sum of its proper divisors is&nbsp; 1 + 2 + 3 = 6 .&nbsp;&nbsp; Since classical times, 51 perfect numbers have been found ‚¶ and every one of them is even.</p>
+<p style="padding-left: 30px; text-align: left;">That raises an obvious question: are there any odd perfect numbers?&nbsp; To date, no one knows the answer.&nbsp; It is one of the true mysteries of mathematics.</p>
+<p style="padding-left: 30px; text-align: left;">In this talk, we trace the history of perfect numbers.&nbsp; This will lead us to an 1888 argument in which J. J. Sylvester proved that, if an odd perfect number does exist, then it must have at least three different prime factors.&nbsp;&nbsp; Although this property is far from self-evident, Sylvester‚s elegant proof requires nothing more sophisticated than geometric series.</p>
+<p style="padding-left: 30px; text-align: left;">So, we‚ll see a bit of history and a bit of mathematics as we dabble in the challenging realm of number theory.</p>
+<p style="padding-left: 30px; text-align: left;">William Dunham (Ph. D., Ohio State, 1974) is a historian of mathematics who has authored four books on the subject: Journey Through Genius, The Mathematical Universe, Euler: The Master of Us All, and The Calculus Gallery. After retiring from Muhlenberg College (emeritus, 2014), he has held visiting positions at Harvard, Princeton, Penn, Cornell, and Bryn Mawr, where he and wife Penny currently are Research Associates in Mathematics.</p>
+<p style="text-align: left;"><strong>September 11<br></strong>Michael Allocca, associate professor of mathematics, coauthored and published the chapter "Bugs, Braids and Batching" in The Mathematics of Various Entertaining Subjects: Volume 3</p>
+<p style="text-align: left;"><strong>September 9<br></strong>The Morning Call: Spotted lanternflies connect high school students to college | Muhlenberg professors including Eugene Fiorini are using the invasive insects in a program designed for area high school students called SLIME (Spotted Lanternfly Investigated through Mathematical and Environmental sciences).&nbsp;<a href="https://www.mcall.com/news/education/mc-nws-spotted-lanternflies-slimes-program-20190909-3k7i334tufchlhhhclszz4t42y-story.html" data-saferedirecturl="https://www.google.com/url?q=https://www.mcall.com/news/education/mc-nws-spotted-lanternflies-slimes-program-20190909-3k7i334tufchlhhhclszz4t42y-story.html&amp;source=gmail&amp;ust=1568120410185000&amp;usg=AFQjCNEKMsmQz9QbVsn-Bxd2RjIFPKnH2Q">Read More</a></p>
+<p style="text-align: left;"><strong>September 6<br>Math/CS Colloquium Series</strong></p>
+<p style="padding-left: 30px; text-align: left;"><strong>How I Spent My Summer Vacation‚¶ Summer Experiences of Math and Computer Science Students: Presentations by: Brittany Gelb, Ryan Hebert, Max Kirin, Sarah Schubert, Olivia Schwager &amp; Will Wamser</strong></p>
+<p style="padding-left: 30px; text-align: left;">While taking classes is an invaluable part of an education, often in class a student only learns what others have already done. During the summer, students have an opportunity to make new discoveries. In this colloquium event, students from mathematics and computer science will present their research and internship experiences and discuss how they got their summer positions.</p>
+<p style="text-align: left;"><strong>September 4<br></strong>Elyn Rykken, professor of mathematics, had her book "Geometry: The Line and the Circle" reviewed in an article posted to the Mathematical Association of America's website.&nbsp;<a href="https://www.maa.org/press/maa-reviews/geometry-the-line-and-the-circle" data-saferedirecturl="https://www.google.com/url?q=https://www.maa.org/press/maa-reviews/geometry-the-line-and-the-circle&amp;source=gmail&amp;ust=1567694884941000&amp;usg=AFQjCNG4JjbCmuDF3GTw9IMtBSOu5aA14w">Read More</a>&nbsp;</p>
+<p style="text-align: left;"><strong>August 9<br></strong>William Dunham, professor emeritus of mathematics, was named a recipient of a Mathematics Association of America Carl B. Allendoerfer Award, given for excellence in mathematical writing, for "The Early (and Peculiar) History of the Mobius Function."</p>
+<p style="text-align: left;"><strong>August 6<br></strong>Will Gryc, associate professor of mathematics, published the article "Revenue in first-price auctions with a buy-out price and risk-averse bidders" in the Journal of Economics.</p>
+<p style="text-align: left;"><strong>August 5</strong><br>Linda McGuire, professor of mathematics, presented Finding Your Mathematical Roots in the Diversity, Equity and Inclusion paper session at the Mathematical Association of America MathFest in Cincinnati, OH.</p>
+<p style="text-align: left;"><strong>July 22<br></strong>Byungchul Cha, associate professor of mathematics, presented "Intrinsic Diophantine Approximation of Spheres," in a conference "Number Theory and Dynamics," which was held in Gangwondo, South Korea.</p>
+<p style="text-align: left;">&nbsp;</p>
+<h3 style="text-align: left;">&nbsp;<strong>Spring 2019</strong></h3>
+<strong>June 13</strong><br>
+<p style="text-align: left;">Mike Huber,&nbsp;Professor of Mathematics, had his book, Understanding Sabermetrics: An Introduction to the Science of Baseball Statistics, 2nd Ed., published last week with McFarland &amp; Company, Publishers, Inc., co-authored with Gabriel Costa and John T. Saccoman.</p>
+<p style="text-align: left;"><strong>May 9</strong><br>Byunchul Cha Recognized at 2019 Honors Convocation. Cha, associate professor of mathematics, was awarded both the Donald B. Hoffman Research Fellowship and the Crossette Family Fellowship for International Research.</p>
+<p style="text-align: left;"><strong>April 16<br></strong>Andy Martin '19, Ricky Morash '19 and Adam Cantor '21&nbsp;won first place at a programming competition at the northeastern region of the national Consortium for Computing Sciences in Colleges at the University of New Hampshire.</p>
+<p style="text-align: left;"><strong>April 16<br></strong>Jorge Silveyra, assistant professor of computer science, presented the paper "Introducing Students to Computer Science and Programming using Data Analytics" at the national Consortium for Computing Sciences in Colleges at the University of New Hampshire.</p>
+<p style="text-align: left;"><strong>March 8<br></strong>Kelly Tornetta '19 Selected to Receive NCAA Postgraduate Scholarship. Tornetta, a physics and math double major and volleyball player, is only the 18th Mule to earn the $10,000 award in the 55 years of the program.</p>
+<p style="text-align: left;"><strong>February 26<br></strong>Rachel Hamelers, Head, Information Literacy Services, and Mike Huber,&nbsp;Mathematics, had "Brooklyn Dodgers 5, New York Yankees 1, New York Giants 0: June 26, 1944," published as an article about the Tri-Cornered Baseball Game in "The Polo Grounds: Essays and Memories of New York City's Historic Ballpark, 1880-1963," edited by Stew Thornley, McFarland &amp; Co, 2019.</p>
+<p style="text-align: left;"><strong>January 24</strong><br>Michael Huber, Professor of Mathematics, has a chapter published in "The Team That Couldn't Hit: The 1972 Texas Rangers," Society of American Baseball Research, 2019.</p>
+<p style="text-align: left;"><strong>January 17</strong><br>Michael Huber, Professor of Mathematics, presented "The Sierpinski Triangle's Italian Ancestors," at the Joint Mathematics Meetings in Baltimore, MD.</p>
+<p style="text-align: left;"><strong>&nbsp;</strong></p>
+<h3 style="text-align: left;">&nbsp;<strong>Fall 2018</strong></h3>
+<p style="text-align: left;"><strong>November 30</strong><br>Math/CS Colloquium Series: Dr. Brenna Curley, Moravian College: "Not Exactly Walking On Sunshine: The complexities of modeling vitamin D" in Trumbower 149.</p>
+<p style="text-align: left;"><strong>November 12</strong><br>The Annual Life After Berg Alumni panel in Shankweiler 440s.</p>
+<p style="text-align: left;"><strong>November 8</strong><br>Math/CS Colloquium Series: Dr. Ricardo Conceicao, Gettysburg College: "A Stroll Through The Garden of Number Theory" in Shankweiler 440s.</p>
+<p style="text-align: left;"><strong>October 12</strong><br>Math/CS Colloquium Series: Dr. Gary Gordon, Lafayette College: "Pick a Tree, Any Tree" in Trumbower 140.</p>
+<p style="text-align: left;"><strong>September 20</strong><br>The Annual Math Club Ice Cream Social was held in the Math/CS/Physics Students Lounge in Trumbower 147.</p>
+<p style="text-align: left;"><strong>September 18</strong><br>Michael Huber, Professor of Mathematics, had three articles published in "Met-rospectives: A Collection of the Greatest Games in New York Me</p>
+<p style="text-align: left;"><strong>September 18</strong><br>Michael Huber, Professor of Mathematics, had three articles published in "Met-rospectives: A Collection of the Greatest Games in New York Mets History," B. Wright and B. Nowlin, editors, Society for American Baseball Research, Inc.: Phoenix, AZ, 2018.</p>
+<p style="text-align: left;"><strong>September 11</strong><br>Clifton Kussmaul, associate professor of computer science, is a grand prize recipient of the 2018 Engagement Excellence Award from the National Center for Women &amp; Information Technology in honor of his work developing Process Oriented Guided Inquiry Learning (POGIL) courses for intro to computer science courses.</p>
+<p style="text-align: left;"><strong>September 7</strong><br>Math/CS Colloquium Series: How I Spent My Summer Vacation... Summer Experiences of Math and Computer Science Students. This year's presentation includes: Adam Clayman, Grace Imanariyo, Ben Lieberman, Andy Martin, Ruby Ortiz, Ann Palma, Drew Verenna, and Luke Wiley.</p>
+<h3 style="text-align: left;"><strong>Summer 2018</strong></h3>
+<p style="text-align: left;"><strong>Aug 7</strong><br>Linda McGuire, professor of mathematics, was an invited panelist in the Project NExT session "Learning to Write and Writing to Learn at all Levels of Mathematics" at MathFest in Denver, CO. Project NExT is a national-level professional development program for new or recent Ph.D.s in the mathematical sciences.</p>
+<p style="text-align: left;"><strong>Aug 6</strong><br>Linda McGuire and Will Gryc co-organized the contributed paper session "A Number is Never an Answer: Developing Mathematical Thinking and Communication Through Writing" at MathFest in Denver, August 1 &amp; 2. Twenty-two math professors each presented a paper in the session detailing how they used writing in one of their courses.</p>
+<h3 style="text-align: left;"><strong>Spring 2018</strong></h3>
+<p style="text-align: left;"><strong>May 3</strong><br>Michael Humber, Professor of Mathematics, has five articles in the new book "Major League Baseball A Mile High: the First Quarter Century of the Colorado Rockies," published by the Society for American Baseball Research (2018).</p>
+<p style="text-align: left;"><strong>April 19</strong><br>Department majors particiapated in the college's ninth annual Innovation Challege.</p>
+<p style="padding-left: 30px; text-align: left;">The audience favorite was Party DJ, a music playlist app created by Shana Joseph ‚18 and Michael Kovach ‚18, both Computer Science majors.</p>
+<p style="padding-left: 30px; text-align: left;">Marie Grace Imanariyo ‚20 presented African Rockit, a business where individuals order African-made attire through an app and college-aged ambassadors bring the items to the U.S. Although she‚s skeptical about launching her company on her own, Imanariyo wants to pursue the project.</p>
+<p style="padding-left: 30px; text-align: left;">‚I keep thinking about it since I‚ve been part of the competition.‚ said Imanariyo. ‚I believe that I‚m not going to let the idea die.‚</p>
+<p style="text-align: left;">More information <a href="https://muhlenbergweekly.com/news/ithaca-wins-ninth-annual-innovation-challenge/">here</a>.</p>
+<p style="text-align: left;"><strong>April 18</strong><br>Jamee Hood '18 presented "Food Waste at Muhlenberg" to the Mathematical Association of America MD-DC-VA Section Meeting, held at Virginia Military Institute in Lexington, VA.&nbsp;</p>
+<p style="text-align: left;"><strong>April 7</strong><br>Several mathematics students, including Gianna Barres, Anthony Carracino, Sabrina Di Costanzo, Stephen Dranoff, Ben Lieberman, Chooka Weiss, Tara Werner, Luke Wiley, and Vicky Wrigley, presented posters of their independent research at the Garden State Undergraduate Mathematics Conference on April 7 at Rowan College, NJ. Tara Werner '18 received an Outstanding Poster Presentation award from the New Jersey section of the Mathematical Association of America. Her mathematics CUE research is Chaucer's Mathematics: Modeling the Canterbury Tales.</p>
+<p style="text-align: left;"><strong>February 23</strong><br>Clif Kussmaul, associate professor of computer science, is attending the ACM Special Interest Group in CS Education conference this week in Baltimore. He &amp; collaborators are leading a 1-day event for faculty participants in the NSF IntroCS-POGIL workshop and leading a special session &amp; evening workshop on POGIL.</p>
+<p style="text-align: left;"><strong>February 19</strong><br>Mathematics/Computer Science Colloquium Series:</p>
+<p style="padding-left: 30px; text-align: left;"><strong>Janine Janoski, Kings College - "Impartial Two-Player Games"</strong></p>
+<p style="padding-left: 30px; text-align: left;">An impartial two-player game is a game where both players have the same set of available moves. We will analyze classic games such as Race to Twenty and Nim. We will then discuss the Sprague Grundy numbers for a variation of Nim played on graphs and a domino tiling game.</p>
+<p style="text-align: left;"><strong>February 9</strong><br>Mathematics/Computer Science Colloquium Series (with support from Lectures and Forum):<span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br></span></p>
+<p class="Default" style="text-align: left; padding-left: 30px;"><strong>Rebecca Wright, Director of the Center for Discrete Mathematics and Theoretical Computer Science [DIMACS] - "Privacy In Today's World"</strong></p>
+<p style="padding-left: 30px; text-align: left;">Privacy has become an issue of increasing importance in today‚s world of networked computing, mobile devices, the Internet of Things, and large-scale data analysis. This talk describes several privacy <br> solutions and challenges. Specifically, we demonstrate the use of <br> differential privacy in the context of human mobility modeling based on fine-grained mobile telephone data. We also discuss ‚side channels‚ in Facebook and whether they should be viewed as a privacy problem. Finally, we discuss the potential use of differential privacy in conjunction with secure distributed computation, each of which <br> provide different kinds of privacy protection.</p>
+<p style="text-align: left;"><strong>January 31</strong><br>Eugene Fiorini, Koehler Professor of Mathematics, was recently invited to participate in the Minority Chairs Breakfast meeting at the Joint Mathematics Meeting in San Diego. Discussions focused on increasing diversity and minority representation in the mathematical sciences.</p>
+<p style="text-align: left;"><strong>January 30</strong><br>Mike Huber, Professor of Mathematics, had two chapters published in "The Whiz Kids Take the Pennant: The 1950 Philadelphia Phillies," SABR (2018), edited by C. Paul Rogers III and Bill Nowlin.</p>
+<p style="text-align: left;">Eugene Fiorini, Koehler Professor of Mathematics, recently presented a series of lectures and workshops at the University of the Philippines. Lecture topics included the role of mathematics in sustainability, mathematical forensics and research topics in mathematics education.</p>
+<p style="text-align: left;"><strong>January 11-13</strong><br>Byungchul Cha, associate professor of mathematics, presented "Berggren trees, Romik system and Lagrange Theorem" on Saturday, Jan 13, 2018 in San Diego, CA at the Joint Mathematics Meetings, which was joint work with Dong Han Kim, Dongguk University, Seoul, Korea.</p>
+<p style="text-align: left;">Will Gryc, associate professor of mathematics, presented a talk entitled Strategies for "Buy-It-Now or Make Offer" Auctions on eBay at the Joint Mathematics Meetings in San Diego last Thursday 01/11.</p>
+<p style="text-align: left;">Linda McGuire, professor of mathematics, gave the paper Understanding Mathematics using Historical, Cultural, and Sociological Perspectives from Feminist Theory at the joint meetings of the American Mathematical Society and the Mathematical Association of America in San Diego, CA.</p>
+<p style="text-align: left;">Benjamin Lieberman '19 presented his research via poster and presentation entitled "A Monte Carlo measurement of Gerrymandering in Pennsylvania through Random Tessellation." at the joint AMS/MAA meetings in San Diego.</p>
+<p style="text-align: left;">Max Krueger '18 presented his research poster "Set-Valued Young Tableaux and Product-Coproduct Prographs" at the joint AMS/MAA meetings in San Diego.</p>
+<p style="text-align: left;">&nbsp;</p>
+<h3 style="text-align: left;"><strong>Fall 2017</strong></h3>
+<p style="text-align: left;"><strong>December 11</strong><br>Mike Huber, Professor of Mathematics, had a chapter, "The End of the Bowie Kuhn Era," published in "Baseball's Business: The Winter Meetings, 1958-2016," by the Society for American Baseball Research.</p>
+<p style="text-align: left;"><strong>November 19</strong><br>Linda McGuire, Professor of Mathematics, attended the regional meeting of the Eastern Pennsylvania and Delaware (EPaDel) section of the Mathematical Association of America on Saturday, November 18 at Shippensburg University.</p>
+<p style="text-align: left;">William Britt '17, Jamie Oliva '16, Brittney Tuff '16, Charli White '17, and William Gryc, associate professor of mathematics, published an article titled "Strategies for Making Best Offers on eBay" in the peer-reviewed American Journal of Undergraduate Research.</p>
+<p style="text-align: left;"><strong>November 16</strong><br>Clif Kussmaul, associate professor of computer science, will serve on the leader team for the Professors Open Source Software Experience (POSSE) workshop from&nbsp;<span data-term="goog_1391540578">Nov 16-18</span>&nbsp;at Red Hat Inc, Raleigh, NC.</p>
+<p style="text-align: left;"><strong>November 15</strong><br>Eugene Fiorini, Truman Koehler Professor of Mathematics, recently presented a series of talks on mathematical forensics and summer research opportunities at Appalachian State University.</p>
+<p style="text-align: left;"><strong>November 13</strong><br>Mathematics/Computer Science Colloquium Series:</p>
+<p style="padding-left: 30px; text-align: left;">Annual Back to'Berg night!<strong><span style="color: #222222; font-family: arial,sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline ! important; float: none;"><br></span></strong></p>
+<p style="text-align: left;"><strong>November 7</strong><br>Mathematics/Computer Science Colloquium Series:<span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br></span></p>
+<p class="Default" style="text-align: left; padding-left: 30px;"><strong>John E. Hammett III, St. Peter's University - "Accessing Mathematics Through Poetry: Engaging Learners at All Levels"</strong></p>
+<p style="padding-left: 30px; text-align: left;">Mathematical poetry in its various forms foster opportunities; students can solve problems, investigate content, explore the history of mathematics, explain algorithms and other techniques, engage in recreational mathematics, and enjoy the beauty inherent in the discipline. Math poems can offer differentiated access points to mathematical content for learners of all ability, interest and preparation levels, including majors, minors, pre-service teachers, and general education students. All students and faculty are welcome and encouraged to attend this workshop; come prepared to help compose at least one math poem, either individually or as part of a small group, your choice. You will leave a math poet.</p>
+<p style="text-align: left;"><strong>November 6</strong><br>Mike Huber, professor of mathematics, had seven chapters appear in "Sportsman's Park in St. Louis: Home of the Browns and Cardinals at Grand and Dodier," published 2017 by SABR, Inc.: Phoenix, AZ.</p>
+<p style="text-align: left;"><strong>November 4</strong><br>Clif Kussmaul, associate professor of computer science, led a one-day workshop on Nov 4 at Heidelberg University in Ohio on Process Oriented Guided Inquiry Learning (POGIL).</p>
+<p style="text-align: left;"><strong>October 21</strong><br>Andy Martin and Adam Cantor, the Muhlenberg College team, took third place out of a field of 19 teams in a student programming contest at the 33rd CCSC-Eastern Computer Science Conference over the weekend. This year the conference was hosted by Muhlenberg College.</p>
+<p style="text-align: left;"><strong>October 21</strong><br>Mathematics/Computer Science Colloquium Series (co-sponsored by Lectures and Forum &amp; Public Health):<span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br></span></p>
+<p class="Default" style="text-align: left; padding-left: 30px;"><strong>Armin Mikler, University of North Texas - "RE-PLAN: A Framework for Responding to Biochemical Emergencies"<em><br></em></strong></p>
+<p style="text-align: left; padding-left: 30px;">Emergencies stemming from the release of harmful biochemical substances demand a timely response. Therefore, local governments are required to maintain functional plans for receiving medical countermeasures (MCMs) from the Strategic National Stockpile (SNS) and distributing them within federally-mandated timeframes.</p>
+<p style="text-align: left; padding-left: 30px;">Determining optimal placement of clinics for the distribution of MCMs, requires the integration of geographic, demographic, and transportation data. The design and analysis of these response plans is a complex task. To this end, the RE-PLAN Framework has been developed to facilitate a data-driven response plan design. This talk will provide the highlights of RE-PLAN, a computational framework for placing facilities based on different optimization criteria.</p>
+<p style="text-align: left;"><strong>October 10</strong><br>"Quadratic Forms and Their Berggren Trees," submitted by Byungchul Cha, associate professor of mathematics, Emily Nguyen '16 and Brandon Tauber '15, was accepted for publication by the Journal of Number Theory.</p>
+<p style="text-align: left;"><strong>September 22</strong><br>Eugene Fiorini, Truman Koehler Professor of Mathematics, recently presented his current research on integer sequences associated with the Catalan triangle at the University of Delaware Combinatorics Seminar.</p>
+<p style="text-align: left;"><strong>September 21</strong><br>Math Club hosted the Annual Math Club Ice Cream Social.</p>
+<p style="text-align: left;"><strong>September 15</strong><br>Math/CS Colloquium series: "How I Spent My Summer Vacation: Summer Experiences of Math and Computer Science Students"<span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></p>
+<p style="text-align: left;">&nbsp;</p>
+</center><center><hr></center><hr>
+<p><a href="#archive">News Archive</a></p>
+<!-- InstanceEndEditable --></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

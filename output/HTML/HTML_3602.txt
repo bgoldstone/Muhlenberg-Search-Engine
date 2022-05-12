@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Student Profiles | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Student Profiles">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biochemistry/">Biochemistry</a></li><li class="linkitem"><a href="/academics/biochemistry/informationforstudents/">Information for Students</a></li><li class="linkitem"><a href="/academics/biochemistry/informationforstudents/studentprofiles/">Student Profiles</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Profiles</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","500px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","740px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","980px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","1220px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-5.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","500px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","740px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","980px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-4.jpg","1220px":"/media/contentassets/images/academics/biochemistry/headers/ChemistryResearch-MikeGatazka1-5.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_3">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biochemistry/">Biochemistry</a></li><li class="linkitem"><a href="/academics/biochemistry/informationforstudents/">Information for Students</a></li><li class="linkitem"><a href="/academics/biochemistry/informationforstudents/studentprofiles/">Student Profiles</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Profiles</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Student Profiles">
+							<span class="sub_nav_handle_label">Student Profiles</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/biochemistry/informationforstudents/researchopportunities/">Research Opportunities</a></li><li class="sub_nav_item"><a href="/academics/biochemistry/informationforstudents/honorsprograms/">Honors Programs</a></li><li class="sub_nav_item"><a href="/academics/biochemistry/informationforstudents/careersinbiochemistry/">Careers in Biochemistry</a></li><li class="sub_nav_item"><a href="/academics/biochemistry/informationforstudents/facilities/">Facilities</a></li><li class="sub_nav_item"><a href="/academics/biochemistry/informationforstudents/professionalorganizations/">Professional Organizations</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/biochemistry/informationforstudents/studentprofiles/">Student Profiles</a></span></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/biochemistry/">Biochemistry</a></li><li class="linkitem"><a href="/academics/biochemistry/informationforstudents/">Information for Students</a></li><li class="linkitem"><a href="/academics/biochemistry/informationforstudents/studentprofiles/">Student Profiles</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p style="text-align: left;"><img src="/media/contentassets/images/academics/biochemistry/major/Albdewi-252x351.jpg" alt="" style="    display: block; float : left;" /></p>
+<div><strong>Michael Albdewi '22<br>Biochemistry and Russian Studies majors</strong></div>
+<div></div>
+<div><span>In a medical world that seems to be increasingly focused on pathologies at the molecular level, it is my responsibility not only to be well-versed in molecular biology but to be able to disseminate this information to my patients and peers in digestible language. I believe that most colleges I may have attended would have provided me with a terrific education in ‚textbook‚ biochemistry. The biochemistry degree from Muhlenberg College provides me the skillset to accomplish the latter, arguably more important task ‚ explaining this complex information to others. Through holistic assignments and extensive guidance from my professors, courses such as BIO 220 Biochemistry and EBCM 341 Experimental Biochemistry broadened my academic horizons significantly, endowing me with mastery in reading and writing crucial scientific works. Furthermore, coursework pertaining to experimental design and methodology provides an invaluable perspective on how to probe molecular systems to answer biological questions. These skills will pay dividends in a world growing increasingly more skeptical of the medical profession and will allow me to treat people in a more informed, well-rounded, and humanistic way.</span></div>
+<hr>
+<p>&nbsp;</p>
+<p>&nbsp;<img src="/media/contentassets/images/academics/biochemistry/Miranda-230x334.jpg" alt="" style="     float : left;" /><strong>Miranda Robinson ‚21&nbsp;&nbsp;</strong></p>
+<p>&nbsp;I feel very fortunate that I ended up in the&nbsp;Biochemistry&nbsp;Program, despite knowing very little about the field when starting at Muhlenberg. My coursework has provided me with a profound appreciation for the chemical and molecular processes which&nbsp;underlie&nbsp;macroscopic biological functions, and my participation in independent studies in enzyme kinetics with Dr. Colabroy has garnered an appreciation for science and research beyond what is offered in the classroom environment.&nbsp;<br>&nbsp;<br>Dr. Colabroy and Dr. Hark are two of the most dedicated and caring professors I have had the pleasure of working with at Muhlenberg. They have not only created a rigorous curriculum, but they have truly fostered a close-knit, supportive community which I feel is a unique benefit of the major. The core&nbsp;Biochemistry curriculum (BIO 220, BCM 341, and BCM 441) provides a comprehensive base of biochemical understanding while also encouraging students to gain comfort with scientific literature and to actively participate in the communication of that science with the world at large. I see these as core competencies to a career in any scientific field, and these are skills which I will certainly carry into my research at the Children‚s Hospital of Philadelphia and, hopefully,&nbsp;my&nbsp;career as a physician scientist.&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p><img src="/media/contentassets/images/academics/biochemistry/Zachary-300x219.jpg" alt="" style="     float : left;" />&nbsp;<strong>Zachary Lill ‚21</strong></p>
+<p>I chose to attend Muhlenberg College because of the Biochemistry major within a small institution. The class sizes allow for the emphasis to be put on the success of the students, and the quality of instruction prepares you for the next step in your scientific career.&nbsp; These aspects, of not only Muhlenberg but the Biochemistry Program in particular, have helped me excel during my time here.</p>
+<p>The core Biochemistry classes allowed me to get an extremely in-depth understanding of biochemical principles, while the electives allowed for some freedom to take classes that interested me.&nbsp; My two favorite projects were the mock NSF grant in Experimental Biochemistry and the disease blog in Advanced Biochemistry.&nbsp; These two projects require the integration of all the scientific knowledge learned throughout your time as a Muhlenberg student.&nbsp; The classes, along with the opportunity to participate in independent research, sharpened my scientific skills and prepared me for my post-Muhlenberg endeavors.</p>
+<p>My undergraduate experience here was challenging but rewarding.&nbsp; The connections made with my peers and professors will allow me to be successful in my next step as a scientist, which is to attend graduate school at Texas A&amp;M for my PhD in biochemistry and biophysics.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/SpotlightPhoto-24x33.jpeg" alt="Image of Elijah Sommer" style="  padding : 8px;   float : left;" />Elijah Sommer '20, Biochemistry major, Mathematics minor</strong></p>
+<p>Studying Biochemistry here at Muhlenberg has fostered a framework for thinking about biological phenomena that is both contemporary and dynamic. It has driven me to develop a strong understanding of the molecular underpinnings of life, a fact which has truly changed the way I see the world around me. Writing a mock grant proposal for the NSF GRFP in BCM 341 was a challenge unlike anything I‚ve been confronted with in my education, yet without a doubt one of my most empowering accomplishments as a student of science.</p>
+<p>As an aspiring physician, I recognize there is arguably no competency more requisite for practicing today‚s medicine than reading and assimilating the current literature. Keeping up with ongoing medical advancements is an unwritten rule of being a practitioner in any capacity, so I strongly value having had the opportunity to develop and exercise it here at ‚berg. The emphasis the Biochemistry program puts on high-quality experimentation as well as engaging with scientific literature is simply unparalleled. Furthermore, I have been encouraged to grow as a communicator of science, another vastly underrated trait. I will carry these skill sets with me going forward into research at the National Cancer Institute, and certainly throughout my career.</p>
+<hr>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/Katy-230x337.jpg" alt="" style="  padding : 8px;   float : left;" />Katy Mayer '18</strong></p>
+<p>As a student who enjoys learning about the molecular connections to everyday processes, I barely had to give any thought as to which major I would pursue at Muhlenberg. The Biochemistry Program has afforded me so many incredible opportunities that have shaped me into the student and scholar I am today.</p>
+<p>The major was very flexible allowing me to take classes that sparked my interest. Participating in classes that were both academically rigorous and fascinating, as well as spending time in a research lab, I have been able to develop my problem solving skills and study habits that will serve me well going into medical school. From blogging about my disease of interest in Advanced Biochemistry,&nbsp;to playing mini golf at the annual summer research tournament, there was never a dull moment in my major.</p>
+<p>Working with amazing faculty and developing strong relationships with my peers, the biochemistry major was everything I could have wanted for my undergraduate education. After graduation, I will be joining the Medical College of Wisconsin‚s MD Class of 2022.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/Headshot-230x153.jpg" alt="" style="  padding : 8px;   float : left;" />Brock Juliano '18</strong><span>&nbsp;<br></span>Biochemistry and Anthropology double major</p>
+<p>When I first came to Muhlenberg, I did not expect to graduate with a degree in Biochemistry; however, after my freshmen year it was clear that I wanted to major in a program that allowed me to work at the interface of chemistry and biology. I quickly found my home within the Biochem program, with its wonderful faculty and interesting courses.</p>
+<p>The Biochemistry program at Muhlenberg actively involved me in every part of my education. From discussing the social and ethical challenges that contemporary biochemists face in BIO 220, to designing and executing my own research project in BCM 341, the program allowed me to cut my teeth as a burgeoning scientist and researcher. In this program, one does not passively learn about doing biochemistry, but rather students become active participants in this exciting and fast-paced discipline. The wonderful experience that I have gained with Muhlenberg‚s Biochemistry program will undoubtedly serve me well as I pursue my Ph. D. in Chemistry.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/Untitled design (1)-200x200.png" alt="" style="  padding : 8px;   float : left;" />Suzi Birnbaum '18</strong><span>&nbsp;<br></span>Biochemistry major with minors in German Studies and Asian Studies</p>
+<p>Biochemistry (roughly) spans the chemical to the cellular building blocks of life. I‚ve found it has connections to all topics including (but not limited to) physics, mathematics, history, sociology/anthropology, ethics, medicine, etc.&nbsp; The program is varied ranging from chemistry-heavy subjects to broader-picture biology applications.</p>
+<p>Yet the love of the subject alone could not have gotten me through times of doubt over four years. The encouragement by my professors, and the camaraderie with my peers have made my time at ‚Berg invaluable. The personal attention by the biology, chemistry, and biochemistry faculty ensures that students‚ strengths are uncovered and developed.</p>
+<p>The relationships with my professors have resulted in opportunities such as multiple independent research experiences, participation in outside poster sessions, and lab management experience. Additionally, my science professors have put great worth in diversity of education by always encouraging my liberal arts involvement. Though the program is challenging I have gained invaluable lessons such as how to execute an original research project, confidently work independently or in collaboration, and that a ‚true scientist‚ is humble in the never-ending pursuit of knowledge.</p>
+<hr>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/TylerFlorio_TommyHoffman-5356-230x152.jpg" alt="" style="  padding : 8px;   float : left;" />Thomas Hoffman '16</strong><span>&nbsp;<br></span>Working in business sector (data management and analytics)</p>
+<p>I think the core classes (Biochemistry, Experimental Biochemistry, and Advanced Biochemistry) had to be my favorite part of the Biochemistry major at Muhlenberg.</p>
+<p>These classes really focus on developing the tools and thought processes needed to analyze any piece or type of material rather than placing heavy emphasis on understanding the necessarily limited scope of the material presented. And that is not so much a testament to biochemistry as to the staff involved. Dr. Colabroy and Dr. Hark do an exceptional job at designing the courses and allowing students significant license to explore their creative and diagnostic faculties. I can safely say that my ability to think about a problem, analyze its parameters, and design a solution is much higher than when I entered the program. For me, this skill is so much more valuable than any factual bit of information I have ingested. The skills I have developed in this program have even let me transition into an exciting new field that I never pictured myself in. And despite the fact that I'm not pursuing science after graduation, I can safely say that choosing the Biochemistry major at Muhlenberg was an excellent choice.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biology/RebeccaGoldenPhoto_000.jpg" alt="Biology" style="  padding : 8px;   float : left;" />Rebecca Golden '14</strong><span>&nbsp;<br></span>Now an M.D. student at Drexel College of Medicine</p>
+<p><span class="style2">Curiosity during introductory courses led me to biochemistry. In biology classes, I wondered ‚How does this<span>&nbsp;</span><em>really</em><span>&nbsp;</span>work?‚ During chemistry classes I wondered, ‚How does this apply to biological systems?‚ The Biochemistry program allowed me to explore these questions, forge lasting relationships with department heads Dr. Hark and Dr. Colabroy, and bond with my classmates as we conquered the major</span>.</p>
+<p>I am most thankful for the independence and critical thinking skills I developed by studying biochemistry. Whether designing projects for Experimental Biochemistry or studying proteins in BIO 220, I felt engaged in and challenged by every aspect of the biochemistry major. The program is interdisciplinary and flexible: I selected electives about which I was passionate and completed an economics minor. I also investigated the enzymology of lincomycin biosynthesis in Dr. Colabroy‚s research lab for almost three years. These experiences prepared me for incredible research opportunities at Drexel and the Children‚s Hospital of Philadelphia and inspired me to conduct research while studying and practicing medicine. I leave the program confident I can ask insightful questions and develop innovative ways to seek answers‚I will utilize these skills as a physician, a scientist, and a citizen hoping to make the world better.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biology/458958_10151215717798574_577551891_o.jpg" alt="Biology" style="  padding : 8px;   float : left;" />Ed Quach '14</strong><span>&nbsp;<br></span>Now a Ph.D. student at Emory University</p>
+<p><span class="style2">My interest in biochemistry has its origins in the same question that I believe prompts any science major to follow his or her passions: why? As I asked this question of my teachers, my textbooks, and yes, of Wikipedia and Google, I found that my answers always seemed to land me in the realm of molecular life sciences. Indeed, as the chemistry of life, how much more salient a truth can be offered than that with which biochemistry has enraptured me?</span></p>
+<p><span class="style2">As a part of my four years in the Biochemistry major, I have been afforded some of the richest and most diverse experiences of my life. Flexible enough to permit me an entire semester of non-biochemistry studies in Tanzania and Kenya, and rigorous enough to support me in my successful application to summer research both at Muhlenberg and at Cornell University, the Biochemistry Program was the birthplace of my identity as a scientist. It has provided me with the necessary tools to feel confident studying primary literature in several fields, tackling modern scientific problems, and working in a laboratory setting. These skills will be vital as I pursue PhD programs and my future career in science.</span></p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/JennaKotak.png" alt="" style="  padding : 8px;   float : left;" />Jenna Kotak '13</strong><span>&nbsp;<br></span>Now in a doctoral program at Brown Univeristy</p>
+<p>As a freshman, the biochemistry major was initially interesting to me simply because it examined biological questions under a smaller lens.&nbsp; After taking a few courses for the major, my appreciation grew for biochemistry as its own discipline, rather than any overlap of biology and chemistry. The required major courses provide a strong foundation in the many facets of biochemistry and the flexibility in the electives allows me to tailor my courses to my specific interests.</p>
+<p>The biochemistry program challenged me and consistently piqued my interests, yet was manageable enough so that I was able to complete a major in mathematics as well. For the past two years I‚ve also worked with Dr. Hark on an independent research project that puts my biochemistry knowledge to use and gives me a greater understanding of how scientific research works. This year I plan to apply for Molecular Biology Ph. D. programs to further my studies of questions that fascinated me during my time at Muhlenberg.</p>
+<hr>
+<p><strong><img src="/media/contentassets/images/academics/biology/baer.JPG" alt="Biology" style="  padding : 8px;   float : left;" />Mike Baer '12</strong><span>&nbsp;<br></span>Now a M.D. student at University of Pennsylvania</p>
+<p>I chose to major in Biochemistry because the discipline bridges and synthesizes two sciences that I find enjoying and challenging to study. The flexibility and scope of the major appealed to me. In a single major I could study the genetic basis of life, the biochemical foundation of metabolism, and the quantum mechanical underpinnings of chemistry and physics. In addition, many biochemistry courses focus heavily on analyzing primary literature, a skill that I felt was very important to master.</p>
+<p>While I certainly appreciate that the rigor of the program has prepared me well for medical school, I am most thankful for the relationships I was able to form with professors from several different departments.&nbsp; The biochemistry major also gave me the flexibility to perform research on a wide range, and the work I did with<span>&nbsp;</span><em>C. elegans</em><span>&nbsp;</span>in Dr. Wightman‚s laboratory will certainly stick with me as I move into the clinic.</p>
+<hr>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/tolaymat.jpg" alt="Biochemistry" style="  padding : 8px;   float : left;" />Mazen Tolaymat ‚11</strong><span>&nbsp;<br></span>M.D., Drexel University</p>
+<p>Why did I choose a Biochem major? Because it explores in detail the chemistry that is most important to understanding the reactions that underlie everyday life processes, covers the various branches of human function and metabolism that I will need to know as a physician, and provides the freedom to choose electives in whatever areas of biology or chemistry that interest the student most.</p>
+<p>While completing such a comprehensive major may sound like no small task, I have been engaged in many different areas during my college experience. In the fall of my junior year I studied abroad in Tokyo, Japan where I concentrated on studying culture and becoming more proficient in Japanese. I am close to completing a minor in Computer Science and was able to attend a bioinformatics workshop that melds my two disciplines. I conducted summer research all three summers of my college career in the areas of computer programming and analytical chemistry, both applied to answer ecology and plant biology questions. It is these experiences, along with the knowledge gained through the Biochemistry major that will allow me to succeed in medical school and beyond.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/torphy.jpg" alt="Biochemistry" style="  padding : 8px;   float : left;" />Bobby Torphy ‚11</strong><span>&nbsp;<br></span>M.D., University of North Carolina-Chapel Hill</p>
+<p>My interest in the field of biochemistry stems from my desire to understand the underlying foundation of biological processes. In introductory biological courses I found myself repeatedly asking the question of ‚how does this work?‚ while in chemistry courses I wondered ‚how does this apply to a biological system?‚ Biochemistry answers many of these questions and allows me to integrate my curiosity for both biology and chemistry.</p>
+<p>Pursuing a Biochemistry major has also prepared me well to apply my skills to a variety of challenging settings outside of the program. I have performed an independent research project on the form and function of avian alimentary tracts, was a Research Scholar at Lehigh Valley hospital studying the latest developments in aortic valve replacement, and will be doing biochemical research at the National Institutes of Health studying the effects of endogenous lipids on vascular disease. I also look forward to building on my strong foundation in biological processes in medical school.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/wright.jpg" alt="Biochemistry" style="  padding : 8px;   float : left;" />Elia Wright ‚10</strong><span>&nbsp;<br></span>Currently a Ph.D. student at University of Michigan</p>
+<p>I knew exactly what I wanted to do before I applied to Muhlenberg ‚ study biochemistry as an undergraduate and pursue a PhD in biochemistry. I officially declared my major to be Biochemistry as a second semester freshman and never looked back.</p>
+<p>I enjoyed all the Biochemistry courses I took, and I forged great relationships with Dr. Hark (Biology Dept) and Dr. Colabroy (Chemistry Dept) that will last a lifetime. The courses offered at Muhlenberg prepared me for the Research Education for Undergraduates program with the Chemistry Department at the University of Michigan.</p>
+<p>My summer research experience showed me how much I love doing research and increased my desire to pursue a PhD in biochemistry. Ultimately, I accepted an offer from the University of Michigan‚s Programs in Biomedical Sciences graduate training program. The Biochemistry major has increased my confidence in my abilities as a student and scientist and prepared me for the next step in my academic career.</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong><img src="/media/contentassets/images/academics/biochemistry/info/alvaro-picture.jpg" alt="Biochemistry" style="  padding : 8px;   float : left;" />Chris Alvaro '10</strong><span>&nbsp;<br></span>Ph.D., University of California-Berkeley</p>
+<p>Why biochemistry? I realized early in my college career that my interests lie in many areas of science and I was having trouble choosing just one concentration. When I learned about biochemistry, I realized I had the opportunity to explore several disciplines yet still be under a central umbrella.</p>
+<p>How are cells truly functioning? What interactions are occurring at the molecular level? How can a change in structure develop into a disease? These questions began to fascinate me and biochemistry is my catalyst in exploring the answers. I am able to make connections between all of my courses and learn how to apply these various skills into research.</p>
+<p>My biochemistry courses have also given me the confidence and experience to participate in research and I am currently working in Dr. Wightman‚s molecular genetics lab studying nuclear hormone receptors in Caenorhabditis elegans. I believe that my experience in biochemistry will give me an advantage in future research and greatly prepare me to tackle the challenges I have yet to face.</p></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

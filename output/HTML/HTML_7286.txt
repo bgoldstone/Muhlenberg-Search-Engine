@@ -1,0 +1,2256 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Course Descriptions | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Course Descriptions">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/religion/header_1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/religion-studies/">Religion Studies</a></li><li class="linkitem"><a href="/academics/religion-studies/courses/">Courses</a></li><li class="linkitem"><a href="/academics/religion-studies/courses/coursedescriptions/">Course Descriptions</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Course Descriptions</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/religion/header_740x317.jpg","500px":"/media/contentassets/images/academics/religion/header_740x555.jpg","740px":"/media/contentassets/images/academics/religion/header_980x420.jpg","980px":"/media/contentassets/images/academics/religion/header_1220x523.jpg","1220px":"/media/contentassets/images/academics/religion/header_1440x617.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/religion/header_740x317.jpg","500px":"/media/contentassets/images/academics/religion/header_740x555.jpg","740px":"/media/contentassets/images/academics/religion/header_980x420.jpg","980px":"/media/contentassets/images/academics/religion/header_1220x523.jpg","1220px":"/media/contentassets/images/academics/religion/header_1440x617.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_6">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/religion-studies/">Religion Studies</a></li><li class="linkitem"><a href="/academics/religion-studies/courses/">Courses</a></li><li class="linkitem"><a href="/academics/religion-studies/courses/coursedescriptions/">Course Descriptions</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Course Descriptions</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Course Descriptions">
+							<span class="sub_nav_handle_label">Course Descriptions</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/religion-studies/courses/coursedescriptions/">Course Descriptions</a></span></li><li class="sub_nav_item"><a href="/academics/religion-studies/courses/semesteroffering/">Semester Offering</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/religion-studies/">Religion Studies</a></li><li class="linkitem"><a href="/academics/religion-studies/courses/">Courses</a></li><li class="linkitem"><a href="/academics/religion-studies/courses/coursedescriptions/">Course Descriptions</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><a id="100-199"></a>100-199: Themes and Motifs in the Study of Religion</strong></p></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL100_1012" 
+     aria-expanded="false" 
+     aria-controls="REL100_1012">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL100_101">
+      <p class="panel-title pull-left">
+          REL 100, 101 Religion & Popular Culture
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL100_1012" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL100_101">
+    <div class="panel-body">
+        <p><span>This course will examine the ways different religious beliefs and practices are represented in a variety of print, film, television, and other media in our culture and the ways in which those representations may function to influence opinions, actions, and policy. Analysis of media content will accompany an introduction to the study of religions presented and misrepresented in popular culture.</span></p>
+<p><em>Meets general academic requirement HU (and W when offered as 101).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1022" 
+     aria-expanded="false" 
+     aria-controls="REL1022">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL102">
+      <p class="panel-title pull-left">
+          REL 102 Religion & Violence
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1022" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL102">
+    <div class="panel-body">
+        <p><span class="acalog-highlight-search-1">Rel</span><span>igious ideology and rhetoric play a significant role in violent conflict in the modern period, a phenomenon that we are only now coming to appreciate fully. In this course we will examine some of the central<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious issues that have been at the forefront of modern conflicts. We will consider some of the ways that<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious terminology, symbolism, and myth have been employed as a way of marking difference and setting identity boundaries from the First World War to the current ‚War on Terror.‚</span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1042" 
+     aria-expanded="false" 
+     aria-controls="REL1042">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL104">
+      <p class="panel-title pull-left">
+          REL 104 Sex, Gender, & Religion
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1042" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL104">
+    <div class="panel-body">
+        <p><span>Gender and sexuality as fundamental aspects of human experience play important roles in all major&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious systems whether explicit and positive or suppressed and denigrated. In this course we will explore how the varied understandings of gender and sexuality in different cultures and at different times have influenced<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious practice and belief and how, in turn,<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igions have affected these understandings. We will also consider how this interaction between gender and sexuality and<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion has affected the status of men and women in their various roles and orientations.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU and DE.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1162" 
+     aria-expanded="false" 
+     aria-controls="REL1162">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL116">
+      <p class="panel-title pull-left">
+          REL 116 Monotheism: Creating God
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1162" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL116">
+    <div class="panel-body">
+        <p>O sole God, like whom there is no other! The idea of one God was first expressed by the pharaoh Akhenaten who lived between 1352-1336 b.c.e. Over 3000 years later, three major world religions are still struggling to understand and incorporate this seemingly simple concept of monotheism. In this course we will explore some of the issues that surround monotheism and examine how the idea of one God has shaped the development of Judaism, Christianity, and Islam individually and in relation to each other. In doing so, we will attempt to gain a better understanding of the nature, role, and meaning of the ideas of God in western consciousness and culture.</p>
+<p><em>Meets general academic requirement HU&nbsp;and&nbsp; IL.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1172" 
+     aria-expanded="false" 
+     aria-controls="REL1172">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL117">
+      <p class="panel-title pull-left">
+          REL 117 Animals & the Sacred
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1172" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL117">
+    <div class="panel-body">
+        <p>Religious myth and ritual is full of allusions to animals. From the ‚Scapegoat‚ and the ‚Lamb of God‚ to the ‚Sacred Cow‚ and the ‚Chinese Dragon‚ animals are central to the symbolic representation and language of almost every religious tradition. This course will compare and contrast the way animals are imagined and used in the beliefs and practices of several religious traditions.</p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1192" 
+     aria-expanded="false" 
+     aria-controls="REL1192">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL119">
+      <p class="panel-title pull-left">
+          REL 119 The Moral Self
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1192" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL119">
+    <div class="panel-body">
+        <p><span>What is a ‚good‚ life? Is there a single way of being ‚good‚ or ‚moral?‚ How and on what basis are moral choices made? How is the moral self constituted? This course introduces students to the dynamic and complex nature of ethical deliberation and practice in the everyday with a focus on the moral traditions of South Asia. We will examine diverse conceptions of the moral self and the good life through a study of how morality is understood, lived, and experienced within the framework of the Hindu, Jain, Buddhist, and Islamic traditions. In particular, we will explore the role of elements like time, age, tradition, emotions, agency, the ‚other,‚ and oral and textual narratives in ethical practice and thinking, and critically examine the assumptions of secular liberal ethics. We will also consider responses from within the Hindu, Buddhist, and Jain traditions to violence. No previous study of&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igion, ethics, or South Asia is necessary.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU and DE.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL121_1222" 
+     aria-expanded="false" 
+     aria-controls="REL121_1222">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL121_122">
+      <p class="panel-title pull-left">
+          REL 121, 122 Modernity & the Death of God?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL121_1222" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL121_122">
+    <div class="panel-body">
+        <p><span>Does modernity mark the end of&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igion? Does<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion become ir</span><span class="acalog-highlight-search-1">rel</span><span>evant in the modern world? What is the place of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion in modernity? What form does it take? Does modernity shape<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion or does<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion shape modernity? In this course, we will consider the complex<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>ationship between<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion and modernity through an examination of the interactions between<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion and core historical processes constitutive of modernity including colonialism, the rise of the modern nation-state, secularization, capitalism and consumerism. We will begin by examining the categories of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion and modernity, and critically examine the supposed dichotomy between them as well as between tradition and modernity,<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion and the secular, and<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion and the nation as we proceed through the semester. The course will focus primarily on case studies that examine specific interactions between modernity and some of the&nbsp; world‚s largest<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious traditions including Buddhism, Hinduism, Christianity, and Islam in different geographical contexts across the world including India, Egypt, Great Britain, the United States and Thailand.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirements HU and DE (and W when offered as 122).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1312" 
+     aria-expanded="false" 
+     aria-controls="REL1312">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL131">
+      <p class="panel-title pull-left">
+          REL 131 Myth, Religion, and Creation
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1312" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL131">
+    <div class="panel-body">
+        <p><span>From Genesis‚ depiction of the divine organization of the universe in the Hebrew Bible to Hindu traditions of creation‚s emanation from Brahma, narratives concerning the origin of the world have attracted devotional and scholarly attention from around the globe since ancient times. In this course, we will use the comparison of creation stories as an introduction to the study of myth, its&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>ationship to ritual, and its place and function in<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious traditions. Furthermore, we will critically examine the ways in which different cultures have used stories of origins to address questions regarding contemporary political, social, or<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious contexts. Particular emphasis will be placed on creation stories from the ancient Near East and Bible, and the symbolic and literary connections between them.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement DE and HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL133_1342" 
+     aria-expanded="false" 
+     aria-controls="REL133_1342">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL133_134">
+      <p class="panel-title pull-left">
+          REL 133, 134 Pilgrimage: Rites of Way
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL133_1342" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL133_134">
+    <div class="panel-body">
+        <p><span>Why is travel almost universally understood to hold the potential for significant transformation? How do various communities and individuals define sacred travel through their own practice, and how does it define them in turn? This course employs the many methodologies of&nbsp;r</span><span class="acalog-highlight-search-1">el</span><span>igion studies in investigating pilgrimage around the world. We will look to a number of modern theoretical interpretations of sacred journey, and will examine ethnographic accounts of pilgrimage primarily in the contexts of Buddhism, Islam, Christianity, and Judaism. Pilgrimage will serve as our window onto these traditions‚ ethical systems, cosmologies of space and time,<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious art and aesthetics, and views of the body‚s agency and power, and in some cases, onto the contested space of multiple traditions‚ holy ground.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement DE and HU (and W when offered as 134).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1352" 
+     aria-expanded="false" 
+     aria-controls="REL1352">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL135">
+      <p class="panel-title pull-left">
+          REL 135 Religion in America
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1352" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL135">
+    <div class="panel-body">
+        <p><span>This course will explore the evolution of&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious life in the United States and of American ideas about the nature and place of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion within American society. Beginning in the colonial period and continuing through the present, this class will examine the phenomenon of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion in the United States and consider the ways that immigrants, atheists, and founders of new<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious movements have changed and challenged established assumptions about what it means to be an American. Using primary documents, and particularly court cases, the class will explore the contested terrain of American<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious life and ask how our understanding of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igion has shaped notions of statehood, citizenship, and equality in the United States.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL1372" 
+     aria-expanded="false" 
+     aria-controls="REL1372">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL137">
+      <p class="panel-title pull-left">
+          REL 137 Speaking with the Divine
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL1372" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL137">
+    <div class="panel-body">
+        <p><span>From the biblical world to modern America, asserting the power to speak with the divine has provided people the ability to enact social change, critique the powerful, and legitimate new&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious beliefs. In this course, we will explore three different, but ultimately<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>ated ways that people have claimed to converse with the divine world: divination, shamanism, and prophecy. We will place particular emphasis on understanding the social significance and political function that these practices have played in the past, and continue to play today. More generally, we will also explore questions of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious belief and experience. The course will conclude with a reexamination of traditions of divine communication within Judaism, Christianity, and Islam in light of cross-cultural comparisons with other<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious traditions.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirements DE and HU.</em></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><a id="201_202"></a>201/202: Theory &amp; Method in the Study of Religion</strong></p></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL201_2022" 
+     aria-expanded="false" 
+     aria-controls="REL201_2022">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL201_202">
+      <p class="panel-title pull-left">
+          REL 201, 202 Theory & Method in the Study of Religion
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL201_2022" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL201_202">
+    <div class="panel-body">
+        <p><span>In this course, students explore the methodological and theoretical frameworks that define the academic study of&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igion. Coverage includes analysis of multiple disciplinary perspectives including sociology, anthropology, history, phenomenology, and psychology. Additionally, students will put the theoretical into practice by using the methods studied in class to analyze the beliefs and practices of various<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious traditions.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU (and W when offered as 202).</em></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><a id="203-299"></a>203-299: Religions of the World</strong></p></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2032" 
+     aria-expanded="false" 
+     aria-controls="REL2032">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL203">
+      <p class="panel-title pull-left">
+          REL 203 Religions of India
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2032" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL203">
+    <div class="panel-body">
+        <p>This course seeks to introduce students to the diversity of religious thought and practice in India from its earliest manifestations in recorded history to the present. The Indian subcontinent is the birthplace of four of the world‚s religions‚Hinduism, Buddhism, Jainism and Sikhism‚and also home to a large population of Muslims, Jews, Zoroastrians and Christians. In this survey course, we will examine the emergence of these traditions within their specific socio-historical contexts and explore the dynamic interactions and resemblances between them. We will pay particular attention to the relationship between traditions as they are expressed and understood in texts and as they are lived and experienced in everyday life. We will read primary sources in translation including the great Indian epic, the <em>Rƒmƒyana&nbsp;</em>and draw on material from various disciplines that inform the study of religion including history and anthropology, as well as film. No prior knowledge of India or Indian religions is required.</p>
+<p><em>Meets general academic requirements&nbsp;DE and HU. Also counts toward Asian Studies and International Studies.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2072" 
+     aria-expanded="false" 
+     aria-controls="REL2072">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL207">
+      <p class="panel-title pull-left">
+          REL 207 Religions of China
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2072" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL207">
+    <div class="panel-body">
+        <p><span>This course will address the origins and development of Confucianism, Taoism, and Buddhism and trace the interactions of these&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igions as they have shaped the spiritual and ethical environment that exists in China today. The course will also consider material culture, popular forms, and folk traditions and, finally, the unique challenges posed by the modern Chinese political situation.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU and DE.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2082" 
+     aria-expanded="false" 
+     aria-controls="REL2082">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL208">
+      <p class="panel-title pull-left">
+          REL 208 Religions of Japan
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2082" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL208">
+    <div class="panel-body">
+        <p>Students will study the native Japanese religious tradition, Shinto, as well as the Chinese traditions that have become fundamental to Japanese religion (Confucianism, Taoism, and Buddhism) as they have been interpreted in Japan. The course will also consider material culture, popular forms, folk traditions, and the ‚new religions‚ of modern Japan as well as attitudes toward religion in today‚s Japan.</p>
+<p><em>Meets general academic requirement&nbsp;HU and DE.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL215_2162" 
+     aria-expanded="false" 
+     aria-controls="REL215_2162">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL215_216">
+      <p class="panel-title pull-left">
+          REL 215, 216 New Religious Movements
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL215_2162" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL215_216">
+    <div class="panel-body">
+        <p><span>How do&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious groups form and develop? How do these groups differ from ‚traditional‚<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious communities? In this course, we will examine New<span>&nbsp;</span></span><span class="acalog-highlight-search-1">Rel</span><span>igious Movements (NRM) from a variety of disciplinary perspectives. We will investigate the beliefs, practices, and symbolism of several NRMs, seeking to understand both the unique histories of these groups and the patterns of development that may share. Finally, we will consider how these new movements interact with established<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igious traditions and how they are perceived by those outside of the group.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU (and W when offered as 216).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2252" 
+     aria-expanded="false" 
+     aria-controls="REL2252">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL225">
+      <p class="panel-title pull-left">
+          REL 225 Buddhist Traditions
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2252" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL225">
+    <div class="panel-body">
+        <p>From its origins in India to its development throughout East and Southeast Asia and beyond, Buddhism has prospered in a wide variety of cultures and environments. This course will introduce students to the origins, evolution, and manifestations of Buddhism in scripture, practice, and artistic expression.</p>
+<p><em>Meets general academic requirement&nbsp;HU and DE.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2272" 
+     aria-expanded="false" 
+     aria-controls="REL2272">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL227">
+      <p class="panel-title pull-left">
+          REL 227 Islamic Traditions
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2272" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL227">
+    <div class="panel-body">
+        <p>This course will survey the beliefs, practices, and history of Islam, focusing on how Islam has evolved over time and culminating in a close examination of the forms Islam takes today and the place of Islam in current events. Special consideration will be given to what it means to consider Islam as a religion rather than a cultural or political entity. Attention will also be given to Islam's relationship with other monotheistic traditions and to American Islam. </p>
+<p><em>Meets general academic requirments&nbsp;HU and DE.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2292" 
+     aria-expanded="false" 
+     aria-controls="REL2292">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL229">
+      <p class="panel-title pull-left">
+          REL 229 Jewish Traditions
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2292" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL229">
+    <div class="panel-body">
+        <p><span>Judaism has ancient roots&nbsp;and encompasses a multifaceted array of rituals, laws, holidays and life-cycle events. Using ‚Time‚ and ‚Space‚ as the dual focal points of our course, we will examine the development of diverse Jewish communities from antiquity to the modern era in order to better understand the origins and practices of the spectrum of Jewish groups encountered today. Consequently, this course will emphasize the heterogeneity of Judaism as a&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious system throughout history, while also examining what makes this diverse group of traditions and texts ‚Jewish.‚</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2332" 
+     aria-expanded="false" 
+     aria-controls="REL2332">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL233">
+      <p class="panel-title pull-left">
+          REL 233 Christian Traditions
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2332" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL233">
+    <div class="panel-body">
+        <p>Christianity is not and never has been a single set of beliefs and practices; instead, the religion is marked by diversity of thought and action. The purpose of this course is to engage the variety in the tradition through the exploration of rituals and beliefs held by different Christian communities around the world and through time. In addition to primary and secondary readings, students will also explore the visual arts, architecture, and music as manifestations of Christian diversity. Additional themes for consideration will include the place of the Bible and its interpretation, the role of church leaders and their relationship to the divine, and ethical/moral differences that are present within the tradition.</p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2522" 
+     aria-expanded="false" 
+     aria-controls="REL2522">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL252">
+      <p class="panel-title pull-left">
+          REL 252 Hebrew Bible
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2522" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL252">
+    <div class="panel-body">
+        <p><span>Jews and Christians alike regard the books of the Hebrew Bible as scripture. Yet, modern scholarship has sought an alternative approach to understanding this complicated collection of ancient texts that sets aside its identification as revelation and attempts to grasp the historical, political, and cultural contexts that surrounded its composition. Consequently, this course will introduce students to the Hebrew Bible as a repository of ancient Israelite traditions that were developed and shaped in specific historical and social contexts. To that end, rather than read the Bible from front to back like a novel written of whole cloth, we will begin by reading the final portion of the Bible, known as the ‚Writings,‚ first and work our way back through the Prophets, finishing with the Torah. By doing this, we will examine first those biblical books that provide the clearest glimpse of the scribal practices that framed production of the Hebrew Bible as a whole, as well as its compositional complexity. In addition, students will place particular biblical passages in dialogue with texts from Mesopotamia, Egypt, Moab, and Ugarit, illuminating Israel‚s place in the&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious and political world of the ancient Near East.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU. Also counts toward Jewish Studies.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL2542" 
+     aria-expanded="false" 
+     aria-controls="REL2542">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL254">
+      <p class="panel-title pull-left">
+          REL 254 New Testament
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL2542" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL254">
+    <div class="panel-body">
+        <p><span>This course studies the distinctive scriptural foundation of Christianity in its literary, historical, and theological contexts. Topics may include Jesus as an historical figure and as the object of early Christian faith; the&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>ationships of various early Christian communities to one another and to contemporary Judaisms, Greek<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>igions, and philosophies; the place and role of Paul; the gospel genre and its several examples; the definition of the canon; approaches to interpreting the New Testament. No prior study of the New Testament is expected.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL262_2632" 
+     aria-expanded="false" 
+     aria-controls="REL262_2632">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL262_263">
+      <p class="panel-title pull-left">
+          REL 262, 263 Religion & Literature
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL262_2632" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL262_263">
+    <div class="panel-body">
+        <p><span>This course provides an exploration of the ways in which literary imagination (metaphor, literary style, narrative voice, description, creative manipulation of time and place) interacts with&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious imagination (projections of tradition, expression of mystical experience, ritual, symbolic phenomena) to produce works of a transformative nature. Examples from both Eastern and Western literary traditions may be chosen.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU (and W when offered as 263).</em></p>
+    </div>
+  </div>
+</div><p><strong><a id="300-349"></a>300-349: Religious Expressions (Texts, Rituals/Practices, Fine and Performing Arts)</strong></p><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3082" 
+     aria-expanded="false" 
+     aria-controls="REL3082">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL308">
+      <p class="panel-title pull-left">
+          REL 308 Scrolls, Scribes, and Scriptures
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3082" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL308">
+    <div class="panel-body">
+        <p><span>Did you ever wonder how ancient texts, like the New Testament, reach the modern world? In this course, students will explore the challenges and opportunities of studying New Testament and other ancient Christian materials in their oldest forms. Central to this examination will be how the texts were read, interpreted, and transmitted within Christian communities over time. This course will include an introduction to several techniques used to analyze ancient scriptural materials as well as the basic syntax and vocabulary of Koine Greek. No previous language skills are expected or required.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3142" 
+     aria-expanded="false" 
+     aria-controls="REL3142">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL314">
+      <p class="panel-title pull-left">
+          REL 314 Death and Desire in Tibetan Buddhism
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3142" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL314">
+    <div class="panel-body">
+        <p><span>This course examines the practices of death and desire in the unique traditions of Tibetan tantra, a form of Himalayan Buddhism. Tibetan tantra involves practices of wrathful deities, sexual yogas, and subtle body technologies to produce a unique understanding of mind and body and their potential for transformation in both sexual union and in death. We will look at the foundational Tibetan Book of the Dead cycle of texts, as well as explore their evolving meanings in contemporary, non-Buddhist contexts like American Hospice. How have Tibetan Buddhists associated desire, power, and knowing? How might investigations of Tibetan practices of death and desire inform our own?</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement DE and HU.</em></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><a id="350-399"></a>350-399: Religion, Person, and Society</strong></p></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL353_3542" 
+     aria-expanded="false" 
+     aria-controls="REL353_3542">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL353_354">
+      <p class="panel-title pull-left">
+          REL 353, 354 Gender & Sexuality in Judaism
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL353_3542" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL353_354">
+    <div class="panel-body">
+        <p><span>In this course we will examine how issues&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>ating to gender and sexuality have influenced Jewish experience. We will discuss a wide range of Jewish history and literature, extending from the Bible to contemporary Jewish culture, in order to gain a broad perspective on how gender and sexuality have played a role in Jewish life and thought over time. We will consider how gender and sexuality<span>&nbsp;</span></span><span class="acalog-highlight-search-1">rel</span><span>ate to questions of power and authority and discuss the ways that bodies, both gendered and sexual, become meaningful in different Jewish contexts.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU (and W when offered as 354).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3552" 
+     aria-expanded="false" 
+     aria-controls="REL3552">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL355">
+      <p class="panel-title pull-left">
+          REL 355 Christianity at the Crossroads: The Emergent Church in Late Antiquity
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3552" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL355">
+    <div class="panel-body">
+        <p><span>Until the rise of the Roman Emperor Constantine, the history of Christianity was marked by a plurality of belief structures, a constant threat of persecution, and a fluid leadership structure. With the imperial patronage of Constantine the face of ancient Christianity changed forever, embracing a close&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>ationship between the church and the state, instituting particular formulas of belief, and solidifying the hierarchy of the ecclesiastical structure. Among other important developments in this period is the construction of the first grand Christian worship structures, the composition of the Nicene Creed, and the development of the canon of the New Testament. This class will examine these changes in the context of late antique society and politics and trace the influence of these changes across the span of Christian history.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL357_3582" 
+     aria-expanded="false" 
+     aria-controls="REL357_3582">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL357_358">
+      <p class="panel-title pull-left">
+          REL 357, 358 The Holocaust: Nazi Germany & the Jews
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL357_3582" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL357_358">
+    <div class="panel-body">
+        <p>This course will examine the&nbsp;Holocaust&nbsp;and its historical context by considering both the pre-war position of Jews in Europe and the factors that led to the destruction of European Jewry during WWII. Religious context and responses to these events within affected communities will be studied through a variety of sources, including literature, film and memoirs.&nbsp;</p>
+<p><em>Meets general academic requirement HU&nbsp;(and IL when offered as 358).</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3632" 
+     aria-expanded="false" 
+     aria-controls="REL3632">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL363">
+      <p class="panel-title pull-left">
+          REL 363 Islam in America
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3632" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL363">
+    <div class="panel-body">
+        <p><span>American Muslims come from a wide diversity of backgrounds and cultures. In this course we will explore the historical contexts and current realities of Muslim communities in the United States. Questions to consider will include: How have traditional Islamic and Muslim doctrines and practices converged with American ideals of pluralism and secularism? Is there a distinctive ‚American Islam‚? How have Muslim culture and Islam enriched the broader American culture?</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirements HU and DE and W.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3652" 
+     aria-expanded="false" 
+     aria-controls="REL3652">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL365">
+      <p class="panel-title pull-left">
+          REL 365 Gender & Sexuality in Islam
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3652" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL365">
+    <div class="panel-body">
+        <p>Islam presents a particular challenge for Women's and Gender Studies. A submissive, veiled woman is often the first image that comes to mind when Westerners think of Islam. Paradoxically, the oppressed Muslim women has become for non-Muslims a primary symbol of the perceived dangers of Islam, even as that image is used to represent disempowerment. Yet Islam is a major world religion with over 1.6 billion adherents, approximately half of whom are women, and all of whom are sexual beings whose religious positioning intersects with their gender and sexuality in myriad ways. So what do Muslims really believe about gender and sexuality? And what do they do? In this course, we will examine constructions of gender and sexuality in Islam by investigating both traditional sources such as the Qur'an, Hadith, and Islamic Law; and also by considering how Muslim women today are challenging the patriarchal structures of authority, while at the same time critiquing Western feminism. </p>
+<p><em>Meets general academic requirments HU, DE and W.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL3712" 
+     aria-expanded="false" 
+     aria-controls="REL3712">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL371">
+      <p class="panel-title pull-left">
+          REL 371 Paths in Jewish Thought
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL3712" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL371">
+    <div class="panel-body">
+        <p><span>Writers, philosophers, and scholars have engaged a fascinating array of questions from within the Jewish tradition since before the Common Era. &nbsp;In this seminar, we will survey the works of particular Jewish thinkers, from antiquity to the modern day, with special attention to certain topics and historical developments. &nbsp;Subjects to be considered include the Jewish people‚s encounter with the&nbsp;</span><span class="acalog-highlight-search-1">rel</span><span>igious or cultural ‚other,‚ the opposition or congruence of faith and reason, the persistence of evil, the nature of God and scripture, and what it means to be ‚Jewish.‚ &nbsp;The structure of the course will constitute a ‚who‚s who‚ of Jewish thinkers through history, such as Philo of Alexandria, Moses Maimonides, Baruch Spinoza, and Ahad ha-Am. &nbsp;The final project will also allow&nbsp;students&nbsp;to discover and present the thought of a Jewish intellectual not included in this selective survey at the end of the semester.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement HU.</em></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><a id="400-499"></a>400-499: Advanced Seminars in the Study of Religion</strong></p></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL450_4692" 
+     aria-expanded="false" 
+     aria-controls="REL450_4692">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL450_469">
+      <p class="panel-title pull-left">
+          REL 450-469 CUE: Culminating Undergraduate Experience Seminars in the Study of Religion
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL450_4692" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL450_469">
+    <div class="panel-body">
+        <p><span>The seminars are a culminating undergraduate experience for our majors and other advanced students. Faculty and students work together to explore a research topic in depth. Each course offers both theoretical and methodological content.</span><br><span></span><span></span></p>
+<p><em>Meets general academic requirement W.</em></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL4702" 
+     aria-expanded="false" 
+     aria-controls="REL4702">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL470">
+      <p class="panel-title pull-left">
+          REL 470 Honors Thesis in Religion Studies
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL4702" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL470">
+    <div class="panel-body">
+        <p><span>This project is designed for&nbsp;r</span><span class="acalog-highlight-search-1">el</span><span>igion studies majors who have consistently proven to be excellent students. It offers them the opportunity to pursue a self-designed major research and analysis thesis in close consultation with a faculty member.</span><br><span></span><span></span></p>
+<p><em>Prerequisite(s):</em><span><span>&nbsp;</span></span><em>Instructor permission required.</em></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><strong><a id="960-970"></a>Religion Studies Internship and Independent Study/Research</strong></p></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#REL960_9702" 
+     aria-expanded="false" 
+     aria-controls="REL960_9702">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="REL960_970">
+      <p class="panel-title pull-left">
+          REL 960 Internship / REL 970 Independent Study/Research
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="REL960_9702" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="REL960_970">
+    <div class="panel-body">
+        <p><strong>REL 960: Religion Studies Internship</strong><br><strong>REL 970:&nbsp;Religion Studies Independent Study/Research</strong></p>
+<p><span>Each internship and independent study/research course is to be designed in consultation with a faculty sponsor.&nbsp;</span></p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">Contact</span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Religion Studies</span>
+													</h2>
+													
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:religionstudies@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">religionstudies@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3435">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3435</span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">Religion Studies</span>
+														<span class="contact_type_address_label">Moyer 226</span>
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

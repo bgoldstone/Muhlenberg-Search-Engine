@@ -1,0 +1,1119 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Mental Health on Campus | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Mental Health on Campus">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/newscenter/magazine/MentalHealthHeader-3.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_full  break-page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper" >
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/news/">News &amp; Events</a></li><li class="linkitem"><a href="/news/newsarchive/">News Archive </a></li><li class="linkitem"><a href="/news/2019/">2019</a></li><li class="linkitem"><a href="/news/mentalhealthoncampus/">Mental Health on Campus</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Mental Health on Campus</h1>
+							<p class="page_intro">With utilization of counseling services on the rise nationwide, what is the College doing to help its population thrive?&nbsp;</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/newscenter/magazine/MentalHealthHeader-2.jpg","500px":"/media/contentassets/images/newscenter/magazine/MentalHealthHeader-1.jpg","740px":"/media/contentassets/images/newscenter/magazine/MentalHealthHeader-2.jpg","980px":"/media/contentassets/images/newscenter/magazine/MentalHealthHeader-2.jpg","1220px":"/media/contentassets/images/newscenter/magazine/MentalHealthHeader-2.jpg"}}'></div>
+			<div class="page_header_inner gradient_6">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                        <div class="breadcrumb_mobile" aria-hidden="true">
+							<div class="fs-row">
+								<div class="fs-cell fs-lg-8">
+                                   <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                                      <ul class="breadcrumb">
+                                          <li class="linkitem"><a href="/">Home</a></li>
+                                                  <li class="linkitem"><a href="/news/">News &amp; Events</a></li><li class="linkitem"><a href="/news/newsarchive/">News Archive </a></li><li class="linkitem"><a href="/news/2019/">2019</a></li><li class="linkitem"><a href="/news/mentalhealthoncampus/">Mental Health on Campus</a>        </li>
+                                      </ul>
+                                    </nav>
+                                </div>
+                              </div>
+                          </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Mental Health on Campus</h1>
+							<p class="page_intro">With utilization of counseling services on the rise nationwide, what is the College doing to help its population thrive?&nbsp;</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+
+
+
+    <!-- Page Content -->
+		<div class="page_content">
+      <div class="page_content_inner clearfix">
+				<main class="page_main_content" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-full">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/news/">News &amp; Events</a></li><li class="linkitem"><a href="/news/newsarchive/">News Archive </a></li><li class="linkitem"><a href="/news/2019/">2019</a></li><li class="linkitem"><a href="/news/mentalhealthoncampus/">Mental Health on Campus</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+					<div class="typography">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+                </div>
+						</div>
+					</div>
+					<!-- END: WYSIWYG -->
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>	
+      <!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+									<!-- WYSIWYG -->
+<div class="wysiwyg_block">
+  <div class="fs-row">
+	  <div class="fs-cell fs-lg-11 typography">
+        <h2></h2>
+        <p align="center"><img src="/media/contentassets/images/magazine/MagazineMasthead.png" alt="MagazineHeader" style="    display: block; " /></p>
+<p align="center"><a href="/offices/communications/meetthestaff/meghankita/">By Meghan Kita</a>&nbsp;|&nbsp;<strong>Illustrations by Davide Bonazzi</strong></p>
+<p>In December 2015, Molly Plotkin ‚19 was en route to Florida on a winter-break road trip with her parents and a friend. She‚d just wrapped up her first semester at Muhlenberg with straight As, and she was looking forward to her first collegiate softball season in the spring.</p>
+<p>‚The last day of finals was Friday,‚ Plotkin recalls. ‚Saturday I got home and went with my parents on vacation. And Saturday night, I found out my oldest brother had passed away.‚</p>
+<p>He was a 28-year-old former college athlete who had had knee problems. In the absence of answers, doctors plied him with pain pills. He grappled with addiction for the rest of his life, and he had been sober for six months, living in a halfway house, at the time of his opioid overdose. He was also someone Plotkin describes as ‚almost like a second father.‚ In the numbness that followed, it never occurred to her not to return to Muhlenberg.</p>
+<p>When she did, she struggled. Her GPA fell from a 4.0 to a 3.2. ‚I couldn‚t get out of bed,‚ she says. ‚I didn‚t want to go to class. I didn‚t care.‚ When she did go out, it went poorly: She remembers her first panic attack, which occurred during a softball practice. She lacked motivation to seek help. One day, a concerned friend told her, ‚We‚re going to the counseling center‚now.‚</p>
+<p>That was the beginning of Plotkin‚s mental-health journey. She soon began working with an off-campus therapist, who diagnosed her with anxiety (which she still deals with) and depression (which she doesn‚t). Plotkin had regular therapy sessions until the start of her junior year. During her senior year, she produced an honors thesis titled, ‚The Opioid Epidemic: Perceptions Towards Men, Women &amp; Genderqueer Individuals.‚ She graduated magna cum laude with a <a href="/academics/psychology/">psychology</a> degree and an <a href="/academics/asian-studies/">Asian studies</a> minor. She‚s currently enrolled in a management studies master‚s program at Boston University, and her long-term goal is to pursue a Ph.D. in clinical psychology before opening her own practice to help others with anxiety, trauma and addiction.</p>
+<p>‚I went into therapy all stoic: Yeah, this happened, life goes on,‚ Plotkin says. ‚In therapy, it was: This really crappy thing happened to me. It sucks. How can we grow? Like, I know my senior thesis is going to be hard, but it will help me realize I‚m not alone and help me help somebody else. It‚s very empowering. I wouldn‚t have had that without therapy‚without my friend dragging me to the counseling center.‚</p>
+<p>Nationwide, utilization of counseling centers at colleges and universities is on the rise. According to the Association for University and College Counseling Center Directors, counseling centers at institutions of Muhlenberg‚s size serve an average of 17.4 percent of the student body, up from 13 percent 10 years ago. In the last academic year, 22 percent of Muhlenberg‚s student body visited <a href="/offices/counseling/">Counseling Services</a>, which saw a 12.4 percent increase in unique clients from the previous year.</p>
+<p>One reason for the uptick, at Muhlenberg and nationwide, is because more college-age individuals have been or are being diagnosed with anxiety or depression. A 2018 American Psychological Association survey found that 18 percent of respondents between the ages of 18 and 21 had received an anxiety disorder diagnosis (higher than some other generations) and 23 percent a depression diagnosis (higher than all other generations).</p>
+<p><span class="quote">‚There is a stereotype that college students are not as thick-skinned as the folks who went to Vietnam, for example. The truth is, what college students are facing right now is not what has been seen before.‚</span><br> <span class="quoteAttribution">Kate Richmond ‚00 Ph.D., associate professor of psychology</span></p>
+<p>Some people interpret these numbers as a sign that today‚s college students are less resilient than their predecessors. And institutional attempts to support those students‚including the expansion of mental-health services‚are sometimes met with disdain. Take, for example, a speech then-Attorney General Jeff Sessions gave in July 2018, in which he asserted that ‚too many schools are coddling our young people‚ and ‚schools are doing everything they can to create a generation of sanctimonious, sensitive, supercilious snowflakes.‚</p>
+<p>That‚s not a fair characterization, says Kate Richmond ‚00 Ph.D., associate professor of psychology. ‚There is a stereotype that college students are not as thick-skinned as the folks who went to Vietnam, for example,‚ she says. ‚The truth is, what college students are facing right now is not what has been seen before.‚</p>
+<h3>Today's Student Experience</h3>
+<p><img src="/media/contentassets/images/newscenter/magazine/MentalHealth-Illustration-4.png" alt="Mental Health - Spot Illustration 4" style="   margin : 8px;  float : right;" />One major stressor, according to Richmond, is the economy: Today‚s college students grew up in the shadow of the 2007-2009 recession, the worst economic downturn since the Great Depression. They may have seen their parents lose a job or a home or otherwise struggle with economic anxiety. Unemployment and underemployment of recent college graduates skyrocketed after the crash, peaking at 9.2 percent and 17.8 percent, respectively, in 2011, according to the Economic Policy Institute. Student borrowing also climbed: Between 2004 and 2014, researchers from the Federal Reserve Bank of New York found increases of 92 percent in the number of borrowers and 74 percent in average balances. Even though unemployment rates have returned to pre-recession levels, the fear persists.</p>
+<p>‚Previously, there was an assumption that if you worked hard in college, you would land a job,‚ Richmond says. ‚That‚s not an assurance anymore. The anxiety comes from knowing you‚re investing a lot of money and time, and you‚re not necessarily sure you‚re going to achieve the goal of having a career you love, or a job that will help you pay back your student loans.‚</p>
+<p>Students feel pressure to be constantly connected (including during class) lest they miss an opportunity, Richmond says, and ‚that‚s how fast the economy is moving, how fast information is moving.‚ They‚re encouraged to maintain a website and a LinkedIn profile to impress future employers or grad-school admissions staff. They must carefully curate their entire online presence, including social media profiles, to present themselves in the best possible light.</p>
+<p>‚It‚s hypervigilance. It‚s 24/7 monitoring, 24/7 surveillance of yourself and other people in order to keep up,‚ Richmond says. ‚There‚s no break.‚</p>
+<p>The tools of constant internet monitoring‚smartphones equipped with push notifications, social platforms with newsfeeds‚make it difficult to avoid coverage of news and politics. A 2017 American Psychological Association report found that 56 percent of respondents said staying informed about current events causes them stress. Richmond points to the opioid crisis, the sociopolitical climate and the rise of gun violence and mass shootings as examples of modern-day concerns that are affecting young people.</p>
+<p>As colleges and universities strive to become more diverse, the students who find themselves in the minority‚because of their race, ethnicity, nationality, religion, sexual orientation or gender identity; because of a disability; or because they‚re a first-generation college student‚may require more mental-health support than their peers in the majority. ‚When you have minority status, your identity is not often reflected in things like the people around you or the curriculum or the cultural habits,‚ Richmond says. ‚That‚s a huge strain.‚</p>
+      </div>
+  </div>
+</div>
+<!-- END: WYSIWYG --><!-- WYSIWYG -->
+<div class="wysiwyg_block">
+  <div class="fs-row">
+	  <div class="fs-cell fs-lg-11 typography">
+        <h2></h2>
+        <h3>Good Stress, Bad Stress</h3>
+<p>According to Richmond, most experts agree that a combination of biological and environmental factors contribute to the development of depression or anxiety and the severity of each condition. ‚Anxiety and depression can contribute to one another, but there‚s no question that context combined with some genetic disposition plays a role,‚ she says.</p>
+<p>Both conditions develop using similar biological processes, says Director of Counseling Services Tim Silvestri ‚91 Ph.D., who assumed his role in August 2017. When your brain perceives a threat, your body releases hormones to help you deal with it. One of those hormones is called cortisol, and it‚s instrumental in the ‚fight, flight or freeze‚ response. Your heart rate increases, non-essential functions (like digestion) are put on pause and you‚re ready to respond to the stressor accordingly. This can be a positive thing, when the threat is acute and dangerous‚a predator, for example. It can also be positive when the threat is simply a challenge or demand, like a big presentation or an athletic competition: The cortisol response can give you the energy and motivation to complete the challenge and will promote the production of the hormone DHEA, which engages tissue repair and other healing effects. Silvestri calls this phenomenon ‚good stress.‚ Once you‚ve dealt with good stress, your cortisol levels return to normal.</p>
+<p>The problem happens when the threat is (or is perceived as) something negative that is happening <em>to </em>you that you have no power to change‚an ‚oppressive force,‚ in Silvestri‚s words. Getting dumped, being bullied and living in poverty all fall on the ‚bad stress‚ continuum. With bad stress, your cortisol levels remain elevated for extended periods of time. This can lead to physical symptoms like insomnia and a change in appetite. Not sleeping and eating too much (or too little) are all physical stressors that feed what Silvestri calls a ‚cortisol spiral.‚ Such a spiral can create symptoms in line with clinical anxiety or depression.</p>
+<p><img src="/media/contentassets/images/newscenter/magazine/MentalHealth-Illustration-3.png" alt="Mental Health - Spot Illustration 3" style="   margin : 8px;  float : left;" />This is essentially what happened to one student who graduated in 2019 with a psychology and <a href="/academics/mediacom/">media &amp; communication</a> degree during his sophomore year. He contracted viral meningitis and was bedridden for a week. ‚I became fairly behind in many of my classes. I‚m usually pretty on top of things, so this really started to get to me,‚ he says. ‚All my professors were accommodating and excellent, but then I felt even worse, like I was disappointing them.‚ He skimped on sleep to try to catch up and he couldn‚t focus enough to get anything done. The cycle repeated and repeated. ‚I never was formally diagnosed but I strongly believe I was pretty seriously depressed during this period,‚ he says.</p>
+<p>Silvestri‚s primary outreach program, which he‚s presented to students, parents, faculty and staff, is called ‚Good Stress, Bad Stress.‚ It addresses how to differentiate between the two, how to respond to each and the role stress plays in depression and anxiety. His prescription for students dealing with acute bad stress‚or with good stress that they perceive as bad‚is self-care. Recognizing that you‚re going through something, that it‚s real and that your response is real, both physically and psychologically, can be enormously beneficial. Therefore, committing to some of the small things (like eating healthier, exercising and reducing screen time) can contribute to better sleep, and thereby create an upward spiral. Simultaneously, one can start adding in strategies such as attending counseling, leaning on friends or attempting to initiate an increased focus on academics. This can be effective for students struggling in a class or with homesickness or the end of a relationship, and the majority of Counseling Services visits are for issues like these.</p>
+<p>But what about students dealing with chronic stressors, such as a traumatic event, racism or financial insecurity? Counseling Services can help these students in times of crisis and for ongoing therapy. The office can also provide a student with an off-campus provider referral.</p>
+<h3>How We Got Here</h3>
+<p>While it‚s true that more college-age Americans are being diagnosed with depression and anxiety, and that counseling center utilization rates are up nationwide and at Muhlenberg, many factors contribute to those numbers.</p>
+<p>It helps to begin with a history lesson. In 1980, the American Psychiatric Association published a new version of its <em>Diagnostic and Statistical Manual of Mental Disorders </em>(<em>DSM</em>) that included more specific diagnostic criteria for conditions like anxiety and depression. This meant that a patient could be diagnosed with clinical anxiety or depression without symptoms of significantly compromised functioning, even though this should be a major factor for diagnosis. If a student, for example, is attending classes, getting good grades and socializing normally, they may not be clinically depressed, although they may have enough other symptoms to technically qualify as such. And, patients can be diagnosed even in the midst of a personal crisis and given medication‚the <em>DSM </em>criteria do not account for reasonable reaction to real-life events.</p>
+<p><img src="/media/contentassets/images/newscenter/magazine/MentalHealth-Illustration-2.png" alt="Mental Health - Spot Illustration 2" style="    display: block; " />&nbsp;</p>
+<p>An essay in the journal <em>Philosophy, Ethics and Humanities in Medicine </em>noted that these new criteria led to an increase in the marketing of several drugs for conditions like mild social anxiety that previously would not have been treated with medication. And in 1997, the FDA relaxed the rules on medical advertising, which led to an increase in diagnoses. Ads from that era often said depression is a serious medical condition that may be caused by a chemical imbalance, which is now thought to be untrue.</p>
+<p>The way the American healthcare system works also supports a ‚medical model‚ of mental healthcare. For example, an insurance company may only cover therapy if the insured has been diagnosed with a mental illness. ‚If you want to get help, you have to have a diagnosis,‚ Richmond says.</p>
+<p>Silvestri and Allison Gulati M.Ed., vice president of student affairs and <a href="/offices/deanst/">dean of students</a>, both say this generation tends to be more open to discussing their feelings and seeking help than generations past.</p>
+<h3>Less Stigma, More Suicidality</h3>
+<p>‚While there‚s still some stigma associated with mental-health issues on college campuses, that has been broken down significantly,‚ says Gulati, who has worked in higher education since 2002 and who joined Muhlenberg in August 2016. ‚Instead of college being the first time students are encountering counseling, many of them have been seeing therapists or have had a diagnosis for some amount of time prior to coming to college. And, people feel more comfortable talking about their issues than they have in the past. They‚ve seen it normalized on TV, social media and YouTube.‚</p>
+<p>Still, Silvestri says the reason college counseling centers tend to be so busy is because of ‚the rise in suicidality among a small portion of people. They take up an enormous amount of resources. They meet more frequently and for longer.‚ If you look at the numbers with those individuals removed, ‚utilization rates wouldn‚t look so dramatically different in the past 15 years,‚ he says.</p>
+<p>The way that suicidality is assessed has changed for the better: In the 1990s, clinicians would ask patients claiming to be suicidal whether they had a plan to kill themselves, and if they didn‚t, they weren‚t considered suicidal. The modern model is to ask a patient, ‚What keeps you alive?‚ If a patient can‚t answer that question, Silvestri says, ‚I‚m going to see that person pretty intensely because there are no protective factors.‚</p>
+<p>Still, suicide rates have been on the rise, including in young people: In 2000, the rate among adolescents aged 15-19 was eight per 100,000, and among young adults aged 20-24, 12.5 per 100,000. Those rates had risen to 11.8 and 17, respectively, as of 2017.</p>
+<p>Experts have different explanations for this increase. Silvestri points to the rise of suicide awareness campaigns about 10 years ago as a possible contributing factor. ‚These campaigns failed to shift the conversation from death by suicide to response management (what many experts believe to be the essential element of prevention efforts),‚ he says, ‚but rather created a false norm for the ubiquity and widespread behavior of death by suicide.‚ Richmond, alternatively, cites research linking the normalization of violence in media to an increase in tolerance of violence of all kinds, including self-injury, in individuals: ‚It‚s concerning to me that we romanticize suicide, but we should also be mindful of how culture romanticizes homicide. They both contribute to a larger culture of harm.‚</p>
+<p>Richmond says predictors of suicide include a sense of hopelessness, substance use and impulsivity, all which go hand-in-hand with depression and anxiety. And while there‚s no one-size-fits-all approach that can prevent all suicides, it‚s important for at-risk individuals to have access to care before they reach the point of self-harm.</p>
+<h3>Muhlenberg‚s Response</h3>
+<p>When Gulati stepped into her role three years ago, Muhlenberg‚s counselors were overwhelmed: The average wait time for an appointment with Counseling Services was 27 days. Student after student voiced concerns to Gulati, so she made overhauling Muhlenberg‚s mental-health services a top priority.</p>
+<p>Within a year, Gulati had integrated the College‚s physical- and mental-health services under the leadership of Brynnmarie Dorsey, executive director of Health and Counseling Services. Dorsey led a search committee that ultimately hired Silvestri to head up Counseling Services. Since Silvestri began in August 2017, wait times have progressively decreased, hitting an average of 1.52 days during the 2018-2019 academic year. (The average wait for an appointment at a college of Muhlenberg‚s size is 7.2 days.) This improvement happened despite increased utilization; Counseling Services experienced a 27.2 percent increase in attended sessions and a 10.73 percent increase in the number of clients last academic year.</p>
+<p><img src="/media/contentassets/images/newscenter/magazine/MentalHealth-Illustration-1.png" alt="Mental Health - Spot Illustration 1" style="   margin : 8px;  float : right;" />To achieve this result, Gulati made adjustments to the budget for Counseling Services to allow for things like additional professional development opportunities for staff. She worked with Silvestri to restructure the staffing model to supplement the two full-time professional counselors with post-graduate and graduate-level interns who could support students and lead additional outreach efforts. Silvestri also implemented a short-term therapy model with the goal of connecting students with ongoing needs to community providers. To better facilitate that, Michele Paules, who‚d previously been a counselor, was shifted into the Dean of Students Office to fill a student support services coordinator role. Paules, a licensed social worker, acts as a liaison between students in need and their off-campus providers, their professors, their roommates, their families and other support services on campus. She worked with 400 students last academic year.</p>
+<p>In addition to his ‚Good Stress, Bad Stress‚ presentation, Silvestri‚s main form of outreach to students is his ‚Look, Listen, Link‚ campaign: Look to see if someone is upset, listen to them and link them to additional help if you feel they need it. Plotkin‚s experience is evidence that this model works: ‚When you‚re going through really challenging moments, it‚s hard to say, ‚I need help,‚‚ she says. ‚When somebody offers you help, that‚s easier.‚</p>
+<p>Another priority of Gulati‚s was the launch of Muhlenberg‚s <a href="/offices/deanst/careteam/">Campus Assessment, Response and Evaluation (CARE) Team</a>. Previously, Health Services, Counseling Services and student conduct ‚were all done in different silos. They could have all been working on the same student and wouldn‚t know it. By bringing all of that together through the CARE Team, we‚re able to connect the dots,‚ she says. The goal is to identify students who may be a threat to themselves or to others early, so the College can intervene and provide the necessary support. Teams like this aren‚t unique to Muhlenberg‚the College is one of 514 institutions that belong to the National Behavioral Intervention Team Association, which provided the framework upon which the CARE Team was built. But it‚s just another way to be proactive, Silvestri says: ‚We can catch them early, before they go deeply into that cortisol spiral.‚</p>
+<p class="quote">‚If anything, maybe today‚s students aren‚t more sensitive. Maybe they‚re stronger, more in touch, more capable.‚</p>
+<p><span class="quoteAttribution">Molly Plotkin '19</span></p>
+      </div>
+  </div>
+</div>
+<!-- END: WYSIWYG --><!-- WYSIWYG -->
+<div class="wysiwyg_block">
+  <div class="fs-row">
+	  <div class="fs-cell fs-lg-11 typography">
+        <h2></h2>
+        <h3>Looking Ahead</h3>
+<p>Gulati says that if numbers continue to trend upward, Counseling Services will likely require another full-time counselor. Paules helped launch a peer-counselor program this semester, a group of peer-to-peer educators to serve as a first level of support for common issues like homesickness and breakups. Gulati also foresees an expansion of group counseling, for ‚students who have been in individual counseling and now are ready to step down to a lower level of care.‚ And, the College is announcing a partnership with the Jed Foundation, a suicide prevention nonprofit that will work with campus partners to assess risk factors specific to Muhlenberg. ‚When you connect the dots across student experiences, you‚re really able to approach the work in a much more preventative way,‚ Gulati says.</p>
+<p>Plotkin says she noticed the institutional support the College provides, especially among her professors in the Department of Psychology. ‚I have to give it to the staff and faculty at Muhlenberg,‚ she says. ‚They make an effort to check on their students. It‚s easy to feel like you‚re only a student, but throughout my experience, I felt like a person, a peer in my work with my professors.‚</p>
+<p>And she has a message for anyone who might question the resilience of her peers: ‚If anything, maybe today‚s students aren‚t more sensitive. Maybe they‚re stronger, more in touch, more capable.‚</p>
+<p><strong>The National Suicide Prevention Lifeline is a free, 24/7 confidential service that can provide people in emotional crisis or distress with support.&nbsp;</strong><strong>1-800-273-8255</strong></p>
+      </div>
+  </div>
+</div>
+<!-- END: WYSIWYG --><!-- Linked List -->
+				<div class="linked_list theme_subnav">
+					<div class="linked_list_content">
+						<div class="fs-row">
+							<div class="fs-cell ">
+								<div class="linked_list_inner">
+									<header class="linked_list_header">
+										<h2 class="linked_list_title">
+											<span class="linked_list_title_label"></span>
+										</h2>
+									</header>
+									<div class="linked_list_body">
+										<ul class="linked_list_items">
+
+<li class="sub_nav_item">
+  <a href="/cultural/magazine/">Muhlenberg Magazine</a>
+  <!--
+  
+  -->
+</li>
+
+
+<li class="sub_nav_item">
+  <a href="/">Muhlenberg College</a>
+  <!--
+  
+  -->
+</li>
+
+
+<li class="sub_nav_item">
+  <a href="/news/">News and Stories</a>
+  <!--
+  
+  -->
+</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Linked List -->			
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

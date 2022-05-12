@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>News Archive | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="News Archive">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/news.html">News &amp; Notes</a></li><li class="linkitem"><a href="/academics/theatre-dance/newsnotes/newsarchive/">News Archive</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">News Archive</h1>
+							<p class="page_intro">Past&nbsp;news items&nbsp;about Muhlenberg productions and updates from our alumni.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="News Archive">
+							<span class="sub_nav_handle_label">News Archive</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                <!--
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/theatre-dance/newsnotes/newsarchive/">News Archive</a></span></li><li class="sub_nav_item"><a href="/academics/theatre-dance/newsnotes/accountability.html">Theatre &amp; Dance Anti-Racism Action Plan</a></li></ul>
+                -->
+                <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/theatre-dance/newsnotes/accountability.html">Anti-Racism Action Plan</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/newsnotes/newsarchive/">News Archive</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thetheatreprogram/">The Theatre Program</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/thedanceprogram/">The Dance Program</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/seeashow/">Performance Info</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/news.html">News &amp; Notes</a></li>
+<!---->
+<li class="sub_nav_item"><a href="/academics/theatre-dance/connect/contact.html">Contact Us</a></li>
+<!---->
+</ul>
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/theatre-dance/">Theatre &amp; Dance</a></li><li class="linkitem"><a href="/academics/theatre-dance/news.html">News &amp; Notes</a></li><li class="linkitem"><a href="/academics/theatre-dance/newsnotes/newsarchive/">News Archive</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <ul>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><strong><em>Master Choreographers</em> '18 dance concert<br></strong></strong></span>Highlights include piece by&nbsp;Baker Artist-in-Residence&nbsp;Tiffany Mills.<span>&nbsp;</span><br><span style="color: #cc092f;"></span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg Summer Music Theatre embarks on 37th theatrical season</strong></span><span style="color: #cc092f;"></span><br><span style="color: #cc092f;"><span style="color: #cc092f;"></span></span>Summer lineup includes <em>Hair</em>, June 14 ‚ July 2; <em>My Fair Lady</em>, July 12-30; <em>Wild</em> circus performance, June 28 ‚ July 29. <span style="color: #cc092f;"></span><span style="color: #cc092f;"></span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><span style="color: #cc092f;"></span></span><span style="color: #cc092f;"><strong>Muhlenberg to present 21st century adaptation of Chekhov's <em>Cherry Orchard</em></strong></span><br><span style="color: #cc092f;"><span style="color: #cc092f;"></span></span>A new version by Tony-winning playwright Stephen Karam highlights contemporary themes in Chekhov's masterpiece. <span style="color: #cc092f;"></span><span style="color: #cc092f;"></span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Dance Emerge</em> dance concert showcases eclectic work by student choreographers in a nationally acclaimed program</strong></span><span style="color: #cc092f;"></span><br><span style="color: #cc092f;"><span style="color: #cc092f;"></span></span>Dance performance April 19-22 displays talent of seven student choreographers, 37 dancers. <span style="color: #cc092f;"></span><span style="color: #cc092f;"></span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg Theatre &amp; Dance goes inside the world of drag balls with McCraney's <em>Wig Out!</em></strong></span><br> Muhlenberg takes a stroll down the runway and into drag ball culture, as Tarell Alvin McCraney's high-style portrayal of Harlem drag balls takes the stage. </li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Breaking Boundaries on Broadway! Meet <em>Glass Menagerie</em> Star Madison Ferris</strong></span><br> Profile with video of Madison Ferris '14 in <em>People</em> Magazine. <a href="http://people.com/theater/meet-glass-menagerie-star-madison-ferris/" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Gertrude Stein's challenging <em>Listen to Me </em>finds vivid adaptation on Muhlenberg College stage, Feb. 22-26, 2017</strong></span><br> <em>Listen to Me</em> is a bittersweet adventure ‚ a love story and a cerebral frolic, in the face of planetary crisis. <span style="color: #7a0109;"> </span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em> Master Choreographers</em> dance concert, Feb. 9-11, 2017, displays talents of acclaimed choreographers, more than 70 dancers </strong></span><br> Highlights include pieces by Cristina Perera, Orion Duckstein, Trinette Singleton. </li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><span style="color: #cc092f;"></span></span><span style="color: #cc092f;"><strong>ABE Awards honor Summer Music Theatre's <em>In the Heights</em></strong></span><br><span style="color: #cc092f;"><span style="color: #cc092f;"></span></span>Summer 2016 production named Best Musical Ensemble, Best Sound Design. <a href="http://eastpenn.thelehighvalleypress.com/2017/01/11/11th-annual-abes-salute-lehigh-valley-stage-records-set-anniversaries-observed-quality" target="_blank">Read more</a><span style="color: #cc092f;"></span><span style="color: #cc092f;"></span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Morning Call includes Muhlenberg Productions in year-end accolades<br></strong></span>Summer production of <em>In the Heights</em>, Mainstage <em>Pirates of Penzance</em> lauded. <a href="http://www.mcall.com/entertainment/mc-theater-best-of-year-20161228-story.html" target="_blank">Read more</a><span style="color: #cc092f;"></span><strong><br></strong></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>New Visions Festival <em>Falling</em> showcases directorial talents, Nov. 30 ‚ Nec. 4, 2016 </strong></span><br> Plays by Oscar Wilde and Sam Shepard take center stage, presenting challenging ideas about identity and desire. <span style="color: #7a0109;"> </span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Moving Stories</em> dance concert showcases innovative work by student choreographers</strong></span><br> Dance performance Nov. 10-12, 2016, displays talent of nine young choreographers and faculty member Teresa VanDenend Sorge. </li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Pirates of Penzance</em> features high seas and high Cs, Oct. 28 ‚ Nov. 6, 2016</strong></span><br>Samuel Reyes' choreography, Charles Richter's direction propel 136-year-old comic opera into the mainstream. <span style="color: #7a0109;"> </span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Directors' Festival features Will Eno short plays, world premiere one-act</strong></span><br><em>The Imaginary Audience</em>, <em>Oh, the Humanity</em>, open Muhlenberg's Mainstage season, Sept. 28 - Oct. 2, 2016. <span style="color: #7a0109;"> </span></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>OnStage Blog: Muhlenberg is No. 2 on annual list of top BA Theatre Programs</strong></span><br><a href="http://www.onstageblog.com/columns/2016/9/1/the-top-10-ba-theatre-programs-in-the-country-for-2016-17" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg named No. 1 college theatre program by The Princeton Review</strong></span><br></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg College presents 'The Miss Firecracker Contest' by Beth Henley </strong></span><br> Wildly warmhearted Southern comedy runs Feb. 18-22. <a href="http://www.muhlenberg.edu/latestnews/name,331357,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg Summer Music Theatre receives two ABE Awards </strong></span><br> Press Newspapers honor <em>Spamalot</em>'s Shani Hadjian, ensemble of <em>A Chorus Line</em>. <a href="http://www.muhlenberg.edu/main/academics/theatre-dance/aboutUs/abeawards14.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg production of 'Agamemnon' offers an innovative take on Greek Tragedy </strong></span><br> 'Agamemnon,' Nov. 19-23, employs a modern trasnslation by Ted Hughes and an original score by senior Sean Skahill <a href="http://muhlenberg.edu/latestnews/name,187503,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> 'Berg honored by the Lehigh Valley Partnership for a Disability Friendly Community </strong></span><br> Certificates will be awareded to the academic resource center, the office of disability services, the department of theatre &amp; dance and the College in general. <a href="http://www.muhlenberg.edu/latestnews/currentnewsarchive/newsstories2014/name,84903,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg celebrates 50th anniversary of Sondheim's 'Anyone Can Whistle' </strong></span><br> Cult classic musical to play Oct. 24 - Nov. 2 on Muhlenberg Theatre &amp; Dance mainstage <a href="http://www.muhlenberg.edu/latestnews/currentnewsarchive/newsstories2014/name,187199,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> A festival of innovative one-act plays, Muhlenberg's 'New Visions' spotlights inspired work of talented student directors </strong></span><br> The New Visions Directors' Festival is presented part of the mainstage Theatre &amp; Dance season. Performances run Sept. 27‚30. <a href="http://www.muhlenberg.edu/latestnews/currentnewsarchive/newsstories2014/name,84911,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Alumni Updates! </strong></span><br> <strong>CASEY GILL '11</strong> is currently performing in an Equity production of <em>Pump Boys and Dinettes</em> at the Arts Center of Coastal Carolina in Hilton Head, S.C. The show runs through July 27. <a href="http://www.artshhi.com" target="_blank">www.artshhi.com</a> and Casey's webite: <a href="http://www.caseyelizabethgill.com" target="_blank">www.caseyelizabethgill.com</a><br> &nbsp;&nbsp;&nbsp;<strong>AMIE LYTLE '07</strong> is performing in a new adaptation of <em>Uncle Vanya</em> at Harbor Stage Company, Wellfleet, Mass. The show runs through July 12 and then travels to Boston in the fall. <a href="http://www.harborstage.org/" target="_blank">www.harborstage.org</a><br> &nbsp;&nbsp;&nbsp;<strong>ADAM BUCCI '06</strong> stars in the film <em>The Ten Year Plan</em>, playing film festivals through the summer. <a href="http://www.10yearplanmovie.com" target="_blank">www.10yearplanmovie.com</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg Summer Music Theatre embarks on 34th theatrical season </strong></span><br> This summer's lineup includes 'A Chorus Line,' June 11-29, Muhlenberg premiere of Monty Python's 'Spamalot,' July 9-27, 'Gruff!' original musical for young audiences, June 18 - July 26 <a href="http://www.muhlenberg.edu/latestnews/currentnewsarchive/newsstories2014/name,7545,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg's production of "Mad Forest" offers innovative take on Romanian history </strong></span><br> A member of the original New York production's creative team brings the story of the 1989 Romanian Revolution to the Lehigh Valley, April 24-26 <a href="http://muhlenberg.edu/latestnews/name,7429,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg College to present premiere Circus Workshop </strong></span><br> New storytelling project showcasing actors, dancers, and aerialists debuts on April 25 <a href="http://www.muhlenberg.edu/latestnews/name,7397,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> 'Dance Emerge' dance concert showcases eclectic work by emerging student choreographers in a nationally acclaimed program </strong></span><br> Dance performance April 10-13 displays talent of 12 young choreographers, 60 dancers <a href="http://www.muhlenberg.edu/latestnews/name,7270,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg College dancers to perform at national festival </strong></span><br> Guest choreographer Charlotte Boye-Christensen's 'Key,' featuring five Muhlenberg College dance students, selected for National College Dance Festival, this June at The Kennedy Center for the Performing Arts <a href="http://www.muhlenberg.edu/latestnews/name,7266,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'New Visions' Emerging Artists' Festival to showcase young playwright, directors </strong></span><br> Muhlenberg College theater festival includes a play for young audiences, an original one-man show and a rarely-produced Stoppard play <a href="http://www.muhlenberg.edu/latestnews/currentnewsarchive/newsstories2014/name,7118,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>All-female cast brings feminist sensibility to Moli√®re's comedy 'The Learned Ladies' </strong></span><br> Muhlenberg College production of 17th century comedy will feature a performance by faculty guest artist Francine Roussel, lighting design by Tony Award-winning designer Rick Fisher <a href="http://www.muhlenberg.edu/latestnews/name,6860,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg Summer Music Theatre announces open audition dates </strong></span><br> Auditions for MSMT 2014 season, including 'A Chorus Line' and 'Monty Python‚s Spamalot' will be held Feb. 23-24 Technical positions and high school internships also available <a href="http://www.muhlenberg.edu/latestnews/name,6827,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg College celebrates twenty years of dance with Master Choreographers dance concert</strong></span><br> Concert features works by eight acclaimed choreographers, including Bill T. Jones‚ <em>D-Man in the Waters (Part 1)</em> <a href="http://www.muhlenberg.edu/latestnews/newsarchive2014/newsstories2014/name,6727,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Muhlenberg honors Mildred Greene in costume retrospective </strong></span><br> <a href="http://www.muhlenberg.edu/latestnews/name,6708,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg stages a brisk 'Winter's Tale,' Nov. 20-24</strong></span><br> Director Troy Dwyer rewires Shakespeare's tragicomedy to speak to contemporary issues and audiences <a href="http://www.muhlenberg.edu/newsarchive/latestnewsarchive2013/newsstories2013/name,5821,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'Moving Stories' dance concert showcases innovative work by student choreographers, dancers in nationally acclaimed dance program</strong></span><br> Mainstage dance performance, Nov. 14-16, features stories told through movement by nine student choreographers, and faculty guest artist Teresa VanDenend Sorge <a href="http://www.muhlenberg.edu/newsarchive/latestnewsarchive2013/newsstories2013/name,5768,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>The audience decides the outcome of 'The Mystery of Edwin Drood'</strong></span><br> Rupert Holmes' Tony Award-winning musical calls on the audience to determine the ending to Dickens' unfinished murder mystery <a href="http://www.muhlenberg.edu/newsarchive/latestnewsarchive2013/newsstories2013/name,4200,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg guest artist Doppelskope offers existential therapy session ‚ with puppets </strong></span><br> The performance duo Doppelskope ‚ Ora Fruchter and Muhlenberg alum Christopher Scheer '07 ‚ brings its trademark show "An Existential Sing-Along" to the Muhlenberg campus<a href="http://www.muhlenberg.edu/newsarchive/latestnewsarchive2013/newsstories2013/name,4189,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>A festival of world premiere one-act plays, Muhlenberg's 'New Voices,' spotlights talent of emerging playwrights</strong></span><br> <a href="http://www.muhlenberg.edu/newsarchive/name,4109,en.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg College's acclaimed Theatre &amp; Dance Department announces 2013-2014 season</strong></span><br> Mainstage productions include six theatre productions, three dance concerts&nbsp; <a href="http://muhlenberg.edu/newsarchive/name,3763,en.html" target="_blank"> Read more</a></li>
+<li><span style="color: #cc092f;"><strong>Muhlenberg Summer Music Theatre Embarks on 33rd Theatrical Season </strong></span><br> This summer‚s lineup includes <em>Crazy for You,</em> June 12-30, Muhlenberg premiere of <em>Jesus Christ Superstar,</em> July 10-28, <em>Seussical</em> for young audiences, June 19 - July 27 &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/33rd_Season.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg Summer Music Theatre announces its 15th summer of middle school arts camp</strong></span><br> Muhlenberg offers two month-long programs: Camp Imagine for grades 6-8, which is free for Allentown School District students, Performing Arts Workshop for grades 9-12. Both programs run July 1-26. &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/Summer_Music_Theatre.html" target="_blank"> Read more</a></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg dancers find success at ACDFA 2013</strong></span><br> <strong>Emily Ancona '13</strong> and <strong>Amanda Moretz '13</strong> both had their choreography selected via blind adjudication for performance on the gala concert at the Northeast Conference of the American College Dance Festival Association held at Hofstra University, March 25-28. Judged on choreography and performance, a total of 41 works representing 23 colleges and universities were adjudicated. Dances from 7 schools were selected for presentation on the gala and they comprised works by professional guest artists, graduate students, and undergraduate students. Ancona's piece, "Hold Me Still," was performed by <strong>Meredith Stapleton '13</strong> and <strong>Sean Vanin '13.</strong> Moretz's work "Get Real," was performed by <strong>Jaclyn Birkner '14, Jessica Denzler '15, Danielle Gumbert '15, Emily Jeanne Phillips '14,</strong> and <strong>Brittany Van Natta '14.</strong></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Marriage of Figaro</em> brings Beaumarchais's 18th century comedy to a modern audience</strong></span><br> Director Francine Roussel's production will feature an original musical score by Lehigh Valley composer Mike Krisukas &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/Marriage_of_Figaro.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Dance Emerge</em> showcases eclectic work by emerging student choreographers in a nationally acclaimed program</strong></span><br> Dance performance April 18-21 displays talent of 14 young choreographers, 60 dancers. &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/DanceEmerge.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>New Visions</em> Directors' Festival to showcase promising young directors</strong></span><br> March 20-24 festival includes Iphigenia and Other Daughters, evening of one-act plays. &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/newvisions.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Bartholomew Fair</em> offers 'mix of punk and Puritan'</strong></span><br> Still relevant 400 years after debut, Ben Jonson's comedy 'bursts to life' Feb. 21-24. &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/BartholomewFair.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Upcoming exhibit at Muhlenberg gives patrons behind-the-scenes look at costume design process</strong></span><br> <em>The Art of Design</em>, Feb. 25 through March 17, showcases professional costume designers and their processes. &nbsp; <a href="http://muhlenberg.edu/main/newsevents/press/CostumeDesign.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'Master Choreographers' dance concert, Feb. 7-9, displays talents of acclaimed choreographers, more than 40 dancers</strong></span><br> Muhlenberg will showcase world premiere dance works created by five of the region's most accomplished choreographers and two restagings by internationally acclaimed choreographers, in the College's annual "Master Choreographers" dance concert, Feb. 7-9. &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/Master.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>New play 'The Bourgeois Pig' reaches the stage at Muhlenberg</strong></span><br> Award-winning playwright Brighde Mullins' exploration of photography and image, set in the late 1970s, receives its first full-scale production &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/TheBourgeoisPig.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'Moving Stories' dance concert showcases innovative work by student choreographers in nationally acclaimed program</strong></span><br> Muhlenberg College dancers tell their stories through movement, as the Muhlenberg Theatre &amp; Dance Department presents "Moving Stories," a showcase for dance works created by emerging choreographers, Nov. 15-17 in the College's Baker Theatre. &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/MovingStoriesDanceConcert.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'On the Town' captures 'young soaring spirit of the country,' bringing out character and nostalgia of the 1940s</strong></span><br> Muhlenberg to celebrate Broadway's golden age with Bernstein, Comden and Green in splashy WWII musical, Oct. 26 - Nov. 4 &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/OntheTown.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'44 Plays for 44 Presidents' opens discussion of who will be No. 45 </strong></span><br> Muhlenberg College's production, running Sept. 29 ‚ Oct. 3, celebrates democracy in conjunction with the first Plays for Presidents Festival&nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/44playsfor44presidents.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'Berg Theatre Program among the country's best</strong></span><br> <em>The Princeton Review</em> has ranked Muhlenberg's theatre program among the top 10 in the country for the sixth year in a row, in the 2012 edition of its annual college guide, <em>The Best 377 Colleges</em>. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/PrincetonReviewofMuhlenberg.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong> Summer Music Theatre 32nd Season features old, new, borrowed, and ... purple</strong></span><span class="style1"><br> </span>Summer theatre festival opens June 13, featuring 'Hairspray,' 'HMS Pinafore,' 'Harold and the Purple Crayon'&nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/051612_summer-music-theatre.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Unexpected romance, shocking violence are at the core of 'Stop Kiss'</strong></span><span class="style1"><br> </span>Muhlenberg College mainstage production opening Feb. 22, breaks the 'lesbian play' mold&nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/stopkiss032312.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Exhibition showcases work by senior design students</strong></span><span class="style1"><br> </span>Martin Art Gallery show runs Feb. 24 through March 18.&nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/SrTheatreDesign02152012.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg receives $1 million donation</strong></span><span class="style1"><br> </span>James R. Lentz '66 and Deborah Lentz pledge $1 million for Muhlenberg Theatre and Dance scholarships.&nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/lentzscholarship032312.html" target="_blank"> Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Master Choreographers</em> showcases Balanchine restaging </strong></span><br> Dance concert, Feb. 9-11, features original works by acclaimed choreographers.&nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/MasterChoreographers012312.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg receives end-of-year accolades from Lehigh Valley press </strong></span><br> 2011 year-in-review articles offer honors for Muhlenberg Theatre &amp; Dance, Summer Music Theatre productions.&nbsp;<a href="http://www.muhlenberg.edu/main/academics/theatre-dance/aboutUs/accolades2011.html" target="_blank">Read more</a></li>
+</ul>
+<ul>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Shepard's<em> Curse of the Starving Class explores </em>family dysfunction, desperation </strong></span><br> Muhlenberg College theatre production marks Larry Singer‚s return to stage after 20 years.&nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/Curse120911.html" target="_blank">Read more</a></li>
+<li><span style="color: #cc092f;"><strong><em>Moving Stories</em> dance concert showcases innovative work by student choreographers </strong></span><br> Dance performance Nov. 17-19 displays talents of 13 young choreographers, more than 50 dancers.&nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/MovingStories.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Merrily We Roll Along</em> takes audiences backwards through a life in the arts</strong></span><br> Wistful and innovative, Sondheim and Furth's backstage musical opens Oct. 28. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/Merrily101811.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'Berg Theatre Program named country's best college theatre</strong></span><br> <em>The Princeton Review</em> has ranked Muhlenberg's theatre program No. 1 in the country, in the 2011 edition of its annual college guide, <em>The Best 376 Colleges</em>. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/080111PrincetonReviewTheatre.html" target="_blank">Read more</a> &nbsp; <a href="http://bit.ly/riM23J" target="_blank">Rankings</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>MSMT presents a joyful, celebratory <em>Godspell</em></strong></span><br> The music and the message are the focus in this production of the Broadway hitby <em>Wicked</em> composer Stephen Schwartz. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/070511Godspell.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Larry Singer is <em>Back Stage</em> readers' favorite</strong></span><br> Muhlenberg faculty member is named Favorite Scene Study Teacher and Favorite Acting Coach in New York Readers' Poll. &nbsp;<a href="http://www.backstage.com/bso/news-and-features-features/larry-singer-1005258072.story" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>MSMT offers accessible <em>Godspell</em> performance</strong></span><br> July 17 performance will be offered with Open Captioning and Audio Description for hearing- and visually impaired patrons. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/061411GodspellAccessible.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Summer Music Theatre alums are back for <em>The Music Man</em></strong></span><br> Familiar faces in the first show of the SMT season will include Broadway star David Masenheimer, opera singer Lauren Curnow. &nbsp;<a href="http://bit.ly/mF19Dn" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>The Tempest</em> receives accolades from collegiate theater association</strong></span><br> Kennedy Center American College Theater Festival praises Troy Dwyer and Charles O. Anderson's brave dance-theater adaptation of Shakespeare's classic. &nbsp;<a href="http://bit.ly/j13UzL" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>'Berg Dancers perfom in NYC Alwin Nikolais tribute</strong></span><br> NY Times Dance Review: "The opening 'Crucible' (1985) was splendid: 10 students from Muhlenberg College created shapes behind low mirror panels..." &nbsp; <a href="http://www.muhlenberg.edu/main/newsevents/press/53_041811.html" target="_blank">Feature story</a> &nbsp;&nbsp;&nbsp; <a href="http://www.nytimes.com/2011/04/18/arts/dance/mirrors-clowns-and-other-visions.html?_r=3&amp;ref=dance" target="_blank">Times Review</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>History and gender are up for grabs in Muhlenberg's joyful <em>Orlando</em></strong></span><br> Virginia Woolf's groundbreaking tale takes the stage April 28 to explore what we mean when we talk about identity, gender, poetry and love. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/47_032311.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Dance theater adaptation of <em>The Tempest</em> delves deeper into Shakespeare's classic</strong></span><br> With its parallel universes, Afro-contemporary choreography, non-traditional casting, and a keen ear for issues of power and privilege, Charles O. Anderson and Troy Dwyer's <em>Tempest</em> is anything but traditional Shakespearean fare. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/47_032311.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>2011 Summer Music Theatre Season Announced</strong></span><br> This summer's SMT season will include <em>The Music Man, Godspell,</em> and <em>Cinderella</em> &nbsp;<a href="http://www.muhlenberg.edu/main/academics/theatre-dance/aboutUs/smt/index.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>La Dispute</em> depicts a philosophical battle of the sexes</strong></span><br> Marivaux‚s 18th century French comedy, onstage at Muhlenberg College Feb. 24-27, explores questions of infidelity through a shocking sociological experiment. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/37_020811.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Master Choreographers</em> displays talents of acclaimed choreographers</strong></span><br> Muhlenberg College showcased world premiere dance works created by seven of the region's most accomplished choreographers, in the College's annual <em>Master Choreographers</em> dance concert, Feb. 10-12. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/39_020811.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Charles O. Anderson named a 2011 'Emerging Scholar'</strong></span><br> <em>Diverse</em> magazine has named dance professor Charles O. Anderson as one of twelve Emerging Scholars for 2011. The prestigious designation reflects Anderson's research, educational background, publishing record, and teaching record. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/28_010611.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>The Morning Call</em> includes three Muhlenberg productions among year's best</strong></span><br> The ten best theatre 2010 productions in the Lehigh Valley included three Muhlenberg productions, according to <em>The Morning Call</em>: <em>The Other Shore, An American Tragedy</em>, and <em>The 25th Annual Putman County Spelling Bee</em>. &nbsp;<a href="http://www.mcall.com/entertainment/arts/theater/mc-theater-1230-20101229,0,454108.story" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>The Last Days of Judas Iscariot</em> brings courtroom drama to the next level</strong></span><br> When audiences arrive to see <em>The Last Days of Judas Iscariot</em> they will be thrust into a "transformative world," in which a courtroom in Purgatory has been conjured from an abandoned junior high school classroom. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/Judas111010.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>James Peck provides chapter to theatre historiography book</strong></span><br> Department Chairman James Peck has contributed a chapter titled "Intradisciplinarity in Theatre History: Anne Oldfield's Mrs. Brittle via Brecht's Not/But" to the book <em>Theater Historiography: Critical Interventions</em>, published this summer. &nbsp;<a href="http://www.press.umich.edu/titleDetailDesc.do?id=1546640" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Moving Stories</em> concert showcases innovative work by student choreographers, dancers</strong></span><br> The Muhlenberg College Department of Theatre and Dance presents <em>Moving Stories,</em> a dance concert showcasing the new works of advanced student choreographers, Nov. 18-20 in the College‚s Baker Theatre in the Trexler Pavilion for Theatre and Dance. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/movingstories110910.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Urban Bush Women to perform at Muhlenberg for ACDF regional dance festival</strong></span><br> The world renowned dance troupe Urban Bush Women will perform March 12 and 14 in Muhlenberg's Empie Theatre, in conjunction with the American College Dance Festival's regional conference, taking place at Muhlenberg March 9-12, 2011. The March 14 performance will be open to the public. &nbsp;<a href="http://redesign.muhlenberg.edu/main/academics/theatre-dance/onstage/urbanbush.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>The Pajama Game</em> captures Broadway's Golden Age</strong></span><br> When <em>The Pajama Game</em> opens Oct. 29 on Muhlenberg College's Empie Theatre stage, director Charles Richter wants audiences to feel as though they‚ve been transported to the Golden Age of the Broadway musical. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/PJGame101910.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Polaroid Stories</em> opens Theatre &amp; Dance season</strong></span><br> The Muhlenberg College Department opens its 2010-11 mainstage season with Naomi Iizuka's <em>Polaroid Stories,</em> a visceral blend of classical mythology and real-life stories told by street kids. The production is directed by Zach Trebino, a senior theater major at the college. The play runs Oct. 6-10 in the college's 100-seat Studio Theatre. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/PolaroidStories_092710.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Charles O. Anderson's <em>World Headquarters</em> world premiere, featuring <em>dance theatre X</em></strong></span><br> A cataclysm wipes out nearly all of civilization. Scattered bands of human beings survive, roaming and setting up makeshift colonies. But what is the future of humanity ‚ if there is one? Dance professor Charles O. Anderson's dystopian dance piece, written in collaboration with theatre professor Troy Dwyer, premiered Oct. 2, 2010. Developed in conjunction with the Muhlenberg Theatre &amp; Dance Department, the performance featured Anderson's Philadelphia-based dance theatre X, including several Muhlenberg alumni. &nbsp;<a href="http://seattletimes.nwsource.com/html/thearts/2013056421_worldheadquarters.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Parade Ground Unit debuts with <em>Judith/Dresses/Joe</em></strong></span><br> The performance laboratory Parade Ground Unit, founded by Muhlenberg faculty members Holly Cate, Troy Dwyer, and James Peck, presented their inaugural production Sept. 10-18, during the Philly Fringe Festival. The Philadelphia Inquirer called it "a solid, avant-garde-plus production." &nbsp;<a href="http://www.philly.com/philly/entertainment/20100913_Love_and_loss_in_a_powerful__Iron_.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Alumnus Adam Pinti receives Princess Grace Award</strong></span><br> Adam Pinti '06 received the 2010 Grace Le Vine Award, one of the prestigious Princess Grace Awards, which recognize achievement and promise in artists working in the fields of theatre, dance and choreography and film. &nbsp;<a href="http://www.broadwayworld.com/article/Princess_Grace_FoundationUSA_Hosts_28th_Annual_PRINCESS_GRACE_AWARDS_GALA_20100908" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Muhlenberg dancers honored with performance at national festival</strong></span><br> "Rite," a dance composition by Muhlenberg faculty member Charles O. Anderson, was honored with inclusion in the 2010 American College Dance Festival national conference, May 27-29 at the Kennedy Center, Washington, D.C. It was one of just 30 pieces selected for the conference. &nbsp;<a href="http://www.muhlenberg.edu/main/academics/theatre-dance/prospectivestudents/acdfa.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong>Princeton Review ranks Department No. 6 nationally</strong></span><br> Muhlenberg College is one of the best colleges in the Northeast according to the nationally known education services company, <em>The Princeton Review</em>. It is one of 218 institutions The Princeton Review recommends in its "Best in the Northeast" section of its website feature, and ranked the College's Department of Theatre and Dance sixth in the nation. &nbsp;<a href="http://www.muhlenberg.edu/main/newsevents/press/princeton_080410.html" target="_blank">Read more</a></li>
+<li style="margin-bottom: 6px;"><span style="color: #cc092f;"><strong><em>Once Upon a Time in New Jersey</em> gets New York premiere</strong></span><br> The musical comedy <em>Once Upon a Time in New Jersey,</em> developed at Muhlenberg Summer Music Theatre, receives its New York City premiere Oct. 2, 2010. &nbsp;<a href="http://www.playbill.com/news/article/143526-Once-Upon-a-Time-in-New-Jersey-Opens-in-NYC-Oct-2" target="_blank">Read more</a></li>
+</ul>
+<hr size="1"></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

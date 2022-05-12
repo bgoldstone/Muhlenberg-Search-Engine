@@ -1,0 +1,1527 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Business &amp; Technology | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Business &amp; Technology">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/powerfuloutcomes/">Powerful Outcomes</a></li><li class="linkitem"><a href="/aboutus/careercenter/">The Career Center</a></li><li class="linkitem"><a href="/aboutus/careercenter/students/">Students</a></li><li class="linkitem"><a href="/aboutus/careercenter/students/businesstechnology/">Business &amp; Technology</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Business &amp; Technology</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg","500px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-1.jpg","740px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg","980px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg","1220px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg","500px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-1.jpg","740px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg","980px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg","1220px":"/media/contentassets/images/powerfuloutcomes/CareerCenterHeader-2.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_6">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/powerfuloutcomes/">Powerful Outcomes</a></li><li class="linkitem"><a href="/aboutus/careercenter/">The Career Center</a></li><li class="linkitem"><a href="/aboutus/careercenter/students/">Students</a></li><li class="linkitem"><a href="/aboutus/careercenter/students/businesstechnology/">Business &amp; Technology</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Business &amp; Technology</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Business &amp; Technology">
+							<span class="sub_nav_handle_label">Business &amp; Technology</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/aboutus/careercenter/students/artsentertainment/">Arts &amp; Entertainment</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/aboutus/careercenter/students/businesstechnology/">Business &amp; Technology</a></span></li><li class="sub_nav_item"><a href="/aboutus/careercenter/students/educationsocialimpact/">Education &amp; Social Impact</a></li><li class="sub_nav_item"><a href="/aboutus/careercenter/students/healthsciences/">Health &amp; Sciences</a></li><li class="sub_nav_item"><a href="/aboutus/careercenter/students/mediapublicrelationsmarketing/">Media, Public Relations &amp; Marketing</a></li><li class="sub_nav_item"><a href="/aboutus/careercenter/students/policyinternationalaffairsgovernment/">Policy, International Affairs &amp; Government</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/powerfuloutcomes/">Powerful Outcomes</a></li><li class="linkitem"><a href="/aboutus/careercenter/">The Career Center</a></li><li class="linkitem"><a href="/aboutus/careercenter/students/">Students</a></li><li class="linkitem"><a href="/aboutus/careercenter/students/businesstechnology/">Business &amp; Technology</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<h2>Overview &amp; Industries/Functions</h2>
+  <p style="text-align: left;">Welcome to the Business &amp; Technology Career Community! Take a deeper dive below by using Occupational Outlook Handbook (OOH) and O*NET OnLine (ONET) to learn more about various industries, alumni in the field, resume samples and more! Make sure to have your interests filled out in Handshake to receive regular updates from the community on hot jobs/internships and upcoming events.&nbsp;</p>
+<table style="float: left;">
+<thead>
+<tr><th scope="col">
+<p><span style="font-weight: 400;">Accounting (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.html">OOH</a>/<a href="https://www.onetonline.org/link/summary/13-2011.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">Commercial Banking &amp; Credit (<a href="https://www.bls.gov/ooh/sales/securities-commodities-and-financial-services-sales-agents.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/41-3031.00">ONET</a>)&nbsp;</span></p>
+<p><span style="font-weight: 400;">Computer Networking (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/15-1244.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">Construction (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/management/construction-managers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/11-9021.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">CPG - Consumer Packaged Goods (<a href="https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/17-2141.00">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Electronic &amp; Computer Hardware (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/17-2061.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">Fashion (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/27-1022.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">Food &amp; Beverage (<a href="https://www.bls.gov/ooh/management/food-service-managers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/11-9051.00">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Hotel &amp; Accommodations (<a href="https://www.bls.gov/iag/tgs/iag70.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/11-9081.00">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Human Resources (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/11-3121.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">Insurance (<a href="https://www.bls.gov/iag/tgs/iag52.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/13-2053.00">ONET</a>)</span></p>
+</th><th scope="col">
+<p><span style="font-weight: 400;">Real Estate (<a href="https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/41-9021.00">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Restaurants &amp; Food Service&nbsp;<span>(</span><a href="https://www.bls.gov/ooh/management/food-service-managers.htm">OOH</a><span>/</span><a href="https://www.onetonline.org/link/summary/11-9051.00">ONET</a><span>)</span></span></p>
+<p><span style="font-weight: 400;">Retail Stores (<a href="https://www.bls.gov/ooh/business-and-financial/purchasing-managers-buyers-and-purchasing-agents.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/13-1022.00">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Tourism (<a href="https://www.bls.gov/ooh/sales/travel-agents.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/43-4181.00">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Telecommunications (<a href="https://www.bls.gov/ooh/installation-maintenance-and-repair/telecommunications-equipment-installers-and-repairers-except-line-installers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/15-1241.01">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Transportation &amp; Logistics (<a href="https://www.bls.gov/ooh/business-and-financial/logisticians.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/13-1081.02">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Wholesale Trade (<a href="https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/41-4012.00">ONET</a>)</span></p>
+<p><span style="font-weight: 400;">Internet &amp; Software (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/15-1252.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">Investment Banking (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/sales/securities-commodities-and-financial-services-sales-agents.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/13-2051.00">ONET</a>)</span></span></p>
+<p><span style="font-weight: 400;">Investment/Portfolio Management (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/management/financial-managers.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/11-3031.03">ONET</a>)&nbsp;</span></span></p>
+<p><span style="font-weight: 400;">Management Consulting (<span style="text-decoration: underline;"><a href="https://www.bls.gov/ooh/business-and-financial/management-analysts.htm">OOH</a>/<a href="https://www.onetonline.org/link/summary/13-1111.00">ONET</a>)</span></span>&nbsp;</p>
+</th></tr>
+</thead>
+</table></div>
+
+</div>
+</div>
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#12" 
+     aria-expanded="false" 
+     aria-controls="12">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="1">
+      <p class="panel-title pull-left">
+          Alumni
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="12" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="1">
+    <div class="panel-body">
+        <p>Building social capital is a critical step to better understand your interests and create opportunity. Click the links to view alumni in a particular industry. From those results you can filter by company or geography. Not sure how to use LinkedIn or what to say when reaching out?&nbsp;<a href="https://app.joinhandshake.com/appointments">Schedule an appointment</a> with a career coach!</p>
+<table>
+<thead>
+<tr><th scope="col">
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?facetCurrentFunction=1">Accounting</a></p>
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?keywords=construction">Construction</a></p>
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?keywords=analytics">Data Analytics</a></p>
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?facetCurrentFunction=12">Human Resources</a></p>
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?keywords=insurance">Insurance</a></p>
+</th><th scope="col">
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?keywords=investment%20banking">Investment Banking</a></p>
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?facetCurrentFunction=6">Management Consulting</a></p>
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?facetCurrentFunction=23">Real Estate</a></p>
+<p><a href="https://www.linkedin.com/school/muhlenberg-college/people/?keywords=software">Software</a></p>
+</th></tr>
+</thead>
+</table>
+<p><strong>In the news...</strong></p>
+<ul>
+<li><a href="https://www.muhlenberg.edu/news/2019/behindthefunandgames.html">Shana Joseph ‚18</a></li>
+<li><a href="https://www.muhlenberg.edu/news/2019/frompttoceo.html">Erika Davis '16</a></li>
+<li><a href="https://www.muhlenberg.edu/news/2019/runningthenumbers.html">Steven Mintz ‚12</a></li>
+<li><a href="https://www.muhlenberg.edu/news/2019/hittingthestreet.html">Evan Overcash ‚18</a></li>
+</ul>
+<p>Questions? Connect with our Alumni &amp; Parent Engagement Team: Pat Fligge, <a href="mailto:patfligge@muhlenberg.edu">patfligge@muhlenberg.edu</a>&nbsp;or Emma Hamm, <a href="mailto:emmahamm@muhlenberg.edu">emmahamm@muhlenberg.edu</a>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#22" 
+     aria-expanded="false" 
+     aria-controls="22">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="2">
+      <p class="panel-title pull-left">
+          Specific Resume Examples
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="22" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="2">
+    <div class="panel-body">
+        <p>Below are advanced level resume samples. Would you like your document reviewed? You can&nbsp;<a href="https://app.joinhandshake.com/appointments">schedule an appointment</a> or we have drop-in hours daily from 9:00am - 5:00pm.</p>
+<p><a href="/media/contentassets/pdf/about/careercenter/Accounting Resume Sample.pdf">Accounting Resume Sample</a></p>
+<p><a href="/media/contentassets/pdf/about/careercenter/Computer Science Resume Sample.pdf">Computer Science Resume Sample</a></p>
+<p><a href="/media/contentassets/pdf/about/careercenter/Human Resource Resume Sample .pdf">Human Resource Sample Resume</a></p>
+<p><a href="/media/contentassets/pdf/about/careercenter/Sophomore Finance Resume.pdf">Finance Resume Sample</a></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#32" 
+     aria-expanded="false" 
+     aria-controls="32">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="3">
+      <p class="panel-title pull-left">
+          Job & Internship Search
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="32" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="3">
+    <div class="panel-body">
+        <p><strong>Handshake Job Search Links</strong></p>
+<p><a href="https://app.joinhandshake.com/postings?page=1&amp;per_page=25&amp;sort_direction=desc&amp;sort_column=default&amp;job.industries%5B%5D=1044&amp;job.industries%5B%5D=1031&amp;job.industries%5B%5D=1028">Finance Jobs In Handshake</a></p>
+<p><strong>Niche Job/Internship Resources</strong></p>
+<p><strong>Accounting:</strong></p>
+<ul>
+<li><a href="http://www.accounting.com/">Accounting.com</a></li>
+<li><a href="http://www.beanactuary.org/">http://www.beanactuary.org/</a><a href="http://www.beanactuary.org/"></a></li>
+<li><a href="https://jobs.discoveraccounting.org/">https://jobs.discoveraccounting.org/</a></li>
+</ul>
+<p><strong>Finance:</strong></p>
+<ul>
+<li><a href="http://www.careerbank.com/home/index.cfm?site_id=8162">Career Bank</a>: Jobs in finance, banking and accounting</li>
+<li><a href="http://www.moneyjobs.com/en-us/">MoneyJobs</a>: Accounting and finance job and internship listings; requires free membership to apply for positions</li>
+<li><a href="https://www.napfa.org/careers/opportunities">The National Association of Personal Financial Advisors (NAPFA) Career Corner</a></li>
+<li><a href="http://careers.pbasc.com/">PBASC Career Center</a>: Free service provides jobs-seekers access to employers within the financial services industry</li>
+</ul>
+<p><strong>Human Resources:</strong></p>
+<ul>
+<li><a href="http://jobs.shrm.org/">SHRM's HR Jobs</a></li>
+</ul>
+<p><strong>Real Estate:</strong></p>
+<ul>
+<li><a href="http://nareit.selectleaders.com/">National Association of Real Estate Investment Trusts Career Center</a></li>
+</ul>
+<p><strong>Tech:&nbsp;</strong></p>
+<ul>
+<li><a href="http://www.dice.com/">Dice.com</a> - Job Search for Technology Professionals</li>
+<li><a href="http://careers.ieee.org/">Job Listings in computer science and information technology</a></li>
+<li><a href="https://www.greenlightjobs.com/">Greenlight Jobs</a> - focus on jobs within the film, television, animation, video gaming, visual effects, new media, digital and live entertainment areas.</li>
+<li><a href="http://www.krop.com/?gclid=CKWUpaC7jZUCFQpxHgodfxqzfw#%21/">Krop - Design Jobs, Creative &amp; Tech</a></li>
+<li><a href="http://jobs.gamasutra.com/">Gamasutra</a></li>
+<li><a href="http://technical.ly/">Technical.ly</a></li>
+<li><a href="http://uncubed.com/">Uncubed</a></li>
+<li><a href="https://whoishiring.io/">Whoishiring.io</a></li>
+</ul>
+<p><strong>Diversity Recruiting Programs</strong></p>
+<table class="col-4 responsiveTablesProcessed dt-responsive" align="left">
+<tbody>
+<tr>
+<td>
+<p><a href="http://ehrweb01.aaas.org/entrypoint/" target="_blank">AAAS Project on Science, Technology, and Disability</a></p>
+</td>
+<td>
+<p>STEM</p>
+</td>
+<td>
+<p>Persons with disabilities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://aapd.com/what-we-do/employment/internship-program/" target="_blank">AAPD Internship Program</a></p>
+</td>
+<td>
+<p>Various</p>
+</td>
+<td>
+<p>Persons with disabilities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://www.aps.org/programs/minorities/honors/ibm.cfm" target="_blank">APS/IBM Research Internship for Underrepresented Minority Students</a></p>
+</td>
+<td>
+<p>Science and&nbsp;Engineering&nbsp;</p>
+</td>
+<td>
+<p>Racial minorities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://joinus.barclays/americas/diversity-programs-career/sophomore-springboard-diversity-program/">Barclays Diversity Sophomore Springboard Program</a></p>
+</td>
+<td>
+<p>Finance</p>
+</td>
+<td>
+<p>Women and ethnically diverse sophomores</p>
+</td>
+</tr>
+<tr>
+<td><a href="https://grajob.com/blackstone-2019-diverse-leaders-program-in-new-yorkusa/">Blackstone 2019 Diverse Leaders Program</a></td>
+<td>Finance</td>
+<td>
+<p>Racial minorities‚Ø‚‚Sophomores</p>
+</td>
+</tr>
+<tr>
+<td><a href="https://www.blackstone.com/our-impact/blackstone-charitable-foundation/overview/article/fwl-dlp-blackstone">Blackstone 2019 Future Women Leaders Program</a></td>
+<td>Finance</td>
+<td>Women‚Ø‚‚Sophomores</td>
+</tr>
+<tr>
+<td><a href="http://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-nextgen-leaders-program.html" target="_blank">Deloitte NextGen Leaders Program</a></td>
+<td>Consulting</td>
+<td>Unspecified</td>
+</tr>
+<tr>
+<td><a href="https://careers.microsoft.com/students/explore" target="_blank">Explore Microsoft Internship Program&nbsp;</a></td>
+<td>Tech</td>
+<td><span>First years and sophomores; women, Native American, African American, Hispanic, students with disabilities</span></td>
+</tr>
+<tr>
+<td><a href="https://www.goldmansachs.com/careers/students/" target="_blank">Goldman Sachs</a></td>
+<td><span>Financial Services</span></td>
+<td><span>Racial, gender, and/or sexual orientation minorities</span></td>
+</tr>
+<tr>
+<td><a href="https://www.google.com/about/careers/students/bold.html">Google BOLD</a></td>
+<td><span>STEM</span></td>
+<td><span>Racial and gender minorities&nbsp;<span>(Juniors)</span></span></td>
+</tr>
+<tr>
+<td><a href="http://www.inroads.org/students" target="_blank">INROADS</a></td>
+<td><span>Business</span></td>
+<td><span>Racial minorities</span></td>
+</tr>
+<tr>
+<td><a href="http://careers.jpmorgan.com/careers/programs/winning-women-ba">JP Morgan Winning Women&nbsp;Undergrad</a><span>&nbsp;</span></td>
+<td>Financial Services</td>
+<td>Women</td>
+</tr>
+<tr>
+<td><a href="https://ml4t.org/career-prep/">Management Leadership for Tomorrow (MLT)</a></td>
+<td><span>Business</span></td>
+<td>Racial minorities</td>
+</tr>
+<tr>
+<td><a href="http://www.mckinsey.com/careers/students/sophomore-diversity-leaders-internship" target="_blank">McKinsey Sophomore Diversity Leaders</a></td>
+<td><span>Consulting&nbsp;</span></td>
+<td><span>Black and/or Hispanic&nbsp;</span><span>(Sophomores)</span></td>
+</tr>
+<tr>
+<td><a href="http://www.seo-usa.org/our-programs/" target="_blank">Sponsors for Educational Opportunity (SEO)</a></td>
+<td><span>Business</span></td>
+<td><span>Racial minorities</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Recruiting Timeline</strong></p>
+<p><strong><img src="/media/contentassets/images/about/careercenter/Website Recruiting Timeline-460x595.png" alt="" style="     " /></strong></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#42" 
+     aria-expanded="false" 
+     aria-controls="42">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="4">
+      <p class="panel-title pull-left">
+          Professional Associations & On-Campus Clubs
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="42" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="4">
+    <div class="panel-body">
+        <p>These organizations are a great way to learn more about your field of interest, attend conferences, and some even have niche job/internship search resources.</p>
+<p><strong>Accounting Professional Associations</strong></p>
+<ul>
+<li><a href="https://www.picpa.org/">Pennsylvania Institute of Certified Public Accountants</a></li>
+<li><a href="http://www.aicpa.org/Pages/default.aspx">American Institute of CPA‚s</a></li>
+<li><a href="https://www.imanet.org/?ssopc=1">Institute of Management Accountants</a></li>
+<li><a href="http://members.pasba.org/">Professional Association of Small Business Accountants</a></li>
+</ul>
+<p><strong>Consulting Professional Associations</strong></p>
+<ul>
+<li><a href="http://www.aimc.org/">Association of Internal Management Consultants</a></li>
+<li><a href="http://www.imcusa.org/">Institute of Management Consultants USA</a></li>
+<li><a href="http://www.spconsultants.org/">Society of Professional Consultants</a></li>
+</ul>
+<p><strong>Entrepreneurship Professional Associations</strong></p>
+<ul>
+<li><a href="http://www.cednc.org/">The Council for Entrepreneurial Development (CED)</a></li>
+<li><a href="http://www.eonetwork.org/Pages/welcome.aspx">Entrepreneurs' Organization</a></li>
+<li><a href="http://www.healliance.org/content/reflections.php?p=about">Harambe Entrepreneur Alliance</a></li>
+<li><a href="http://www.thenae.org/">National Association of Entrepreneurs</a></li>
+<li><a href="http://www.nawbo.org/">National Association of Women Business Owners (NAWBO)</a></li>
+</ul>
+<p><strong>Finance Professional Associatoins</strong></p>
+<ul>
+<li><a href="http://www.afajof.org/">The American Finance Association</a></li>
+<li><a href="http://www.aafa.com/">The American Association of Finance and Accounting (AAFA)</a></li>
+<li><a href="http://www.afponline.org/">The Association for Financial Professionals</a></li>
+<li><a href="http://www.alpfa.org/">The Association of Latino Professionals in Finance and Accounting (ALPFA)</a></li>
+<li><a href="https://www.cfany.org/">CFA Society of NY</a></li>
+<li><a href="http://www.sqa-us.org/">Society of Quantitative Analysts</a></li>
+</ul>
+<p><strong>Human Resources Professional Associations</strong></p>
+<ul>
+<li><a href="https://www.td.org/">Association for Talent Development (ATD - formerly ASTD)</a></li>
+<li><a href="http://www.siop.org/">Society for Industrial and Organizational Psychology, Inc.</a></li>
+<li><a href="http://www.shrm.org/Pages/default.aspx">Society for Human Resource Management (SHRM)</a></li>
+</ul>
+<p><strong>Real Estate Professional Associations</strong></p>
+<ul>
+<li><a href="http://www.reit.com/AboutNAREIT/AboutNAREIT.aspx">National Association of Real Estate Investment Trusts</a></li>
+<li><a href="http://www.naiop.org//">National Association of Industrial &amp; Office Properties</a></li>
+<li><a href="http://www.sior.com/">SIOR - The Society of Industrial and Office REALTORS</a></li>
+<li><a href="http://www.uli.org/LearnAboutULI.aspx">Urban Land Institute</a></li>
+</ul>
+<p><strong>Tech Professional Associations</strong></p>
+<ul>
+<li><a href="http://www2.computer.org/portal/web/guest/home">IEEE Computer Society</a>&nbsp;</li>
+<li><a href="http://www.cra.org/">Computing Research Association (CRA)</a>&nbsp;</li>
+<li><a href="http://www.awc-hq.org/home.html">Association for Women in Computing</a></li>
+<li><a href="https://www.acm.org/">Association of Computing Machinery</a></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#52" 
+     aria-expanded="false" 
+     aria-controls="52">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="5">
+      <p class="panel-title pull-left">
+          Additional Resources
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="52" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="5">
+    <div class="panel-body">
+        <ul>
+<li><a href="https://www.vpul.upenn.edu/careerservices/FinancialTerms.php">Business Terminology</a>: Glossary and Internet Resources. Frequently referred to as "Financial Terms for Non-Financial Types," this is a great site to help you get your bearings.</li>
+<li><a href="http://www.businessweek.com/">Bloomberg Business</a></li>
+<li><a href="https://www.ft.com/">Financial Times</a></li>
+<li><a href="http://www.forbes.com/">Forbes</a></li>
+<li><a href="http://www.investopedia.com/">Investopedia</a>: Comprehensive financial encyclopedia</li>
+<li><a href="https://www.vpul.upenn.edu/careerservices/jobsandinternships/summerbusinessinstitutes.php">Summer Business Institutes for Undergraduates</a>: A list of programs with tuition and contact information</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>2400 Chew St. Podcasts</strong></p>
+<p>Listen to successful alumni in a variety of fields talk about their unique journeys</p>
+<p><a href="https://soundcloud.com/2400chew/interview-with-jess-anselmi/s-q75Xs" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://soundcloud.com/2400chew/interview-with-jess-anselmi/s-q75Xs&amp;source=gmail&amp;ust=1573928744068000&amp;usg=AFQjCNEg29Cn-sgzMJ1vGBV_mcKvwCwslA">Jess Anselmi '08 - Director, Innovation &amp; Category Growth at Panera</a></p>
+<p><a href="https://soundcloud.com/2400chew/interview-with-brenda-colatrella/s-vBwJf" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://soundcloud.com/2400chew/interview-with-brenda-colatrella/s-vBwJf&amp;source=gmail&amp;ust=1573928744068000&amp;usg=AFQjCNHJANElXnbPxvkbtMx4N5_RNCoM9A">Brenda Colatrella '82 - Executive Director, Office of Corporate Responsibility at Merck</a></p>
+<p><a href="https://soundcloud.com/2400chew/interview-with-chris-desantis/s-JgfbZ" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://soundcloud.com/2400chew/interview-with-chris-desantis/s-JgfbZ&amp;source=gmail&amp;ust=1573928744068000&amp;usg=AFQjCNG4R0cAjl0MFhDYzPopC5Tt5unOsw">Chris DeSantis '87 - CEO/Founder at BlueKite Insight</a></p>
+<p><a href="https://soundcloud.com/2400chew/interview-with-marc-jablonski/s-lxnMQ" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://soundcloud.com/2400chew/interview-with-marc-jablonski/s-lxnMQ&amp;source=gmail&amp;ust=1573928744068000&amp;usg=AFQjCNEUBT9vq8YB8dOq2ymfwr-pOts4kA">Marc Jablonski '15 - Senior Insights Analyst at AKA NYC</a></p>
+<p><a href="https://soundcloud.com/2400chew/interview-with-debra-sudillo/s-IJctN" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://soundcloud.com/2400chew/interview-with-debra-sudillo/s-IJctN&amp;source=gmail&amp;ust=1573928744068000&amp;usg=AFQjCNGnySgS-MzDbEeA844ODeH21XGzyQ">Debra&nbsp;<span id="m_-4172096392367450599gmail-m_7852879149424135533gmail-16">Sudillo</span>&nbsp;'10 - Learning &amp; Development Specialist &amp; HR Project Manager at Rosetta Stone</a></p>
+<p><a href="https://soundcloud.com/2400chew/interview-with-phil-lakin/s-gscxF" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://soundcloud.com/2400chew/interview-with-phil-lakin/s-gscxF&amp;source=gmail&amp;ust=1573928744068000&amp;usg=AFQjCNGf3_o3bhuMagvXS3JWFZzHiiyQpg">Phil Lakin '09 - National Operations Specialist at Compass</a></p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

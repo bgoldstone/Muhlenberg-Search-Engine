@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Crisis Earth | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Crisis Earth">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/cfe/">Center for Ethics</a></li><li class="linkitem"><a href="/aboutus/cfe/pastprograms/">Past Programs</a></li><li class="linkitem"><a href="/aboutus/cfe/pastprograms/crisisearth/">Crisis Earth</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Crisis Earth</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts740x317.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts555x740.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts980x552.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1440x810.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts740x317.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts555x740.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts980x552.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1220x686.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/facts1440x810.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/cfe/">Center for Ethics</a></li><li class="linkitem"><a href="/aboutus/cfe/pastprograms/">Past Programs</a></li><li class="linkitem"><a href="/aboutus/cfe/pastprograms/crisisearth/">Crisis Earth</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Crisis Earth</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Crisis Earth">
+							<span class="sub_nav_handle_label">Crisis Earth</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/aboutus/cfe/pastprograms/pandemicresponseresiliencereflection/">Pandemic: Response, Resilience, Reflection</a></li><li class="sub_nav_item"><a href="/aboutus/cfe/pastprograms/engaginginspeechandaction/">Engaging in Speech and Action</a></li><li class="sub_nav_item"><a href="/aboutus/cfe/pastprograms/bordersnationalismsidentities/">Borders, Nationalisms, Identities</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/aboutus/cfe/pastprograms/crisisearth/">Crisis Earth</a></span></li><li class="sub_nav_item"><a href="/aboutus/cfe/pastprograms/troublingtruth/">Troubling Truth</a></li><li class="sub_nav_item"><a href="/aboutus/cfe/pastprograms/warandpeacebuilding/">War and Peacebuilding</a></li><li class="sub_nav_item"><a href="/aboutus/cfe/pastprograms/influenceinformation/">Influence &amp; Information</a></li><li class="sub_nav_item"><a href="/aboutus/cfe/pastprograms/living-learningexperience/">Living-Learning Experience</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/cfe/">Center for Ethics</a></li><li class="linkitem"><a href="/aboutus/cfe/pastprograms/">Past Programs</a></li><li class="linkitem"><a href="/aboutus/cfe/pastprograms/crisisearth/">Crisis Earth</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p align="center"><img src="/media/contentassets/images/about/cfe/muhl_center_for_ethics_RGB_color-230x72.png" alt="Center for Ethics logo" style="     " /></p>
+<p align="center">&nbsp;</p>
+<p style="text-align: center;"><strong>Fall 2018 Schedule</strong></p>
+<p>The 2018-2019 Center for Ethics, "Crisis Earth: Ethics of the Anthropocene" began on <strong>Friday, Sept. 7</strong> with a series of interdisciplinary lectures and interactive lessons by Muhlenberg faculty on aspects of the Anthropocene.</p>
+<p><strong>A talk by James Hansen, titled ‚Global Energy, Climate and Health: Young People‚s Burdens and Opportunities,‚ followed. The program ran from 2:00‚5:00 p.m. in Moyer Hall‚s Miller Forum and surrounding classrooms. Hansen&nbsp;spoke from 3‚4:30 p.m., followed by a reception.</strong></p>
+<p>A climatologist, activist, and one of the first to study global climate change, Hansen directs the Program on Climate Science, Awareness, and Solutions at Columbia University‚s Earth Institute. Fossil fuels provide a remarkably dense, convenient, form of energy. Their discovery powered the industrial revolution, spurred the elimination of slavery, and raised the standard of living of half the world. Unfortunately, fossil fuels also have consequences via their effects on human health and climate, consequences that are delayed and potentially devastating for young people if they are not addressed.</p>
+<p>Also a former director of the NASA Goddard Institute for Space Studies, Hansen is best known for his testimony on climate change in the 1980s that helped raise awareness of global warming. He is a member of the U.S. National Academy of Sciences and has received numerous awards, including the Sophie and Blue Planet Prizes. Hansen is recognized for speaking truth to power and for outlining actions needed to protect the future of young people and all species on the planet. Hansen may be joined by his granddaughter, Sophie Kivlehan, a plaintiff in the climate lawsuit brought by Our Children‚s Trust against the US government.</p>
+<p><br>Subsequent fall Center for Ethics events included:</p>
+<p><strong>Exhibition: Peter d'Agostino, COLD / HOT - Walks, Wars &amp; Climate Change</strong><br><strong>August 27-November 3</strong><br><strong>Public Reception, Wednesday, Sept. 12, 5‚6:30 p.m., Martin Art Gallery, Baker Center for the Arts </strong><br><strong>Public Talk, Monday, Sept. 17, 5:00 p.m., Baker Center for the Arts, Recital Hall</strong> <br>D‚Agostino‚s exhibition focuses on the theme of COLD / HOT as it relates to walks, wars, and climate change, drawing from a selection of his works, in particular his World-Wide-Walks / between earth &amp; water installations, ICE / WETLANDS / DESERTS. D'Agostino has performed the Walks on six continents over the past five decades. Initiated as video 'documentation/performances' in 1973, the Walks evolved into video/web projects in the 1990s and mobile/locative media installations in the 2000s, probing and examining climate change during the last decade. World-Wide-Walks explore natural, cultural, virtual identities: mixed realities of walking through physical environments and virtually surfing the web.</p>
+<p><strong>Lecture: Andrew Revkin, ‚The Good, the Bad, and the Anthropocene‚</strong><br><strong>Friday, Sept. 21, 2&nbsp;p.m., Trumbower, Room 130<strong><strong> (L</strong>ithgow Auditorium)</strong></strong><br>Have we become so potent a force on earth that a geological epoch should have our name? Can there be any kind of good path for our species in a time of such rapid and disruptive environmental change? Andrew Revkin, strategic adviser for environmental and science journalism at The National Geographic Society, is one of America‚s most honored and experienced journalists, focused on environmental and human sustainability. Revkin will describe his learning journey, from the Amazon to the North Pole to the Vatican, and offer a prescription that is both unnerving and hopeful.</p>
+<p><strong>Lecture: Atiq Rahman, ‚Resilience Building in the Anthropocene: </strong><strong>Lessons from Bangladesh‚</strong><br><strong>Wednesday, Oct. 10, 7 p.m., <strong>Trumbower, Room 130 (L</strong>ithgow Auditorium)</strong><br>Atiq Rahman is a prominent environmentalist, scientist, and development expert from Bangladesh. He is well-known worldwide for his pioneering role and contribution to environment and nature conservation, climate change, poverty alleviation and sustainable development. In 2008, he was honored with the highest UN Environmental Award, the Champion of the Earth, and with Bangladesh‚s National Environment Award for Innovative Environmental Research and Technology Development. He is a long-standing lead author and convening lead author of the Intergovernmental Panel on Climate Change, and as such, was a co-recipient of the Nobel Peace Prize in 2007.</p>
+<p><strong>Lecture: J.R. McNeill, ‚Global Environmental Change since 1800: Are We in the Anthropocene?‚</strong><br><strong>Monday, Oct. 15, 7 p.m., Miller Forum, Moyer Hall</strong> <br>Environmental historian John McNeill will summarize the broad outlines and driving forces of environmental change in the industrial era, and explore the controversies surrounding what it might mean. Should we consider that the earth has entered a new epoch in its history? McNeill, currently at Georgetown University, has held two Fulbright awards, fellowships from Guggenheim, MacArthur, and the Woodrow Wilson Center. His books include ‚Something New Under the Sun‚ (2000), listed by the London Times among the 10 best science books ever written (despite not being a science book); ‚The Human Web‚ (2003); and ‚Mosquito Empires‚ (2010), which won the Beveridge Prize. In 2010 he was awarded the Toynbee Prize for ‚academic and public contributions to humanity,‚ and in 2018 the Heineken Award for History from the Royal Netherlands Academy of Arts and Sciences. McNeill is past president of the American Society for Environmental History and was recently elected president of the American Historical Association for 2019.</p>
+<p><strong>Lecture: Susan Shaw, Woodrow Wilson Visiting Scholar</strong><br><strong>Tuesday, Oct. 23, 7:00 p.m<br></strong><strong>Miller Forum, Moyer Hall</strong><br>Shaw is a marine toxicologist, author, explorer and founder/director of the Shaw Institute, formerly the Marine &amp; Environmental Research Institute and recently renamed in honor of Shaw's three decades of environmental research. A Fulbright Scholar with dual degrees from Columbia University in film and in public health/environmental toxicology, Shaw was commissioned by Ansel Adams in 1980 to write ‚Overexposure,‚ the first book on the health hazards of photographic chemicals. For the past two decades, Shaw has conducted pioneering research documenting the effects of hundreds of human-made chemicals in the ocean environment. Shaw will be visiting as part of the Woodrow Wilson program.</p>
+<p><strong>Lecture: Mona Bhan, "Ecological Anxieties and Imaginaries on the India-Pakistan Border"</strong><br><strong>Monday, Nov. 5, 7 p.m.</strong><br><strong>Miller Forum, Moyer Hall</strong><br>Bhan, associate professor of anthropology at DePauw, is the co-author of the forthcoming ‚Climate without Nature: A Critical History of the Anthropocene,‚ with Cambridge University Press. Her ongoing work in the border provinces of Kashmir analyzes the relationship between dams, environmental and ecological imaginaries, and India‚s counterinsurgency politics.</p>
+<p><strong>Lecture: Bahareh Seyedi, Energy Policy Specialist in the Executive Office of the&nbsp;Secretary-General of the United Nations</strong><br><strong>Friday, Nov. 9</strong></p>
+<p><strong><a href="/media/contentassets/ppt/about/cfe/BahareSeyedi-UnitedNations-November2018-Muhlenberg.pptx">Bahare Seyedi - United Nations Muhlenberg Presentation</a></strong></p>
+<p>Prior to service in the Office of the Secretary General, Bahareh Seyedi&nbsp;worked with the Sustainable Energy Programme within the Environment&nbsp;and Energy Group of the United Nations Development Programme in New York as well as in Burkina Faso, where she managed multiple projects in&nbsp;the area of energy and environment.</p>
+<p>Seyedi has worked with civil society organizations, leading several&nbsp;international development projects in Central America and South East&nbsp;Asia. She holds an MS degree in Sustainable Development and Climate&nbsp;change from De Monfort University and a bachelor‚s degree in electrical&nbsp;engineering from McGill University.</p>
+<p>This free and public event was sponsored by the International Studies&nbsp;program, the Political Science Department, the History Department and the Sustainability Studies program.</p>
+<hr>
+<p>&nbsp;</p>
+<p>During the spring 2019 semester, the Center for Ethics will continue to explore the theme of the Anthropocene, beginning in early February.</p></div>
+
+</div>
+</div>
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><img src="/media/contentassets/images/about/cfe/muhl_center_for_ethics_RGB_color-230x72.png" alt="Center for Ethics logo" style="   margin : 0px auto; display: block; " /><br><br></p>
+<p style="text-align: center;"><img src="/media/contentassets/images/newscenter/CFE-CrisisEarth-460x86.png" alt="" style="     " /></p>
+<p style="text-align: center;"><strong>The Ethics of the Anthropocene: Crisis Earth</strong><br><strong>2018-2019</strong></p>
+<p><span style="font-weight: 400;">The earth is experiencing an era of rapid environmental change. The impact of human activity is the dominant influence on the planet‚s environment and can be found in the soil, water, air and rocks. Scientists have dubbed this new geological era the Anthropocene and are scrambling to understand how these changes affect ecosystems.&nbsp;&nbsp;</span></p>
+<p>Some businesses, communities, societies and political systems are responding to this change while others are not.&nbsp;Are these responses, or lack thereof, ethical?&nbsp;Who are the winners and losers as humans face down environmental catastrophe in the era of the Anthropocene? How can we face these environmental challenges ethically?&nbsp;When and why do we fail?&nbsp;The 2018-2019&nbsp;Center for Ethics event series, <strong>The Ethics of the Anthropocene: Crisis Earth</strong>, explored the ethical implications of addressing the environmental damage that humankind has produced.</p>
+<p align="center">&nbsp;</p>
+<div class="breakByCell">
+<table border="0" cellspacing="4" cellpadding="2">
+<tbody>
+<tr>
+<td><strong>Brian Mello, Director</strong><br>Associate Professor,&nbsp;Political Science&nbsp;&nbsp;<br><a href="mailto:brianmello@muhlenberg.edu">brianmello@muhlenberg.edu</a><br>484-664-3469</td>
+<td><strong>Kimberly Heiman, Program Director</strong><br>Senior lecturer, Biology<br><a href="mailto:kheiman@muhlenberg.edu">kheiman@muhlenberg.edu</a><br>484-664-3965<br><br></td>
+</tr>
+<tr>
+<td><strong>Kammie Takahashi, Program Director</strong><br>Associate professor, Religion Studies<br><a href="mailto:ktakahashi@muhlenberg.edu">ktakahashi@muhlenberg.edu</a><br>484-664-3432</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+
+</div>
+</div>
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p align="center">&nbsp;</p>
+<p align="center"><strong>Spring 2019 Schedule</strong></p>
+<p><strong><br>"The End of Animal Farming"</strong><br>Jacy Reese, Co-Founder and Research Director of Sentience Institute<br><em>Monday, January 28, 7 p.m., Seegers Union, Great Room (111-113)</em></p>
+<p>The spring 2019 semester program debuts with a lecture by Jacy Reese, Co-Founder and Research Director of Sentience Institute. Reese is considered a founder of the "effective altruism" movement, encouraging people, using science and evidence, to do the most good in the world. He co-founded Sentience Institute as a think tank to research humanity‚s moral circle. His new book, "The End of Animal Farming," outlines a roadmap for humanity‚s upcoming transition to a world without animal slaughter.</p>
+<p>&nbsp;</p>
+<p><strong>"Climate Depression &amp; Environmental Angst: The Emotional Toll of Ecological Loss"</strong><br>Jennifer Atkinson, lecturer of interdisciplinary arts and sciences and associate director of the pre-major program and discovery core at the University of Washington, Bothell<br><em>Monday, February 4, 7 p.m., Moyer Hall, Miller Forum</em></p>
+<p>As a faculty member at the University of Washington, Bothell, Atkinson teaches ‚Environmental Grief and Anxiety: Building Hope in the Age of Climate Consequences.‚ Her lecture will explore that course and discuss dealing with the grief and trauma of environmental loss.&nbsp;</p>
+<p>Atkinson‚s recent book, "Gardenland: Nature, Fantasy and Everyday Practice," explores American garden literature as a ‚fantasy genre‚ where people enact desires for sustainability, community, social justice, joyful labor, contact with nature and more vibrant and democratic cities. She has also published research on teaching environmental humanities through ‚multi-sensory‚ outdoor experience.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>"The United Nations and Global Climate Change"</strong><br>A Humpty Dumpty Institute Conference<br><em>Friday, February 15, 9 a.m ‚ 4 p.m., Seegers Union Event Space</em></p>
+<p>Sessions include:</p>
+<ul>
+<li>The UN, Public Health and Global Climate Change</li>
+<li>The UN and Climate Change Adaptation</li>
+<li>The UN, Climate Change and Small Island States ‚ Potential Climate Refugees</li>
+<li>Round Table Discussion</li>
+</ul>
+<p>The Humpty Dumpty Institute (HDI) is a non-profit organization dedicated to tackling difficult global and domestic issues by establishing innovative and strategic public/private partnerships that provide sensible solutions to serious problems. HDI‚s partners include the U.S. Congress, the United Nations, the U.S. State Department, the U.S. Department of Agriculture, various countries, the Thurgood Marshall College Fund, thought leaders and other NGOs.</p>
+<p>&nbsp;</p>
+<p><strong>‚Standing on Sacred Ground‚</strong><br>Filmmaker Christopher McLeod with collaborator Caleen Sisk<br><em>Tuesday, February 26, 7 p.m., Trumbower 130 (Documentary Screening and Discussion)</em><br><em>Wednesday, February 27, 7 p.m., Miller Forum, Moyer Hall (Interactive Discussion)</em></p>
+<p>McLeod is project director of Earth Island Institute's Sacred Land Film Project, which he founded in 1984. Since 2006, he has been producing and directing the four-part documentary film series Standing on Sacred Ground, which premiered in 2013 at the Mill Valley Film Festival and aired nationally on PBS in 2015. Standing on Sacred Ground features eight indigenous communities around the world fighting to protect their sacred places. He will be joined by project collaborator and Winnemem Wintu Tribal Chief, Caleen Sisk.</p>
+<p>&nbsp;</p>
+<p><strong>"Cultivating Feminism in the (M)Anthropocene"</strong><br>Cate Sandilands, professor of environmental studies &amp; Trudeau Research Fellow, York University<br><span style="text-decoration: line-through;"><em>Tuesday, March 12, 7 p.m., Miller Forum, Moyer Hall</em></span><em>&nbsp;&nbsp;</em><em><strong>CANCELED&nbsp;</strong></em></p>
+<p>Sandilands writes and teaches in the environmental humanities, integrating botany and environmental studies with gender and political studies and the arts. She is the author of "The Good-Natured Feminist: Ecofeminism and the Quest for Democracy," and co-editor of "Queer Ecologies: Sex, Nature, Politics, Desire" and of "The Elusive Land: Women and the Canadian Environment." Her forthcoming book, "Plantasmagoria: Plants and the Politics of Urban Habitat," considers the relationships between gender, plants and gardening in the Anthropocene.&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Fall 2018 Schedule</strong></p>
+<p>The 2018-2019 Center for Ethics, "Crisis Earth: Ethics of the Anthropocene" began on <strong>Friday, Sept. 7</strong> with a series of interdisciplinary lectures and interactive lessons by Muhlenberg faculty on aspects of the Anthropocene.</p>
+<p><strong>A talk by James Hansen, titled ‚Global Energy, Climate and Health: Young People‚s Burdens and Opportunities,‚ followed. The program ran from 2:00‚5:00 p.m. in Moyer Hall‚s Miller Forum and surrounding classrooms. Hansen&nbsp;spoke from 3‚4:30 p.m., followed by a reception.</strong></p>
+<p>A climatologist, activist, and one of the first to study global climate change, Hansen directs the Program on Climate Science, Awareness, and Solutions at Columbia University‚s Earth Institute. Fossil fuels provide a remarkably dense, convenient, form of energy. Their discovery powered the industrial revolution, spurred the elimination of slavery, and raised the standard of living of half the world. Unfortunately, fossil fuels also have consequences via their effects on human health and climate, consequences that are delayed and potentially devastating for young people if they are not addressed.</p>
+<p>Also a former director of the NASA Goddard Institute for Space Studies, Hansen is best known for his testimony on climate change in the 1980s that helped raise awareness of global warming. He is a member of the U.S. National Academy of Sciences and has received numerous awards, including the Sophie and Blue Planet Prizes. Hansen is recognized for speaking truth to power and for outlining actions needed to protect the future of young people and all species on the planet. Hansen may be joined by his granddaughter, Sophie Kivlehan, a plaintiff in the climate lawsuit brought by Our Children‚s Trust against the US government.</p>
+<p><br>Subsequent fall Center for Ethics events included:</p>
+<p><strong>Exhibition: Peter d'Agostino, COLD / HOT - Walks, Wars &amp; Climate Change</strong><br><strong>August 27-November 3</strong><br><strong>Public Reception, Wednesday, Sept. 12, 5‚6:30 p.m., Martin Art Gallery, Baker Center for the Arts </strong><br><strong>Public Talk, Monday, Sept. 17, 5:00 p.m., Baker Center for the Arts, Recital Hall</strong> <br>D‚Agostino‚s exhibition focuses on the theme of COLD / HOT as it relates to walks, wars, and climate change, drawing from a selection of his works, in particular his World-Wide-Walks / between earth &amp; water installations, ICE / WETLANDS / DESERTS. D'Agostino has performed the Walks on six continents over the past five decades. Initiated as video 'documentation/performances' in 1973, the Walks evolved into video/web projects in the 1990s and mobile/locative media installations in the 2000s, probing and examining climate change during the last decade. World-Wide-Walks explore natural, cultural, virtual identities: mixed realities of walking through physical environments and virtually surfing the web.</p>
+<p><strong>Lecture: Andrew Revkin, ‚The Good, the Bad, and the Anthropocene‚</strong><br><strong>Friday, Sept. 21, 2&nbsp;p.m., Trumbower, Room 130<strong><strong> (L</strong>ithgow Auditorium)</strong></strong><br>Have we become so potent a force on earth that a geological epoch should have our name? Can there be any kind of good path for our species in a time of such rapid and disruptive environmental change? Andrew Revkin, strategic adviser for environmental and science journalism at The National Geographic Society, is one of America‚s most honored and experienced journalists, focused on environmental and human sustainability. Revkin will describe his learning journey, from the Amazon to the North Pole to the Vatican, and offer a prescription that is both unnerving and hopeful.</p>
+<p><strong>Lecture: Atiq Rahman, ‚Resilience Building in the Anthropocene: </strong><strong>Lessons from Bangladesh‚</strong><br><strong>Wednesday, Oct. 10, 7 p.m., <strong>Trumbower, Room 130 (L</strong>ithgow Auditorium)</strong><br>Atiq Rahman is a prominent environmentalist, scientist, and development expert from Bangladesh. He is well-known worldwide for his pioneering role and contribution to environment and nature conservation, climate change, poverty alleviation and sustainable development. In 2008, he was honored with the highest UN Environmental Award, the Champion of the Earth, and with Bangladesh‚s National Environment Award for Innovative Environmental Research and Technology Development. He is a long-standing lead author and convening lead author of the Intergovernmental Panel on Climate Change, and as such, was a co-recipient of the Nobel Peace Prize in 2007.</p>
+<p><strong>Lecture: J.R. McNeill, ‚Global Environmental Change since 1800: Are We in the Anthropocene?‚</strong><br><strong>Monday, Oct. 15, 7 p.m., Miller Forum, Moyer Hall</strong> <br>Environmental historian John McNeill will summarize the broad outlines and driving forces of environmental change in the industrial era, and explore the controversies surrounding what it might mean. Should we consider that the earth has entered a new epoch in its history? McNeill, currently at Georgetown University, has held two Fulbright awards, fellowships from Guggenheim, MacArthur, and the Woodrow Wilson Center. His books include ‚Something New Under the Sun‚ (2000), listed by the London Times among the 10 best science books ever written (despite not being a science book); ‚The Human Web‚ (2003); and ‚Mosquito Empires‚ (2010), which won the Beveridge Prize. In 2010 he was awarded the Toynbee Prize for ‚academic and public contributions to humanity,‚ and in 2018 the Heineken Award for History from the Royal Netherlands Academy of Arts and Sciences. McNeill is past president of the American Society for Environmental History and was recently elected president of the American Historical Association for 2019.</p>
+<p><strong>Lecture: Susan Shaw, Woodrow Wilson Visiting Scholar</strong><br><strong>Tuesday, Oct. 23, 7:00 p.m<br></strong><strong>Miller Forum, Moyer Hall</strong><br>Shaw is a marine toxicologist, author, explorer and founder/director of the Shaw Institute, formerly the Marine &amp; Environmental Research Institute and recently renamed in honor of Shaw's three decades of environmental research. A Fulbright Scholar with dual degrees from Columbia University in film and in public health/environmental toxicology, Shaw was commissioned by Ansel Adams in 1980 to write ‚Overexposure,‚ the first book on the health hazards of photographic chemicals. For the past two decades, Shaw has conducted pioneering research documenting the effects of hundreds of human-made chemicals in the ocean environment. Shaw will be visiting as part of the Woodrow Wilson program.</p>
+<p><strong>Lecture: Mona Bhan, "Ecological Anxieties and Imaginaries on the India-Pakistan Border"</strong><br><strong>Monday, Nov. 5, 7 p.m.</strong><br><strong>Miller Forum, Moyer Hall</strong><br>Bhan, associate professor of anthropology at DePauw, is the co-author of the forthcoming ‚Climate without Nature: A Critical History of the Anthropocene,‚ with Cambridge University Press. Her ongoing work in the border provinces of Kashmir analyzes the relationship between dams, environmental and ecological imaginaries, and India‚s counterinsurgency politics.</p>
+<p><strong>Lecture: Bahareh Seyedi, Energy Policy Specialist in the Executive Office of the&nbsp;Secretary-General of the United Nations</strong><br><strong>Friday, Nov. 9</strong></p>
+<p><strong><a href="/media/contentassets/ppt/about/cfe/BahareSeyedi-UnitedNations-November2018-Muhlenberg.pptx">Bahare Seyedi - United Nations Muhlenberg Presentation</a></strong></p>
+<p>Prior to service in the Office of the Secretary General, Bahareh Seyedi&nbsp;worked with the Sustainable Energy Programme within the Environment&nbsp;and Energy Group of the United Nations Development Programme in New York as well as in Burkina Faso, where she managed multiple projects in&nbsp;the area of energy and environment.</p>
+<p>Seyedi has worked with civil society organizations, leading several&nbsp;international development projects in Central America and South East&nbsp;Asia. She holds an MS degree in Sustainable Development and Climate&nbsp;change from De Monfort University and a bachelor‚s degree in electrical&nbsp;engineering from McGill University.</p>
+<p>This free and public event was sponsored by the International Studies&nbsp;program, the Political Science Department, the History Department and the Sustainability Studies program.</p>
+<hr>
+<p>&nbsp;</p>
+<p>During the spring 2019 semester, the Center for Ethics will continue to explore the theme of the Anthropocene, beginning in early February.</p></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1090 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Courses | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Courses">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/latin-caribbean/latinamerica-header-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/latin-caribbean/">Latin American and Caribbean Studies (minor)</a></li><li class="linkitem"><a href="/academics/latin-caribbean/courses/">Courses</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Courses</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-740x317.jpg","500px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-740x555.jpg","740px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-980x420.jpg","980px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-1220x523.jpg","1220px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-1440x617.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-740x317.jpg","500px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-740x555.jpg","740px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-980x420.jpg","980px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-1220x523.jpg","1220px":"/media/contentassets/images/academics/latin-caribbean/latinamerica-header-1440x617.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_3">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/latin-caribbean/">Latin American and Caribbean Studies (minor)</a></li><li class="linkitem"><a href="/academics/latin-caribbean/courses/">Courses</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Courses</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Courses">
+							<span class="sub_nav_handle_label">Courses</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/latin-caribbean/minorrequirements/">Minor Requirements</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/latin-caribbean/courses/">Courses</a></span></li><li class="sub_nav_item"><a href="/academics/latin-caribbean/faculty/">Faculty</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/latin-caribbean/">Latin American and Caribbean Studies (minor)</a></li><li class="linkitem"><a href="/academics/latin-caribbean/courses/">Courses</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <!-- InstanceBeginEditable name="EditMainContent" -->
+<div class="content-add10">
+<div>
+<p><strong><span style="text-decoration: underline;"><span style="color: black;">Two Core&nbsp;Courses:</span></span><span style="font-family: 'Times New Roman','serif';">&nbsp;</span></strong></p>
+<p style="text-align: justify; padding-left: 30px;"><strong>SPN 301, 302: Spanish Conversation &amp; Composition<br></strong>Intensive practice of spoken Spanish with emphasis on techniques of oral expression, vocabulary development, and persistent grammatical difficulties. Discussions will be based on contemporary cultural readings, films, and other multi-media materials. Offered every semester. <em>Prerequisite: SPN 204 Intermediate Spanish II<br></em><strong><em>or<br></em></strong><strong>SPN 303, 304: Advanced Spanish Conversation &amp; Composition<br></strong>Focused work in Spanish composition allowing students to develop creative, professional, and academic writing styles. Emphasis is placed on structure, style, and content as well as grammar. Classic and contemporary texts, films, and other multi-media resources will provide stylistic models as well as a cultural context for writings. Offered every semester. <em>Prerequisite: SPN 301 or 302 Spanish Conversation &amp; Composition<br></em><strong><em>or<br></em></strong><strong>FRN 330: Francophone Cultures of Africa and the Caribbean<br></strong>An introduction to the diverse cultures of the francophone world, specifically of the French-speaking African and Caribbean countries. Beginning with the period of French colonization, students will explore the development of various historical, social, political, and artistic aspects of contemporary francophone culture through film, literature, magazines, the internet, and other multi-media materials. <em>Taught in French.</em> <em>Prerequisite: FRN 301 French Conversation &amp; Composition, FRN 305 Topics in France &amp; the Francophone World or FRN 310 French for the Professions</em></p>
+<p class="content-add05" align="left"><strong><em>and</em></strong></p>
+<p style="padding-left: 30px;"><strong><span style="color: black;">HST 291, 292: Colonial Latin America<br></span></strong>Colonial Latin American History begins with the study of the Pre-Columbian era and concludes with the movements of Independence from Portugal and Spain.&nbsp; Course materials introduce students to major themes emerging from Spanish and Portuguese Colonialism in Latin America and the Caribbean, and encourage students to reflect upon the interplay of systems of power with human experience. Topical areas of study include racial and caste systems, sex and gender, religion and spiritual beliefs, slavery and coerced labor, and rebellion and revolution. <em>No pre-requisite.<br></em><strong><em>or<br></em></strong><strong>HST 293, 294. Modern Latin America<br></strong>The study of post independence Latin America, nation building, and twentieth century issues such as poverty, human rights, revolutions, and relations with the United States. The course also examines modern Latin American culture through literature, art, and religion. <em>No pre-requisite.</em></p>
+</div>
+<div class="content-add05">
+<p align="left"><strong><span style="text-decoration: underline;">Four Additional Electives, with no more than two courses from any prefix</span>:</strong></p>
+<p><span style="text-decoration: underline;"><strong>Anthropology (Dr. Ben Carter)</strong></span></p>
+<p style="padding-left: 30px;"><strong>ATH 230: Inca, Aztec, and Maya<br></strong>Latin America contains two geographic regions where civilization developed independently, Mesoamerica and South America.&nbsp; This course focuses upon the origin, development, and expression of the Inca, Aztec, Maya, and their predecessors through time.&nbsp; Themes of power, trade, consumption, ritual, identity, and symbolism will be explored through the lens of archaeology.&nbsp; This course employs the long term perspective of archaeology and anthropology to understand controversial issues such as elite dominance, commoner resistance, warfare, auto-sacrifice, and human sacrifice.&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Art History</strong> <strong>(Dr. Elena Sifford)</strong></span></p>
+<p style="padding-left: 30px;"><strong>ARH 280: Colonial Latin American Art<br></strong>This course thematically covers artistic production in colonial Latin America (1492-1810), with an emphasis on the Viceregal centers of Mexico and Peru. Aligned with the exhibition at the Allentown Art Museum entitled ‚Power and Piety: Spanish Colonial Art,‚ much of the content will be drawn from the works of art on view. The visual and material culture of the colonial world reveals the heterogeneity of the racially and ethnically diverse Spanish colonies and the ways in which artistic production mirrored an increasingly global world. The course will cover the transformation of indigenous visual culture following the Spanish conquest and the use of art and architecture in the process of identity formation and empire building.</p>
+<p><span style="text-decoration: underline;"><strong>Economics (Dr. Ranajoy Ray-Chaudhuri)</strong></span></p>
+<p style="padding-left: 30px;"><strong>ECN 251: Economic Growth &amp; International Development<br></strong>The course begins with an introduction of the concept and measurement of economic growth and development. Models of growth and development processes are then analyzed. Problems in areas such as population, education, savings and capital formation, natural resources, foreign trade, foreign aid, etc. are examined, and possible policy measures are explored. <em>Prerequisite: ECN 101 and/or ECN 102</em></p>
+<p><span style="text-decoration: underline;"><strong>English (Dr. Tom Cartelli)</strong></span></p>
+<p style="padding-left: 30px;"><strong>ENG 291: Caribbean Writing<br></strong>Nobel-prize laureate Derek Walcott has called Port-of-Spain, the capital of Trinidad, a ‚babel of shop signs and streets, mongrelized, polyglot, a ferment without a history, and a writer‚s heaven.‚ &nbsp;Martinican writer, Edouard Glissant, speaks of the Caribbean itself as ‚a multiple series of relationships, a sea that exists within us with its weight of now revealed islands.‚&nbsp; This course will explore this range of differences and relationships as they are represented in the work of English, French, and Spanish-language writers from St. Lucia, Jamaica, Trinidad, Haiti, Antigua, Cuba, Dominica, Grenada, and Martinique, concentrating on the work of Walcott, V.S. Naipaul, Jean Rhys, Aim√© C√©saire, Patrick Chamoiseau, Michelle Cliff, and Jamaica Kincaid, among others.&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>French (Dr. Eileen McEwan &amp; Dr. Ioanna Chatzidimitriou)</strong></span></p>
+<p style="padding-left: 30px;"><strong>FRN 424: Francophone Women Writers of Africa and the Caribbean<br></strong>This course examines texts written by French-speaking women writers from Africa and the Caribbean, exploring ways in which these writers seek to identify themselves in relation to their male counterparts as well as to the predominantly European literary models available to them.&nbsp; The degree to which these writers choose to accept or reject these literary traditions suggests certain cultural perspectives unique to the post-colonial Francophone world.&nbsp; Our analyses will include historical and cultural overviews of each region&nbsp;and reflect upon the representation of contemporary gender issues in these literary works.&nbsp; Taught in French.&nbsp;<br><em>Prerequisite(s):</em><span><span>&nbsp;</span></span><em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7694&amp;print', '3', 770, 530, 'yes');return false;" id="tt9931" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=frn+424&amp;filter%5Bexact_match%5D=1#tt9931" target="_blank">FRN 301 Communication &amp; Cultural Understanding</a>&nbsp;and<span>&nbsp;</span><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7696&amp;print', '3', 770, 530, 'yes');return false;" id="tt9151" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=frn+424&amp;filter%5Bexact_match%5D=1#tt9151" target="_blank">FRN 304, 306 Approaches to Textual Analysis</a>&nbsp;</em></p>
+<p><span style="text-decoration: underline;"><strong>History (Dr. Cathy Marie Ouellette)</strong></span></p>
+<p style="padding-left: 30px;"><strong>HST 369: Jewish Latin America and the Caribbean<br></strong>This course studies the movement of Jewish people from Spain and Portugal to Latin America, traces the adaptation of Jews and their descendents to multiple environments in Latin America, and reflects upon the diversity of Jewish communities and traditions in Latin America.&nbsp; Topics addressed include the consolidation of Catholic Spain in 1492, the expulsion of Jews from Spain and Portugal, and the Inquisition; the effect of Jews on modern Latin American national identities; and the surge of twentieth-century anti-Semitism in political and cultural realms.&nbsp; We will examine different ethnic groups within national perspectives, closely analyze how ethnic and religious groups alter national interests, and learn how this changes over time.&nbsp; Major themes, including Diaspora, Memory, Hybridization, Ethnicity, and Gender, will be closely examined, with particular focuses on Cuba, Brazil, Argentina, and Mexico. <em>No pre-requisite.</em></p>
+<p style="padding-left: 30px;"><strong>HST 371: The Inquisition<br></strong>This course explores the origins of the Inquisition, its place in the Spanish Reconquista, and its role in Colonial Spanish and Portuguese America.&nbsp; The institutional dynamics influenced religious, economic, political, and socio-cultural organization - particularly in the New World - and we will trace the diverse investigations of Jews, Africans, Spanish, Portuguese, mestizos, and women. &nbsp;The course relies heavily on inquisitorial records and unearths the prosecution of indigenous idolatry, the persecution of Jews, and the roles of race and gender in tribunal sentencing.&nbsp;</p>
+<p style="padding-left: 30px;"><strong>HST 373: Environmental History of Latin America<br></strong>An overview of environmental issues in the region known as Latin America and the Caribbean since its ‚discovery‚ in the early sixteenth century through the present day.&nbsp; This course explores settlement, disease, deforestation, and social inequalities through the lenses of colonialism and the Columbian Exchange, capitalism, and globalism.&nbsp; A variety of topics are considered, including health care, the Amazon, ecotourism, and sexual tourism.<strong><span>&nbsp;</span>&nbsp;</strong></p>
+<p style="padding-left: 30px;"><strong> HST 375: Race and Ethnicity in Latin America &amp; the Caribbean<br></strong>This course examines race and ethnicity within the context of the African Diaspora, Indo-American populations, European Colonialism, and the resulting cultural hybridity of Latin America and the Caribbean. Major themes include the classification of races and ethnicities during the colonial period; forms of labor (slave and coerced) and their relationship to these categories; resistance to colonialism and debates over abolition; and discourses on race, ethnicity, gender, and class in Modern and Revolutionary Latin America and the Caribbean.&nbsp;</p>
+<p style="padding-left: 30px;"><strong>HST 382: Sex, Beauty &amp; the Body in Latin America &amp; the Caribbean<br></strong>This course examines Brazilian and Caribbean conceptualizations of sex, beauty and the body during the twentieth and twenty-first centuries. Beginning with the theoretical underpinnings of colonialism and the legacies of slavery, we will then examine how contemporary democracies and globalization have formed Afro-Brazilian and Afro-Caribbean identities, particularly among the female population. Major themes include sex work and sex tourism, constructions of beauty and plastic surgery, and the ways in which recent returns to democracy have shaped these actions and decisions.&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Music (Dr. Kassandra Hartford)</strong></span></p>
+<p style="padding-left: 30px;"><strong> MUS 283: Musics of Brazil<br></strong>This course examines Brazilian music(s) in the folk, popular, and concert traditions. We will examine the ways Brazilian music articulates ideas about ethnic, racial, regional, and national identities in a globalized world. We will consider the ways Brazilian music takes shape within and against the country‚s tumultuous political history, examining moments of political and cultural critique and collaboration. Texts for the class are drawn from both secondary sources‚articles and books written by scholars‚and primary sources, including movement manifestos, song texts, and first-person accounts by performers and composers. Listening will be a major component of the class. In order to hone our listening skills, we will do some in-class performance activities, but no prior experience with Brazilian music or with music performance is expected or required.&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Political Science (Dr. Mohsin Hashim)</strong></span></p>
+<p style="padding-left: 30px;"><strong>PSC 246: Developing Nations<br></strong>A study of the politics of developing nations, their struggles to overcome poverty and underdevelopment, their efforts at nation-building, and their impact in the world. The challenges and dilemmas of modernization and contending theories about the causes of underdevelopment and appropriate development strategies will be discussed.</p>
+<p><span style="text-decoration: underline;"><strong>Spanish (Dr. Joan Marx, Dr. Erika Sutherland &amp; Dr. Mirna Trauger)</strong></span></p>
+<p style="padding-left: 30px;"><strong> SPN 304: Advanced Conversation &amp; Composition<br></strong>Focused work in Spanish composition allowing students to develop creative, professional, and academic writing styles.&nbsp; Emphasis is placed on structure, style, and content as well as grammar.&nbsp; Classic and contemporary texts, films, and other multi-media resources will provide stylistic models as well as a cultural context for writings.&nbsp; Class is conducted in Spanish. <br>Offered every semester.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7804&amp;print', '3', 770, 530, 'yes');return false;" id="tt6436" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+304&amp;filter%5Bexact_match%5D=1#tt6436" target="_blank">SPN 301 - Spanish Conversation &amp; Composition</a>&nbsp;or&nbsp;<a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=8629&amp;print', '3', 770, 530, 'yes');return false;" id="tt9904" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+304&amp;filter%5Bexact_match%5D=1#tt9904" target="_blank">SPN 303 Spanish for Heritage Speakers II</a></em><em>.</em>&nbsp;</p>
+<p style="padding-left: 30px;"><strong>SPN 322: Civilization of Latin America<br></strong>An introduction to contemporary Latin American life with its intellectual, economic, and social phenomena as well as its regional aspects, highlighting factors that unite and that distinguish this area of the world.&nbsp; The course also surveys the artistic, architectural, and historical heritage of Latin America; addresses the challenges of globalization; and considers the political and economic role of the United States.&nbsp; Class is conducted in Spanish.&nbsp; <br>Offered every year during the spring semester.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7804&amp;print', '3', 770, 530, 'yes');return false;" id="tt213" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+322&amp;filter%5Bexact_match%5D=1#tt213" target="_blank">SPN 301 - Spanish Conversation &amp; Composition</a>&nbsp;or&nbsp;<a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=8629&amp;print', '3', 770, 530, 'yes');return false;" id="tt820" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+322&amp;filter%5Bexact_match%5D=1#tt820" target="_blank">SPN 303 Spanish for Heritage Speakers II</a></em><em>.</em><strong><span>&nbsp;</span></strong></p>
+<p style="padding-left: 30px;"><strong>SPN 407: Spanish for the Community: Interpreting (Service-Learning)<br></strong>With a rapidly growing Latino and Hispanic immigrant population, the Lehigh Valley offers Spanish students a unique opportunity to hone their spoken language skills and cultural understanding.&nbsp; This class blends on-campus preparation in the basic theories and methodologies of oral interpretation with community-based practical experience, investigation, exploration, and reflection.&nbsp; Work with community partners working closely with Spanish speaking clients is contextualized during weekly classes, providing a solid introduction to local Hispanic/Latino culture and concerns.&nbsp; Students should expect to commit about 5 hours per week to the community service learning component of this course.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em>One 400-level course in Spanish,&nbsp;<a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=8629&amp;print', '3', 770, 530, 'yes');return false;" id="tt5502" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+407&amp;filter%5Bexact_match%5D=1#tt5502" target="_blank">SPN 303 Spanish for Heritage Speakers II</a>,or approval of instructor.</em></p>
+<p style="padding-left: 30px;"><strong> SPN 408: Spanish for the Community: Translation (Service-Learning)<br></strong>The Lehigh Valley is undergoing demographic changes that call for new and better communication between English- and Spanish-speaking communities.&nbsp; This course prepares students to create effective bridges, translating written documents and other texts from English to Spanish and Spanish to English.&nbsp; As a service learning course it incorporates collaborative projects with organizations working closely with Spanish-speaking clients. &nbsp;Weekly classes will provide a solid introduction to the basic theories and methodologies of written translation with special focus on the specific needs and concerns of the local Latino and Hispanic immigrant communities.&nbsp; The class is conducted in Spanish, though given the special nature of English/Spanish and Spanish/English translation, class discussions may include Spanish, English, or even Spanglish.&nbsp; Students should expect to commit about 5 hours per week to the community service learning component of this course.&nbsp; Designed to complement&nbsp;<a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7734&amp;print', '3', 770, 530, 'yes');return false;" id="tt4925" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+408&amp;filter%5Bexact_match%5D=1#tt4925" target="_blank">SPN 407 - Spanish Interpreting</a>.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em>One 400-level course in Spanish or approval of instructor.</em></p>
+<p style="padding-left: 30px;"><strong>SPN 415: The Literature of Conquest, Colonization, and Independence in Spanish America<br></strong>Reading and discussion of poetry and prose by Indoamerican writers of the Pre-Columbian era and by Spanish American writers from the fifteenth through the nineteenth centuries. &nbsp;Students will explore how literary components such as theme, character, and imagery represent the rise and fall of the Spanish Empire in the Americas and its resulting confluence of indigenous, African, and European cultures as they trace the development of Spanish American literature from its earliest expressions in pre-conquest cultures to the first declarations of defiance against the Spanish Crown by colonial writers. &nbsp;Emphasis is placed on an understanding of the technical development of various genres within each literary period as well as on the thematic content of work as it relates to the period‚s historical, political, social, and philosophical content.&nbsp; Class is conducted in Spanish.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7805&amp;print', '3', 770, 530, 'yes');return false;" id="tt5209" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=SPN+415&amp;filter%5Bexact_match%5D=1#tt5209" target="_blank">SPN 304 - Advanced Spanish Conversation &amp; Composition</a>.</em></p>
+<p style="padding-left: 30px;"><strong>SPN 416: Postcolonial Realities in Modern Spanish-American Literature<br></strong>Reading and discussion of selections by Spanish American writers from the late nineteenth through the twenty-first centuries. &nbsp;For many Spanish American authors, obscuring the line between reality and fantasy becomes a literary game in the search for true reality within countries racked by civil strife that underscores the postcolonial paradigm in the Americas in terms of the subaltern issues of race, gender, and social class.&nbsp; Thus, students will delve into the artistic subconscious as they examine the legacy of the Spanish Conquest in the prose and poetry of literary periods that include&nbsp;<em>modernismo</em>,&nbsp;<em>posmodernismo</em>, and&nbsp;<em>vanguardismo</em>&nbsp;as well as the Boom and Post-Boom with their techniques of realismo m√°gico and realismo cr√≠tico. &nbsp;Emphasis is placed on an understanding of technical development of various genres within each literary period and on thematic content of work as it relates to that period‚s historical, political, social, and philosophical context.&nbsp; Class is conducted in Spanish.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7805&amp;print', '3', 770, 530, 'yes');return false;" id="tt2368" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=SPN+416&amp;filter%5Bexact_match%5D=1#tt2368" target="_blank">SPN 304 - Advanced Spanish Conversation &amp; Composition</a>.</em></p>
+<p style="padding-left: 30px;"><strong>SPN 417: Contemporary Spanish American Novel<br></strong>An in-depth study of the development of the novel in both the pre- and post- ‚boom‚ periods of the Spanish American narrative.&nbsp; Emphasis is placed on an analysis of the literary techniques and thematic aspects of the works in relation to the various artistic and philosophical movements of the twentieth and twenty-first centuries.&nbsp; Class is conducted in Spanish. <br>Offered in alternate years.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7805&amp;print', '3', 770, 530, 'yes');return false;" id="tt8846" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=SPN+417&amp;filter%5Bexact_match%5D=1#tt8846" target="_blank">SPN 304 - Advanced Spanish Conversation &amp; Composition</a>.</em></p>
+<p style="padding-left: 30px;"><strong>SPN 418: Hispanic Literature &amp; Film<br></strong>An analysis of the relationship between literature and film, focusing on texts from Spain and/or Spanish America and their film adaptations. &nbsp;Issues to be discussed include film adaptation as a cultural construct; narrative voice in literature and film; the transformation of the written word to a visual image; and the relationship between politics, literature, and film. &nbsp;Class is conducted in Spanish. <br>Offered in alternate years.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7805&amp;print', '3', 770, 530, 'yes');return false;" id="tt4840" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+418&amp;filter%5Bexact_match%5D=1#tt4840" target="_blank">SPN 304 - Advanced Spanish Conversation &amp; Composition</a>.</em></p>
+<p style="padding-left: 30px;"><strong>SPN 419: Border Literature<br></strong>An exploration of contemporary narratives by Latino writers in the United States who focus on the border experience, understood as both a geographical and cultural phenomenon.&nbsp; Emphasis will be placed on the analysis of the literary techniques employed in the development of the narrative form within its political, social, and cultural context.&nbsp; Topics include issues of class, ethnicity, and gender.&nbsp; Class is conducted in Spanish.&nbsp;<br><em>Prerequisite(s):</em>&nbsp;<em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=7805&amp;print', '3', 770, 530, 'yes');return false;" id="tt7697" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=spn+419&amp;filter%5Bexact_match%5D=1#tt7697" target="_blank">SPN 304 - Advanced Spanish Conversation &amp; Composition</a>.</em></p>
+<p style="padding-left: 30px;"><strong>SPN 420: Human Rights Literature in the Americas<br></strong>A literary exploration of the nature of human rights in the Americas through a close examination of representative works of various genres, such as poetry, the short story, the novel, and drama.&nbsp; Emphasis is placed on an understanding of literary theory and technique within the historical, political, and philosophical context of each work.&nbsp; In this way, students will explore thematic issues such as the legal and ethical rights inherent in citizenship within the world and specifically within the Americas with respect to ethnic and religious minorities, women, gays, and political dissidents. &nbsp;Areas of comparison/contrast will include Chile, Argentina, Guatemala, El Salvador, Cuba, and the United States. &nbsp;Class is conducted in Spanish.</p>
+<p><span style="text-decoration: underline;"><strong>Theatre (Dr. Leticia Robles-Moreno)</strong></span></p>
+<p style="padding-left: 30px;"><strong> THR 384: Devising Community<br></strong>This team-taught course explores collaborative creation both from academic and performance-based perspectives. We will explore techniques developed by devised theatre groups both in the English-speaking world and Latin American countries. Students will simultaneously practice contemporary methods of ‚performance as research‚ and ‚collective creation‚, using their own bodily experiences as sites for experimentation. Enrollment in this class is linked to a spring semester mainstage production in collaboration with the community of Allentown. Important Note: By enrolling in this fall semester course, you are also joining a spring semester Theatre Dept. production that will be performed in April '19 (more details to follow) and will rehearse the regular theatre production hours, 4hours/night 6 days week. Muhlenberg students who are variously interested in acting, directing, dancing, singing, designing, researching and managing this production. Preference will be given to upperclassmen. Students must write a short essay and complete an interview with Leticia and Matt.&nbsp;<br><em>Prerequisite: Permission of instructor</em>&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>MILA Programs</strong></span></p>
+<p style="padding-left: 30px;"><strong>HST 389/SOC 389: Bodies &amp; Identities in Contemporary Cuba<br></strong>This course focuses on Contemporary Cuban nation-building from its transition as a Spanish colony into the hands of the United States to the ‚Revolutionary‚ Nation it is today (1989-2017). At the forefront of discussions of nation-building was the forging of identities that challenged western capitalist readings of Cuba. Along the way, political discourse was so centered on class that it denied conversation on race in spite of its enormous Afro-Cuban population and historical legacies of slavery. Simultaneously, the Cuban state created a dialogue of identity that underscored healthy bodies &amp; minds, and thus Contemporary Cuban bodies &amp; identities have centered public health, education, and Cuban culture. Through a series of carefully selected course readings, we will address the following questions: How did nationalist politics and policies affect the large Afro-Cuban population as well as the formation of a national Cuban identity and ‚Cubanness‚? How has the emphasis on public health &amp; education affected Cuban bodies and perceptions of Cuba around the world? How has education &amp; culture reinforced or challenged contemporary notions of Cubanidad? How has the Cuban Diaspora in the United States (exiles, refugees, and migrants) affected Cuban society? How unique is the case of Cuba in the Caribbean?&nbsp;&nbsp;</p>
+<p style="padding-left: 30px;"><strong>PBH 327/SPN 327: Public Health in practice: Panama<br></strong>The study of public health is rooted in the notion that health is both a human right and the product of multiple and varied factors. &nbsp;In this course we will put that notion to the test, considering the global objectives for good health and the medical, environmental, socioeconomic, and political elements that facilitate -or hinder- achievement of those goals. &nbsp;In particular, we will examine the case of Panam√°, preparing research projects over the course of the semester that will then be completed using data and experiences from a two-week visit to Panam√°.&nbsp; Areas of focus include access to potable water, control of mosquito breeding areas, women‚s health issues, language access in areas where other languages or illiteracy dominate, intersections of institutional health and local cultural practices, and funding policies for health centers in marginal and indigenous regions.&nbsp; To consolidate a sustainable relationship with our Panamanian partners, we will also design and complete a service project at a rural hospital.&nbsp; The class is conducted in English with Spanish.&nbsp; The Spanish language component of the course includes an introduction to essential communication for healthcare and public health interviews; more advanced Spanish students will be introduced to the skills of oral interpreting and transcription. <br>This course is cross-listed with SPN 327.<span>&nbsp;<br></span><em>Prerequisite(s):</em><span><span>&nbsp;</span></span><em><a onclick="acalogPopup('preview_course.php?catoid=7&amp;coid=8278&amp;print', '3', 770, 530, 'yes');return false;" id="tt4027" href="http://catalog.muhlenberg.edu/search_advanced.php?cur_cat_oid=7&amp;search_database=Search&amp;search_db=Search&amp;cpage=1&amp;ecpage=1&amp;ppage=1&amp;spage=1&amp;tpage=1&amp;location=3&amp;filter%5Bkeyword%5D=pbh+327&amp;filter%5Bexact_match%5D=1#tt4027" target="_blank">SPN 102 - Elementary Spanish II</a>&nbsp;or permission of instructor.</em></p>
+<p style="padding-left: 30px;"><strong>SPN 387/ECN 387: The Cultural Identity &amp; Economy of Puerto Rico<br></strong>This course introduces students to the history, culture, and economy of Puerto Rico by tracing this nation-island's development from a Spanish colony to its current status as a Free Associated State. Students will learn about the Puerto Rican experience through an examination of the Spanish, African, and U.S. influences that shaped it historically, linguistically, religiously, socially, culturally, and economically. They will also learn about the link between the island's economy and its migratory movements and will consider unique issues faced by the Puerto Rican diaspora in the United States. They will also examine the economic impact of natural disasters to which islands are especially vulnerable in the face of climate change.&nbsp; &nbsp;</p>
+<p style="padding-left: 30px;"><strong><span style="color: black;">SUS 350:&nbsp;<span>Community Sustainability: Costa Rica<br></span></span></strong>Students explore solutions to the delicate problems of environmental and cultural conservation in developing countries with a focus on Costa Rica. During the spring semester students develop projects and prepare for the two-week study/research/travel experience to Costa Rica at the end of May. This preparation includes study of the area‚s ecological diversity; political, cultural, and social issues; research skills; and relevant Spanish vocabulary and conversation skills. In Costa Rica students explore a variety of habitats, live in and interact with members of a small town, and conduct both community service and independent research projects. Research projects focus on the ecology, sociology, culture, sustainability, and public health of the region. One of the objectives of the program is to remove the blinders of specific discipline-based learning and of our own culture to enable us to develop sustainable solutions. <em>No pre-requisite.</em></p>
+<p align="left">&nbsp;</p>
+<br>
+<p class="content-add05" align="left">&nbsp;</p>
+<p class="content-add05" align="left">&nbsp;</p>
+</div>
+</div>
+<!-- InstanceEndEditable --></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1207 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Courses | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Courses">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/academics/sustainability/sustainability-header-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/sustainability/">Sustainability Studies</a></li><li class="linkitem"><a href="/academics/sustainability/courses/">Courses</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Courses</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/sustainability/sustainability-header-740x317.jpg","500px":"/media/contentassets/images/academics/sustainability/sustainability-header-740x555.jpg","740px":"/media/contentassets/images/academics/sustainability/sustainability-header-980x420.jpg","980px":"/media/contentassets/images/academics/sustainability/sustainability-header-1220x523.jpg","1220px":"/media/contentassets/images/academics/sustainability/sustainability-header-1440x617.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/academics/sustainability/sustainability-header-740x317.jpg","500px":"/media/contentassets/images/academics/sustainability/sustainability-header-740x555.jpg","740px":"/media/contentassets/images/academics/sustainability/sustainability-header-980x420.jpg","980px":"/media/contentassets/images/academics/sustainability/sustainability-header-1220x523.jpg","1220px":"/media/contentassets/images/academics/sustainability/sustainability-header-1440x617.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_3">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/sustainability/">Sustainability Studies</a></li><li class="linkitem"><a href="/academics/sustainability/courses/">Courses</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Courses</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Courses">
+							<span class="sub_nav_handle_label">Courses</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/sustainability/courses/">Courses</a></span></li><li class="sub_nav_item"><a href="/academics/sustainability/faculty/">Faculty</a></li><li class="sub_nav_item"><a href="/offices/sustainability/">Green Campus</a></li><li class="sub_nav_item"><a href="/offices/sustainability/programs/campusinitiatives/#enact" target="_self">EnACT</a></li><li class="sub_nav_item"><a href="/academics/sustainability/resources/">Resources</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/sustainability/">Sustainability Studies</a></li><li class="linkitem"><a href="/academics/sustainability/courses/">Courses</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <!-- InstanceBeginEditable name="EditMainContent" -->
+<h1 class="content-add10">Sustainability Studies Major Requirements</h1>
+<div class="content-add10">
+<p>&nbsp;</p>
+<p><span class="acalog-highlight-search-1">Sustainability Studies</span><span><span>&nbsp;</span>majors are required to complete 12 course units as listed below.&nbsp; These include three foundation courses in the academic disciplines (Environment, Sociology, and Economics) that serve as the theoretical basis of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">Sustainability Studies</span><span>.&nbsp; Students then take six more specialized courses - two courses in each of the three core areas (Human-Environment Connections, Social Justice and Social Movements; and Economics, Development and Business).&nbsp; All courses in the Social Justice and Social Movements Area directly address the intersectional nature of social issues in relation to human difference, power relations, and equity - a key element of<span>&nbsp;</span></span><span class="acalog-highlight-search-1">Sustainability Studies</span><span>.&nbsp; Students then have the opportunity to integrate perspectives among at least two of the core areas with two course units in the area of Policy and Practice that focus on sustainable problem-solving through policy, advocacy, or community-based work; and the CUE course<span>&nbsp;</span></span><a onclick="acalogPopup('preview_course.php?catoid=8&amp;coid=9930&amp;print', '3', 770, 530, 'yes');return false;" id="tt2827" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#tt2827" target="_blank">SUS 405 Sustainable Solutions</a><span>&nbsp;that integrates perspectives from all three core areas.</span></p>
+<h2>Required Foundation Courses&nbsp;</h2>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10020',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4077~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BIO 111, 126 - Concepts of Biology: Crisis Earth: Causes, Consequences, &amp; Solutions for a Changing Planet</a>&nbsp;1 course unit&nbsp;<strong>OR</strong></span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10012',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4077~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ESC 111 - Topics in Environmental Science</a>&nbsp;1 course unit&nbsp;<strong>OR</strong></span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10171',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4077~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ESC 113 - Environmental Science I</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10211',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4077~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 101 - Introduction to Sociology</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10102',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4077~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ECN 102 - Principles of Microeconomics</a>&nbsp;1 course unit</span><span></span></li>
+</ul>
+<hr>
+<h2>Core Area Courses</h2>
+<p><span>Two courses with different prefixes in each of the core areas:</span>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<h3><strong>Human-Environment Connection</strong></h3>
+<p>Choose two with different prefixes.</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10034',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ATH 262 - Historical Ecology</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9696',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BIO 262 - Cultural &amp; Economic Botany</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10018',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BIO 108 - Concepts of Biology: Plants &amp; People</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10131',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ENG 259, 260 - Literature &amp; Ecology</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10309',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">HST 373 - Environmental History of Latin America</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10426',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 246 - Environmental Philosophy</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10246',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 216 - Environmental Politics &amp; Policymaking</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10217',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">REL 117 - Animals &amp; the Sacred</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9873',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4078~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 323 - Sociology of Food</a><span>&nbsp;</span>1 course unit</span>&nbsp;</li>
+</ul>
+<hr>
+<h3><strong>Social Justice and Social Movements</strong></h3>
+<p>Choose two with different prefixes:&nbsp;</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10370',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">COM 244, 245 - Media &amp; Social Movements</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10573',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">HST 104 - Introduction to History: Reformers &amp; Radicals in U.S. History</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10579',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">HST 115 - Introduction to History: Disorderly American Cities</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10422',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 227 - Philosophy of Feminism</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10429',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 236 - Philosophy &amp; the Arts</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10258',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 254 - Globalization &amp; Social Justice</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9872',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 320 - Environmental Sociology</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9873',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 323 - Sociology of Food</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9877',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 350 - Social Movements, Protests, &amp; Conflicts</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9813',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4079~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">WST 202 - Topics in Women‚s and Gender Studies</a>&nbsp;1 course unit</span></li>
+</ul>
+<hr>
+<h3><strong>Economics, Development, and Business</strong></h3>
+<p>Choose two with different prefixes.</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9950',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BUS 263, 264 - Sustainability in Business</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9755',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ECN 245, 246 - Environmental Economics</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9757',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ECN 251, 252 - Development Economics</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10587',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">HST 130 - Introduction to History: America‚s Consumer Nation</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10450',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">INE 101 - Introduction to Innovation &amp; Entrepreneurship</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10425',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 244, 245 - Business Ethics</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10255',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 246 - Developing Nations</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10258',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 254 - Globalization &amp; Social Justice</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9875',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4080~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 340 - Development &amp; Social Change</a><span>&nbsp;</span>1 course unit</span></li>
+</ul>
+<hr>
+<h2><strong>Integration Courses&nbsp;</strong>&nbsp;</h2>
+<hr>
+<div class="acalog-core">
+<h4>Integration through Policy and Practice</h4>
+<p>Two course units, at least one course must have the SUS prefix, half course units may be combined.</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9689',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ATH 317 - Field Archaeology</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10375',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">COM 344 - Documentary Film &amp; Social Justice</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10612',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">IGD 150 - Intergroup Dialogue</a>&nbsp;.5 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10483',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PBH 325 - Introduction to Global Health</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10507',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PBH 327 - Public Health in Panam√°</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9840',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 330, 331 - Comparative &amp; International Environmental Policies</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10208',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 350 - Community Sustainability in Costa Rica</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10209',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 355 - Climate Change &amp; Sustainable Development in Bangladesh</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9667',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 365 - Local Sustainability</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10807',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 965 -&nbsp;<span class="acalog-highlight-search-1">Sustainability Studies</span>&nbsp;Practicum</a>&nbsp;.5 - 1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10567',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4082~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 970 -&nbsp;<span class="acalog-highlight-search-1">Sustainability Studies</span>&nbsp;Independent Study/Research</a>&nbsp;course unit</span></li>
+</ul>
+</div>
+<div class="acalog-core"><hr>
+<h4>&nbsp;CUE</h4>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9930',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4083~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=988&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 405 - Sustainable Solutions</a><span>&nbsp;</span>1 course unit</span></li>
+</ul>
+<hr>
+<p>&nbsp;</p>
+<h1 id="acalog-page-title">Minor Requirements</h1>
+<p><span class="acalog-highlight-search-1">Sustainability Studies</span><span><span>&nbsp;</span>minors are required to complete 6&nbsp;course units. Students take two courses (one in the sciences, and one in the humanities or social sciences) that focus on the Human-Environment Connection; one in the area of Social Justice and Social Movements; and one in the area of Economics, Development, and Business.&nbsp; One advanced course in the area of Sustainability in Practice, and&nbsp;</span><a onclick="acalogPopup('preview_course.php?catoid=8&amp;coid=9930&amp;print', '3', 770, 530, 'yes');return false;" id="tt8144" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#tt8144" target="_blank">SUS 405 Sustainable Solutions</a><span>&nbsp;are also required.</span></p>
+<hr>
+<h2>Human-Environment Connection</h2>
+<div class="acalog-core">
+<p>Choose two,&nbsp;one must be in the Sciences (BIO, CHM, ESC), and one must be from the Humanities or Social Sciences (ATH, ENG, PHL, REL, or SOC).</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10034',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ATH 262 - Historical Ecology</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10018',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BIO 108 - Concepts of Biology: Plants &amp; People</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10020',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BIO 111, 126 - Concepts of Biology: Crisis Earth: Causes, Consequences, &amp; Solutions for a Changing Planet</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9696',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BIO 262 - Cultural &amp; Economic Botany</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9698',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BIO 270 - Ecology</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10068',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">CHM 101 - Chemistry of the Environment</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10131',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ENG 259, 260 - Literature &amp; Ecology</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10012',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ESC 111 - Topics in Environmental Science</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10171',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ESC 113 - Environmental Science I</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10309',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">HST 373 - Environmental History of Latin America</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10426',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 246 - Environmental Philosophy</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10246',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 216 - Environmental Politics &amp; Policymaking</a>&nbsp;1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10217',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3723~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">REL 117 - Animals &amp; the Sacred</a>&nbsp;1 course unit</span></li>
+</ul>
+<hr>
+<h2>Social Justice and Movements</h2>
+</div>
+<div class="acalog-core">
+<p>Choose one.</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10370',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">COM 244, 245 - Media &amp; Social Movements</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10422',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 227 - Philosophy of Feminism</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10429',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 236 - Philosophy &amp; the Arts</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10258',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 254 - Globalization &amp; Social Justice</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9872',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 320 - Environmental Sociology</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9873',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 323 - Sociology of Food</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9877',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 350 - Social Movements, Protests, &amp; Conflicts</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9813',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3724~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">WST 202 - Topics in Women‚s and Gender Studies</a><span>&nbsp;</span>1 course unit</span></li>
+</ul>
+<hr>
+<h2>Development, Business and Economics</h2>
+</div>
+<div class="acalog-core">
+<p>Choose one.</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9950',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">BUS 263, 264 - Sustainability in Business</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9755',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ECN 245, 246 - Environmental Economics</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9757',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">ECN 251, 252 - Development Economics</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10587',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">HST 130 - Introduction to History: America‚s Consumer Nation</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10450',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">INE 101 - Introduction to Innovation &amp; Entrepreneurship</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10425',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PHL 244, 245 - Business Ethics</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10255',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">PSC 246 - Developing Nations</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9875',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3725~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SOC 340 - Development &amp; Social Change</a><span>&nbsp;</span>1 course unit</span></li>
+</ul>
+<hr>
+<h2>Integration through Policy and Practice</h2>
+</div>
+<div class="acalog-core">
+<p>Choose one; half course unit courses may be combined.</p>
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10375',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4074~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">COM 344 - Documentary Film &amp; Social Justice</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10612',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4074~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">IGD 150 - Intergroup Dialogue</a><span>&nbsp;</span>.5 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10208',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4074~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 350 - Community Sustainability in Costa Rica</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10209',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4074~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 355 - Climate Change &amp; Sustainable Development in Bangladesh</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9667',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4074~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 365 - Local Sustainability</a><span>&nbsp;</span>1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10807',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4074~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 965 -<span>&nbsp;</span><span class="acalog-highlight-search-1">Sustainability Studies</span><span>&nbsp;</span>Practicum</a><span>&nbsp;</span>.5 - 1 course unit</span></li>
+<li class="acalog-course"><span><a onclick="showCourse('8', '10567',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~4074~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 970 -<span>&nbsp;</span><span class="acalog-highlight-search-1">Sustainability Studies</span><span>&nbsp;</span>Independent Study/Research</a><span>&nbsp;</span>course unit</span></li>
+</ul>
+<hr>
+<h2>&nbsp;Sustainable Solutions</h2>
+</div>
+<div class="acalog-core">
+<ul>
+<li class="acalog-course"><span><a onclick="showCourse('8', '9930',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~3726~;}'); return false;" href="http://catalog.muhlenberg.edu/preview_program.php?catoid=8&amp;poid=960&amp;hl=%22sustainability+studies%22&amp;returnto=search#">SUS 405 - Sustainable Solutions</a><span>&nbsp;</span>1 course unit</span></li>
+</ul>
+</div>
+<p>&nbsp;<a href="#top">Back to Top</a></p>
+</div>
+<hr>
+<h1>&nbsp;</h1>
+<h1><strong>Courses</strong></h1>
+<p><strong>SUS 350. Environmental and Cultural Conservation in Costa Rica</strong><br> Students explore solutions to the delicate problem of environmental and cultural conservation in developing countries with a focus on Costa Rica.<img src="/media/contentassets/images/academics/sustainability/clip_image002_003.jpg" alt="Sustainability Studies" style="  padding : 3;   float : right;" /> During the spring semester, students develop projects and prepare for the two-week study/research/travel experience to Costa Rica at the end of May. This preparation includes study of the area‚s ecological diversity; political, cultural and social issues; research skills; and relevant Spanish vocabulary and conversation skills. In Costa Rica, students explore a variety of habitats, live in and interact with members of a small town, and conduct both community service and independent research projects. Research projects focus on the ecology, sociology, culture, sustainability, and public health of the region. One of the objectives of the program is to remove the blinders of specific discipline-based learning and of our own culture to show that if we are to develop sustainable solutions.</p>
+<p><strong>SUS 355. Climate Change and Sustainable Development in Bangladesh</strong><br> This team-taught course examines the impact of climate change on economic, social and political development by focusing on the nation of Bangladesh. In addition to introducing students to the science and politics of climate change, the course also examines the specific environmental, economic and social challenges confronting Bangladesh‚s political development since its independence; investigates the environmental and social consequences of state-sponsored development strategies, especially recent market-based ‚neo-liberal‚ policies; and evaluates new ‚sustainable development‚ strategies that are emerging as a response to the challenges posed by climate change.</p>
+<p><strong>SUS 365. Local Sustainability</strong><br> This course will take an interdisciplinary approach to analyzing sustainability at the local level either in the Muhlenberg community or communities in the Lehigh Valley, and will explore human-environment issues within the context of the relationship among individuals and institutions. Through readings, presentations, and the development of individual research projects, students will assess current sustainability efforts and develop recommendations for future efforts. Research projects may include surveying community members about perceptions and attitudes towards sustainability and environmental issues, assessing current sustainability efforts, and interviewing local experts, members of organizations and politicians. Priorities for research will be determined in collaboration with the community, and results and recommendations will be shared.<br> <em>Prerequisite: Any single course in the Sustainability Studies Minor</em></p>
+<p><strong>SUS 405. Sustainable Solutions</strong><br> An interdisciplinary approach to developing and assessing sustainable solutions to meet the needs of human society and the environment on local, regional, and global scales. Each offering of this course will focus on a particular issue such as food, energy, green design, or waste production. Students will read the trade and primary literature as it relates to each specific theme, and then through project-based learning will design and test potential solutions that might help achieve sustainability. Students will study the issues and focus on design, data collection, and dissemination related to solving the problem being analyzed.<br> <em>Prerequisite: Any two courses in the Sustainability Studies Minor</em></p>
+<p><strong>SUS 960. Sustainability Studies Internship</strong><br> Internships arranged with local, national, and international public or private organizations in the areas of development, environment, and sustainability in practice (Does not count towards Major or Minor)</p>
+<p><strong>SUS 965. Sustainability Studies Practicum</strong><br><span>Internships arranged with local, national, and international public or private organizations in the areas of development, environment, and sustainability in practice with an academic component</span></p>
+<p><strong>SUS 970. Sustainability Studies Research</strong><br> Faculty mentored student research focusing on sustainable problem solving emphasizing design, data collection, and dissemination.</p>
+</div>
+<!-- InstanceEndEditable --></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

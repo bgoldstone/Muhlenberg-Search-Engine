@@ -1,0 +1,2294 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Frequently Asked Questions | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Frequently Asked Questions">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/pageheaders/students-hammock-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/graduatestudies/">Muhlenberg College School of Graduate Studies</a></li><li class="linkitem"><a href="/graduatestudies/about/">About Muhlenberg Graduate Studies</a></li><li class="linkitem"><a href="/graduatestudies/about/frequentlyaskedquestions/">Frequently Asked Questions</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Frequently Asked Questions</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/students-hammock-740x317.jpg","500px":"/media/contentassets/images/pageheaders/students-hammock-740x555.jpg","740px":"/media/contentassets/images/pageheaders/students-hammock-980x420.jpg","980px":"/media/contentassets/images/pageheaders/students-hammock-1220x523.jpg","1220px":"/media/contentassets/images/pageheaders/students-hammock-1440x617.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/students-hammock-740x317.jpg","500px":"/media/contentassets/images/pageheaders/students-hammock-740x555.jpg","740px":"/media/contentassets/images/pageheaders/students-hammock-980x420.jpg","980px":"/media/contentassets/images/pageheaders/students-hammock-1220x523.jpg","1220px":"/media/contentassets/images/pageheaders/students-hammock-1440x617.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_3">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/graduatestudies/">Muhlenberg College School of Graduate Studies</a></li><li class="linkitem"><a href="/graduatestudies/about/">About Muhlenberg Graduate Studies</a></li><li class="linkitem"><a href="/graduatestudies/about/frequentlyaskedquestions/">Frequently Asked Questions</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Frequently Asked Questions</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Frequently Asked Questions">
+							<span class="sub_nav_handle_label">Frequently Asked Questions</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/graduatestudies/about/whymuhlenbergcollegeschoolofgraduatestudies/">Why Muhlenberg College School of Graduate Studies?</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/graduatestudies/about/frequentlyaskedquestions/">Frequently Asked Questions</a></span></li><li class="sub_nav_item"><a href="/graduatestudies/about/missionandhistory/">Mission and History</a></li><li class="sub_nav_item"><a href="/graduatestudies/about/newsandevents/">News and Events</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/graduatestudies/">Muhlenberg College School of Graduate Studies</a></li><li class="linkitem"><a href="/graduatestudies/about/">About Muhlenberg Graduate Studies</a></li><li class="linkitem"><a href="/graduatestudies/about/frequentlyaskedquestions/">Frequently Asked Questions</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><h4><span><span style="color: #a41d36;"><strong>About Muhlenberg College School of Graduate Studies</strong></span></span></h4><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#012" 
+     aria-expanded="false" 
+     aria-controls="012">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="01">
+      <p class="panel-title pull-left">
+          Why should I choose a Muhlenberg College master's degree?
+
+
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="012" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="01">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">As a Muhlenberg graduate student, you‚ll be part of an academically strong learning community with a reputation for fostering close relationships with faculty and among students. Our instructors bring both strong academic credentials and deep industry experience, and they are committed to preparing you for success. You will also build your professional network through interactions with other students who bring varied backgrounds and interests to the classroom, making for a rich and dynamic experience.&nbsp;</span></p>
+<p><br><br></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#022" 
+     aria-expanded="false" 
+     aria-controls="022">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="02">
+      <p class="panel-title pull-left">
+          What graduate programs are offered at Muhlenberg?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="022" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="02">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">As a graduate student, you can elect to enter either a master‚s degree or graduate-level certificate program. Our master‚s degree programs are designed to give experienced professionals and recent college graduates the skills and expertise to be highly successful in their field. Currently, you can earn a master‚s degree in one of the following areas:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Applied Analytics for Organizations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organizational Leadership.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Graduate-level certificate programs can give you in-depth knowledge in a particular field to expand your skills, give you an edge in hiring and promotion, and/or help you transition to a new career. If you complete a graduate certificate, your credits will fully transfer into the corresponding master‚s degree program.. Currently, you can earn a certificate in Applied Analytics for Organizations or Organizational Leadership.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#032" 
+     aria-expanded="false" 
+     aria-controls="032">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="03">
+      <p class="panel-title pull-left">
+          Are the graduate programs accredited?
+
+
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="032" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="03">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Muhlenberg‚s graduate programs and certificates are accredited by the</span><a href="https://www.msche.org/institution/0539/"><span style="font-weight: 400;"> Middle States Commission on Higher Education</span></a><span style="font-weight: 400;">.</span></p>
+<p><br><br></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#042" 
+     aria-expanded="false" 
+     aria-controls="042">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="04">
+      <p class="panel-title pull-left">
+          How long will it take me to complete a program?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="042" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="04">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">You can complete a master‚s degree within two calendar years and a graduate certificate in one calendar year. For both programs, two consecutive eight-week courses will run each fall, spring and summer term.</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#052" 
+     aria-expanded="false" 
+     aria-controls="052">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="05">
+      <p class="panel-title pull-left">
+          How many courses will I take?
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="052" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="05">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">The number of courses required to complete the master‚s degree and/or the graduate certificate may vary depending upon the particular program. Muhlenberg uses a system of course units. Each course is of equal value and should be considered the equivalent of four credits for conversion purposes. In general, the master‚s will consist of 10-12 course units, and the certificate 3-6 units. For the most up-to-date information, review the program pages in the student catalog. </span></strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#062" 
+     aria-expanded="false" 
+     aria-controls="062">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="06">
+      <p class="panel-title pull-left">
+          What is the typical workload for graduate school?
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="062" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="06">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">Our programs are designed to be flexible so that you can make them fit in your schedule. The fastest path to finishing either the degree or the graduate certificate course requirements is to take two consecutive eight-week courses a semester. </span></strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#072" 
+     aria-expanded="false" 
+     aria-controls="072">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="07">
+      <p class="panel-title pull-left">
+          What does it mean that the courses are blended?
+
+
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="072" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="07">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Courses are taught in a blended (also called hybrid) model, combining online learning with face-to-face meetings, service learning and self-directed study. This blended method is a great way to add a graduate program to your busy life. The syllabus for each course will include specific requirements including, but not limited to, required meeting times for classes, oral and/or written examinations, written papers and presentations, and research.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#082" 
+     aria-expanded="false" 
+     aria-controls="082">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="08">
+      <p class="panel-title pull-left">
+          What are the requirements for graduation?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="082" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="08">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Fulfill all your course requirements with a minimum GPA of 3.0, then complete the Application for Degree form to order the diploma, cap, and gown as well as to provide the College with legacy, activities, and local newspaper information.&nbsp;</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#092" 
+     aria-expanded="false" 
+     aria-controls="092">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="09">
+      <p class="panel-title pull-left">
+          How does parking work?
+
+
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="092" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="09">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">All graduate students must register their vehicle(s) with campus security and display a parking decal.&nbsp; Permit fee(s) are included in your tuition. Registering your car can be done online. There are student designated parking lots as well as on-street parking.&nbsp; Handicapped spaces are available for those who qualify for a state issued license plate/placard, which should be visibly displayed on the vehicle.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#102" 
+     aria-expanded="false" 
+     aria-controls="102">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="10">
+      <p class="panel-title pull-left">
+          What are the technology requirements?
+
+
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="102" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="10">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">At the minimum, you should have access to a laptop with reliable connection to the internet. Laptops are small and light enough to carry to classes for notes, the library for research, elsewhere on campus, or home and office to work on assignments. Consider where you will want to use your computer when deciding between a desktop and a laptop. Note that there are wireless hotspots on campus, and those spots continue to expand. Desktop computers are larger and weigh more than a portable, but are generally less expensive. They have more computing power for a given price.&nbsp; Please note the Office of Information Technology only provides on-campus service for student computers. Therefore students are required to carry their computers to the Student Help desk if they require assistance.</span></p>
+<p>When you‚re admitted, you will be assigned a secure Capstone Online account, so you can access your academic (schedules, grades),&nbsp; billing records, and login credentials for our&nbsp;<span style="font-weight: 400;">learning management system, Canvas, a space where you can connect with and interact with course content. This can include posting/submitting assignments, participating in discussions, taking online quizzes/tests, etc. Helpful information and a </span><a href="https://www.muhlenberg.edu/itdl/learningmanagementsystem/"><span style="font-weight: 400;">Canvas Student User Guide</span></a><span style="font-weight: 400;"> are available.</span></p>
+<p><br><br></p>
+    </div>
+  </div>
+</div><h4><span><span style="color: #a41d36;"><strong>Graduate Admission</strong></span></span></h4><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#112" 
+     aria-expanded="false" 
+     aria-controls="112">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="11">
+      <p class="panel-title pull-left">
+          What are the requisites for admission?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="112" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="11">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">We encourage you to visit our campus and meet with the VP Executive Director, Dean of Graduate Studies, or other Graduate Admissions advisors. Visiting prior to applying is not necessary, but it can be a chance to explore the fit between you and Muhlenberg College School of Graduate Studies and give you a chance to develop a relationship with a graduate advisor who can be an advocate and resource for you.</span></p>
+<p>Our Graduate Studies admissions team welcomes the opportunity to talk with you.&nbsp; You should have:</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">An undergraduate degree from an accredited school in the U.S. or equivalent foreign degree</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prior positive academic performance, career accomplishments, community engagement through volunteerism, and other leadership activities that demonstrate your potential for graduate study and how you plan to contribute to your profession and to the community</span></li>
+</ul>
+<p><span><em><strong>If you are applying for the Master of Organizational Leadership (MOL)</strong>,</em> you should have a basic foundation in accounting and finance, such as financial accounting or principles-level economics and two-years of work experience.&nbsp;</span>If you are a senior or recent graduate you may meet this requirement through appropriate professional work experiences through internships, summer work, externships, and projects that may be sufficient.</p>
+<p><strong><em>If you are applying for the Master of Applied Analytics for Organizations (MAA)</em></strong><span style="font-weight: 400;">, you should have successfully completed statistics and calculus courses within the last five years. If you haven‚t taken these courses, or if you would like a refresher, don‚t worry! We offer a half-unit pre-course that covers mathematical concepts integral to success in the program.</span></p>
+<p><strong><em>If you are a college junior or senior interested in the MAA or MOL, </em></strong><span style="font-weight: 400;">you may be able to enroll in conjunction with your bachelor‚s degree, with certain graduate courses fulfilling both undergraduate and graduate requirements. You will need approval from your current academic advisor and the Dean of Graduate Studies before you apply and enroll.</span></p>
+<p>&nbsp;</p>
+<p><strong>Financial hardship should not be a barrier to enrollment. Please contact an advisor to discuss options</strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#122" 
+     aria-expanded="false" 
+     aria-controls="122">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="12">
+      <p class="panel-title pull-left">
+          Do I have to take graduate entrance exams?
+
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="122" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="12">
+    <div class="panel-body">
+        <p><span>GRE/GMAT test scores are optional.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#132" 
+     aria-expanded="false" 
+     aria-controls="132">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="13">
+      <p class="panel-title pull-left">
+          Which graduate exam should I take?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="132" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="13">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">While entrance exams are not required,&nbsp;<span>the following is a breakdown should you wish to submit them for consideration:</span></span></p>
+<ul>
+<li><span style="font-weight: 400;"><span><strong>MAA: The GRE is accepted for the MAA program.</strong></span></span></li>
+<li><span style="font-weight: 400;"><span><strong>MOL: The GRE and GMAT are accepted for the MOL program.</strong></span></span></li>
+</ul>
+<p>For information on the GRE and GMAT:</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Education Testing Service GRE ‚ </span><a href="https://www.ets.org/gre"><span style="font-weight: 400;">https://www.ets.org/gre</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Graduate Management Admission Council GMAT ‚ </span><a href="https://www.mba.com/exams"><span style="font-weight: 400;">https://www.mba.com/exams</span></a></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#142" 
+     aria-expanded="false" 
+     aria-controls="142">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="14">
+      <p class="panel-title pull-left">
+          Can I transfer courses from other graduate programs?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="142" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="14">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">You may transfer up to three graduate courses successfully completed at an accredited institution within the past five years where an equivalency in the degree program is found and in consultation with, and approval of, the Dean of Graduate Studies. Course descriptions and/or syllabi will be requested for approval of transfer credit.</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#152" 
+     aria-expanded="false" 
+     aria-controls="152">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="15">
+      <p class="panel-title pull-left">
+          Can any courses be waived?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="152" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="15">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">There are no options to waive coursework based on competency examinations or prior work experience.</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#162" 
+     aria-expanded="false" 
+     aria-controls="162">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="16">
+      <p class="panel-title pull-left">
+          Are interviews required?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="162" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="16">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">An interview is not required prior to applying. However, after you have submitted your application you will be contacted to arrange a personal interview.&nbsp; The interview can be in-person or, for convenience, scheduled using web video conferencing.</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#172" 
+     aria-expanded="false" 
+     aria-controls="172">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="17">
+      <p class="panel-title pull-left">
+          What does Muhlenberg look for in a qualified candidate?
+
+
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="172" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="17">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Graduate admissions will evaluate an applicant‚s portfolio (transcripts, grades, writing sample in the form of a personal statement, any standardized test scores, and resume).&nbsp; Overall, we are looking for students who are academically prepared for graduate level coursework; possess effective writing skills; demonstrate a spirit of inquiry in their field of study; have a clear vision of how the graduate program will help them achieve their goals; are a good fit through shared values and attitudes.</span></p>
+<p><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;">Prospective graduate students should value and desire to further develop themselves in:</span></p>
+<p><span style="font-weight: 400;"></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">vigorous and open-minded debate&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">critical independent thinking and ability to challenge intellectual orthodoxy</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">research and the creation of new knowledge</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">analytical and creative efforts</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">working collaboratively with others and support to each other, while challenging each other to excel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">developing ethical standards</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">stretching personal limits of knowledge and understanding through risk-taking&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">contributing to a distinctive campus climate characterized by warmth, friendliness, a strong sense of community, and close relationships among students, faculty, and staff</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">mutual respect for differing ideas, perspectives, experiences, and personal identities</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">participating in a culture in which fairness, equality, human diversity, and justice are successfully integrated with the healthy clash of ideas and beliefs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">being good neighbors and good citizens, particularly in the greater Lehigh Valley region, and to improve the lives of those inside and outside our economic ecosystem</span></li>
+</ul>
+<p><span style="font-weight: 400;"></span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#182" 
+     aria-expanded="false" 
+     aria-controls="182">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="18">
+      <p class="panel-title pull-left">
+          How do I apply for the Master‚s Program?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="182" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="18">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Before you begin the online application, we recommend you have on hand the following items.&nbsp; With these items on hand, it should take you about 10 minutes of your time to complete our online application.</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A pdf copy of your transcript(s).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If your cumulative GPA is less than 3.0, a copy of your GRE or GMAT exam scores taken within the last 5 years.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A brief personal statement (no more than 750 words) required for master‚s degree applicants, optional for graduate certificate applicants.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A current professional resume that includes references.<br></span></li>
+</ol>
+<p><span style="font-weight: 400;">You can complete the Graduate School‚s online Application for Admission form at <strong><a href="http://www.muhlenberg.edu/grad-apply">www.muhlenberg.edu/grad-apply</a>.</strong>. After you submit the form, you will be prompted to arrange a personal interview.</span>&nbsp;</p>
+<ul>
+<li><strong><strong>Transcripts:&nbsp;</strong></strong>&nbsp;</li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-weight: 400;">Unofficial transcripts of all previous undergraduate and graduate coursework are sufficient to complete the online application. Official transcripts in hard copy or electronic form are required after you are admitted and should be submitted to the Dean of Graduate Studies. To be considered for acceptance to master‚s degree programs, you must have completed an undergraduate degree at an accredited institution.&nbsp; International credentials and academic records must be official documents issued by the institution, provided in the original language, and accompanied by a certified or notarized English translation.</span>&nbsp;</p>
+<ul>
+<li><strong><strong>Test Scores:&nbsp;</strong></strong>&nbsp;</li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-weight: 400;">GMAT and/or GRE test scores are only required if your undergraduate GPA is less than 3.0. To complete the application you only need to report your scores. Official scores must be submitted prior to the start of classes. GMAT/GRE exams must be taken within the last five years.&nbsp; For international students who are not native English language speakers IELTS, TOEFL, or DET English language proficiency test scores are accepted.&nbsp;&nbsp;</span>&nbsp;</p>
+<ul>
+<li><strong><strong>Personal Statement:</strong></strong>&nbsp;</li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-weight: 400;">For those applying to a master‚s degree program, a personal statement, 450 words to a maximum of 750 words, that speaks to your personal characteristics (ethical leadership, perseverance, emotional intelligence), acquired skills (research, writing, presenting), and intellectual abilities (creativity, area of knowledge, analytical thought).</span>&nbsp;</p>
+<ul>
+<li><strong><strong>Resume:</strong></strong>&nbsp;</li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-weight: 400;">Current r√©sum√© or curriculum vitae with at least two professional references.</span>&nbsp;</p>
+<ul>
+<li><strong><strong>Optional:&nbsp;</strong></strong>&nbsp;</li>
+</ul>
+<p style="padding-left: 60px;"><span style="font-weight: 400;">Letter(s) of recommendation that speak to your professional and/or academic acumen may be submitted, but are not a required part of your application. Letters may be uploaded as part of the application attached files or by sending to the attention of the Dean of Graduate Studies, at <strong><a href="mailto:graduatestudies@muhlenberg.edu." target="_blank">graduatestudies@muhlenberg.edu.</a></strong></span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#192" 
+     aria-expanded="false" 
+     aria-controls="192">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="19">
+      <p class="panel-title pull-left">
+          What should my personal statement include?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="192" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="19">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Your personal statement serves as a sample of your writing aptitude, a way to express your professional and personal goals for completing a master‚s degree, and provides the admissions advisor additional narrative about you as a person.&nbsp; You can find numerous outlines, examples and recommendations for writing a graduate student personal statement on the web. We are interested in learning about your personal characteristics (ethical leadership, perseverance, emotional intelligence), acquired skills (research, writing, presenting), and intellectual abilities (creativity, area of knowledge, analytical thought).&nbsp; We want to be sure our program is the best fit for you and your personal/professional goals. Your personal statement offers us another way to get to know you in addition to your transcript(s) and professional resume. It should be written in an essay format with a balanced tone between personal and professional and be between 450 and 750 words in length.&nbsp;</span></p>
+<p><br><br></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#202" 
+     aria-expanded="false" 
+     aria-controls="202">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="20">
+      <p class="panel-title pull-left">
+          How do I apply for a Certificate Program?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="202" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="20">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">The application requirements for the graduate-level certificate are a little different than for the master‚s program. You can complete the application for admission online at: <strong><a href="http://www.muhlenberg.edu/grad-apply">www.muhlenberg.edu/grad-apply</a></strong></span><span style="font-weight: 400;">&nbsp;and should have the following ready:&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Unofficial transcripts of all previous undergraduate and graduate coursework.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><span>Personal statement including preparation in the desired field of study and connecting graduate/professional goals with the academic program</span></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Current r√©sum√© or curriculum vitae</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">English language proficiency test score (international applicants)</span></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#212" 
+     aria-expanded="false" 
+     aria-controls="212">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="21">
+      <p class="panel-title pull-left">
+          How will I know if I‚m accepted?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="212" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="21">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Interview&nbsp;decisions will be rendered within two business days after the completed application materials are submitted. You will receive an email notification of acceptance from the Dean of Graduate Studies, followed by written confirmation of enrollment status. To confirm your intention to enroll, you will return a signed document along with the deposit fee of $500.</span></p>
+<p>&nbsp;</p>
+<p><br><br></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#222" 
+     aria-expanded="false" 
+     aria-controls="222">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="22">
+      <p class="panel-title pull-left">
+          How do I enroll in a class?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="222" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="22">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Your graduate advisor will work with you to enroll you in your classes.</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><h4><span><span style="color: #a41d36;"><strong>About the Graduate Programs</strong></span></span></h4><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#232" 
+     aria-expanded="false" 
+     aria-controls="232">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="23">
+      <p class="panel-title pull-left">
+          Are there any prerequisites needed to enter a program?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="232" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="23">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">All applicants must have completed a four-year baccalaureate degree or international equivalent or an appropriate US/Canadian alternative degree from a regionally accredited or recognized international college or university.</span></p>
+<ul>
+<li style="font-weight: 400;">
+<p>Applicants for the Organizational Leadership (MOL), Master‚s Degree will typically have two or more years of work experience. We also recommend that entering students have had some college or working&nbsp;experience related to leadership, such as in human resources, planning, management, public administration, and/or organizational&nbsp;psychology. College seniors or recent graduates may meet this requirement through appropriate professional experiences, such as internships, summer work, externships, athletics, creative activities, and projects.</p>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Applicants to the Master of Applied Analytics (MAA) for Organizations will have successfully completed statistics and calculus courses within the last five years. For those who do not meet this requirement or who desire to refresh their knowledge and skills, Muhlenberg College offers a half-unit pre-course covering mathematical concepts integral to a student‚s success in the master‚s program.</span></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#242" 
+     aria-expanded="false" 
+     aria-controls="242">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="24">
+      <p class="panel-title pull-left">
+          How long do I have to complete the program?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="242" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="24">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Typically, a master‚s degree will be completed within two years of the initial enrollment</span><span style="font-weight: 400;"> and will not exceed five years with the approval of the Dean of Graduate Studies</span><span style="font-weight: 400;">. A graduate certificate will be completed in one year or less and will not exceed three years from the initial enrollment.</span></p>
+<p>&nbsp;</p>
+<p><br><br></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#252" 
+     aria-expanded="false" 
+     aria-controls="252">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="25">
+      <p class="panel-title pull-left">
+          What is the difference between a graduate certificate and a master‚s degree?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="252" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="25">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Both the graduate certificate and the master‚s degree provides the mid-career learner who is seeking to advance their education beyond the baccalaureate level either for personal or professional reasons with academic credentials validating their specialized studies.&nbsp; For the traditional student, graduate studies enhance their undergraduate academic training by adding substantial depth in a focused area of study. Choosing a graduate certificate or master‚s degree depends on the individual's specific career objectives.&nbsp;&nbsp;</span></p>
+<p><strong>Master‚s</strong></p>
+<p><span style="font-weight: 400;">Individuals typically seek a graduate degree to build skills in their industry, gain skills to transition to a new field, or to promote into a higher level position within their area of expertise. A master‚s degree is a complete program in a field of study from a recognized accredited institution. The graduate degree shows you have obtained mastery in a field of study, rather than a single subject.&nbsp;</span></p>
+<p><strong>Graduate Certificate</strong></p>
+<p><span style="font-weight: 400;">For those who have been away from academic studies for a number of years, and/or may have time and budget constraints, returning by completing a graduate certificate is a shorter duration commitment while providing a future pathway to completing the full master‚s degree at a later time.&nbsp; A graduate certificate does not take the place of a master‚s degree, however it does provide students an option to gain knowledge and skills to become employable or eligible for a specific job more quickly.</span></p>
+<p>We encourage you to meet with one of our graduate advisors to consider which is a better solution for your career or personal goals.&nbsp; When considering a graduate certificate or master‚s degree, it is a good idea to have your end goal in mind. Do your research by examining regional labor statistics, market demand, employer expectations, and trends.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#262" 
+     aria-expanded="false" 
+     aria-controls="262">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="26">
+      <p class="panel-title pull-left">
+          What are the program start dates?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="262" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="26">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">Our program is built on a cohort model to optimize the relationships you will build with your faculty and fellow graduate students.&nbsp; The programs will be starting this Fall semester on August 31, 2020 and run on a full-year schedule (3 semesters: Fall, Spring, and Summer).</span></strong></p>
+<p><br><br></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#272" 
+     aria-expanded="false" 
+     aria-controls="272">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="27">
+      <p class="panel-title pull-left">
+          When are the application deadlines?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="272" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="27">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">Graduate program applications are accepted at any time.&nbsp; Once accepted, you will work with your graduate advisor to schedule into the next available cohort.&nbsp; However, if you desire to start on a specific date, your application is required two weeks prior to the start of the first course.</span></strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#282" 
+     aria-expanded="false" 
+     aria-controls="282">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="28">
+      <p class="panel-title pull-left">
+          Is this a full-time or part-time program?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="282" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="28">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">The Master‚s of Organizational Leadership and the Master‚s of Applied Analytics are full-time and can be finished in two calendar years. The graduate certificate programs in Organizational Leadership and Applied Analytics are also full-time and can be finished in one calendar year.</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#292" 
+     aria-expanded="false" 
+     aria-controls="292">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="29">
+      <p class="panel-title pull-left">
+          Are there any residency requirements?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="292" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="29">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">It is recommended that you follow the schedule of two courses per semester, which will enable you to finish the degree in two years and the certificate in one (each course takes eight weeks). Our programs offer a blended course design combining online learning with face-to-face meetings, service learning and self-study. This blended method is a great way to add a graduate program to your busy life. The syllabus for each course will include specific requirements, including but not limited to required meeting times for classes, oral and/or written examinations, written papers and presentations, and research.&nbsp;<span>Students must maintain at least a one-course presence each semester.</span></span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#302" 
+     aria-expanded="false" 
+     aria-controls="302">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="30">
+      <p class="panel-title pull-left">
+          What if I need to take a leave of absence?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="302" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="30">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">There are several situations in which your graduate studies may be interrupted, including medical, military, and other personal leaves of absence. A leave of absence enables you to suspend your enrollment at Muhlenberg. A student requesting a leave of absence should consult with their graduate advisor and/or the Dean of the School of Graduate Studies. A student may withdraw from a course and any refund will be according to the College‚s refund policy.&nbsp; </span></strong></p>
+    </div>
+  </div>
+</div><h4><span><span style="color: #a41d36;"><strong>Graduate Programs Tuition and Fees</strong></span></span></h4><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#312" 
+     aria-expanded="false" 
+     aria-controls="312">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="31">
+      <p class="panel-title pull-left">
+          How much does a graduate program cost?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="312" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="31">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Muhlenberg courses are 1 unit each, the equivalent of 4 credit hours.&nbsp; Master‚s degrees range from 10-12 total units, depending on the program. Graduate certificates are 3-6 units.&nbsp;&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">$3200 per one-unit * (four-credit course at $800 per credit hour)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">$75 Application fee **</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">$500 Enrollment deposit applied to your account</span></li>
+</ul>
+<p>* We know that entering a graduate program is a considerable investment in your academic and professional life. With that in mind, a Muhlenberg graduate program offers you significant benefits.&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><strong><em>Tuition rates are </em></strong><strong><em>guaranteed</em></strong><em><span style="font-weight: 400;"> for the duration of the degree program</span></em><span style="font-weight: 400;">.&nbsp; An exception is made for a Leave of Absence (LOA). Upon return from the LOA, tuition will be at the current rate with a new guarantee in effect for a subsequent two-year period.</span></li>
+<li style="font-weight: 400;"><em><strong><em>Textbooks for all courses are included </em></strong><em><span style="font-weight: 400;">as part of the tuition.</span></em></em></li>
+<li style="font-weight: 400;"><strong><em>Comprehensive fees are included in the tuition</em></strong><em><span style="font-weight: 400;">:</span></em><span style="font-weight: 400;"> technology, laboratory, library, career center, orientation, commencement, parking permits, graduate student activities, and unofficial transcript.</span></li>
+<li style="font-weight: 400;"><strong><em>Tuition deferment </em></strong><em><span style="font-weight: 400;">is available to students whose employers offer tuition remission.</span></em></li>
+<li style="font-weight: 400;"><em><span style="font-weight: 400;">The </span></em><strong><em>application fee is waived</em></strong> <span style="font-weight: 400;">for graduates of the certificate program who enter a master‚s degree program; current Muhlenberg undergraduate students; Muhlenberg alumni; Muhlenberg employees, their spouse or their children. If you are admitted and enrolled but do not qualify for the waiver, the application fee you pay will be returned to you for use in the bookstore or at dining sites on campus.</span></li>
+</ul>
+<p>** Application fees are waived for all inaugural class applicants 2020-2022!&nbsp;&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#322" 
+     aria-expanded="false" 
+     aria-controls="322">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="32">
+      <p class="panel-title pull-left">
+          When is my tuition due? 
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="322" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="32">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">Typically tuition is due at least two weeks before classes start.&nbsp; You will receive an invoice that indicates a due date. You are able to check your student account by logging into the student portal. Tuition and fees must be paid consistent with established due dates to avoid late payment charges, typically two weeks before the start of the semester (see </span><a href="https://www.muhlenberg.edu/offices/businessoffice/forparents/billingpaymentduedates/"><span style="font-weight: 400;"></span></a><a href="/offices/businessoffice/forparents/billingpaymentduedates/">Billing and Payment Due Dates</a><span style="font-weight: 400;"> for the appropriate dates. </span></strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#332" 
+     aria-expanded="false" 
+     aria-controls="332">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="33">
+      <p class="panel-title pull-left">
+          What form of payment should I use? 
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="332" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="33">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">Muhlenberg accepts cash, check and Mastercard, Visa and American Express credit cards, payable at the Graduate Studies Office.</span></strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#342" 
+     aria-expanded="false" 
+     aria-controls="342">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="34">
+      <p class="panel-title pull-left">
+          What if I have employer tuition reimbursement?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="342" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="34">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">If your employer offers a tuition reimbursement benefit, you can fill out a Tuition Deferment Application. Details are available from the student accounts administrator. Call 484-664-3302 or stop by the </span><a href="https://www.muhlenberg.edu/offices/businessoffice/"><span style="font-weight: 400;"></span></a><a href="/offices/businessoffice/">Business Office</a><span style="font-weight: 400;">.&nbsp;</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#352" 
+     aria-expanded="false" 
+     aria-controls="352">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="35">
+      <p class="panel-title pull-left">
+          Is there any kind of financial aid for grad students?
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="352" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="35">
+    <div class="panel-body">
+        <p><strong><span style="font-weight: 400;">We have a financial aid administrator who is available to assist you. Call 484-664-3164 to make an appointment</span><span style="font-weight: 400;">. </span><span style="font-weight: 400;">In addition to PHEAA's PA Forward loan program, there are federal and alternative loan options.</span> <span style="font-weight: 400;">Other sources include but are not limited to: employer tuition reimbursement (talk with your human resources office); veterans‚ education benefits (talk to your academic advisor); and online sources like Fastweb.com, FinAid.org, GGrad, Unigo, Scholarship America, and Sallie Mae‚s Graduate Scholarship Search. </span></strong></p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '732965647458368');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=732965647458368&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

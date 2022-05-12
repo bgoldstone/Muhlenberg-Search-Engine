@@ -1,0 +1,1148 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Archived Polls | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Archived Polls">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/about/polling/Polling-Header2.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/">Archived Polls</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Archived Polls</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","500px":"/media/contentassets/images/about/polling/Polling-Header1.jpg","740px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","980px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","1220px":"/media/contentassets/images/about/polling/Polling-Header2.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","500px":"/media/contentassets/images/about/polling/Polling-Header1.jpg","740px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","980px":"/media/contentassets/images/about/polling/Polling-Header2.jpg","1220px":"/media/contentassets/images/about/polling/Polling-Header2.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_1">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/">Archived Polls</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Archived Polls</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Archived Polls">
+							<span class="sub_nav_handle_label">Archived Polls</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/aboutus/polling/about/">About</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></span></li><li class="sub_nav_item"><a href="/aboutus/polling/climateenvironmentsurveys/">Climate &amp; Environment Surveys</a></li><li class="sub_nav_item"><a href="/aboutus/polling/publichealthpolicysurveys/">Public Health &amp; Policy Surveys</a></li><li class="sub_nav_item"><a href="/aboutus/polling/facultystaff/">Faculty &amp; Staff</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/centers/">Centers &amp; Institutes</a></li><li class="linkitem"><a href="/aboutus/polling/">Institute of Public Opinion</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/">Politics &amp; Elections Surveys</a></li><li class="linkitem"><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/">Archived Polls</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><em>To view the PDF files, you&nbsp;may need to download&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Adobe Acrobat Reader</a>. Some surveys are also available in Microsoft Word by clicking on the links marked "DOC".</em></p>
+<h3>Politics &amp; Elections Surveys</h3>
+<p><strong>Pennsylvania Election Surveys</strong></p>
+<ul>
+<li><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/2022-pennsylvaniaelectoralprocesssurvey/">January 2022 - Keep Our Republic/Muhlenberg College Pennsylvania Electoral Process Survey</a></li>
+<li><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/pa2020post-electionpoll/">Muhlenberg College Pennsylvania 2020 Post-Election Poll: January 2021</a></li>
+<li><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/final2020paelectionsurvey/">Final 2020 Muhlenberg College/Morning Call Pennsylvania Presidential Election Survey: Late October</a></li>
+<li><a href="/aboutus/polling/politicselectionssurveys/archivedpolls/2020-pa7thdistrictpoll/">September 2020: Muhlenberg College/Morning Call Pennsylvania 7th Congressional District Poll</a></li>
+<li><a href="/2020pavoterviewssecurity/">September 2020: Pennsylvania Voter Views on Election Processes and Security</a></li>
+<li><a href="/aug2020election/">August 2020: Muhlenberg College/Morning Call&nbsp;Pennsylvania Presidential Election Survey</a></li>
+<li><a href="/feb2020election/">February 2020: Muhlenberg College/Morning Call Pennsylvania Presidential Election Survey</a></li>
+<li>Pennsylvania Presidential Election Survey, November 2019&nbsp;<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_PresElec_Fall2019__Report_Revised.pdf">(PDF)</a></li>
+<li>Pennsylvania Registered Democrat Survey, April 2019 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PADEM_Report_2019.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PADEM_Report_2019.pdf">PDF</a>)</li>
+<li>2018 Midterm Election Survey October Wave (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/2018%20Midterm%20Election%20Survey%20October%20Wave.docx">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/2018%20Midterm%20Election%20Survey%20October%20Wave.pdf">PDF</a>)</li>
+<li><a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/7thDist_Results_OCT2018.pdf">2018 PA 7th Congressional District Midterm Election Survey (PDF)</a></li>
+<li><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA_Elec_2018_Sep_Frequency.pdf">2018 Midterm Election Survey: September Wave (PDF)</a></li>
+<li>Pennsylvania 7th Congressional District 2018 Midterm Election Survey April/May (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_7th_May18_Report%20(2).pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_7th_May18_Report%20(2).doc">DOC</a>)</li>
+<li>April 2018 Midterm Election Survey (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Elec2018_April_Results.pdf">PDF</a>)</li>
+<li>PA 15th Congressional District Registered Voter Survey&nbsp;<span>January/February 2018 -&nbsp;</span>(<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/15thCongressionalDistrict_Frequency.pdf">PDF</a>)</li>
+<li>Pennsylvania Registered Voter Survey, April 2017 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PAPres_2017_Report.pdf">PDF</a>)</li>
+<li>2016 Pennsylvania Republican Presidential Primary Survey<span>&nbsp;</span><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA_REP_Primary_2016_Mid_april_freq_final-3.doc">(DOC)</a><span>&nbsp;</span><a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA_REP_Primary_2016_Mid_april_freq_final-3.pdf">(PDF)</a></li>
+<li>PA Presidential Primary Survey<span>&nbsp;</span><a href="http://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=1274104296">(DOC)</a>&nbsp;<a href="http://t4.muhlenberg.edu/terminalfour/SiteManager?ctfn=download&amp;fnno=60&amp;ceid=1311458635">(PDF)</a></li>
+<li>February 2016 Pennsylvania Registered Voter Survey, February 2016<span>&nbsp;</span><a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Feb_2016_Frequency.doc">(DOC)</a><a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Feb_2016_Frequency.pdf"><span>&nbsp;</span>(PDF)</a></li>
+<li>Pennsylvania 2014 Midterm Election Survey, October 31, 2014 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Gov_Oct_2014_Frequency-doc.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Gov_Oct_2014_Frequency-doc.pdf">PDF</a>)</li>
+<li>Pennsylvania 2014 Midterm Election Survey, September 22, 2014 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Gov_Sept2014_Frequency.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Gov_Sept2014_Frequency.pdf">PDF</a>)</li>
+<li>2014 Pennsylvania Democrat Gubernatorial Survey, May 16, 2014 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2014_DemPrimary_MayFrequencyReport_FINAL.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2014_DemPrimary_MayFrequencyReport_FINAL.pdf">PDF</a>)</li>
+<li>2014 Pennsylvania Democrat Gubernatorial Survey, May 1, 2014 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2014_DemPrimary_FeequencyReport.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2014_DemPrimary_FeequencyReport.pdf">PDF</a>)</li>
+<li>2012 Presidential Election Survey, November 4, 2012 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_November_2012_Pres_Frequency_word97.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_November_2012_Pres_Frequency_word97.pdf">PDF</a>)</li>
+<li>2012 Presidential Election Survey, October 22, 2012 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/LateOctober_PA_Pres_Final_Frequency_1.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/LateOctober_PA_Pres_Final_Frequency_1.pdf">PDF</a>)</li>
+<li>2012 Presidential Election Survey, October 15, 2012 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PAPRES_October_Frequency_FinalResults_word97.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PAPRES_October_Frequency_FinalResults_word97.pdf">PDF</a>)</li>
+<li>2012 Presidential Election Survey, September 28, 2012 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_LateSeptember_2012_Pres_Frequency.doc">DOC</a>) (â)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</li>
+<li>2012 Presidential Election Survey, September 18, 2012 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Pres_September_2012_frequency.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Pres_September_2012_frequency.pdf">PDF</a>)</li>
+<li>2012 Presidential Election Survey, August 23, 2012 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2012PresidentialElectionSurvey.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2012PresidentialElectionSurvey.pdf">PDF</a>)</li>
+<li>Rick Santorum: The Pennsylvania Perspective, February 25, 2012 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Santorum_Report_Final_1.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/SantorumReportFinal.pdf">PDF</a>)</li>
+<li>Pennsylvania 2012: An Election Preview, December 9, 2011 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/PA2012ElectionPreview.docx">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA2012ElectionPreview.pdf">PDF</a>)</li>
+<li>Pennsylvania Statewide Summer Survey, August 2011 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PAstatewidesummersurey.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_August2011_Frequency_Tables_Final.pdf">PDF</a>)</li>
+<li>Election 2012 Preview: The Pennsylvania Perspective, March 2011 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PAQOL2011_Election_Report.doc_97vers.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PAQOL2011_Election_Report.doc_97vers.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, November 1, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease13_November1.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease13_November1.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 29, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease10_October29.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease10_October29.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 28, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease9_October28.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease9_October28.doc.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 27, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease8_October28.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease8_October27.doc.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 26, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease7_October26.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease7_October26.doc.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 25, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease6_October25.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease6_October25.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 24, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease5_October24.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease5_October24.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 22, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease3_October22.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease3_October22.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 21, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease2_October21.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease2_October21.pdf">PDF</a>)</li>
+<li>2010 Pennsylvania General Election Tracking Poll, October 20, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease1_October20.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/2010TrackingRelease1_October20.doc.pdf">PDF</a>)</li>
+<li>Pennsylvania 2010 Midterm Election Survey, October 6, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PAOCT2010_MuhlenbergPoll_Results.Octoberdoc.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PAOCT2010_MuhlenbergPoll_Results.pdf">PDF</a>)</li>
+<li>Pennsylvania 2010 Midterm Election Survey, September 25, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PASEPT2010_MuhlenbergPoll_Results.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PASEPT2010_MuhlenbergPoll_Results.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 16, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-16.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-16.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 15, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-15.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-15.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 14, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-14.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-14.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 13, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-13.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-13.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 12, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-12.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-12.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 11, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-11.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-11.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 10, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-10.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-10.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 9, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-9.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-9.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 7, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-7.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-7.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 5, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-5.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-5.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 4, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-4.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-4.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 3, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release_05_03.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release_05_03.pdf">PDF</a>)</li>
+<li>Pennsylvania Democratic Primary Tracking Poll, May 2, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release_05_02.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/Release5-2.pdf">PDF</a>)</li>
+<li>The 2010 Pennsylvania Congressional District Poll, April 29, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/15thcongressionaldistrictpoll4-10.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/15thcongressionaldistrictpoll4-10.pdf">PDF</a>)</li>
+<li>The 2010 U.S.&nbsp; Senate &amp; Congressional Elections in Pennsylvania Survey, April 12, 2010 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PASENATE_elec_2010_april.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PASENATE_elec_2010_april.pdf">PDF</a>)</li>
+<li>Republican to Democrat: A Survey of Pennsylvania Voters who Have Changed Registration Status, February 2009 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/pachanger_finalversion.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pachanger_finalversion.doc">DOC</a>)</li>
+<li>Tracking Poll Questions November 3, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/tracking_poll_questions11-3.pdf">PDF</a>)</li>
+<li>Tracking Poll Questions November 2, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/tracking_poll_questions11-2.pdf">PDF</a>)</li>
+<li>Tracking Poll Questions November 1, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/tracking_poll_questions11-1.pdf">PDF</a>)</li>
+<li>Tracking Poll Questions October 31, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/tracking_poll_questions10-31.pdf">PDF</a>)</li>
+<li>Tracking Poll Questions October 30, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/tracking_poll_questions10-30.pdf">PDF</a>)</li>
+<li>Tracking Poll Questions October 29, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/tracking_poll_questions10-29.pdf">PDF</a>)</li>
+<li>Tracking Poll Questions October 28, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/tracking_poll_questions10-28.pdf">PDF</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, November 3, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_11_02.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_11_02.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, November 2, 2008 (<a href="https://www.muhlenberg.edu/studorgs/polling/documents/Release_11_01.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_11_02.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, November 1, 2008 (PDF) (DOC)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 31, 2008 (PDF) (DOC)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 30, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_10_29.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_10_29.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 29, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_10_28.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_10_28.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 28, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_10_27.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_10_27.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 27, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_10_26.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_10_26.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 8, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_10_08.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_10_08.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 7, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release10-07.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release10-07.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 6, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/pa_tracking_release_10_06.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pa_tracking_release_10_06.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 2, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_10_02.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_10_02.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, October 1, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_10_01.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_10_01.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, September 30, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_sept30.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_sept30.pdf">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, September 29, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_9_29.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_9_29.doc">DOC</a>)</li>
+<li>Muhlenberg College/Morning Call 2008 Presidential Tracking Poll, September 26, 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/release_9_25.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/release_9_25.doc">DOC</a>)</li>
+<li>Survey of Pennsylvanians on the 2008 Presidential Election, February 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/paelect_feb8_report.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/paelect_feb8_report.doc">DOC</a>)</li>
+<li>The 2008 Presidential Election Eastern Pennsylvania Poll, September 2007 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/e_pa2008electionpoll.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/e_pa2008electionpoll.doc">DOC</a>)</li>
+<li>2006 Pennsylvania Elections: Governor and U.S. Senate, November 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/paelect_november06report.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/paelect_november06report.doc">DOC</a>)</li>
+<li>2006 Pennsylvania Elections: Governor and U.S. Senate, October 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/paelect_october06report.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/paelect_october06report.doc">DOC</a>)</li>
+<li>2006 Pennsylvania Elections: Governor and U.S. Senate, August 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/paelect_august06_report.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/paelect_august06report.doc">DOC</a>)</li>
+<li>2006 Pennsylvania Elections: Governor and U.S. Senate, April 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/governor_april_25th_2006.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/governor_april_25th_2006.doc">DOC</a>)</li>
+<li>2006 Pennsylvania Elections: Governor and U.S. Senate, March 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/march_2006_pa_elections_gov_sen.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/march_2006_pa_election_gov_sen.doc">DOC</a>)</li>
+<li>2006 U.S. Senate Race in Pennsylvania: Santorum vs. Casey, September 2005 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/casey_santorum_26th_of_sep.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/casey_santorum_26th_of_sep.doc">DOC</a>)</li>
+<li>Pennsylvanians on the 2004 Presidential Election, March 2004 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/march_22_2004.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/march_22_2004.doc">DOC</a>)</li>
+<li>Pennsylvanians on the 2004 Presidential Election, May 2004 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/may_18_2004.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/may_18_2004.doc">DOC</a>)</li>
+<li>Pennsylvanians on the 2004 Presidential Election, October 2004 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/october_22_2004.pdf">PDF</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/october_22_2004.doc">DOC</a>)</li>
+</ul>
+<p><strong>Iraq Surveys</strong></p>
+<ul>
+<li>Survey on The War in Iraq - February 2008 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreport08.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreport08.pdf">PDF</a>)</li>
+<li>Survey on The War in Iraq - November 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportfinal_nov06.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportfinal_nov06.pdf">PDF</a>)</li>
+<li>Survey on The War in Iraq - August 4, 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportaugust06.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportaugust06.pdf">PDF</a>)</li>
+<li>Survey on The War in Iraq - April 27, 2006 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportfinal_april06.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportfinal_april06.pdf">PDF</a>)</li>
+<li>Survey on The War in Iraq - March 7, 2005 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportfinal_march05.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportfinal_march05.pdf">PDF</a>)</li>
+<li>Survey on The War in Iraq - May 18, 2004 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportfinal_may04.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportfinal_may04.pdf">PDF</a>)</li>
+<li>Survey on The War in Iraq - March 18, 2004 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportfinal_march1804.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportfinal_sp04.pdf">PDF</a>)</li>
+<li>Survey on The War in Iraq - March 7, 2004 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportfinal_march04.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportfinal_march04.pdf">PDF</a>)</li>
+<li>Survey on The Issue of Military Force in Iraq - February 14, 2003 (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/iraqreportfinalfeb03.doc">DOC</a>) (<a href="https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/iraqreportfinalfeb03.pdf">PDF</a>)</li>
+</ul>
+<p><em>To view the PDF files, you&nbsp;may need to download <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Adobe Acrobat Reader</a>. Some surveys are also available in Microsoft Word by clicking on the links marked "DOC".</em></p></div>
+
+</div>
+</div>
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

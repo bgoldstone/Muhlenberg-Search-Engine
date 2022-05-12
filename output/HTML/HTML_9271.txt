@@ -1,0 +1,747 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Trexler Library | Muhlenberg College</title>
+        <link rel="shortcut icon" href="/library/media/contentassets/library/images/aboutus/Muhlenberg-M.png">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css'>
+        <script src="/library/media/styleassets/library/trexlerredesign/js/testscripts.js"></script>
+        <!--<script src="/library/media/styleassets/library/trexlerredesign/js/scripts.js"></script>
+        <script src="/library/media/styleassets/library/trexlerredesign/js/hours.js"></script>-->
+        <!--test styles-->
+        <!--<link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/update.css">-->
+        <!--live styles-->
+        <link rel="stylesheet" href="/library/media/styleassets/library/trexlerredesign/css/teststyles.css">
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19177219-2"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-19177219-2');
+        </script>
+        <script>
+          var d = document
+            , l = d.location
+            , t = d.title
+            , p = l.pathname
+            , s
+            ;
+          if (p === '/' || p === '/library/' || p === '/library/index.html' ||p=== '/' || p === '/library/testforlibrary/newwebsite/libraryhome/' || p === '/library/testforlibrary/libraryhome/' || p === '/library/testforlibrary/newwebsite/libraryhome/home2/') {
+              s = d.createElement('style');
+              s.innerHTML = '.bc{display: none;}';
+              d.getElementsByTagName('head')[0].appendChild(s);
+              t = t.replace(/Library Home \| /, '');
+              document.addEventListener('DOMContentLoaded', function () {
+                var c = document.getElementById('content')
+                  , sl = document.getElementById('slide')
+                  , imgPath = '/library/media/contentassets/library/archived/searchbox-backgrounds/05.jpg'.replace('05.jpg', '')
+                  , totalImages = 11
+                  , isMobile = (window.getComputedStyle(document.querySelector('.bb-opt')).display === 'block')
+                  , num;
+                if (c) c.id = 'content-index';
+              });
+          }
+        </script>
+        <style type="text/css">
+            a.drop-list-item {
+                display: block;
+            }
+            .subDrop {
+              position: relative;
+              display: block;
+            }
+            .subDrop-content {
+              display: none;
+              position: absolute;
+              top: 5px;
+              left: 60px;
+              background-color: #FAFAFA;
+              min-width: 160px;
+              box-shadow: 0px 15px 15px 5px rgba(0,0,0,0.3);
+              z-index: 2;
+            }
+            .subDrop:hover .subDrop-content {display: block;
+            }
+            ul.subDrop-content {
+                margin: 0;
+                padding: 5px;
+                list-style-type: none;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="home-container">
+            <a class="link-skip" id="skip-to-content" href="#main_content">Skip to Main Content</a>
+            <header id="header">
+                <div class="header-wrap">
+                    <div class="h-row">
+                        <div class="h-cell">
+                            <a href="http://trexler.muhlenberg.edu">
+                                <img src="/library/media/contentassets/library/images/home/trexler-sitelogo-transparent-white.png" alt="Visit Trexler Library Home"class="lib-logo" />
+                            </a>
+                        </div>
+                        <div class="m-cell">
+                            <div id="hoursHeader" class="hoursHeader">
+                                <i class="fas fa-clock"></i>
+                                <a href="/library/about/hours/" class="btn btn-link link-uw">  
+                                    <div class="hhours">
+                                        <h3 class="hoursTitle">Today's Hours</h3>
+                                        <div id="api_hours_today_iid814_lid0"class="hours-today" role="presentation hours-row hours-today-row hours-library loc2229">
+                                            <p class="hours-col-loc">Trexler Library</p><p class="hours-col-time"><span class="s-lc-time">8am â 10pm</span></p>
+                                        </div>
+                                    </div>        
+                                    <script src="https://muhlenberg.libcal.com/api_hours_today.php?iid=814&lid=0&format=js&systemTime=1&context=object"></script>
+                                </a>
+                            </div>
+                            <div class="libAcct">
+                                <i class="fas fa-user-circle"></i>
+                                <a href="https://muhlenberg.account.worldcat.org/account" id="acc-link" class="link-uw top-link">My Library Account</a>
+                            </div> 
+                            <div class="collegeNav">
+                                <nav aria-label="Sub Navigation" rold="navigation">
+                                    <div class="dropdownx">
+                                        <button class="dropbtnx"><a href="#" id="port-link" class="link-uw top-link">College Links</a><i class="fas fa-caret-down dropbtnx"></i></button>
+                                        <div class="dropdown-contentx">
+                                            <a href="https://www.muhlenberg.edu/" id="col-link" class="link-w top-link" target="_blank">College Home</a>
+                                            <a href="https://muhlenberg-college.onelogin.com/login" id="col-link" id="port-link" class="link-w top-link" target="_blank">College Portal</a>
+                                            <a href="https://www.muhlenberg.edu/directory/" id="col-link" id="port-link" class="link-w top-link" target="_blank">College Directory</a>
+                                        </div>
+                                    </div>  
+                                </nav>
+                            </div>
+                            <div id="sm-menu" class="t-menu top-menu-small">
+                                <nav role="navigation" aria-label="Main Navigation">
+                                    <a id="ham" class="link-w" data-ol-has-click-handler=""><i class="fas fa-bars"></i></a>
+                                </nav>
+                                <a href="https://muhlenberg.account.worldcat.org/account" class="link-w" target="_blank" id="acc-btn">
+                                    <i class="fas fa-user-circle">
+                                        <span class="visuallyhidden">My Library Account</span>
+                                    </i>
+                                </a>
+                            </div>          
+                        </div>
+                    </div>       
+                    <div class="sm-drop-list" id="expand-menu"> 
+                        <ul class="menu">
+                            <li class="top-menu-item drop"><a href="#">2021-2022 Updates<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="https://www.muhlenberg.edu/offices/healthcenter/coronavirus/" target="_blank">Campus Pandemic Information</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/visitingthelibrary/">Visiting the Library</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/accessingprintresources/">Accessing Print Resources</a></li>                              
+                                    <li><a class="drop-list-item" href="/library/onlineresources/accessingonlineresources/">Accessing Online Resources</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/off-campusaccess/">Off-Campus Access</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/research/">Research Support</a></li>
+                                    <li><a class="drop-list-item" href="/library/onlineresources/faculty/">Faculty Resources</a></li>
+                                </ul>
+                            </li>  
+                            <li class="top-menu-item drop"><a href="#">About Us<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/about/">About Us</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/#contactus">Contact Us</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>                             
+                                    <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/spaces/">Library Spaces &<br>Room Reservations</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/technology/">Library Technology</a></li>
+                                    <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestions</a></li>                                
+                                    <li><a class="drop-list-item" href="#">Forms<i class="dropdown-caret fas fa-caret-right" style="color:white;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="drop-list-item">
+                                            <li><a class="drop-list-item" href="/library/about/comments/">Comments</a></li>
+                                            <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/facultystudies/facultystudyrequestform/">Faculty Study Request</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/#forms">Interlibrary Loan Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/libraryinstructionrequestform/">Library Instruction Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestion Request</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="drop-list-item" href="#">Policies<i class="dropdown-caret fas fa-caret-right" style="color:white;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="drop-list-item">
+                                            <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/collection-development-policy.html">Collection Development</a></li>
+                                            <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/gift-materials-policy.html">Gift Materials</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/government-documents-access-policy.html">Government Documents</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/lost-and-found-policy.html">Lost & Found</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/about/policies/privacy-and-confidentiality.html">Privacy & Confidentiality</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-relations-policy.html">Public Relations</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-service-policy.html">Public Service</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/safety-and-emergency-policy.html">Safety and Emergency</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/textbook-policy.html">Textbook</a></li>
+                                        </ul>
+                                    </li>   
+                                </ul>
+                            </li>
+                            <li class="top-menu-item drop"><a href="#">Library Spaces<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/spaces/">Library Spaces</a></li>
+                                    <li><a class="drop-list-item" href="/library/spaces/classrooms/">Classrooms</a></li>
+                                    <li><a class="drop-list-item" href="/library/spaces/studentspaces/">Student Spaces</a></li>                              
+                                    <li><a class="drop-list-item" href="/library/spaces/specialresourcerooms/">Special Resource Rooms</a></li>
+                                    <li><a class="drop-list-item" href="/library/spaces/#floorplans">Floor Plans</a></li>
+                                    <li><a class="drop-list-item" href="/library/spaces/facultystudies/">Faculty Studies</a></li>
+                                </ul>
+                            </li>
+                            <li class="top-menu-item drop"><a href="#">Research<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/research/">Research</a></li>
+                                    <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/getstartedguides" target="_blank">Get Started with Research</a></li>
+                                    <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/content.php?pid=356743" target="_blank">Subject Guides</a></li>
+                                    <li><a class="drop-list-item" href="/library/research/citationguides/">Citation Guides</a></li>
+                                    <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright Information</a></li>
+                                    <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/az.php" target="_blank">Databases A-Z</a></li>
+                                    <li><a class="drop-list-item" href="/library/research/askalibrarian/">Ask a Librarian</a></li>
+                                </ul>
+                            </li>
+                            <li class="top-menu-item drop"><a href="#">Borrowing<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/borrowing/">Borrowing</a></li>
+                                    <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/myaccount" target="_blank">My Library Account</a></li>
+                                    <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/myaccount" target="_blank">My Library Account</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/borrowingpolicies/">Borrowing Policies</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/">Interlibrary Loan</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/coursereserves/">Course Reserves</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/filmscreenings/">Film Screenings</a></li>
+                                    <li><a class="drop-list-item" href="/library/borrowing/equipmenttoborrow/">Equipment to Borrow</a></li>   
+                                </ul>
+                            </li>
+                            <li class="top-menu-item drop"><a href="#">Faculty Resources<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/facultyresources/">Faculty Resources</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/teachingandlearning/">Teaching and Learning</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/">Collection Development</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/copyrightatmuhlenberg/">Copyright at Muhlenberg</a></li>
+                                    <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>                      
+                                    <li><a class="drop-list-item" href="/library/facultyresources/facultystudies/">Faculty Studies</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/">Information Literacy &<br>Instructional Support</a></li> 
+                                    <li><a class="drop-list-item" href="/library/facultyresources/librarycommittee/">Library Committee</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/libraryliaisons/">Library Liaisons</a></li>
+                                    <li><a class="drop-list-item" href="/library/facultyresources/openaccess/">Open Access</a></li>                                         
+                                    <li><a class="drop-list-item" href="/library/facultyresources/purchasesuggestions/">Suggest a Purchase</a></li>
+                                </ul>
+                            </li>
+                            <li class="top-menu-item drop"><a href="#">Special Collections<i class="fas fa-caret-down"></i></a>
+                                <ul class="drop-list">
+                                    <li><a class="drop-list-item" href="/library/specialcollections/">Special Collections & Archives</a></li>
+                                    <li><a class="drop-list-item" href="/library/specialcollections/digitalrepository/">Muhlenberg College<br>Digital Repository</a></li>
+                                    <li><a class="drop-list-item" href="/library/honorsthesis/">Student Honors Theses</a></li>
+                                </ul>
+                            </li>   
+                        </ul>
+                    </div>
+                </div>  
+                <nav class="top-menu t-menu h-row" id="full-menu" role="navigation" aria-label="Main Navigation">
+                    <ul class="menu">
+                        <li class="top-menu-item drop"><a href="/library/onlineresources/visitingthelibrary/">2021-2022 Updates<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="https://www.muhlenberg.edu/offices/healthcenter/coronavirus/" target="_blank">Campus Pandemic Information</a></li>
+                                <li><a class="drop-list-item" href="/library/onlineresources/visitingthelibrary/">Visiting the Library</a></li>
+                                <li><a class="drop-list-item" href="/library/onlineresources/accessingprintresources/">Accessing Print Resources</a></li>                              
+                                <li><a class="drop-list-item" href="/library/onlineresources/accessingonlineresources/">Accessing Online Resources</a></li>
+                                <li><a class="drop-list-item" href="/library/onlineresources/off-campusaccess/">Off-Campus Access</a></li>
+                                <li><a class="drop-list-item" href="/library/onlineresources/research/">Research Support</a></li>
+                                <li><a class="drop-list-item" href="/library/onlineresources/faculty/">Faculty Resources</a></li>
+                            </ul>
+                        </li>
+                        <li class="top-menu-item drop"><a href="/library/about/">About Us<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/about/#contactus">Contact Us</a></li>
+                                <li><a class="drop-list-item" href="/library/about/hours/">Hours & Directions</a></li>                             
+                                <li><a class="drop-list-item" href="/library/about/staff/">Staff</a></li>
+                                <li><a class="drop-list-item" href="/library/about/studentemployment/">Student Employment</a></li>
+                                <li><a class="drop-list-item" href="/library/about/spaces/">Library Spaces &<br>Room Reservations</a></li>
+                                <li><a class="drop-list-item" href="/library/about/technology/">Library Technology</a></li>
+                                <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestions</a></li>                                
+                                <div class="subDrop">
+                                    <li><a class="drop-list-item" href="#">Forms<i class="dropdown-caret fas fa-caret-right" style="color:black;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="subDrop-content">
+                                            <li><a class="drop-list-item" href="/library/about/comments/">Comments</a></li>
+                                            <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/facultystudies/facultystudyrequestform/">Faculty Study Request</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/#forms">Interlibrary Loan Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/libraryinstructionrequestform/">Library Instruction Request</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/purchasesuggestions/">Purchase Suggestion Request</a></li>
+                                        </ul>
+                                    </li>
+                                </div>
+                                <div class="subDrop">
+                                    <li><a class="drop-list-item" href="#">Policies<i class="dropdown-caret fas fa-caret-right" style="color:black;vertical-align:middle;margin-left:5px;"></i></a>
+                                        <ul class="subDrop-content">
+                                            <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/collection-development-policy.html">Collection Development</a></li>
+                                            <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/gift-materials-policy.html">Gift Materials</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/government-documents-access-policy.html">Government Documents</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/lost-and-found-policy.html">Lost & Found</a></li>                              
+                                            <li><a class="drop-list-item" href="/library/about/policies/privacy-and-confidentiality.html">Privacy & Confidentiality</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-relations-policy.html">Public Relations</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/public-service-policy.html">Public Service</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/safety-and-emergency-policy.html">Safety and Emergency</a></li>
+                                            <li><a class="drop-list-item" href="/library/about/policies/textbook-policy.html">Textbook</a></li>
+                                        </ul>
+                                    </li>   
+                                </div>
+                            </ul>
+                        </li>
+                        <li class="top-menu-item drop"><a href="/library/spaces/">Library Spaces<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/spaces/classrooms/">Classrooms</a></li>
+                                <li><a class="drop-list-item" href="/library/spaces/studentspaces/">Student Spaces</a></li>                              
+                                <li><a class="drop-list-item" href="/library/spaces/specialresourcerooms/">Special Resource Rooms</a></li>
+                                <li><a class="drop-list-item" href="/library/spaces/#floorplans">Floor Plans</a></li>
+                                <li><a class="drop-list-item" href="/library/spaces/facultystudies/">Faculty Studies</a></li>
+                            </ul>
+                        </li>
+                        <li class="top-menu-item drop"><a href="/library/research/">Research<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/getstartedguides" target="_blank">Get Started with Research</a></li>
+                                <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/content.php?pid=356743" target="_blank">Subject Guides</a></li>
+                                <li><a class="drop-list-item" href="/library/research/citationguides/">Citation Guides</a></li>
+                                <li><a class="drop-list-item" href="/library/research/copyrightinformation/">Copyright Information</a></li>
+                                <li><a class="drop-list-item" href="http://libraryguides.muhlenberg.edu/az.php" target="_blank">Databases A-Z</a></li>
+                                <li><a class="drop-list-item" href="/library/research/askalibrarian/">Ask a Librarian</a></li>
+                            </ul>
+                        </li>
+                        <li class="top-menu-item drop"><a href="/library/borrowing/">Borrowing<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="https://muhlenberg.on.worldcat.org/myaccount" target="_blank">My Library Account</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/borrowingpolicies/">Borrowing Policies</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/borrowfromanotherlibrary/">Interlibrary Loan</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/coursereserves/">Course Reserves</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/filmscreenings/">Film Screenings</a></li>
+                                <li><a class="drop-list-item" href="/library/borrowing/equipmenttoborrow/">Equipment to Borrow</a></li>   
+                            </ul>
+                        </li>
+                        <li class="top-menu-item drop"><a href="/library/facultyresources/">Faculty Resources<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/facultyresources/teachingandlearning/">Teaching and Learning</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/collectiondevelopment/">Collection Development</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/copyrightatmuhlenberg/">Copyright at Muhlenberg</a></li>
+                                <li><a class="drop-list-item" href="https://docs.google.com/forms/d/e/1FAIpQLSd6oJnnZPAlZYYjUsaPdpfjZNZHHfIz7InH0FR3C6mrecDvGg/viewform">Course Reserves Request</a></li>                        
+                                <li><a class="drop-list-item" href="/library/facultyresources/facultystudies/">Faculty Studies</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/informationliteracyandinstructionalsupport/">Information Literacy &<br>Instructional Support</a></li> 
+                                <li><a class="drop-list-item" href="/library/facultyresources/librarycommittee/">Library Committee</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/libraryliaisons/">Library Liaisons</a></li>
+                                <li><a class="drop-list-item" href="/library/facultyresources/openaccess/">Open Access</a></li>                                        
+                                <li><a class="drop-list-item" href="/library/facultyresources/purchasesuggestions/">Purchase Suggestions</a></li>
+                            </ul>
+                        </li>
+                        <li class="top-menu-item drop"><a href="/library/specialcollections/">Special Collections<i class="fas fa-caret-down"></i></a>
+                            <ul class="drop-list">
+                                <li><a class="drop-list-item" href="/library/specialcollections/">Special Collections & Archives</a></li>
+                                <li><a class="drop-list-item" href="https://trexler.muhlenberg.edu/library/specialcollections/digitalrepository/">Muhlenberg College<br>Digital Repository</a></li>
+                                <li><a class="drop-list-item" href="/library/honorsthesis/">Student Honors Theses</a></li>
+                            </ul>
+                        </li>   
+                    </ul>
+                </nav>
+            </header>
+            <div id="content" class="container-fluid"><span id="d.en.440144"></span>
+<style type="text/css">
+#pageBanner{
+    position: relative;
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 8em;
+    padding-top: 3%;
+    padding-bottom: 3%; 
+    background-image: url('/library/media/contentassets/library/images/decorativebannerpictures/FacultyResources_banner.jpg');
+          background-position: bottom center;
+          background-size: cover;
+  }
+  .branding{
+    position: absolute;
+    color: white;
+    top: 35%;
+    left: 3%; 
+    font-size: 1.7em;
+    text-shadow: 2px 2px 5px black;
+  }
+  .primaryBrand{
+    font-size: 2.0em;
+  }
+  .secondaryBrand{
+    font-size: 1.5em;
+  }
+  @media (max-width: 445px){
+    .primaryBrand{
+    	font-size: 1.2em;
+  	}
+  }
+</style>
+
+<div id="pageBanner">
+  <h1 class="branding"><span class="primaryBrand">Muhlenberg College Copyright Policy</span></h1>
+</div>
+<nav aria-label="Breadcrumb" class="bc" role="navigation">
+          <ul class="breadcrumb">
+            <li class="bread"><a href="/library/">Library Home</a></li>|<li class="bread"><a href="/library/facultyresources/">Faculty Resources</a></li>|<li class="bread">Copyright at Muhlenberg</li>
+          </ul>
+        </nav><span id="d.en.446970"></span>
+<style>
+	#top {
+		display: none;
+		z-index: 5;
+		position: fixed;
+		bottom: 20px;
+		right: 30px;
+	}
+</style>
+<main class="sub" id="main_content">
+  <div class="sub-content">
+    
+    <section class="col2-wide">
+      <!--<h1>Muhlenberg College Copyright Policy</h1>-->
+      <p>The Muhlenberg College Copyright Policy contains the copyright policy of the College, serving as the main conduit for campus copyright information. This policy identifies ways individuals can use copyrighted works and remain copyright compliant, and also discusses ownership of College-produced copyrighted works. Please consult the<span>&nbsp;</span><span><a href="/library/research/copyrightinformation/library-copyright-policy.html">Library Copyright Compliance Policy</a>&nbsp;</span>to better understand how Library staff utilize copyright.</p>
+<h2>Jump To:</h2>
+<ul>
+<li style="font-weight: 400;"><a href="#Introduction"><span style="font-weight: 400;">Introduction</span></a></li>
+<li style="font-weight: 400;"><a href="#Basic Copyright Principles"><span style="font-weight: 400;">Basic Copyright Principles</span></a></li>
+<li style="font-weight: 400;"><a href="#Ownership"><span style="font-weight: 400;">Ownership</span></a></li>
+<li style="font-weight: 400;"><a href="#Using Copyrighted Materials (Fair Use)"><span style="font-weight: 400;">Using Copyrighted Materials (Fair Use)</span></a></li>
+<li style="font-weight: 400;"><a href="#Using Copyrighted Materials (TEACH Act)">Using Copyrighted Materials (TEACH Act)</a></li>
+<li style="font-weight: 400;"><a href="#Copyright Infringement and Compliance"><span style="font-weight: 400;">Copyright Infringement and Compliance</span></a></li>
+<li style="font-weight: 400;"><a href="#Procedures for Obtaining Copyright Permission"><span style="font-weight: 400;">Procedures for Obtaining Copyright Permission</span></a></li>
+<li style="font-weight: 400;"><a href="#Policy Management"><span style="font-weight: 400;">Policy Management</span></a></li>
+</ul>
+<p><strong>For additional information about academic copyright, visit our&nbsp;<a href="/library/research/copyrightinformation/copyright-primer.html">Copyright Primer</a>.</strong></p>
+<p><strong><span style="font-weight: 400;">Concerns about copyright in the classroom or in publishing can be directed to the Scholarly Communication Librarian, Kelly Cannon, at: kellycannon@muhlenberg.edu or 484-664-3602.</span></strong></p>
+<h2><strong><a id="Introduction"></a>Introduction</strong></h2>
+<p><span style="font-weight: 400;">"The Congress shall have power ... to promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries."</span></p>
+<p><span style="font-weight: 400;">US Constitution, Article 1, Section 8, Clause 8</span></p>
+<p><strong><span style="font-weight: 400;">Respecting intellectual property â "creations of the mind" (see<span>&nbsp;</span></span><a href="http://www.wipo.int/about-ip/en" target="_blank"><span style="font-weight: 400;">World Intellectual Property Organization</span></a><span style="font-weight: 400;">) is fundamental to ensuring progress in science and the arts. By recognizing and rewarding those who create intellectual property, we provide strong motivation to create and express new ideas. But ideas only have value when they are shared, developed, and tested by a challenge. Balancing these dual aspects of creativity and use can be delicate and difficult. Copyright laws are an attempt to find that balance by securing rights for creators of intellectual property while recognizing certain limited exceptions to those rights (including the Fair Use Doctrine). Current U.S. (and international) copyright law recognizes the delicacy of balancing creators' rights and these exceptions but have left a significant amount of ambiguity regarding the subject.</span></strong></p>
+<p><span style="font-weight: 400;">The purpose of the Copyright Policy and Primer is to help faculty, staff, and students at Muhlenberg College navigate U.S. copyright law to encourage a vigorous exchange and development of ideas while respecting individuals' intellectual property rights. These two documents are intended both to clarify what qualifies as copyrighted material and to outline the rights that creators of intellectual property should expect from the Muhlenberg community.</span></p>
+<p><strong><span style="font-weight: 400;">The Policy is intended to provide members of the Muhlenberg community with a general understanding of<span>&nbsp;<a href="#Basic Copyright Principles">Basic Copyright Principles</a></span></span><span style="font-weight: 400;">, and understanding of<span>&nbsp;<a href="#Ownership">Ownership</a></span></span><span style="font-weight: 400;"><span>&nbsp;</span>of works created at the College, the fair use of<span>&nbsp;<a href="#Using Copyrighted Materials (Fair Use)">Copyrighted Materials</a></span></span><span style="font-weight: 400;">, what constitutes<span>&nbsp;<a href="#Copyright Infringement and Compliance">Copyright Infringement and Compliance</a></span></span><span style="font-weight: 400;">,&nbsp;<a href="#Procedures for Obtaining Copyright Permission">Procedures for Obtaining Copyright Permission</a></span><span style="font-weight: 400;">, and<span>&nbsp;<a href="#Policy Management">Policy Management</a></span></span><span style="font-weight: 400;">.</span></strong></p>
+<p><strong><span style="font-weight: 400;">The<span>&nbsp;<a href="/library/research/copyrightinformation/copyright-primer.html">Copyright Primer</a></span></span><span style="font-weight: 400;"><span>&nbsp;</span>is intended to provide general guidelines for the applications of U.S. copyright law to works created or used on campus. See also the Office of Information Technology website (Electronic Communications and Information Technology Access Policy), the Dean of Academic Life website (Defining Plagiarism), and the Faculty Handbook (ownership rights and responsibilities).</span></strong></p>
+<p><strong><span style="font-weight: 400;">Neither the Policy nor the Copyright Primer is intended to give specific legal advice and those requiring such advice should refer to the<span>&nbsp;</span></span><a href="#Policy Management"><span style="font-weight: 400;">Policy Management</span></a><span style="font-weight: 400;"><span>&nbsp;</span>section of the Policy.</span></strong></p>
+<p><span style="font-weight: 400;">For further information about academic copyright, contact Kelly Cannon at Trexler Library. For legal advice, contact College Legal Counsel via the Office of the Provost.</span></p>
+<h2><strong><a id="Basic Copyright Principles"></a>Basic Copyright Principles</strong></h2>
+<ul>
+<li style="font-weight: 400;"><strong>What is protected by copyright?</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Copyright protection extends to all original works of authorship, applies to any tangible medium of expression in which the author produces the work, and attaches whether or not a work is published or registered with the U.S. Copyright Office, or<span>&nbsp;</span></span><strong>whether or not a copyright notice appears on or in the work</strong><span style="font-weight: 400;">. This protection begins the moment the work is first fixed in a tangible medium of expression. Facts and ideas contained in a copyrighted work cannot be protected by copyright, but the âexpressionâ of the facts or ideas can be.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>What is not protected by copyright?</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Copyright protection does not extend to works in the public domain. These include the following categories of works, for which copyright permission is not required:</span></li>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">works for which the copyright has expired;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">works for which the copyright was lost;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">certain works produced by a federal government employee within the scope of his/her employment;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">works that do not meet the copyright requirements of originality to qualify for copyright such as standard calendars, standard height/weight charts, rulers, etc.;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">facts and ideas.</span></li>
+</ol>
+</ul>
+</ul>
+<p>For more information on copyright basics, including when works pass into the public domain, consult the<span>&nbsp;</span><a href="/library/research/copyrightinformation/copyright-primer.html">Copyright Primer</a>.</p>
+<h2><strong><a id="Ownership"></a>Ownership</strong></h2>
+<p>The owner of a copyright has:</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><span style="font-weight: 400;">the&nbsp;</span></span><span style="font-weight: 400;">right to reproduce the copyrighted work;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the right to prepare derivative works based upon the work;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the right to distribute copies of the work to the public;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the right to perform the copyrighted work publicly; and</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">the right to display the copyrighted work publicly.</span></li>
+</ul>
+<p><strong><span style="font-weight: 400;">Copyright management requires an understanding of who owns the copyright in a work. Understanding ownership is important both for the party developing material that will be copyrighted, and users who wish to obtain permission to use material developed and copyrighted by others.</span></strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Copyright law generally recognizes the person who created the work as the owner of the copyright in that work unless: (i) the work was created by an employee during the course of employment; or (ii) there is an agreement (preferably, in writing) whereby the creator assigns the copyright to another person or entity. These are âworks for hire.â</span></li>
+</ol>
+<ul>
+<li style="font-weight: 400;"><strong>Works prepared by faculty</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Typically, Muhlenberg will grant its faculty member ownership of the copyright in scholarly, artistic, literary, musical, and educational materials that were wholly developed by the faculty member within the author's field of expertise. For example, at Muhlenberg, a faculty member who develops course material or a creative or scholarly work is typically assigned the copyright to that material subject to a royalty-free license granted the College to use the work.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Contractual agreements</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">An exception to the above rule for faculty works occurs when a prior contractual agreement exists to transfer ownership rights -- for example, for a scholarly article published in a journal that requires (full or joint) ownership of copyright rights -- or when an agreement exists where the College may recoup certain development and/or royalty expenses.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Joint authorship</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Joint authorship and merging of content and technologies (such as intellectual content embedded in software such as a learning âgameâ) create complications and in these cases, ownership rights should be agreed upon prior to the creation of the work, be it an online course, multimedia work of art, or software.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Use of significant College resources</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ownership of professional or academic-related material developed with significant College resources is assigned according to a pre-development agreement between the developer and the College.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Other work-for-hire</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Material developed by employees of the College other than as specified above (salaried staff, consultants, faculty working in a non-academic capacity for the College, commissioned works by the College, acquired works, or students working for the College in non-academic capacities) is owned by the College unless otherwise agreed in writing.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Student and joint student-faculty work</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Professional or academic-related material developed by students or jointly by students and faculty are owned by the student and (if relevant) faculty member in keeping with the above guidelines.</span></li>
+</ul>
+</ul>
+<p><span style="font-weight: 400;">For a more detailed discussion of "who owns the copyright," consult with College Legal Counsel via the Provost's Office.</span></p>
+<h2><strong><a id="Using Copyrighted Materials (Fair Use)"></a>Using Copyrighted Materials (Fair Use)</strong></h2>
+<ul>
+<li style="font-weight: 400;"><strong>Definition of Fair Use</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The Fair Use Doctrine in United States copyright law allows limited, non-commercial use of copyrighted material without requiring permission from the rights holders.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>College Position on Copyright and Fair Use</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The College is committed to complying with all applicable U.S. laws regarding copyrights. As an institution devoted to the creation, discovery, and dissemination of knowledge, the College supports the responsible, good faith exercise of full fair use rights, as codified in federal law at<span>&nbsp;</span></span><a href="http://www.copyright.gov/title17/92chap1.html#107" target="_blank"><span style="font-weight: 400;">17 U.S.C. Â§ 107</span></a><span style="font-weight: 400;">, by faculty, staff, and students in teaching, research, and service activities. Except as allowed by law, it is a violation of this Policy and law for College faculty, staff, or students to reproduce, distribute, display publicly, perform, digitally transmit, or prepare derivative works based upon a copyrighted work without the permission of the copyright owner.</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Criteria for Conducting a Fair Use Analysis</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fair use is determined on a case-by-case basis by weighing these four factors:</span></li>
+<ol>
+<li style="font-weight: 400;"><strong>The purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes.</strong><span style="font-weight: 400;"><span>&nbsp;</span>Fair use favors nonprofit, educational use for teaching, research, and scholarship. Fair use also favors restricted access, i.e. students registered for a specific course. Not all use for nonprofit educational purposes qualifies for fair use and many colleges have been sued for copying or permitting the copying of copyrighted textbooks and course packs.</span></li>
+<li style="font-weight: 400;"><strong>The nature of the copyrighted work.</strong><span style="font-weight: 400;"><span>&nbsp;</span>Fair use favors the use of materials that are factual (news, science) as opposed to creative (art, music, films, novels, plays). Also favored are published works over works that have remained unpublished. The materials used should also clearly fit the educational purpose.</span></li>
+<li style="font-weight: 400;"><strong>The amount and substantiality of the portion used in relation to the copyrighted work as a whole.</strong><span style="font-weight: 400;"><span>&nbsp;</span>Fair use favors the use of small portions of the total work deemed not central or significant to the entire work. The amount should be appropriate for the favored educational purpose.</span></li>
+<li style="font-weight: 400;"><strong>The effect of the use upon the potential market for or value of the copyrighted work.</strong><span style="font-weight: 400;"><span>&nbsp;</span>Fair use favors the use of lawfully acquired or purchased copies of the original, one or few copies made, with no significant effect on the market or potential market for the copyrighted work. Fair use also favors situations where there is no similar product marketed by the copyright holder, and where there is a lack of a licensing mechanism.</span></li>
+</ol>
+</ul>
+</ul>
+<p><span style="font-weight: 400;">The<span>&nbsp;</span></span><a href="https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html" target="_blank"><span style="font-weight: 400;">Fair Use Checklist</span></a><span style="font-weight: 400;"><span>&nbsp;</span>is available to assist you in making a fair use analysis. In analyzing fair use factors, it should be noted that the application of this doctrine by U.S. courts has been erratic and reliance upon this doctrine should be limited to the clearest of applications.</span></p>
+<p><strong><strong><span style="font-weight: 400;">For more information on conducting a fair use analysis, consult the<span>&nbsp;</span></span><span style="font-weight: 400;"><a href="/library/research/copyrightinformation/copyright-primer.html">Copyright Primer</a></span><span style="font-weight: 400;">.</span></strong></strong></p>
+<h2><strong><a id="Using Copyrighted Materials (TEACH Act)"></a>Using Copyrighted Materials (TEACH Act)</strong></h2>
+<p><strong><span style="font-weight: 400;">The TEACH Act is another exception to copyright that extends certain privileges to the digital learning environment with password protection. Specifically, the law allows for âthe performance of a nondramatic literary or musical work or reasonable and limited portions of any other work, or display of a work in an amount comparable to that which is typically displayed in the course of a live classroom session.â</span></strong></p>
+<h2><strong><a id="Copyright Infringement and Compliance"></a>Copyright Infringement and Compliance</strong></h2>
+<p><span style="font-weight: 400;">Individuals are liable for their own actions. While copyright owners may sue the College too, this may not insulate the individual who took the allegedly infringing action from the full force of a lawsuit. Courts can award up to $150,000 for each separate act of willful infringement. Willful infringement means knowingly infringing. Ignorance of the law is no excuse and individuals who are guilty of infringement may be liable for damages, plus attorneys' fees, as well as disciplinary action.</span></p>
+<p><span style="font-weight: 400;">Muhlenberg College's legal counsel will defend employees in their line of work against a charge that their use of another's works is an infringement so long as they abide by the College's policy and by the terms of any specific license governing the use of a work. If their activities violate these conditions, they will be personally responsible for their own defense.</span></p>
+<p><strong><span style="font-weight: 400;">For further information on infringement related to the College as Service Provider, consult the Office of Information Technology's<span>&nbsp;</span></span><a href="http://muhlenberg.edu/main/aboutus/oit/about/policies_procedures/electronic.html" target="_blank"><span style="font-weight: 400;">Electronic Communications and Information Technology Access Policy</span></a><span style="font-weight: 400;">. For legal advice, consult with the College Legal Counsel via the Office of the Provost.</span></strong></p>
+<h2><strong><a id="Procedures for Obtaining Copyright Permission"></a>Procedures for Obtaining Copyright Permission</strong></h2>
+<p><span style="font-weight: 400;">If you want to use the work of someone else, you must presume that he or she owns the copyright in that work and, if your use does not clearly qualify as fair use, you must get the permission of the copyright owner before using it. Several options exist to ascertain ownership rights and to obtain rights to use a work:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If the item is a journal article or a book, the&nbsp;<a href="https://www.copyright.com/" target="_blank">Copyright Clearance Center</a> has an electronic permission service. Rather than contacting this service directly, you may wish to contact Trexler Library or the Muhlenberg Bookstore for assistance, as they regularly use this service.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The Library and Bookstore are also equipped to pursue permissions beyond the Copyright Clearance Center, going directly to the copyright owner if needed. Also, if you are placing something on reserve with the Library, the Library has a fund designated to pay permissions fees.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Various organizations grant usage rights for visual images, musical works, plays, and movies. For these, you may also contact the Library.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ideally, permission to use the works of others should be in writing and should document the scope of usage. When permission is obtained orally, the conversation should be documented and a confirming letter sent to the copyright owner to ensure all parties are in agreement and no future misunderstandings might arise. In most cases, you will be required to acknowledge the copyright in any work or presentation that the borrowed material appears in.</span></li>
+</ul>
+<p><span style="font-weight: 400;">If the copyright owner is hard to find, contact Kelly Cannon at Trexler Library for assistance. In cases where the copyright owner is unresponsive, assess your risk, or consider not using the work. Lack of response does not waive the ownerâs copyright rights and you and the College may be liable if you use a copyrighted work without obtaining permission, even in cases where you tried and failed.</span></p>
+<h2><strong><a id="Policy Management"></a>Policy Management</strong></h2>
+<p><span>Appointed by the Provost, a Copyright Committee, operating in conjunction with College Legal Counsel as appropriate, shall have such responsibilities as the Provost may specify, including but not limited to the following duties:</span></p>
+<ol>
+<li><span>Monitoring trends in such areas as institutional copyright use policies, changes in copyright ownership models, and guidelines for fair use of information in all formats;</span></li>
+<li><span>Identifying areas in which policy development is needed and recommending to the Provost new or revised institutional policies and guidelines;</span></li>
+<li><span>Assisting in identifying educational needs of the faculty, staff, and students related to compliance with copyright policies and guidelines, and advising on appropriate ways to address those needs, and determining whether the College will assign its rights to copyright in specific cases.</span></li>
+<li><span>Seeking registration of copyrights on behalf of the College.</span></li>
+</ol>
+<p style="text-align: right;"><em>Reviewed 2021</em></p>
+      <button id="top" class="btn-main btn-top"><span class="material-icons">expand_less</span></button>
+    </section>
+  </div><span id="d.en.446971"></span>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+	window.onscroll = function() {scrollFunction()};
+
+	$("#top").click(function(){
+				topFunction();
+		});
+
+	function scrollFunction() {
+		if (document.body.scrollTop > 25 || document.documentElement.scrollTop > 25) {
+		$('#top').css('display', 'block');
+		} else {
+			$('#top').css('display', 'none');
+		}
+	}
+
+	function topFunction() {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
+	}
+	
+});
+</script>
+<span id="d.en.414246"></span>
+<aside>
+  <div class="inner">
+    <nav class="left-menu">
+       <h3><a href="/library/facultyresources/">Faculty Resources</a></h3> 
+          <ul class="aside-menu">
+            <a href="/library/facultyresources/teachingandlearning/">Teaching and Learning</a>
+
+            <a href="/library/facultyresources/collectiondevelopment/">Collection Development</a>
+
+            <a href="/library/facultyresources/copyrightatmuhlenberg/">Copyright at Muhlenberg</a>
+
+            <a href="/library/borrowing/coursereserves/">Course Reserves</a>
+            
+            <a href="/library/facultyresources/facultystudies/">Faculty Studies</a>
+
+            <a href="/library/facultyresources/informationliteracyandinstructionalsupport/">Information Literacy & Instruction</a>
+
+            <a href="/library/facultyresources/librarycommittee/">Library Committee</a>
+
+            <a href="/library/facultyresources/libraryliaisons/">Library Liaisons</a>
+
+            <a href="/library/facultyresources/openaccess/">Open Access</a>
+
+            <a href="/library/facultyresources/purchasesuggestions/">Purchase Suggestions</a>
+          </ul>
+    </nav>
+  </div><span id="d.en.426223"></span>
+<div class="box">
+        <p>Have a question? Call Us!</p>
+        <p class="phone"><i class="material-icons phone-icon icon24">call</i>484-664-3500</p>
+        <a href="https://www.facebook.com/muhlenbergtrexlerlibrary/" target="_blank" class="inline">
+            <i class="fab fa-facebook icons-f36"><span class="visuallyhidden"></span></i></a><a href="https://www.instagram.com/muhlenbergtrexlerlibrary" target="_blank" class="inline"><i class="fab fa-instagram icons-f36"><span class="visuallyhidden"></span></i></a>
+    </div>	
+
+</aside></div>
+<footer>
+    <div class="footer_ribbon">
+        <div class="fs-row">
+            <div class="fs-cell">
+                <div class="footer_ribbon_inner">
+                    <div class="footer_group footer_group_hat">
+                        <div class="logo logo_footer logo_icon" itemscope="" itemtype="http://schema.org/Organization">
+                            <a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+                                <span class="logo_link_label">Muhlenberg College</span>
+                                <img src="https://www.muhlenberg.edu/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo">
+                            </a>
+                        </div>
+                        <div class="footer_address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                            <a class="footer_address_link footer_address_location" href="#">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_marker">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">
+                                    <span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+                                    <span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+                                    <span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+                                    <span class="footer_address_state" itemprop="addressRegion">PA</span>
+                                    <span class="footer_address_zip" itemprop="postalCode">18104</span>
+                                </span>
+                            </a>
+                            <a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+                                <!--<span class="footer_address_icon"><svg class="icon icon_phone">
+                                    <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+                                    </svg>
+                                </span>-->
+                                <span class="footer_address_label">484-664-3100</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="footer_group footer_group_sole">
+                        <nav class="footer_nav">
+                            <ul class="footer_nav_list">
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/campus-map/">
+                                        <span class="footer_nav_link_label">Maps &amp; Directions</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/offices/oit/webresources/accessibility/">
+                                        <span class="footer_nav_link_label">Accessibility</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+                                </li>
+                                <li class="footer_nav_item">
+
+
+                                    <a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+                                        <span class="footer_nav_link_label">Library</span>
+                                    </a>
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/equityandtitleix/">
+                                        <span class="footer_nav_link_label">Title IX</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/eventservices/">
+                                        <span class="footer_nav_link_label">Conference &amp; Event Services</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                                <li class="footer_nav_item">
+                                    <a class="footer_nav_link" href="https://www.muhlenberg.edu/tactical/azfind.htm">
+                                        <span class="footer_nav_link_label">A-Z Index</span>
+                                    </a>
+                                    <!--
+                                                                              
+                                    -->
+
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="social_nav" itemscope="" itemtype="http://schema.org/Organization">
+                            <link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+                            <div class="social_nav_header">
+                                <h2 class="social_nav_title">Social</h2>
+                            </div>
+                            <div class="social_nav_list">
+                                <div class="social_nav_item facebook">
+                                    <a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_facebook">
+                                            
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Facebook</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item instagram">
+                                    <a class="social_nav_link" href="https://www.instagram.com/explore/locations/5194184/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_instagram">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Instagram</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item twitter">
+                                    <a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_twitter">
+                                          
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">Twitter</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item youtube">
+                                    <a class="social_nav_link" href="https://www.youtube.com/user/muhlsid" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_youtube">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">YouTube</span>
+                                    </a>
+                                </div>
+                                <div class="social_nav_item linkedin">
+                                    <a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+                                        <!--<span class="social_nav_icon"><svg class="icon icon_linkedin">
+                                           
+                                            </svg>
+                                        </span>-->
+                                        <span class="social_nav_label">LinkedIn</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p class="footer_credit">
+                    <span class="footer_credit_icon">
+                        <a class="t4Edit-page" href="https://t4.muhlenberg.edu/terminalfour/page/directEdit#edit/8/en/82623">Â©</a>
+                    </span>
+                    <span class="footer_credit_label">2019 Muhlenberg College</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</div>
+
+  </body>
+</html>

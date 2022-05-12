@@ -1,0 +1,3465 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Recommended Courses by Departments &amp; Programs | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Recommended Courses by Departments &amp; Programs">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/">Dean of Academic Life</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/">Academic Advising</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/recommendedcoursesbydepartmentsprograms/">Recommended Courses by Departments &amp; Programs</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Recommended Courses by Departments &amp; Programs</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_4">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/">Dean of Academic Life</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/">Academic Advising</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/recommendedcoursesbydepartmentsprograms/">Recommended Courses by Departments &amp; Programs</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Recommended Courses by Departments &amp; Programs</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Recommended Courses by Departments &amp; Programs">
+							<span class="sub_nav_handle_label">Recommended Courses by Departments &amp; Programs</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/academicadvisingguide/">Academic Advising Guide</a></li><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/academicdepartmentchairs/">Academic Department Chairs</a></li><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/courseplacementinformation/">Course Placement Information</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/offices/deanofacademiclife/academicadvising/recommendedcoursesbydepartmentsprograms/">Recommended Courses by Departments &amp; Programs</a></span></li><li class="sub_nav_item"><a href="/offices/deanofacademiclife/academicadvising/referralguide/">Referral Guide</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/">Dean of Academic Life</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/">Academic Advising</a></li><li class="linkitem"><a href="/offices/deanofacademiclife/academicadvising/recommendedcoursesbydepartmentsprograms/">Recommended Courses by Departments &amp; Programs</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><h3>Courses Recommended by Department Chairs and Program Directors</h3><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-accounting2" 
+     aria-expanded="false" 
+     aria-controls="advising-accounting2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-accounting">
+      <p class="panel-title pull-left">
+          Accounting
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-accounting2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-accounting">
+    <div class="panel-body">
+        <p>In order to be accepted and remain as a major/minor in accounting, a student must achieve and maintain a minimum 2.0 average in all courses taken in his/her major/minor field.</p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Economics &amp; Business</strong><br> ECN 101: Principles of Macroeconomics <br> ECN 102: Principles of Microeconomics <br> BUS 101: Business and Society (serves as a prerequisite for ACT 101, but is not<br> required for nor does it count towards the major)<br> <br><strong>Language</strong> <br> Any language to satisfy language requirements. <br><br><strong>Accounting</strong> <br>ACT 101: Financial Accounting. For those planning to major in accounting ACT 101 should be scheduled during the second semester of the first year. ACT 101 should not be recommended for other first year students.</p>
+<p><strong>Mathematics</strong> <br>First-year students contemplating majoring in accounting or business should plan to take MTH 119: Statistical Analysis. It is recommended to take this after the first semester. <br> <br>Although MTH 121: Calculus I is not a required course in this major, it is strongly encouraged because of overlap with other related disciplines.</p>
+<p>First-year students contemplating majoring in accounting are encouraged to consult with Trevor Knox, Accounting Coordinator, as early as possible during their first year.</p>
+<p>Due to the sequencing of courses, please do not place undeclared students in any course without checking the catalog for prerequisites (e.g., Marketing, Management, and Entrepreneurial Studies).</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-american-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-american-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-american-studies">
+      <p class="panel-title pull-left">
+          American Studies
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-american-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-american-studies">
+    <div class="panel-body">
+        <p>First-year students who intend to major in American Studies should take the following courses during their first year: <br> <br><strong>First-Year Seminar</strong><br> <br><strong>History</strong><br> HST 100-149: Introduction to History (only sections with an American focus) <br>[The core requirement for the major also includes one advanced American history course (300 or 400 level), but this does not need to be taken during the first year.]</p>
+<p>If intending to get certification in Education EDU 101: History &amp; Politics of American Education counts for this.</p>
+<p><strong>English</strong><br> ENG 115: American Writers</p>
+<p><strong>Political Science</strong><br> PSC 101: Introduction to American National Government</p>
+<p><strong>Language</strong> <br> Any language is acceptable.</p>
+<p><strong>American Studies</strong><br> AMS 101: Introduction to American Studies</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-anthropology2" 
+     aria-expanded="false" 
+     aria-controls="advising-anthropology2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-anthropology">
+      <p class="panel-title pull-left">
+          Anthropology
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-anthropology2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-anthropology">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong></p>
+<p><strong>Anthropology</strong><br> ATH 112: Cultural Anthropology</p>
+<p><strong>Language</strong> <br> By choice</p>
+<p><strong>HDGE requirement</strong><br> ATH 112: Cultural Anthropology (no pre-req)<br> ATH 155: Archaeology &amp; Prehistory (no pre-req)<br>ATH 230: Inca, Aztec and Maya (no pre-req)<br>ATH 250: Anthropology of Gender &amp; Sexuality (no pre-req)<br> ATH 262: Historical Ecology (no pre-req)<br> ATH 291: Medicine &amp; Culture (no pre-req)</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-art-history-art-studio2" 
+     aria-expanded="false" 
+     aria-controls="advising-art-history-art-studio2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-art-history-art-studio">
+      <p class="panel-title pull-left">
+          Art History and Art Studio
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-art-history-art-studio2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-art-history-art-studio">
+    <div class="panel-body">
+        <p><strong>Art History Major</strong> <br>Students considering the Art History major should take ARH 101: Introduction to Art History I &amp; ARH 102: Introduction to Art History II during their first year.</p>
+<p><strong>Art Studio Major</strong><br> Students considering the Art Studio major should take ARS 113: Drawing Studio in the fall of the first year and ARH 209: Digital Foundations in the fall of the sophomore year. ARH101: Introduction to Art History I, Ancient to Gothic and ARH 102: Art History II, Renaissance to Modern by the end of the sophomore year.</p>
+<p><strong>Second Language</strong><br> French, German, or Italian</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-asian-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-asian-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-asian-studies">
+      <p class="panel-title pull-left">
+          Asian Studies (minor only)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-asian-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-asian-studies">
+    <div class="panel-body">
+        <p><strong>Fall 2021 Courses Appropriate for First Year Students</strong></p>
+<p>CHN 101 Elementary Chinese I</p>
+<p>HST 269 Introduction to Traditional China</p>
+<p>HST 380 Edge of Empire: China</p>
+<p>PHL 250 Philosophies of India (with instructor approval)</p>
+<p>REL 119 The Moral Self</p>
+<p>REL 208 Religions of India</p>
+<p>REL 225 Buddhist Traditions</p>
+<p>REL 383 Gandhi and Nonviolence</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-biochemistry2" 
+     aria-expanded="false" 
+     aria-controls="advising-biochemistry2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-biochemistry">
+      <p class="panel-title pull-left">
+          Biochemistry
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-biochemistry2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-biochemistry">
+    <div class="panel-body">
+        <p><strong>Chemistry</strong></p>
+<p><span style="font-weight: 400;">CHM 103: General Chemistry I</span></p>
+<p><span style="font-weight: 400;">Students with weak science backgrounds (e.g.) MSAT &lt; 600) should enroll in CHM 100: Introductory Chemistry in the Fall and then begin the chemistry sequence in the second term.&nbsp; Note that CHM 104: General Chemistry II should be enrolled in the summer so that CHM 201: Organic Chemistry I can be enrolled in the sophomore year.</span></p>
+<p><strong>Biology</strong></p>
+<p><span style="font-weight: 400;">Biochemistry majors should roster BIO 160: Foundations of Biological Inquiry.</span></p>
+<p><strong>Mathematics</strong></p>
+<p><span style="font-weight: 400;">MTH 121: Calculus I and MTH 122: Calculus II are required.&nbsp; Students should begin mathematics as soon as possible. Students with strong high school backgrounds in Mathematics are encouraged to roster MTH 121 in the first semester (or MTH 122, if math placement warrants this).</span></p>
+<p><strong>Physics</strong></p>
+<p><span style="font-weight: 400;">Strong students who have received college credit for MTH 121: Calculus I could consider PHY 121: Physics I.</span></p>
+<p><strong>Language</strong></p>
+<p><span style="font-weight: 400;">Biochemistry majors may postpone their language requirement.</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Elective</strong></p>
+<p><span style="font-weight: 400;">Available if a first-year seminar is not enrolled during fall.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-biology2" 
+     aria-expanded="false" 
+     aria-controls="advising-biology2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-biology">
+      <p class="panel-title pull-left">
+          Biology
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-biology2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-biology">
+    <div class="panel-body">
+        <p><strong>Biology</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Enrolling in BIO 160: Foundations of Biological Inquiry (preferably in fall semester) and in BIO 165: From Ecosystems to Organisms (typically spring semester) is strongly recommended and expected for first-year students planning to major in biology.&nbsp; One section of BIO 160 is also offered in the Spring, if Fall scheduling makes it unusually difficult to enroll.</span></p>
+<p><span style="font-weight: 400;">Concurrent enrollment in CHM 100: Introductory Chemistry or CHM 103: General Chemistry I is also strongly recommended.</span></p>
+<p><span style="font-weight: 400;">BIO 165: From Ecosystems to Organisms may not be taken without BIO 160: Foundations of Biological Inquiry (as prerequisite or concurrently).</span></p>
+<p><strong>Chemistry</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">CHM 103: General Chemistry I, CHM 104: General Chemistry II or CHM 100: Introductory Chemistry if MSAT is &lt;600.&nbsp; &nbsp;</span></p>
+<p>Students who are considering a major in the natural sciences, and/or prehealth cousework will take a chemistry placement exam.&nbsp; Inform students that they will&nbsp;<span style="text-decoration: underline;">not</span> be able to register for CHM 100 or 103 until they have completed the placement exam.&nbsp;&nbsp;<span style="text-decoration: underline;"><strong>A recommendation will be made for each student, and the student should be informed by their advisor whether they should take CHM 100 or 103; the student can ultmately decide which course to roster.</strong></span></p>
+<p>Most students&nbsp;will be recommended for CHM 103: the following are indicators used to recommend that a student take CHM 100 in the fall semester prior to taking CHM 103:&nbsp; MSAT score &lt; 600, MACT &lt; 27, low chemistry placement score and/or low confidence in taking a college-level chemistry course, math placement lower than Calculus I.&nbsp; Levels and grades in high school science and mathematics courses are also considered.</p>
+<p>Note that if students take CHM 100 in the fall, they can take 103 in the spring semester of their first year.&nbsp; They need to complete CHM 104 (General Chemistry II prior to taking Organic Chemistry, and some upper level biology courses (CHM 104 can be taken concurrently with BIO 175).&nbsp; One option is to take CHM 104 over the summer to complete Organic in the sophomore year.</p>
+<p><span style="font-weight: 400;">CHM 104 is a co-requisite or pre-requisite for BIO 175, meaning that CHM 104 and BIO 175 can be taken at the same time.&nbsp; BIO 175 is now taught in both the Fall and Spring semesters, adding flexibility.</span></p>
+<p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Any language.&nbsp;&nbsp;</span></p>
+<p><strong>Mathematics</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">MTH 121: Calculus I, MTH 122: Calculus II, or MTH 223: Calculus III is recommended in the spring semester.</span></p>
+<p><span style="font-weight: 400;">MTH 121/122 is not required for the Biology major, but highly recommended and it is a pre/c0-requisite for PHY 121, which is required for most postgraduate programs.</span></p>
+<p><strong>Elective</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Humanities or Social Science</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-business-administration2" 
+     aria-expanded="false" 
+     aria-controls="advising-business-administration2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-business-administration">
+      <p class="panel-title pull-left">
+          Business Administration
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-business-administration2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-business-administration">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">In order to be accepted and remain as a major/minor in Business Administration, a student must achieve and maintain a minimum 2.0 average in all courses taken in his/her major/minor field.&nbsp;</span>&nbsp;&nbsp;</p>
+<p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Business</strong></p>
+<p><span style="font-weight: 400;">BUS 101: Business &amp; Society&nbsp;</span><br> <span style="padding-left: 30px; font-weight: 400;">(may be scheduled in any order with ECN 101 and ECN 102)</span></p>
+<p><strong>Economics</strong></p>
+<p><span style="font-weight: 400;">ECN 101: Principles of Macroeconomics&nbsp;</span><br> <span style="font-weight: 400;">ECN 102: Principles of Microeconomics&nbsp;</span><br> <span style="padding-left: 30px; font-weight: 400;">(may be scheduled in any order with BUS 101)</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Any language to satisfy language requirements.&nbsp;</span></p>
+<p><strong>Accounting</strong></p>
+<p><span style="font-weight: 400;">ACT 101: Financial Accounting. Should not be recommended for first semester students.&nbsp; It may be scheduled second semester, particularly for those planning to major in accounting.</span></p>
+<p><strong>Mathematics</strong></p>
+<p><span style="font-weight: 400;">First-year students contemplating majoring in accounting or business should plan to take MTH 119: Statistical Analysis. &nbsp; It is recommended to take this after the first semester.</span></p>
+<p><strong>Business Foundation courses (BUS 101, ECN 101, ECN 102, MTH 119, ACT 101) should generally be taken before Business Core courses (BUS 233, BUS 236, BUS 239, FIN 237).&nbsp; First-year students considering a major in Business are encouraged to take BUS 101 in the first academic year, and to consult with a business faculty member early in their first year for information on Business concentrations in Management &amp; Organization Studies, Marketing, Arts Administration, and International Business.</strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-chemistry2" 
+     aria-expanded="false" 
+     aria-controls="advising-chemistry2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-chemistry">
+      <p class="panel-title pull-left">
+          Chemistry
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-chemistry2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-chemistry">
+    <div class="panel-body">
+        <p><strong>Chemistry</strong></p>
+<p><span style="font-weight: 400;">CHM 100 (Introductory Chemistry) or CHM 103 (General Chemistry I)</span></p>
+<p><span style="font-weight: 400;">Students who are considering a major in the natural sciences, and/or prehealth coursework will take a chemistry placement exam.&nbsp; Inform student that they will <span style="text-decoration: underline;">not</span>&nbsp;be able to register for CHM 100 or 103 until they have completed the placement exam.&nbsp; <span style="text-decoration: underline;">A recommendation will be made for each student, and the student should be informed by their advsor whether they should take CHM 100 or 103; the student can ultimately decide which course to roster</span>.&nbsp; </span></p>
+<p><span style="font-weight: 400;">Most students will be recommended for CHM 103; the following are indicators used to recommend that a student take CHM 100 in the fall semester prior to taking CHM 103:</span></p>
+<p><span style="font-weight: 400;">MSAT score &lt; 600, MSAT &lt; 27, low chemistry placement score and/or low confidence in taking a college-level chemistry course, math placement lower than Calculus I.&nbsp; Levels and grades in high school science and mathematics courses are also considered.</span></p>
+<p><span style="font-weight: 400;">Note that if students take CHM 100 in the fall, they can take 103 in the spring semester of their first year.&nbsp; They need to complete CHM 104 (General Chemistry II) prior to taking Organic Chemistry, and some upper-level biology courses (CHM 104 can be taken concurrently with BIO 175).&nbsp; One option is to take CHM 104 over the summer to complete Organic in the sophomore year.</span></p>
+<p><span style="font-weight: 400;">Chemistry majors are not required to take biology, but students interested in the health professions should also roster BIO 160.</span></p>
+<p><strong>Mathematics</strong></p>
+<p><span style="font-weight: 400;">MTH 121: Calculus I and MTH 122: Calculus II are required.&nbsp; Students should begin mathematics as soon as possible.</span></p>
+<p><strong>Language</strong></p>
+<p><span style="font-weight: 400;">Any language is acceptable.</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Elective</strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-computer-science2" 
+     aria-expanded="false" 
+     aria-controls="advising-computer-science2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-computer-science">
+      <p class="panel-title pull-left">
+          Computer Science
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-computer-science2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-computer-science">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Note: First-year students who intend to major in Computer Science should take Computer Science I or Computer Science II (if placed there) in the fall of their first year.</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Language</strong></p>
+<p><strong>Mathematics</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">MTH 121: Calculus I </span><span style="font-weight: 400;">or</span><br> <span style="font-weight: 400;">MTH 122: Calculus II</span></p>
+<p><span style="font-weight: 400;">Muhlenberg College does not offer a course in Precalculus. If necessary, students who will eventually need Calculus should consider taking Precalculus at another college over the summer followed by MTH 121: Calculus I at Muhlenberg.&nbsp; Consult the mathematics placement sheet</span>&nbsp;&nbsp;</p>
+<p><strong>Computer Science</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Computer Science I </span><span style="font-weight: 400;">or</span><br> <span style="font-weight: 400;">Computer Science II</span><br> <span style="font-weight: 400;">(A student can place into either CS I or CS II, depending on AP credit.)</span></p>
+<p><strong>NOTE:&nbsp; Please refer to the Mathematics Placement information and to the Mathematics Placement sheet you receive for each student on his/her Summer Advising day.</strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-dance2" 
+     aria-expanded="false" 
+     aria-controls="advising-dance2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-dance">
+      <p class="panel-title pull-left">
+          Dance
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-dance2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-dance">
+    <div class="panel-body">
+        <p><strong>Prospective Dance Majors and Minors </strong><strong><em>SHOULD</em></strong><strong> register for:&nbsp;</strong></p>
+<p><strong>DNC-186 Dance Practices 1</strong></p>
+<p><span style="font-weight: 400;">This course will only be offered in the fall and is specifically designed for first year dancers.&nbsp; It is vital that students do not put the course off until their sophomore year.&nbsp; All first year students considering a major or minor should register this as their first choice of courses.</span></p>
+<p><strong>BIO-102&nbsp; Concepts of Biology: Biology of Movement&nbsp;</strong></p>
+<p><span style="font-weight: 400;">This topic of Concepts only!&nbsp; No other ‚Concepts of Biology‚ class counts toward the Dance major. Recommended fall of freshman year or fall of sophomore year.&nbsp;</span></p>
+<p><strong>OR</strong></p>
+<p><strong>BIO-160: Foundations of Biological Inquiry (fall)</strong><strong> &amp;&nbsp;</strong></p>
+<p><strong>BIO-165: From Ecosystems to Organisms (spring)</strong></p>
+<p><span style="font-weight: 400;">Dance students planning to double major in Biology should enroll in BIO-160 in the fall and plan to take BIO-165 in the Spring.&nbsp; BIO 165 counts towards the Dance major.</span></p>
+<p><strong>First Year Seminar</strong></p>
+<p><strong>Language or other GAR requirements</strong></p>
+<p><strong>Notes to first year advisors&nbsp;</strong></p>
+<p><span style="font-weight: 400;">Certain language classes conflict with DNC-186. If this is the case, it is better to delay the language start to spring semester or sophomore year.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The (AR) credit may be earned by non-majors and minors by taking two dance technique courses in two different idioms during the same semester.&nbsp; For example, ballet and jazz or modern and jazz tap. Dance majors may also want to add a (.5) technique class in addition to DNC-186 ‚ this is fine.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Dance technique class levels:</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Level I ‚ beginners or those with limited training</span><br> <span style="font-weight: 400;">Level II ‚ lower-intermediate students with prior training</span><br> <span style="font-weight: 400;">Level III ‚ intermediate for those with several years of training</span><br> <span style="font-weight: 400;">Level IV ‚ advanced-intermediate for those with significant achievement&nbsp;</span><br> <span style="font-weight: 400;">(requires chair approval)</span><br> <span style="font-weight: 400;">Level V ‚ advanced (requires chair approval)</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-economics2" 
+     aria-expanded="false" 
+     aria-controls="advising-economics2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-economics">
+      <p class="panel-title pull-left">
+          Economics
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-economics2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-economics">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">In order to be accepted and remain as a major in economics, a student must achieve and maintain a minimum 2.0 average in all courses taken in his/her major field.</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Economics</strong></p>
+<p><span style="font-weight: 400;">ECN 101: Principles of Macroeconomics</span><br> <span style="font-weight: 400;">ECN 102: Principles of Microeconomics</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Any language to satisfy language requirements.&nbsp;</span></p>
+<p><strong>Mathematics</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MTH 121: Calculus I </span><strong>or</strong><br> <span style="font-weight: 400;">MTH 122: Calculus II </span><strong>or</strong><br> <span style="font-weight: 400;">MTH 223: Calculus III</span></p>
+<p><span style="font-weight: 400;">ECN 101:&nbsp; Principles of Macroeconomics and ECN 102:&nbsp; Principles of Microeconomics can be taken in any order.&nbsp; Both courses may be taken in either the first or second year.</span></p>
+<p><span style="font-weight: 400;">Economics majors are required to take one Calculus course.&nbsp; Students who have not completed the Calculus requirement are encouraged to do so by the end of their sophomore year.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">First-year students contemplating majoring in economics should plan to take the intermediate theory courses, ECN 220, 221: Intermediate Microeconomic Theory and ECN 222, 223: Intermediate Macroeconomic Theory, and MTH 119: Statistical Analysis no later than the junior year.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">For students planning on taking graduate work in economics, it is strongly recommended that additional courses in mathematics, beyond Calculus I, be taken.&nbsp; The following mathematics courses are especially recommended: MTH 122: Calculus II, MTH 223: Calculus III, MTH 226: Linear Algebra, and MTH 227: Differential Equations.</span></p>
+<p><strong>First-year students considering a major in Economics are encouraged to consult with an economics faculty member early in their first year.</strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-education2" 
+     aria-expanded="false" 
+     aria-controls="advising-education2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-education">
+      <p class="panel-title pull-left">
+          Education
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-education2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-education">
+    <div class="panel-body">
+        <p>Certification programs require careful planning from the beginning, especially for the Pre K-4 and 4-8 programs. A student who wishes to pursue certification should contact the Education Department early in the first semester to be assigned to an EDU advisor.</p>
+<table style="height: 402px; width: 784px;">
+<thead>
+<tr><th scope="col">&nbsp;</th><th scope="col">PRE K-4</th><th scope="col">4-8</th><th scope="col">7-12*</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Majors</strong></td>
+<td>All majors</td>
+<td>English, Mathematics, American Studies (Social Studies)</td>
+<td>English, Mathematics, History (Social Studies), Biology, Chemistry, Physics, French, Spanish</td>
+</tr>
+<tr>
+<td>
+<p><strong>EDU</strong><br><strong>Fall</strong><br><strong>Semester</strong></p>
+</td>
+<td>EDU 101: History &amp; Politics of American Education</td>
+<td>EDU 101: History &amp; Politics of American Education</td>
+<td>EDU 101: History &amp; Politics of American Education</td>
+</tr>
+<tr>
+<td>
+<p><strong>EDU</strong><br><strong>Spring</strong><br><strong>Semester</strong></p>
+</td>
+<td>EDU 104: Educational Psychology or EDU 101 and EDU 104</td>
+<td>EDU 106: Educational Psychology or EDU 101 and EDU 106</td>
+<td>EDU 101 if not taken during Fall Semester</td>
+</tr>
+<tr>
+<td>
+<p><strong>FYS</strong></p>
+</td>
+<td>Any FYS</td>
+<td>Any FYS</td>
+<td>Any FYS&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td>
+<p><strong>SL</strong></p>
+</td>
+<td>Met within the program</td>
+<td>Met within the program</td>
+<td>Met within the program</td>
+</tr>
+<tr>
+<td>
+<p><strong>FL</strong></p>
+</td>
+<td>Any FL</td>
+<td>Any FL</td>
+<td>Any FL</td>
+</tr>
+<tr>
+<td>
+<p><strong>RG</strong></p>
+</td>
+<td>Two (2) college-level MTH courses: MTH 114 or MTH 116 required (met by the end of sophomore year)</td>
+<td>Two (2) college-level MTH courses: MTH 114 or MTH 116 required (met by the end of sophomore year)</td>
+<td>Any wo (2) college-level MTH courses (met by the end of sophomore year)</td>
+</tr>
+<tr>
+<td>
+<p><strong>HU</strong></p>
+</td>
+<td>ENG (American or British Literature) met by the end of sophomore year and two (2) others</td>
+<td>ENG (American or British Literature) met by the end of sophomore year and two (2) others</td>
+<td>ENG (American or British Literature) met by the end of sophomore year and two (2) others</td>
+</tr>
+<tr>
+<td>
+<p><strong>AR</strong></p>
+</td>
+<td>EDU 191: Arts in Education</td>
+<td>Any AR; EDU 191 recommended&nbsp;</td>
+<td>Any AR</td>
+</tr>
+<tr>
+<td>
+<p><strong>IL</strong></p>
+</td>
+<td>EDU 212 &amp; GEO 102&nbsp;</td>
+<td>EDU 212 &amp; GEO 102&nbsp;</td>
+<td>EDU 212 &amp; GEO 102&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><strong>DE</strong></p>
+</td>
+<td>EDU 212 &amp; GEO 102&nbsp;</td>
+<td>EDU 212 &amp; GEO 102&nbsp;</td>
+<td>EDU 212 &amp; GEO 102&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><strong>SC</strong></p>
+</td>
+<td>One (1) Biological Science and one (1) Physical Science both from the Natural Science Division&nbsp;</td>
+<td>One (1) Biological Science and one (1) Physical Science both from the Natural Science Division&nbsp;</td>
+<td>Two (2) any SC from the Natural Science Division&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><strong>W</strong></p>
+</td>
+<td>One (1) in EDU (191, 326, 328) and one (1) in major&nbsp;</td>
+<td>One (1) in EDU 328 and one (1) in major&nbsp;</td>
+<td>One (1) in major and one (1) any&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: right;">* Students in the 7-12 programs are required to take a certain distribution of courses within their major. Input from BOTH EDU and major advisors is important to ensure all courses count towards students content certificate.</p>
+<h3 style="text-align: center;">SAMPLE FIRST-YEAR SCHEDULES</h3>
+<p style="text-align: center;">The following are suggested first year course sequences.<br>They may be modified pending the FYS semester, enrollment status of courses, and students presenting as undecided.<br>Courses in red are priority courses for first-year students. <br>Courses with HU designations are good substitutions for non-priority courses.</p>
+<p style="text-align: left;"><strong>EDU (Pre K-4 Program) &amp; X Major</strong></p>
+<p style="text-align: left;">Option&nbsp;One</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+<td style="width: 50%;" scope="col">EDU 104: Ed Psych&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">MAJOR</td>
+<td style="width: 50%;" scope="col">FL (2)&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">MAJOR or&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">MTH 116 or&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">PPD</td>
+<td style="width: 50%;" scope="col">EDU 191: Arts in Education &nbsp;</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;">Option&nbsp;Two</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">MAJOR</td>
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">EDU 104: Ed Psych&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%;" scope="col">SC or HU</td>
+<td style="width: 50%;" scope="col">MAJOR or<br>ENG (American or British Literature)<br><span style="color: #a41e34;">PPD</span></td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;"><strong>EDU (Pre K-4 Program) &amp; PSY Major</strong></p>
+<p style="text-align: left;">Option&nbsp;One</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+<td style="width: 50%;" scope="col">EDU 104: Ed Psych*&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">PSY 101: Intro to Psych</td>
+<td style="width: 50%;" scope="col">MTH 119: Stat Analysis or MTH 116</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">EDU 191: Arts in Education or PSY &nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">PPD&nbsp;</td>
+<td style="width: 50%;" scope="col">Elective&nbsp;&nbsp;</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: right;"><em>* Counts as a PSY elective</em></p>
+<p style="text-align: left;">Option&nbsp;Two</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">PSY 101: Intro to Psych</td>
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">FEDU 104: Ed Psych*</td>
+</tr>
+<tr>
+<td style="width: 50%;" scope="col">MTH 114 or MTH 119</td>
+<td style="width: 50%; color: #a41e34;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">PSY Elective or ENG (American or British Literature)<br><span style="color: #a41e34;">PPD</span></td>
+</tr>
+</thead>
+</table>
+<p style="text-align: right;"><em>* Counts as a PSY elective</em></p>
+<p style="text-align: left;"><strong>EDU (Pre K-4 Program) &amp; THR Major</strong></p>
+<p style="text-align: left;">Option&nbsp;One</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+<td style="width: 50%;" scope="col">EDU 104: Ed Psych&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">THR&nbsp;105:&nbsp;Performance &amp; Society</td>
+<td style="width: 50%;" scope="col">THR 107: Dramatic Text in Action</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">EDU 191: Arts in Education or&nbsp;THR &nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">PPD&nbsp;</td>
+<td style="width: 50%;" scope="col">Elective&nbsp;&nbsp;</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;"><br>Option&nbsp;Two</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">THR 105: Performance &amp; Society</td>
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">EDU 104: Ed Psych</td>
+</tr>
+<tr>
+<td style="width: 50%;" scope="col">MTH 114</td>
+<td style="width: 50%; color: #a41e34;" scope="col">THR 107: Dramatic Text in Action</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">FL (2)<br>PPD</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;"><strong>EDU (4-8 Program) &amp; X Major </strong></p>
+<p style="text-align: left;">Option&nbsp;One</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+<td style="width: 50%;" scope="col">EDU 106: Ed Psych&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">MAJOR</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">MAJOR or</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">MTH 116 or&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">PPD&nbsp;</td>
+<td style="width: 50%;" scope="col">ENG (American or British Literature)&nbsp;</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;"><br>Option&nbsp;Two</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">MAJOR</td>
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">EDU 104: Ed Psych</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%;" scope="col">SC or HU</td>
+<td style="width: 50%;" scope="col">MAJOR or<br>ENG (American or British Literature)<br><span style="color: #a41e34;">PPD</span></td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;"><strong>EDU (7-12 Program) &amp; X Major</strong></p>
+<p style="text-align: left;">Option&nbsp;One</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+<td style="width: 50%;" scope="col">EDU 106: Ed Psych&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">MAJOR</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">MAJOR or</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">MTH or&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">PPD&nbsp;</td>
+<td style="width: 50%;" scope="col">ENG (American or British Literature)&nbsp;</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;"><br>Option&nbsp;Two</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">MAJOR</td>
+<td style="width: 50%;" scope="col">MAJOR</td>
+</tr>
+<tr>
+<td style="width: 50%;" scope="col">MTH or<br>ENG (American or British Literature)</td>
+<td style="width: 50%;" scope="col">MTH or<br>ENG (American or British Literature)<br><span style="color: #a41e34;">PPD</span></td>
+</tr>
+</thead>
+</table>
+<p><strong>EDU (7-12 Program) &amp; HST Major</strong></p>
+<p style="text-align: left;">Option&nbsp;One</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+<td style="width: 50%;" scope="col">EDU 106: Ed Psych&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">HST</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FYS<br>FL (1)<br>PPD</td>
+<td style="width: 50%;" scope="col">PSC 101 or<br>PSY 101 or<br>ECN 101 or 102*</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: right;">*ATH 101, ECN 101 or 102, PSC 101, PSY 101, and SOC 101 are required for 7-12 Social Studies certification</p>
+<p style="text-align: left;"><br>First-Year Schedule Option Two</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">HST</td>
+<td style="width: 50%;" scope="col">HST</td>
+</tr>
+<tr>
+<td style="width: 50%;" scope="col">PSC 101 or PSY 101 or ECN 101 or 102*</td>
+<td style="width: 50%; color: #a41e34;" scope="col">PPD</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: right;">*ATH 101, ECN 101 or 102, PSC 101, PSY 101, and SOC 101 are required for 7-12 Social Studies certification</p>
+<p><strong>EDU (7-12 Program) &amp; ENG Major</strong></p>
+<p style="text-align: left;">Option&nbsp;One</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education</td>
+<td style="width: 50%;" scope="col">EDU 106: Ed Psych&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">ENG</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr>
+<td style="width: 50%; color: #a41e34;" scope="col">FYS<br>FL (1)<br>PPD</td>
+<td style="width: 50%;" scope="col">MTH&nbsp;or<br>SC or<br>HU</td>
+</tr>
+</thead>
+</table>
+<p style="text-align: left;">Option&nbsp;Two</p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<td style="width: 50%;" scope="col"><strong>FALL</strong></td>
+<td style="width: 50%;" scope="col"><strong>SPRING</strong></td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">ENG</td>
+<td style="width: 50%;" scope="col">EDU 101: History &amp; Politics of Education&nbsp;</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FYS</td>
+<td style="width: 50%;" scope="col">FL (2)</td>
+</tr>
+<tr style="color: #a41e34;">
+<td style="width: 50%;" scope="col">FL (1)</td>
+<td style="width: 50%;" scope="col">ENG</td>
+</tr>
+<tr>
+<td style="width: 50%;" scope="col">MTH or<br>SC</td>
+<td style="width: 50%;" scope="col">MTH&nbsp;or<br>SC<br><span style="color: #a41e34;">PPD</span></td>
+</tr>
+</thead>
+</table>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-english-literatures-writing2" 
+     aria-expanded="false" 
+     aria-controls="advising-english-literatures-writing2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-english-literatures-writing">
+      <p class="panel-title pull-left">
+          English Literatures & Writing
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-english-literatures-writing2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-english-literatures-writing">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">We strongly encourage students to take at least one English course early in their time here. Our courses prepare you to read closely, think critically, speak eloquently, and write compellingly‚skills necessary for success in any field and all parts of life.&nbsp;&nbsp;</span>Introductory English courses are identified as ENG 2XX.&nbsp; All of our 200-level courses are appropriate for first-year students: none carry prerequisites and all operate at roughly the same level, regardless of numerical designation.</p>
+<p><strong>Literature</strong></p>
+<p>Any students who are interested in majoring or who are curious about the world of contemporary literary theory, are encouraged to take one of our&nbsp;<em>Reading X</em> courses.&nbsp; This semester, we are offering:</p>
+<p>ENG 283&nbsp;<em>Reading Paradise Lost&nbsp;</em><em>(A special first-year focused, introduction to the revolutionary Milton, who went to bat for the Puritan freedom fighters and famously said the king looked better with his head cut off.)</em></p>
+<p>ENG 260&nbsp;<em>Reading Ecologies</em></p>
+<p>ENG 284<em> Reading Hemingway and Fitzgerald</em></p>
+<p>Students interested in an exciting introduction to the study of literature at Muhlenberg, whether they are inteested in majoring or simply seeking a stimulating intellectual experience, are also welcomed in any of the following courses, all of which are appropriate to first-year study:</p>
+<p>ENG 280 ST:&nbsp;<em>The Odyssey</em></p>
+<p>ENG 287 ST:<em> Trans &amp; Gender Variant Literature</em></p>
+<p><strong>Creative Writing</strong></p>
+<p><span style="font-weight: 400;">Students interested in studying creative writing, whether as a hobby, a minor, or an entry to the English major, are invited to consider.</span></p>
+<p>ENG 207: <em>Intro to Playwriting</em></p>
+<p>ENG 289 ST: <em>Playwriting for Youth Theatre</em></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-environmental-science2" 
+     aria-expanded="false" 
+     aria-controls="advising-environmental-science2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-environmental-science">
+      <p class="panel-title pull-left">
+          Environmental Science
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-environmental-science2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-environmental-science">
+    <div class="panel-body">
+        <p><strong>Environmental Science and Biology</strong></p>
+<p><span style="font-weight: 400;">Students considering a major in Environmental Science should enroll in ESC 113: Environmental Science I and BIO 160: Foundations Biological Inquiry during their first semester. Students with exceptionally strong science backgrounds may enroll in CHM 103: General Chemistry I. Ordinarily, though, students are encouraged to wait until their sophomore year to enroll in chemistry.</span></p>
+<p><span style="font-weight: 400;">Alternatively, it is acceptable for students to take BIO 160 and/or CHM 103 during the first year and wait until the sophomore year to take ESC 113-114.&nbsp; In this case, students are encouraged to take either MTH 119 or 121 during the first year as well.</span></p>
+<p><strong>Mathematics</strong></p>
+<p><span style="font-weight: 400;">Students are encouraged to take MTH 119 or MTH 121 by the end of their sophomore year.</span></p>
+<p><strong>Language</strong></p>
+<p><span style="font-weight: 400;">Students are encouraged to enroll in a language during the first year. Any language is acceptable.</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><span style="font-weight: 400;">Choose an environmentally oriented seminar, if possible.</span></p>
+<p><strong>Elective</strong></p>
+<p><span style="font-weight: 400;">Humanities or Social science is suggested.</span></p>
+<p><span style="font-weight: 400;">Students seeking certification to teach environmental science should take EDU 101: Foundations of Education during the first year. Advisors should consult the guidance provided for Education majors for more information.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-film-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-film-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-film-studies">
+      <p class="panel-title pull-left">
+          Film Studies
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-film-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-film-studies">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">First-year students who plan to pursue a major in Film Studies are advised to take the following courses during their first year on campus:</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Language</strong></p>
+<p><strong>Film</strong></p>
+<p><em><span style="font-weight: 400;">First Choice:</span></em></p>
+<p style="padding-left: 30px;"><strong>COM 240:&nbsp; Introduction to Film Analysis (HU)&nbsp;</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Introduces different strategies and approaches for analyzing film and video texts including: formal, narrative, psychoanalytic, social/cultural, and feminist. Students will develop an understanding of the grammar, vocabulary, and conventions of film and video production, and the factors that shape viewers‚ reception. </span><strong><em>Attendance at weekly screenings is required.</em></strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Each section of COM 240 in the fall has spaces reserved for first-year students.&nbsp; If students are not able to take it in the fall, there will be one section in the spring semester.</span></p>
+<p><em><span style="font-weight: 400;">Second Choice:</span></em></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">As a back-up in case they cannot get into COM 240 in the fall, students should select one of these alternative courses.&nbsp; Each of these courses will count towards the Film Studies major and does not have perquisites.</span></p>
+<p style="padding-left: 30px;"><strong>FLM 348 Cinema's Altered States</strong></p>
+<p style="padding-left: 30px;"><strong>ITL 321 Italian Cinema Cities</strong></p>
+<p><strong>Production Sequence</strong><strong>:</strong></p>
+<p><span style="font-weight: 400;">Students who are interested in pursuing an emphasis in </span><strong>production </strong><span style="font-weight: 400;">should plan to take&nbsp;</span></p>
+<p><strong> <strong>COM 251: Introduction to Moviemaking</strong><span style="font-weight: 400;"> in the spring of their first year or</span> <span style="font-weight: 400;">in their second year. </span><strong>COM 351: Video Production </strong><span style="font-weight: 400;">should then be taken</span> <span style="font-weight: 400;">in the second or third year so that students have the prerequisite to take </span><strong>COM 467: Advanced Video Production</strong><span style="font-weight: 400;"> in their last year. </span></strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-finance2" 
+     aria-expanded="false" 
+     aria-controls="advising-finance2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-finance">
+      <p class="panel-title pull-left">
+          Finance
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-finance2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-finance">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">In order to be accepted as a major in finance, a student must achieve and maintain a minimum 2.0 average in all courses taken in the major.</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Economics</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">ECN 101: Principles of Macroeconomics</span><br> <span style="font-weight: 400;">ECN 102: Principles of Microeconomics</span></p>
+<p><strong>Language</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Any language to satisfy language requirement</span></p>
+<p><strong>Mathematics</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MTH 121: Calculus I </span><strong>or</strong><br> <span style="font-weight: 400;">MTH 122: Calculus II</span></p>
+<p><span style="font-weight: 400;">ECN 101: Principles of Macroeconomics and ECN 102: Principles of Microeconomics can be taken in any order.&nbsp; Both courses may be taken in either the first or second year.</span></p>
+<p><span style="font-weight: 400;">Finance majors should take MTH 121: Calculus&nbsp; (or alternative calculus course) before taking advanced courses in their major, and preferably by the end of their junior year.</span></p>
+<p><span style="font-weight: 400;">MTH 119: Statistical Analysis should be taken no later than the sophomore year.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Students planning on graduate study in finance are encouraged to consult with their faculty advisor for appropriate advanced courses in mathematics.</span></p>
+<p><strong>First-year students contemplating majoring in Finance are encouraged to make an early declaration of major and consult with a finance faculty member early in their first year.</strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-german-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-german-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-german-studies">
+      <p class="panel-title pull-left">
+          German Studies (minor only)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-german-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-german-studies">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong></p>
+<p><strong>Language</strong></p>
+<p><span style="font-weight: 400;">German at the appropriate level (determined by the departmental German placement examination; refer to page 9-10 for details).</span></p>
+<p><strong>Literature</strong></p>
+<p><span style="font-weight: 400;">GRM 257: Freud‚s Vienna</span><br> <span style="font-weight: 400;">GRM 313: Sex and Death on the German State</span></p>
+<p><strong>Options</strong><strong>:</strong><span style="font-weight: 400;">&nbsp; (depending on student's background, interests, and scheduling)</span></p>
+<p><span style="font-weight: 400;">Select courses from the areas of Reasoning, Social Sciences, Sciences, and Arts.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-history2" 
+     aria-expanded="false" 
+     aria-controls="advising-history2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-history">
+      <p class="panel-title pull-left">
+          History
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-history2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-history">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Students planning on studying abroad or going to graduate school should take the language appropriate to the field of study.&nbsp; Students in the Education Certification Program are encouraged to take Spanish Language classes.</span></p>
+<p><strong>History</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Students may take any History course that interests them.&nbsp; Students with scores of 4 or 5 on</span></p>
+<p><span style="font-weight: 400;">an AP History exam should be directed to 200 or 300 level courses.&nbsp; 200 and 300 level</span></p>
+<p><span style="font-weight: 400;">courses are not distinguished from each other by degree of difficulty or assumed</span></p>
+<p><span style="font-weight: 400;">background knowledge.</span></p>
+<p><span style="font-weight: 400;">History Majors and Minors may count only ONE 100-level course toward the major or minor.</span></p>
+<p><span style="font-weight: 400;">Students in the History Major have the option of concentrating in the following areas:</span></p>
+<p>History of Women, Gender, and Sexuality<br> <span style="font-weight: 400;">History of Health and Medicine</span><br> <span style="font-weight: 400;">History of Race and Antiracism</span><br> <span style="font-weight: 400;">History of Colonialism and Decolonization</span><br> <span style="font-weight: 400;">History of Empires and Nations</span></p>
+<p><strong>Diversity (DE)</strong></p>
+<p><span style="font-weight: 400;">Courses in African, Asian, Latin American &amp; Caribbean, and Middle Eastern History satisfy the DE requirements.&nbsp; Additional courses in History satisfying the DE requirements can be located in Workday.</span></p>
+<p><strong>Science or Reasoning</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Students in the Education Certification Program should consult with a faculty member in that program for guidance on reasoning and science requirements.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">*&nbsp; If a student has satisfied the College language requirement, history courses in that region or another world region are recommended.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-ie2" 
+     aria-expanded="false" 
+     aria-controls="advising-ie2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-ie">
+      <p class="panel-title pull-left">
+          Innovation and Entrepreneurship [INE] (minor only)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-ie2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-ie">
+    <div class="panel-body">
+        <p>The Innovation and Entrepreneurship Program offers a six-course interdisciplinary minor that students can combine with any major.</p>
+<p>First year students who think they may be interested in entrepreneurship can register for:</p>
+<p>INE 101 - Introduction to Innovation and Entrepreneurship</p>
+<p>First year students may also take any of the INE electives that do not have prerequisites, including:</p>
+<ul>
+<li>INE 285 - Arts Entrepreneurship</li>
+<li>INE 286 - The Booze Business (may be full)</li>
+<li>any INE special topics course without a pre-requisite</li>
+</ul>
+<p>Students may also want to look at the following interdisiplinary electives that count towards the minor, but do not have a pre-requisite (advisors note that to count for the minor the course needs to be outside of the student's findal decided major):</p>
+<ul>
+<li>PSC 221 - Government Regulation of Business</li>
+<li>THR 161 - Creativity &amp; Collaboration</li>
+<li>PHL 244, 245 - Business Ethics</li>
+<li>MUS 233 - Global Pop</li>
+<li>COM 251 - Introduction to Moviemaking</li>
+<li>COM 349 - Media Advocacy</li>
+<li>COM 220, 221 - Free Culture</li>
+<li>COM 312 - Media Industries</li>
+<li>ENG 205 - Introduction to Creative Nonfiction Writing</li>
+<li>ENG 373, 374 - The Literacy Marketplace</li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-international-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-international-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-international-studies">
+      <p class="panel-title pull-left">
+          International Studies
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-international-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-international-studies">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong></p>
+<p><strong>International Studies</strong><strong>&nbsp;</strong></p>
+<p><span style="font-weight: 400;">IST 101: Introduction to International Studies</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">By choice.&nbsp; Students planning to study abroad should take the language appropriate to the field of study.</span></p>
+<p><strong>Reasoning</strong></p>
+<p>MTH 119: Statistical Analysis</p>
+<p><strong>Science</strong></p>
+<p><span style="font-weight: 400;">BIO 111: Crisis Earth</span><br> <span style="font-weight: 400;">CHM 101: Chemistry of the Environment or other science course for nonmajors&nbsp;</span><br> <span style="font-weight: 400;">ESC 111: Topics in Environmental Science or other science course for non-majors</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-jewish-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-jewish-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-jewish-studies">
+      <p class="panel-title pull-left">
+          Jewish Studies
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-jewish-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-jewish-studies">
+    <div class="panel-body">
+        <p><strong>First Year Seminar</strong></p>
+<p><strong>Language</strong></p>
+<p><span style="font-weight: 400;">All Jewish Studies majors must complete two semesters of study of a Jewish language, or demonstrate language proficiency beyond the level of Intermediate II.&nbsp; Modern Hebrew and a course in reading Biblical Hebrew are both offered at Muhlenberg College. Students interested in the Jewish Studies major with little or no background in Hebrew or other Jewish languages are advised to take Hebrew during their first year if possible.</span></p>
+<p><strong>Jewish Studies</strong></p>
+<p><span style="font-weight: 400;">The following two courses are required for all Jewish Studies majors:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">JST 109 Jewish Experience in a Secular Age</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">REL 229 Jewish Traditions</span></li>
+</ul>
+<p>It is recommended that students interested in the Jewish Studies major try to take at least one of these courses during their first year.</p>
+<p><span style="font-weight: 400;">Most Jewish Studies courses do not have prerequisites.&nbsp; Students interested in the major or minor should feel free to enroll in any of the courses that interest them.&nbsp; If, for some reason, a student who is interested in Jewish Studies is unable to enroll in a Jewish Studies course during their first semester, there will still be time for them to fulfill the requirements of the major or minor.&nbsp; It is recommended, however, that they consult with the program director during the fall semester to help them plan their schedule for the spring.</span></p>
+<p><strong>General Academic Requirements</strong></p>
+<p><span style="font-weight: 400;">Most Jewish Studies courses count toward the ‚HU‚ requirement.&nbsp; It is recommended that students take at least two courses during their first year that satisfy other requirements of the general academic curriculum.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-languages-literatures-cultures2" 
+     aria-expanded="false" 
+     aria-controls="advising-languages-literatures-cultures2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-languages-literatures-cultures">
+      <p class="panel-title pull-left">
+          Languages, Literatures, and Cultures
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-languages-literatures-cultures2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-languages-literatures-cultures">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Students may major in French &amp; Francophone Studies, Russian Studies, or Spanish.&nbsp; Students may minor in French &amp; Francophone Studies, German Studies, Italian Studies, Spanish, or Russian Studies.&nbsp; Other languages offered at the 100- and 200-levels: Arabic, Chinese, and Hebrew.</span></p>
+<p><span style="font-weight: 400;">Students interested in majoring or minoring in the above languages should enroll in that language as placed in their first semester.&nbsp; We also encourage students who have placed at the 203 or 204 level in a language to consider pursuing that language because these placement scores indicate very strong skills and background in the language.</span></p>
+<p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">*&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">If SAT II score is &lt;650 or the AP score is under 4 or unavailable:</span><br> <span style="font-weight: 400;">language level is determined by placement examination.&nbsp;</span></p>
+<p><span style="font-weight: 400;">If SAT II score is ‚•650, or the AP score is 4 or above:</span><br> <span style="font-weight: 400;">Language 301</span></p>
+<p><strong>American Studies, History, International Studies, Latin American and Caribbean Studies or Political Science</strong></p>
+<p><span style="font-weight: 400;">Any area or cultural studies course appropriate to the prospective language major area.</span></p>
+<h3>Reasoning or Science</h3>
+<ul>
+<li style="font-weight: 400;"><strong>NOTE</strong><span style="font-weight: 400;">: See the Second Language Placement site for more specific guidelines regarding language course&nbsp;</span><strong><span style="font-weight: 400;">assignment.</span></strong></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-mathematics2" 
+     aria-expanded="false" 
+     aria-controls="advising-mathematics2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-mathematics">
+      <p class="panel-title pull-left">
+          Mathematics
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-mathematics2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-mathematics">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Any language is acceptable. However, it should be noted that some graduate school Ph.D.</span></p>
+<p><span style="font-weight: 400;">programs in mathematics require reading proficiency in German, Russian, or French.&nbsp;</span></p>
+<p><strong>Mathematics</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">MTH 121: Calculus I </span><span style="font-weight: 400;">or</span></p>
+<p><span style="font-weight: 400;">MTH 122: Calculus II </span><span style="font-weight: 400;">or</span></p>
+<p><span style="font-weight: 400;">MTH 223: Calculus III</span></p>
+<p><span style="font-weight: 400;">MTH 227: Differential Equations (prerequisite: MTH 122):&nbsp; Students who place into MTH 223</span></p>
+<p><span style="font-weight: 400;">may elect to study MTH 227 instead.</span></p>
+<p><span style="font-weight: 400;">Muhlenberg College does not offer a course in Precalculus. If necessary, students who will eventually need Calculus should consider taking Precalculus at another college over the summer followed by MTH 121: Calculus I at Muhlenberg. Consult the mathematics placement sheet.</span></p>
+<p><span style="font-weight: 400;">MTH 114: Fundamentals of Mathematics. For students going into Elementary Education.</span></p>
+<p><strong>Computer Science</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Computer Science I or Computer Science II&nbsp; (A student can place into either CS I or CS II depending on AP credit.)</span></p>
+<p><span style="font-weight: 400;">(If a student is interested in majoring in Computer Science he/she should start in the first year.)</span></p>
+<p><strong>NOTE:&nbsp; Please refer to the Mathematics Placement information and to the Mathematics Placement sheet you receive for each student on his/her Summer Advising day.</strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-media-communication2" 
+     aria-expanded="false" 
+     aria-controls="advising-media-communication2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-media-communication">
+      <p class="panel-title pull-left">
+          Media and Communication
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-media-communication2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-media-communication">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">The first-year students who intend to major in Media and Communication are advised to take the following courses during their first year on campus:&nbsp;</span></p>
+<p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<h3>Requirement (RG)</h3>
+<p><strong>Media and Communication</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">COM 201: Media and Society (SL)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Students who are considering a major in Media and Communication should take&nbsp;</span>COM 201 Media &amp; Society.&nbsp; This is an advanced introduction to the field of media &amp; communication research through different lenses or issues depending on the section / instructor.&nbsp; Topics may include Social Media, Celebrity, Reality Television, and Digital Media</p>
+<p><span style="font-weight: 400;">If students are interested in taking additional courses in the Media and Communication Department, the following courses (not yet fully enrolled) are appropriate for first year students either in conjunction with COM 201 or separately:</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">COM 220: Free Cultures</span><br> <span style="font-weight: 400;">COM 225: Journalistic Traditions</span><br> <span style="font-weight: 400;">COM 233: Environmental Journalism</span><br> <span style="font-weight: 400;">COM 236: Writing for the Media</span><br> <span style="font-weight: 400;">COM 240: Introduction to Film Analysis (HU)</span><br> <span style="font-weight: 400;">COM 251: Introduction to Moviemaking</span><br> <span style="font-weight: 400;">ENG 210: Introduction to Narrative Journalism</span><br> <span style="font-weight: 400;">DOC 150: Introduction to Documentary Storymaking</span></p>
+<p><span style="font-weight: 400;">Students who complete COM 201 Media and Society in the Fall, are advised to take COM 231 Documentary Research in the Spring.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-music2" 
+     aria-expanded="false" 
+     aria-controls="advising-music2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-music">
+      <p class="panel-title pull-left">
+          Music
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-music2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-music">
+    <div class="panel-body">
+        <p><strong>Language</strong></p>
+<p><span style="font-weight: 400;">Vocalists are encouraged to take Italian, French, or German</span></p>
+<p><strong>History</strong></p>
+<p><span style="font-weight: 400;">Any of the required history courses; American History may be required of those wishing</span></p>
+<p><span style="font-weight: 400;">to teach music in the public schools.</span></p>
+<p><strong>Music</strong></p>
+<p><span style="font-weight: 400;">MUS 151: Engaging with Music I, the first of the two-course sequence required by music majors.&nbsp; Students must be able to read music and match pitch.&nbsp; Students who cannot read music to this standard should enroll in MUS 102 (below).&nbsp; It is essential that students pursuing Music Education Certification start the Engaging with Music sequence in their first semester or it is unlikely that they will graduate on time.</span></p>
+<p><span style="font-weight: 400;">We do not award credit for AP Music Theory tests.</span></p>
+<p><strong>Elective Courses appropriate for First-year Students</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 101: Introduction to Music (music appreciation)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 102: Fundamentals of Music (beginning music theory and reading)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 104: Pop, Rock &amp; Soul</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 140: Music and Technology</span></p>
+<p><strong>Applied Music (additional fee applied to non-music majors):&nbsp;</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 900: Class Applied Music (a group lesson)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 901: Individual Applied Music-First Area (a private lesson)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 911:&nbsp; Individual Applied Music-Additional Area, (a private lesson in a secondary area)</span></p>
+<p><strong>Registering for Ensembles or Applied Music and Arranging a Lesson Time</strong></p>
+<p><span style="font-weight: 400;">First-semester students interested in registering for Ensembles or Applied Music will do so online with Dr. Chris Jackson or Dr. Andrew Ardizzoia from May 25-27 or online with Dr. Chris Jackson during Summer Advising.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Starting in their second semester, students now register for Ensembles and Applied Music on Workday.&nbsp; For voice lessons, students will need prior approval from their desired instructor before registering; new voice students should contact Dr. Chris Jackson (chrisjackson@muhlenberg.edu) to set up an audition and be assigned a voice teacher.&nbsp; Registration for instrumental lessons is unrestricted. &nbsp; Once registered, students will select a lesson time by following the ‚Applied Lessons‚ link from the Music Department web page:</span></p>
+<p><span style="font-weight: 400;"><a href="http://webapps.muhlenberg.edu/StudentTools/">http://webapps.muhlenberg.edu/StudentTools/</a><a href="http://webapps.muhlenberg.edu/StudentTools/"></a></span></p>
+<p>&nbsp;</p>
+<p><strong>Ensembles:&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Talent grant recipients, regardless of award amount, are required to contribute to the Department of Music by participating in a minimum of four courses and/or department ensembles during their time at Muhlenberg (excluding applied lessons).&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">With the exception of Chamber Singers, Women‚s Ensemble, and the Collegium, all ensembles are un-auditioned.&nbsp; Enrollment in Chamber Singers requires co-enrollment in College Choir; auditions are held during the first week of classes.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Music Department ensembles appear on student transcripts with a grade of S (satisfactory) or U (unsatisfactory).</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 935: College Choir (large mixed chorus)</span>&nbsp;</p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 936: Chamber Choir (small, select mixed chorus; required co-enrollment in College Choir)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 938: Opera Workshop (spring only, audition required)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 939:</span> <em><span style="font-weight: 400;">Collegium musicum</span></em><span style="font-weight: 400;">: (early music instrumental/vocal group)&nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 940: Chamber Orchestra (string, percussion, and wind instruments)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 941: </span><em><span style="font-weight: 400;">Musica da Camera</span></em><span style="font-weight: 400;"> (instrumental and vocal chamber music)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 942: Wind Ensemble (large ensemble for winds and percussion)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 943: Jazz Big Band (big-band swing)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 944: Jazz Improvisation Ensemble (small jazz combo)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MUS 950: Small Ensembles (flute ensemble, percussion ensemble)</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-neuroscience2" 
+     aria-expanded="false" 
+     aria-controls="advising-neuroscience2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-neuroscience">
+      <p class="panel-title pull-left">
+          Neuroscience
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-neuroscience2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-neuroscience">
+    <div class="panel-body">
+        <ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Potential neuroscience majors are encouraged to begin the introductory biology and chemistry sequences during their first year.</span>
+<ul>
+<li><span style="font-weight: 400;">Enrollment in BIO 160: Foundations of Biological Inquiry (preferably Fall) and BIO 165: From Ecosystems to Organisms (preferably Spring).&nbsp; These Courses could be taken concurrently in Spring.</span></li>
+<li><span style="font-weight: 400;">Enrollment in CHM 103: General Chemistry I</span></li>
+</ul>
+</li>
+<li><span style="font-weight: 400;">The courses should be completed by the end of the first year, if possible:</span>
+<ul>
+<li><span style="font-weight: 400;">First-Year Seminar</span></li>
+<li><span style="font-weight: 400;">MTH 121: Calculus I </span><strong>OR</strong><span style="font-weight: 400;"> MTH 122: Calculus II </span><strong>OR</strong><span style="font-weight: 400;"> MTH 223: Calculus III </span><strong>OR</strong><span style="font-weight: 400;"> MTH 119: Statistical Analysis, depending on the student‚s interest and placement</span></li>
+<li><span style="font-weight: 400;">The Second Language requirement (FL)</span></li>
+<li><span style="font-weight: 400;">PSY 101: Introduction to Psychology.</span><strong><strong><br></strong></strong></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It is possible that a student may wish to delay taking BIO and CHM coursework during their first year; this is less ideal, though still possible, as long as the student is diligently working towards completing general academic requirements.</span></li>
+<li><span style="font-weight: 400;">Students typically begin the required core sequence of neuroscience courses their </span><em><span style="font-weight: 400;">sophomore</span></em><span style="font-weight: 400;"> year.&nbsp; Students wishing to learn more about advancing towards a neuroscience major ‚ or perhaps beginning these courses sooner ‚ are enthusiastically encouraged to reach out to the Chair.</span></li>
+</ol>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-philosophy2" 
+     aria-expanded="false" 
+     aria-controls="advising-philosophy2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-philosophy">
+      <p class="panel-title pull-left">
+          Philosophy
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-philosophy2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-philosophy">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Any of the introductory courses:&nbsp; &nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 104: Philosophy East and West (HU, DE)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 105: Conduct and Character (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 106: Individual and Society (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 108: Being and Knowing (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 115: Philosophy of Race</span></p>
+<p><span style="font-weight: 400;">We recommend taking:</span></p>
+<p><span style="font-weight: 400;">either PHL 110 (RG) in the first year, or PHL 211 (RG) in the second year</span></p>
+<p><span style="font-weight: 400;">In addition, students will find the following courses accessible in their first year:</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 221: Ancient Greek Philosophy (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 223: Modern Philosophy (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 234: Philosophy of Religion (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 236: Philosophy and the Arts (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 237: Philosophy of Science (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 245: Business Ethics (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 246: Environmental Philosophy (HU)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 251: Philosophies of China (HU, DE)</span></p>
+<p><span style="font-weight: 400;">Other 200 level courses may be more challenging, but students who feel up to the challenge are welcome to enroll. We encourage you to talk to the instructor of the class to discuss your interests, before registering for a 300 level class.</span></p>
+<p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Language</strong></p>
+<p><span style="font-weight: 400;">Any language is acceptable, but students interested in European philosophy, including Phenomenology, should consider German or French, and students interested in Chinese philosophy should consider Chinese.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-philosophy-political-thought2" 
+     aria-expanded="false" 
+     aria-controls="advising-philosophy-political-thought2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-philosophy-political-thought">
+      <p class="panel-title pull-left">
+          Philosophy/Political Thought
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-philosophy-political-thought2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-philosophy-political-thought">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Language</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Political Science</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PSC 201: Political Ideologies</span></p>
+<p><strong>Philosophy</strong><span style="font-weight: 400;">&nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 105: Conduct and Character </span><strong>or</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 106: Individual and Society </span><strong>or</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 104: Philosophy East and West (HU, DE)</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">PHL 242: Law &amp; Morality</span></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-physical-science2" 
+     aria-expanded="false" 
+     aria-controls="advising-physical-science2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-physical-science">
+      <p class="panel-title pull-left">
+          Physical Science
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-physical-science2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-physical-science">
+    <div class="panel-body">
+        <p><strong>Physics and/or Chemistry</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Students should roster PHY 121: General Physics I.</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Unless students have a strong interest in chemistry, we recommend that they postpone CHM 103: General Chemistry I until their sophomore or junior year.</span></p>
+<p><strong>Mathematics</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MTH 121: Calculus I </span><strong>or</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MTH 122: Calculus II </span><strong>or</strong><span style="font-weight: 400;"> if advanced placed,&nbsp;</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">MTH 227: Differential Equations&nbsp;</span></p>
+<p><strong>Language</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Any language is acceptable.</span></p>
+<p><strong>First-Year Seminar</strong></p>
+<p><strong>Elective</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Choose as student interest dictates.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-physics2" 
+     aria-expanded="false" 
+     aria-controls="advising-physics2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-physics">
+      <p class="panel-title pull-left">
+          Physics
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-physics2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-physics">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong></p>
+<p style="padding-left: 30px;">Choose as student interest dictates.</p>
+<p><strong>Language</strong></p>
+<p style="padding-left: 30px;">Any language is acceptable.</p>
+<p><strong>Mathematics</strong></p>
+<p style="padding-left: 30px;">MTH 121: Calculus I <strong>or</strong></p>
+<p style="padding-left: 30px;">MTH 122: Calculus II is highly recommended for a student identified as a pre engineering, math or physics major.&nbsp;</p>
+<p><strong>Physics</strong></p>
+<p style="padding-left: 30px;">A student identified as a 3/2 pre engineering candidate or physics major should take PHY 121: General Physics I in her first semester.</p>
+<p style="padding-left: 30px;">PHY 122: General Physics II should be taken in the spring of the first year.</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-political-economy2" 
+     aria-expanded="false" 
+     aria-controls="advising-political-economy2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-political-economy">
+      <p class="panel-title pull-left">
+          Political Economy and Public Policy
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-political-economy2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-political-economy">
+    <div class="panel-body">
+        <p>The following courses are strongly recommended for inclusion in the first-year program.</p>
+<p><strong>Economics</strong></p>
+<p style="padding-left: 30px;">ECN 101: Principles of Macroeconomics <strong>and</strong></p>
+<p style="padding-left: 30px;">ECN 102: Principles of Microeconomics in the first year&nbsp;</p>
+<p><strong>AND</strong></p>
+<p><strong>Political Science</strong></p>
+<p style="padding-left: 30px;">PSC 101: Introduction to American National Government <strong>or</strong></p>
+<p style="padding-left: 30px;">PSC 103: Introduction to Comparative Government and International Relations&nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-political-science2" 
+     aria-expanded="false" 
+     aria-controls="advising-political-science2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-political-science">
+      <p class="panel-title pull-left">
+          Political Science
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-political-science2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-political-science">
+    <div class="panel-body">
+        <p><strong>Political Science</strong></p>
+<p style="padding-left: 30px;">PSC 101: Introduction to American National Government</p>
+<p style="padding-left: 30px;">PSC 103: Introduction to Comparative Government and International Relations</p>
+<p style="padding-left: 30px;">PSC 201: Political Ideologies</p>
+<p style="padding-left: 30px;">PSC 205: Constitutional Law I, for students with high school course work in</p>
+<p style="padding-left: 60px;">American government</p>
+<p><strong>Reasoning</strong></p>
+<p>If students are interested in completing the Reasoning requirement with a math course, MTH 119: Statistical Analysis is recommended</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-pre-engineering2" 
+     aria-expanded="false" 
+     aria-controls="advising-pre-engineering2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-pre-engineering">
+      <p class="panel-title pull-left">
+          Pre-Engineering
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-pre-engineering2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-pre-engineering">
+    <div class="panel-body">
+        <p style="text-align: center;">(with Columbia University)&nbsp;</p>
+<p>Students intending to select this program may spend three years at Muhlenberg and two years at Columbia University, leading to a dual degree (B.S. from Muhlenberg and B.S. in Engineering from Columbia).&nbsp; Also, the choice may be four years at Muhlenberg and two years at Columbia leading to two B.S. degrees.</p>
+<p>While at Muhlenberg, the student‚s major and general academic requirements must be fulfilled, and also MTH 121: Calculus I, MTH 122: Calculus II, and MTH 223: Calculus III; CSI 111; PHY 121: General Physics I, PHY 122: General Physics II; PHY 241: Thermal and Statistical Physics, CHM 103: General Chemistry I; ECN 101: Macroeconomics: or ECN 102 Microeconomics and certain other courses which depend upon the field of engineering to be selected.&nbsp;</p>
+<p>In order to ensure guaranteed admission to Columbia, a student must receive a grade of B or higher in all pre-engineering courses the first time taken and achieve a 3.3 GPA in pre-engineering science courses and overall.&nbsp; The student should take this requirement under consideration when selecting courses.</p>
+<p>A typical first-year program may consist of:</p>
+<ol>
+<li>MTH 121: Calculus I and MTH 122: Calculus II</li>
+<li>PHY 121: General Physics I and PHY 122: General Physics II&nbsp;</li>
+<li>Additional courses selected from:</li>
+</ol>
+<p style="padding-left: 60px;">First-Year Seminar</p>
+<p style="padding-left: 60px;">Language</p>
+<p style="padding-left: 60px;">ECN 101: Principles of Macroeconomics OR</p>
+<p style="padding-left: 60px;">ECN 102: Principles of Microeconomics</p>
+<p>Unless a student has a strong interest in chemistry, we recommend that s/he postpone CHM-103: General Chemistry I until the sophomore or junior year.&nbsp;</p>
+<p><strong>Advisor:</strong>&nbsp;Dr. Adam Clark, Associate Professor of Physics</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-pre-health2" 
+     aria-expanded="false" 
+     aria-controls="advising-pre-health2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-pre-health">
+      <p class="panel-title pull-left">
+          Pre-Health
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-pre-health2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-pre-health">
+    <div class="panel-body">
+        <p>A student considering medical school as a career path usually takes two science courses in both their first and second semesters at Muhlenberg.&nbsp; There are two recommended paths for a student‚s first semester:</p>
+<p style="padding-left: 30px;"><strong>Path 1</strong></p>
+<p style="padding-left: 30px;">BIO 160 Foundations of Biological Inquiry</p>
+<p style="padding-left: 30px;">CHM 103 General Chemistry I</p>
+<p style="padding-left: 30px;">or</p>
+<p style="padding-left: 30px;"><strong>Path 2</strong></p>
+<p style="padding-left: 30px;">PHY 121 General Physics (Calculus I is a pre- or corequisite)</p>
+<p style="padding-left: 30px;">CHM 103 General Chemistry I</p>
+<p>The major a student intends to study influences which path he/she takes. Students intending to pursue a major in biology, biochemistry or neuroscience should follow path 1.&nbsp; For all other majors, either path is appropriate and should be chosen according to interest and experience.&nbsp;</p>
+<p>Sometimes a student is advised to take CHM 100 Introductory Chemistry in her or his first semester.&nbsp; In order to stay on track for the MCAT in the junior year, this student should complete CHM 103 in the spring of the first year and CHM 104 in summer school before the start of the second year.&nbsp; CHM 104 General Chemistry II is a prerequisite for CHM 201/CHM 203 Organic Chemistry I and a prerequisite or corequisite for BIO 175 From Organisms to Molecules - both courses are essential preparation for the MCAT.&nbsp; Delaying CHM 104 beyond the summer before sophomore year could result in a delay in the medical school application process.</p>
+<p>In rare instances an incoming student chooses to take just one science class in the first year.&nbsp; Any student making this choice should be aware that he or she may not have time to complete all of the preparatory courses for the MCAT in spring of the junior year.</p>
+<p><strong>Advisor</strong><strong>:</strong>&nbsp;Ms. Cail√≠n Pachter, Director, Health Professions Advising</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-pre-law-program2" 
+     aria-expanded="false" 
+     aria-controls="advising-pre-law-program2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-pre-law-program">
+      <p class="panel-title pull-left">
+          Pre-Law Program
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-pre-law-program2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-pre-law-program">
+    <div class="panel-body">
+        <p><strong>Students should be encouraged to choose <span style="text-decoration: underline;">any major</span> that interests them.&nbsp;</strong></p>
+<p>Traditionally, students admitted to law school have come from almost every academic discipline.&nbsp; Students may choose to major in subjects that are considered to be traditional preparation for law school, such as history, English, philosophy, political science, economics or business, or they may focus their undergraduate studies in areas as diverse as art, music, science and mathematics, computer science, or education.&nbsp; Whatever the major, students are encouraged to pursue an area of study that interests and challenges them, while taking advantage of opportunities to develop critical thinking, research and writing skills, and oral communication.&nbsp; Students are also recommended to seek significant experiences in and outside the classroom which are devoted to improving fairness, the quality of justice, and a commitment to public service.</p>
+<p><strong>Advisor:</strong>&nbsp;Dr. Jack Gambino&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p><strong>Reasoning (RG):</strong></p>
+<p>Courses that devlop basic mathematical and statistical skills, as well as the ability to analyze financial data.</p>
+<p>PHL 110: Principles of Reasoning and Argument <strong>or</strong> PHL 211: Formal Logic is recommended to take Junior year in preparation for the LSAT.</p>
+<p><strong>Humanities (HU)</strong></p>
+<p>Courses that provide a broad understanding of history, including the various social, political, intellectual, ad cultural factors that have influenced the development of society in the United States.</p>
+<p><strong>Social Sciences (SL)</strong></p>
+<p>Courses that provide an unerstanding of political thought and of the contemporary American political system, as well as a basic understanding of human behavior and social interaction.</p>
+<p><strong>Natural Sciences and Mathematics (SC)</strong></p>
+<p>Courses that develop basic quantitative and scientific problem solving skills to investigate natural phenomena.</p>
+<p><strong>Human Difference and Global Engagement (DE)</strong></p>
+<p>Courses developing an understanding of diverse cultures within and beyond the United States, of international institutions and issues, of world events, and of the increasing interdepence of the nations and communities within our world.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-psychology2" 
+     aria-expanded="false" 
+     aria-controls="advising-psychology2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-psychology">
+      <p class="panel-title pull-left">
+          Psychology
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-psychology2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-psychology">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong></p>
+<p><strong>Mathematics </strong></p>
+<p style="padding-left: 30px;">MTH 119: Statistical Analysis or<br> MTH 121: Calculus I (or above)</p>
+<p>To be taken fall or spring semester of the first year as a prerequisite for PSY 103: Psychological Statistics, which is typically taken in the subsequent semester.&nbsp; PSY 103 should be taken no later than the first semester of the sophomore year followed by PSY 104: Research Methods, which should be taken by the end of the sophomore year.</p>
+<p style="padding-left: 30px;">PSY 103 is a prerequisite for PSY 104</p>
+<p><strong>Psychology </strong></p>
+<p style="padding-left: 30px;">PSY 101: Introductory Psychology</p>
+<p>Could be taken either first or second semester. If taken first semester, the student may take some other psychology courses toward the major requirements in the spring.*</p>
+<p><strong>NOTES:</strong>&nbsp; If schedule permits because of opting out of requirements, students might be encouraged to take courses in the natural sciences (e.g., biology or neuroscience), in other social sciences (e.g., sociology or anthropology), or in Humanities courses addressing the human condition.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p style="padding-left: 30px;">*Suggested courses include:</p>
+<p style="padding-left: 30px;">PSY 212: Learning and Behavior<br> PSY 220: Social Psychology<br> PSY 230: Child Development</p>
+<p>(Students who have received Advanced Placement for PSY 101: Introductory Psychology should be advised to register for one of these courses).</p>
+<p>Since the prerequisite for Psych Stats is either Math 119 or Cal I, students who place into Cal II or higher would be considered to have satisfied the math prerequisite for Psych Stats.&nbsp; There are currently seats open for the course, and we believe that the students will have sufficient mathematical sophistication to handle the quantitative parts of the course.&nbsp; HOWEVER, Psych Stats also has a major writing component, in which students are introduced to APA writing style and application. Thus, students considering taking Psych Stats in their first semester should be asked about their level of comfort with the amount and type of writing that they will be required to do. If the student isn't confident in their writing ability, they should consider delaying Psych Stats until they already have some college-level writing under their belts.</p>
+<p>Students scoring a 4 or 5 on the AP Psych Test need not take Intro to Psych, depending on their golas and circumstances. They would be better served taking a 200-level psychology course from the list in the advising manual, or to focus on the general academic curriculum and take a psychology course second semester.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-public-health2" 
+     aria-expanded="false" 
+     aria-controls="advising-public-health2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-public-health">
+      <p class="panel-title pull-left">
+          Public Health
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-public-health2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-public-health">
+    <div class="panel-body">
+        <p><strong>Note</strong>:&nbsp; Students cannot declare the major until they have taken at least one course that satisfies one of the major requirements (elective or core).</p>
+<p>First Year students are encouraged to take the following courses:</p>
+<p><strong>Mathematics: MTH 119 (major/minor requirement)</strong></p>
+<p style="padding-left: 30px;">Students are encouraged to take MTH 119 Statistical Analysis in their first year.</p>
+<p><strong>Language</strong></p>
+<p style="padding-left: 30px;">Students are encouraged to enroll in a language during the first year. Any language is acceptable.</p>
+<p><strong>First-Year Seminar</strong></p>
+<p style="padding-left: 30px;">Choose a first year seminar that interests you.</p>
+<p><strong>Science: (major/minor requirement)</strong></p>
+<p style="padding-left: 30px;">If you are not planning to double major in biology, then select a non-majors science course from the following:&nbsp; BIO 101, BIO 107, BIO 111, BIO 118, ESC 111 or ESC 113</p>
+<p><strong>Elective</strong></p>
+<p style="padding-left: 30px;">A humanities or social science course that fulfills a major/minor requirement is preferable.</p>
+<p><em>In the second year</em>:</p>
+<p><strong>Issues in Public Health</strong></p>
+<p style="padding-left: 30px;">Students who wish to major in Public Health should take PBH 201 Issues in</p>
+<p style="padding-left: 30px;">Public Health in the first OR second year.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-religion-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-religion-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-religion-studies">
+      <p class="panel-title pull-left">
+          Religion Studies
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-religion-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-religion-studies">
+    <div class="panel-body">
+        <p>Courses appropriate for entering first-year students:</p>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 70%;" scope="col"><span>REL 100: Religion and Popular Culture</span></td>
+<td style="width: 30%;" scope="col">(HU)*</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><span>REL 117: Animals &amp; the Sacred</span></td>
+<td style="width: 30%;" scope="col">(HU)</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><span><strong>REL 119: The Moral Self</strong></span></td>
+<td style="width: 30%;" scope="col"><strong>(DE and HU)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><strong>REL 121: Modernity &amp; the Death of God?</strong>&nbsp;</td>
+<td style="width: 30%;" scope="col"><strong>(DE and HU)*</strong></td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><strong>REL 131: Myth, Religion, and Creation</strong>&nbsp;</td>
+<td style="width: 30%;" scope="col"><strong>(DE and HU)*</strong></td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col">REL 133: Pilgrimage: Rites of Way</td>
+<td style="width: 30%;" scope="col"><span>(DE and HU)*</span>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><span>REL 135: Religion in America</span>&nbsp;</td>
+<td style="width: 30%;" scope="col"><span>(HU)</span>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><span>REL 181: Speaking with the<span>&nbsp;</span></span><span>Divine</span>&nbsp;</td>
+<td style="width: 30%;" scope="col"><span>(HU)</span>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><strong>REL 182: Special Topics: Divine Appetites</strong>&nbsp;</td>
+<td style="width: 30%;" scope="col">(HU)&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><span>REL 203: Religions of India</span>&nbsp;</td>
+<td style="width: 30%;" scope="col">(DE and HU)*&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><span>REL 207: Religions of China</span>&nbsp;</td>
+<td style="width: 30%;" scope="col"><span>(DE and HU)*&nbsp;</span>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><strong>REL 217: Religion in Public Discourse</strong>&nbsp;</td>
+<td style="width: 30%;" scope="col"><strong>(HU)*</strong>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><strong>REL 227: Islamic Traditions</strong>&nbsp;</td>
+<td style="width: 30%;" scope="col"><strong>(DE and HU)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><strong>REL 229: Jewish Traditions</strong>&nbsp;</td>
+<td style="width: 30%;" scope="col"><strong>(HU)*</strong>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col">REL 233: Christian Traditions</td>
+<td style="width: 30%;" scope="col">(HU)&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><strong>REL 254: New Testament</strong>&nbsp;</td>
+<td style="width: 30%;" scope="col"><strong>(HU)*</strong><span>&nbsp;</span>&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 70%;" scope="col"><span>REL 285: Reading the Qu'ran</span>&nbsp;</td>
+<td style="width: 30%;" scope="col"><span>(DE and HU)*</span>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>*Seats reserved especially for 1st years</p>
+<p><strong>Bold ‚ courses offered in Fall 2020</strong></p>
+<p><strong>REL 217: Religion in Public Discourse</strong></p>
+<p>Students interested in law, medicine, public policy, etc. are encouraged to take REL 217: Religion in Public Discourse.&nbsp; This course highlights how religion is understood and considered in the professions.</p>
+<p><strong>Special Topics:</strong></p>
+<p>Any ‚Special Topics‚ courses at the 100/200 level are also good choices for incoming students.&nbsp; For Fall 2020 REL 182: Divine Appetites, Religion and Food has seats available.</p>
+<p><strong>Language:</strong></p>
+<p>Any language can facilitate work in Religion Studies. <strong>Hebrew, Chinese, </strong>and <strong>Arabic </strong>are recommended for those particularly interested in the associated regions.</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-religious-professions2" 
+     aria-expanded="false" 
+     aria-controls="advising-religious-professions2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-religious-professions">
+      <p class="panel-title pull-left">
+          Religious Professions
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-religious-professions2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-religious-professions">
+    <div class="panel-body">
+        <p>No specific major is required for education and training for a religious profession.&nbsp; Study in Religion Studies, Jewish Studies, English, History, Philosophy, Psychology, Business, Media &amp; Communication, and Education is recommended.&nbsp; Some religions require that, while in college and before entering a graduate-level program, a student participates in a discernment and formation process. Contact your particular denomination for details.&nbsp; For further information, <a href="/student-life/religiouslife/staff/">contact Chaplain Kristen Glass Perez</a>.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-russian-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-russian-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-russian-studies">
+      <p class="panel-title pull-left">
+          Russian Studies
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-russian-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-russian-studies">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong></p>
+<p><strong>Language</strong></p>
+<p style="padding-left: 30px;">Russian at the appropriate level (determined by the departmental Russian placement examination).&nbsp; Refer to the Second Language Placement site for placement recommendations.</p>
+<p><strong>Options</strong>: (depending on student‚s background, interests, and scheduling)</p>
+<p style="padding-left: 30px;">Select courses from the areas of Reasoning, Social Sciences, Sciences, and Arts</p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-sociology2" 
+     aria-expanded="false" 
+     aria-controls="advising-sociology2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-sociology">
+      <p class="panel-title pull-left">
+          Sociology
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-sociology2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-sociology">
+    <div class="panel-body">
+        <p><strong>First-Year Seminar</strong></p>
+<p><strong>Language</strong></p>
+<p style="padding-left: 30px;">By choice</p>
+<p><strong>History</strong></p>
+<p style="padding-left: 30px;">By choice</p>
+<p><strong>Sociology</strong></p>
+<p style="padding-left: 30px;">SOC 101: Introduction to Sociology&nbsp; (SL and DE)</p>
+<p><strong>HDGE</strong></p>
+<p style="padding-left: 30px;">(pre-reg 101 or By Permission)</p>
+<p style="padding-left: 30px;">SOC 224: American Ethnic Diversity</p>
+<p style="padding-left: 30px;">SOC 235: Inequality &amp; Power</p>
+<p style="padding-left: 30px;">SOC 325: Imagined Communities: The Sociology of Nations and States</p>
+<p style="padding-left: 30px;">SOC 342: Boundaries &amp; Belonging: Sociology of Diasporas</p>
+<p style="padding-left: 30px;">SOC 352: Global Migration &amp; Transnational Communities</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-theatre2" 
+     aria-expanded="false" 
+     aria-controls="advising-theatre2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-theatre">
+      <p class="panel-title pull-left">
+          Theatre
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-theatre2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-theatre">
+    <div class="panel-body">
+        <p>The top priority for all first-year theatre students should be&nbsp;<strong>THR 105: Performance &amp; Society</strong>. This is the introductory, foundational course for the Theatre major. It includes both seminar and studio elements, so students need to enroll in both the Seminar section and the accompanying Laboratory.&nbsp; All prospective Theatre majors should do their utmost to roster this course.&nbsp; We beleive we have enough seats to meet demand, but if a student is shut out of the course (or just can't make the schedule puzzle work), the course will be offered again in the Spring.</p>
+<p>If a student is unable to roster THR 105 or would like to take an additional Theatre couse, there are several good options.&nbsp; All of thse count toward the Theatre major.</p>
+<p>LLC 410: Early Modern Spanish Drama (1 unit, taught in English.&nbsp; Despite the course number, this course would be a great option for First Year Students.)</p>
+<p>THR 151: Voice and Speech for the Actor (.5 units)</p>
+<p>THR 155: Movement for the Actor (.5 units)</p>
+<p>THR 166: Stagecraft: Scenic Techniques (.5 units)</p>
+<p>THR 167: Stagecraft: Costume Techniques (.5 units)</p>
+<p>THR 183: Fundamentals of Musical Theatre Performance (.5 units)</p>
+<p>THR 188: Stagecraft: Properties (.5 units)</p>
+<p>THR 220: Stage Management 1 (1 unit; requires concurrent enrollment in THR 105)</p>
+<p>Students who articulate an interest in Stage Management should be encouraged to takeTHR 220 their first semester.</p>
+<p><strong>WITH VERY FEW EXCEPTIONS, PROSPECTIVE THEATRE MAJORS SHOULD <span style="text-decoration: underline;">NOT</span> ROSTER THE FOLLOWING COURSE</strong>:</p>
+<ul>
+<li><strong>THR 150: Intro to the Art of Acting</strong> ‚ This course is <span style="text-decoration: underline;">not</span> intended for Theatre majors, and it does <span style="text-decoration: underline;">not</span> fulfill a major requirement. Experience suggests thatsome eager students will express interest in the course.&nbsp; Please steer them away from it.&nbsp; It would be appropriate ONLY for prospective majors who have had little prior experience with acting, and even then a better option would be any of the 100 level performance oriented courses listed above (THR 151, THR 155, and THR 183).</li>
+<li>However, THR 150 <em>is&nbsp;</em>a great course for non-Theatre major interested in fulfilling the "AR" distribution requirement.&nbsp; Highly recommended for this purpose.</li>
+</ul>
+<p>If your advisees have questions about the Theatre major requirements, a <a href="/academics/theatre-dance/thetheatreprogram/thetheatrecurriculum/guidetothenewcurriculum/">helpful guide is available on our website</a>.</p>
+<p>If you have questions about a particular student on th day of advising, you are welcome to contact Jim Peck, incoming Chair of Theatre.&nbsp; He will be available all advising days, and the best way to contact him is via a text message at 610-703-3777.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#advising-women-gender-studies2" 
+     aria-expanded="false" 
+     aria-controls="advising-women-gender-studies2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="advising-women-gender-studies">
+      <p class="panel-title pull-left">
+          Women‚s and Gender Studies (minor only)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="advising-women-gender-studies2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="advising-women-gender-studies">
+    <div class="panel-body">
+        <p style="text-align: center;">Director: Dr. Francesca Coppa</p>
+<p>The WST Program at Muhlenberg offers a six-course minor that students can combine with any major.&nbsp; Recent WST graduates have majored in biology, psychology, mathematics, media and communication, philosophy, sociology, history, English, religion studies, and theatre.&nbsp;&nbsp;</p>
+<p><strong>They will need to take WST 202</strong>. This core WST class teaches students the international history of Women‚s and Gender Studies and the latest thinking in these areas: feminism, sexuality studies, masculinity studies, and queer studies.&nbsp; (This course is full for Fall 2021)</p>
+<p>First year students curious about exploring Women‚s &amp; Gender Studies (which encompasses topics of sexuality studies, intersectional analysis, cultural studies, queer theory and more) <strong>should try to take one of the classes on the WST Electives list during their first year.</strong></p>
+<p><strong>Minor Requirements</strong></p>
+<p>To complete the Women‚s and Gender Studies minor, students must take WST 202, Topics in Women‚s and Gender Studies (or an equivalent course designated by the Director) and five additional courses from the list of approved classes. A WST internship, study abroad, and independent study classes can also count toward the minor.&nbsp; In addition to the Women‚s &amp; Gender Studies courses (listed below), special topics courses cross-listed with WST are available on a semester-by-semester basis.&nbsp;</p>
+<p><strong><em>Courses from WST Electives list that DO NOT have </em></strong><strong><em>prerequisites and DO have seats for incoming first-year students:</em></strong></p>
+<p style="padding-left: 30px;">AAS 383: Global Black Lit (may be full)</p>
+<p style="padding-left: 30px;">AFS 101: Intro to Africana Studies</p>
+<p style="padding-left: 30px;">ATH 250: Anthro of Gender &amp; Sexuality (may be full)</p>
+<p style="padding-left: 30px;">ENG 287: Spc Top: Trans &amp; Gender Variant Literature</p>
+<p style="padding-left: 30px;">HST 281: Special Topic: Eliza Hamilton‚s America (may be full)</p>
+<p style="padding-left: 30px;">NCS 389: Special Topic: Neurobiological of Sex Differences (requires permission of instructor, but interested students should email <a href="mailto:leahwilson@muhlenberg.edu">leahwilson@muhlenberg.edu</a> for more information or for permission to register)</p>
+<p style="padding-left: 30px;">PHL 227 Philosophy of Feminism (may be full)</p>
+<p style="padding-left: 30px;">Students with previous gender studies experience might try PSC 383: Spc Top: Critical Race Feminist Theory, which recommend but does not require past courses.</p>
+<p><em>*Note for any students who express an interest in a Self-Designed Major in Gender &amp; Sexuality Studies: The students should contact Dr. Coppa. There are several students currently completing a Self-Designed Major in Gender and Sexuality Studies through the Women‚s and Gender Studies program with advising by WST faculty.</em></p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

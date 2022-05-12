@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Red Door Initiatives | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Red Door Initiatives">
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/assist/">Red Door Initiatives</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Red Door Initiatives</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Red Door Initiatives">
+							<span class="sub_nav_handle_label">Red Door Initiatives</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/communityinaction/">Community in Action</a></li><li class="sub_nav_item"><a href="/offices/healthcenter/coronavirus/">Coronavirus (COVID-19) Information</a></li><li class="sub_nav_item"><a href="/financialhardship/">Financial Hardship Resources</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/student-life/">Student Life</a></li><li class="linkitem"><a href="/assist/">Red Door Initiatives</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p><span style="font-weight: 400;">Muhlenberg College launched the first of its Red Door InitiativesâThe Muhlenberg&nbsp;Extended Learning&nbsp;program to provide a limited number of grants for students to take free summer courses onlineâat the end of April 2020. These programs combine funds and resources from Muhlenberg College, the Muhlenberg Student Government Association, the Federal Coronavirus Aid, Relief and Economic Security (CARES) Act and gifts from alumni to help Muhlenberg students most in need of support&nbsp;as a result of COVID-19 disruptions.</span></p>
+<p>Available&nbsp;Red Door&nbsp;Initiatives are listed below along with details about each program and associated resources.</p></div>
+
+</div>
+</div>
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><hr>
+<p>&nbsp;<br><strong>Student Employee Pay Program</strong></p>
+<p>During the College's move to remote learning and remote work, many of our students were not able to work the expected number hours in their student employee positions. On May 1, the College shared its plan for sending this financial support to students. Please read the FAQ below for more details.</p><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#StudentEmployeePayFAQ2" 
+     aria-expanded="false" 
+     aria-controls="StudentEmployeePayFAQ2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="StudentEmployeePayFAQ">
+      <p class="panel-title pull-left">
+          Student Employee Pay FAQ
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="StudentEmployeePayFAQ2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="StudentEmployeePayFAQ">
+    <div class="panel-body">
+        <p><strong>What is happening with students who were employed in on-campus jobs?</strong></p>
+<p><span style="font-weight: 400;">Muhlenberg will be sending a special paycheck to students who were in hourly positions:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working on-campus during the first half of the Spring 2020 semester, and</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Had a disruption in their on-campus position, either:</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Not able to work remotely at all during the second half of the spring semester, or</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Not able to work as many hours in their position in the second half of the semester as they did in the first half</span></li>
+</ul>
+</ul>
+<p><em><span style="font-weight: 400;">Students paid through stipends are already being paid the full amount of their stipends through normal payroll processes.&nbsp;</span></em></p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>How much will the payment be?</strong></p>
+<p><span style="font-weight: 400;">It will vary from student-to-student. The actual payment will be based on wages earned in the first half of the spring semester, reduced by the wages in the second half of the semester.&nbsp;</span></p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><span style="font-weight: 400;">Examples:</span></p>
+<p><strong>Student 1</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» Worked 45 hours in the first half of the semester at $8.00 per hour ($360 in wages).</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» In the second half, could work remotely but only record 32 hours ($256 in wages).</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» The one-time payment will be $104.</span></p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>Student 2</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» Worked 60 hours in the first half of the semester at $8.00 per hour ($480 in wages).</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» In the second half, this studentâs position could not be shifted to remote work ($0 in wages).</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» The one-time payment will be $480.</span></p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>Student 3</strong></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» Worked 55 hours in the first half of the semester at $8.00 per hour ($440 in wages).</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» In the second half, this studentâs position moved to remote work and the student worked 55 hours ($440 in wages).</span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Â» This student earned the same in the second half of semester than the first half and received their full wages for the semester.</span></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<p><strong>How is this payment being made?</strong></p>
+<p><span style="font-weight: 400;">The special payment will be made through the Collegeâs payroll office, the same as other payments to student employees. It will be paid on May 29, 2020. For faster receipt of funds, we encourage students to sign up for direct deposit if they haven't done so already (see below for direct deposit details).&nbsp;</span></p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>Is this post-semester payment taxable?</strong></p>
+<p>By law, it is subject to the same tax requirements as other student employment pay.&nbsp;</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>I worked at two or three on-campus jobs and I continued at one but lost hours at the other(s)?</strong></p>
+<p><span style="font-weight: 400;">The one-time payment is based on total pay for all student employee positions worked at the College. Students will be treated the same whether they worked in one position or multiple positions.&nbsp;</span></p>
+<p>Students who are working as Residence Assistants (RAs) and in positions receiving stipends are being paid the full amount of their stipends.&nbsp;</p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>Why did Muhlenberg wait to announce this?</strong></p>
+<p><span style="font-weight: 400;">The College was anticipating that the Federal CARES Act would provide some assistance to students whose on-campus jobs were unable to be performed remotely, or were curtailed by the move to remote work. When the act was passed by Congress, it was unclear if CARES Act funds could be used to support students whose employment was no longer available or reduced.</span></p>
+<p><span style="font-weight: 400;">With that uncertainty, and the knowledge it would soon be clarified, the College senior staff deferred a final decision on the details of payment distribution.&nbsp;This position was affirmed by several national higher education associations also awaiting further guidance. Making a decision on this issue before a clarifying statement was released by the U.S. Education Department may have risked studentsâ ability to receive assistance.&nbsp;</span></p>
+<p><span style="font-weight: 400;">In its CARES Act announcement on April 21, 2020, the Education Department ruled that CARES Act student grants<span>&nbsp;</span></span><span style="font-weight: 400;">cannot</span><span style="font-weight: 400;"><span>&nbsp;</span>be made for lost student employment positions or reduced hours. That decision is disappointing, but not likely to be reversed. Once it was made, the College senior staff created this new plan.&nbsp;</span></p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p><strong>I was getting paid by check. How do I sign up for direct deposit to receive my money more quickly?</strong></p>
+<p><span style="font-weight: 400;">If you are interested in signing up for Direct Deposit, please send an email<span>&nbsp;</span></span><span style="font-weight: 400;">by May 15</span><span style="font-weight: 400;"><span>&nbsp;</span>to payroll@muhlenberg.edu from your Muhlenberg email account. Your email should state your intent to receive payroll funds through Direct Deposit and your current phone number that we can call if we have questions about your request.</span></p>
+<p><span style="font-weight: 400;">After the Business Office has received your email, you will be emailed a Student Employment Direct Deposit Authorization Form along with instructions on how to return this information to us through a secure, encrypted email.&nbsp;</span></p>
+<p>Once you have completed the form and sent it back to us through a secure, encrypted email, we will validate your banking information in the next payroll. During the payroll period that your banking information is being validated, you will receive a check. After your banking information has been validated, then your paycheck funds will be deposited directly into your bank account.</p>
+<p>Be sure to start the process right away, so that your banking validation goes through and you can receive your special payroll check through Direct Deposit.</p>
+    </div>
+  </div>
+</div><p>&nbsp;</p>
+<hr>
+<p><strong><br>Higher Education Emergency Relief Fund (HEERF)<br></strong></p>
+<p><strong><span style="font-weight: 400;">Muhlenberg College received emergency federal funding from the U.S. Department of Education through the Higher Education Emergency Relief Fund (HEERF) in 2020 and 2021 to respond to the coronavirus pandemic. The College received three separate HEERF allocations resulting from three pieces of legislation: Coronavirus Aid, Relief, and Economic Security Act (CARES Act, HEERF I), Coronavirus Response and Relief Supplemental Appropriations Act, 2021 (CRRSAA, HEERF II), and the American Rescue Plan Act (ARP, HEERF III). </span></strong></p><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#CARESActFAQ2" 
+     aria-expanded="false" 
+     aria-controls="CARESActFAQ2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="CARESActFAQ">
+      <p class="panel-title pull-left">
+          CARES Act (HEERF I) Emergency Financial Aid Grants to Students Reporting - Final
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="CARESActFAQ2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="CARESActFAQ">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">As of May 2021, Muhlenberg College had distributed all student emergency grant funds under Section 18004(a)(1) of the CARES Act. The content shown below in items one through seven serves as the final report for the student portion of the funds.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">An acknowledgement that the institution signed and returned to the Department the Certification and Agreement and the assurance that the institution has used, or intends to use, no less than 50 percent of the funds received under Section 18004(a)(1) of the CARES Act to provide Emergency Financial Aid Grants to students.</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Muhlenberg College signed and returned the Certification and Agreement for student grants on April 27, 2020. On May 4, 2020, Muhlenberg received the Grant Award Notification from the U.S. Department of Education. Muhlenberg affirms that it has used $809,954, fifty (50) percent of its total HEERF fund allocation, for Emergency Financial Aid Grants to students.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total amount of funds that the institution will receive or has received from the Department pursuant to the institutionâs Certification and Agreement [for] Emergency Financial Aid Grants to Students.</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">The College has been allocated $809,954 to provide Emergency Financial Aid Grants to students under Section 18004(a)(1) of the CARES Act.&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total amount of Emergency Financial Aid Grants distributed to students under Section 18004(a)(1) of the CARES Act as of the date of submission (i.e., as of the 30-day Report and every 45 days thereafter).*</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Muhlenberg College has distributed $809,954 to students as Emergency Financial Aid Grants under Section 18004(a)(1) of the CARES Act, the entire allocation.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The estimated total number of students at the institution eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965 and thus eligible to receive Emergency Financial Aid Grants to students under Section 18004(a)(1) of the CARES Act.</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">On March 14, 2020, there were 1,526 Muhlenberg students who were enrolled at the College who had submitted a 2019-2020 FAFSA with confirmed Title IV eligibility.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total number of students who have received an Emergency Financial Aid Grant to students under Section 18004(a)(1) of the CARES Act.</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">1,225 students received an Emergency Financial Aid Grant under Section 18004(a)(1) of the CARES Act.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The method(s) used by the institution to determine which students receive Emergency Financial Aid Grants and how much they would receive under Section 18004(a)(1) of the CARES Act.</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">The Collegeâs senior staff, in consultation with staff in finance, financial aid, and student affairs areas, agree to comply with the direction of the Secretary of Education to distribute CARES Act HEERF student grants in an efficient and timely manner, in compliance with the law and ED guidance, to the broadest possible group but also focusing on students the college who already are in the greatest need for financial assistance at all times, but especially in times of educational and residential disruption.</span></p>
+<p><span style="font-weight: 400;">In May 2020, Muhlenberg distributed $500 grants and $650 grants. 504 students were identified to receive $650 grants. For all students in this group, at least a portion of their financial aid awards for the 2019-2020 academic year were based solely on demonstrated financial need (grant aid beyond that awarded for academic achievement, talent, citizenship, or personal achievements), and all of these students received a Federal Pell Grant or a need-based grant from a state financial aid agency, or both, making them the Collegeâs highest need students through standard means of assessing student and family need.</span></p>
+<p><span style="font-weight: 400;">790 students were identified to receive $500 grants. For all students in this group, at least a portion of their financial aid awards for the 2019-2020 academic year were based solely on demonstrated financial need (grant aid beyond that awarded for academic achievement, talent, citizenship, or personal achievements), and these students did not receive Federal Pell Grants or need-based grant from a state financial aid agency.</span></p>
+<p><span style="font-weight: 400;">232 students were identified as eligible for CARES Act grants should they choose to apply and demonstrate need for assistance with eligible costs. Through accepting a filed 2019-2020 FAFSA aid application, the U.S. Department of Education has affirmed that these students are eligible for Title IV federal financial aid programs</span></p>
+<p><span style="font-weight: 400;">Supplemental grants were awarded to students utilizing a rolling application process to support Title IV eligible students with qualifying expenses.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">Any instructions, directions, or guidance provided by the institution to students concerning the Emergency Financial Aid Grants .</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Email to students eligible for standard grant:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="/media/contentassets/pdf/about/finaid/Copy of CARES Act email for $500 standard grant.pdf">CARES Act email for $500 standard grant</a></span></li>
+<li style="font-weight: 400;"><a href="/media/contentassets/pdf/about/finaid/Copy of CARES Act email for $650 standard grant.pdf">CARES Act email for $650 standard grant</a></li>
+</ul>
+<p><span style="font-weight: 400;">Email to students not eligible for standard grant with information on applying for assistance:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="/media/contentassets/pdf/about/finaid/Copy of CARES Act email with instruction on applying for supplemental grant.pdf">Email for supplemental grant</a></span></li>
+</ul>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#CARESActComms2" 
+     aria-expanded="false" 
+     aria-controls="CARESActComms2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="CARESActComms">
+      <p class="panel-title pull-left">
+          CRRSAA (HEERF II) Emergency Financial Aid Grants to Students Reporting - Final
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="CARESActComms2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="CARESActComms">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">As of June 2021, Muhlenberg College had distributed all student emergency grant funds under the CRRSAA (a)(1) programs. The content shown below in items one through seven serves as the final report for the student portion of the funds.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">An acknowledgement that the institution signed and returned to the Department the Certification and Agreement and the assurance that the institution has used the applicable amount of funds designated under the CRRSAA (a)(1) and (a)(4) programs to provide Emergency Financial Aid Grants to students.</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Muhlenberg College signed and returned the Certification and Agreement for student grants on April 27, 2020. On May 4, 2020, Muhlenberg received the Grant Award Notification from the U.S. Department of Education. On March 19, 2021, Muhlenberg received an updated Grant Award Notification for its HEERF allocation under CRRSAA. Muhlenberg affirms that it has used the applicable amount designated for student aid, $809,954, for Emergency Financial Aid Grants to students.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total amount of funds that the institution will receive or has received from the Department pursuant to the institutionâs Certification and Agreement for Emergency Financial Aid Grants to Students under CRRSAA (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Muhlenberg College has received $809,954 in funds for Emergency Financial Aid Grants to Students under CRRSAA (a)(1).</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total amount of Emergency Financial Aid Grants distributed to students under CRRSAA (a)(1) and (a)(4) as of the date of submission (i.e., as of the initial report and every calendar quarter thereafter).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Muhlenberg College has distributed $809,954 to students as Emergency Financial Aid Grants under CRRSAA (a)(1), the entire allocation.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The estimated total number of students at the institution eligible to receive Emergency Financial Aid Grants to students under CRRSAA (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">There were 1,526 Muhlenberg students who were enrolled at the College who had submitted a 2019-2020 FAFSA with confirmed Title IV eligibility.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total number of students who have received an Emergency Financial Aid Grant to students under CRRSAA (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">1,238 students received an Emergency Financial Aid Grant under CRRSAA (a)(1).</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The method(s) used by the institution to determine which students receive Emergency Financial Aid Grants and how much they would receive under CRRSAA (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">The Collegeâs senior staff, in consultation with staff in finance, financial aid, government relations, and student affairs areas, agree to comply with the direction of the Secretary of Education to distribute HEERF student grants in an efficient and timely manner, in compliance with the law and ED guidance, to the broadest possible group but also prioritizing students with the greatest need for financial assistance.</span></p>
+<p><span style="font-weight: 400;">In May 2021, Muhlenberg distributed $250, $800, and $1,200 grants. 405 students received $1,200 grants. For all students in this group, at least a portion of their financial aid awards for the 2020-2021 academic year were based solely on demonstrated financial need (grant aid beyond that awarded for academic achievement, talent, citizenship, or personal achievements), and all of these students received a Federal Pell Grant. 84 students received $800 grants.&nbsp; For all students in this group at least a portion of their financial aid awards for the 2020-2021 academic year were based solely on demonstrated financial need and all of these students received a need-based grant from a state financial aid agency. 745 students received $250 grants. For all students in this group, the EFC did not exceed tuition and fees, and these students did not receive a Federal Pell Grant or a need-based grant from a state financial aid agency.</span></p>
+<p><span style="font-weight: 400;">Supplemental grants were once again awarded to students utilizing a rolling application process to support eligible students with qualifying expenses.&nbsp;</span></p>
+<p><span style="font-weight: 400;">In June 2021, Muhlenberg distributed additional grants to students-- utilizing a portion of the CRRSAA allocation and a portion of the ARP allocation-- at $675, $2,500, and $3,200 based on identical criteria as the May 2021 distribution: Pell Grant recipients ($3,200), state grant recipients ($2,500), and remaining students with an EFC not exceeding tuition and fees ($675). From the CRRSAA allocation used for these grants, 89 students received a $675 grant, and $399 of a $3,200 grant exhausted the Collegeâs CRRSAA allocation. The remaining grants from the June 2021 distribution were made out of the ARP allocation.&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">Any instructions, directions, or guidance provided by the institution to students concerning the Emergency Financial Aid Grants.</span></em></em></li>
+</ul>
+<p><a href="/media/contentassets/pdf/about/finaid/HEERF II Student Emails .pdf">HEERF II Emails to Students</a></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#CARESActReporting2" 
+     aria-expanded="false" 
+     aria-controls="CARESActReporting2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="CARESActReporting">
+      <p class="panel-title pull-left">
+          ARP (HEERF III) Emergency Financial Aid Grants to Students Reporting - Updated 4/8/2022
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="CARESActReporting2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="CARESActReporting">
+    <div class="panel-body">
+        <p><span style="font-weight: 400;">Muhlenberg College received its American Rescue Plan Act (ARP) allocation on June 11, 2021. The content shown below in items one through seven serves as the quarterly report for the student portion of the funds.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">An acknowledgement that the institution signed and returned to the Department the Certification and Agreement and the assurance that the institution has used the applicable amount of funds designated under the ARP (a)(1) and (a)(4) programs to provide Emergency Financial Aid Grants to students.</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Muhlenberg College signed and returned the Certification and Agreement for student grants on April 27, 2020. On May 4, 2020, Muhlenberg received the Grant Award Notification from the U.S. Department of Education. On June 11, 2021, Muhlenberg received an updated Grant Award Notification for its HEERF allocation under ARP. Muhlenberg affirms that it has used the applicable amount designated for student aid, $2,065,657, for Emergency Financial Aid Grants to students.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total amount of funds that the institution will receive or has received from the Department pursuant to the institutionâs Certification and Agreement for Emergency Financial Aid Grants to Students under ARP (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">Muhlenberg College has been allocated $2,065,657 in funds for Emergency Financial Aid Grants to Students under ARP (a)(1).&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total amount of Emergency Financial Aid Grants distributed to students under ARP (a)(1) and (a)(4) as of the date of submission (i.e., as of the initial report and every calendar quarter thereafter).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">As of March 31, 2022, Muhlenberg College has distributed&nbsp;$2,058,584.00 to students as Emergency Financial Aid Grants under ARP (a)(1).</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The estimated total number of students at the institution eligible to receive Emergency Financial Aid Grants to students under ARP (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">There were 1,525 Muhlenberg students who were enrolled at the College who had submitted a 2021-2022 FAFSA with confirmed Title IV eligibility.</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The total number of students who have received an Emergency Financial Aid Grant to students under ARP (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">As of December 31, 2021, 1,326 students received an Emergency Financial Aid Grant under ARP (a)(1).</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">The method(s) used by the institution to determine which students receive Emergency Financial Aid Grants and how much they would receive under ARP (a)(1) and (a)(4).</span></em></em></li>
+</ul>
+<p><span style="font-weight: 400;">The Collegeâs senior staff, in consultation with staff in finance, financial aid, government relations, and student affairs areas, agree to comply with the direction of the Secretary of Education to distribute HEERF student grants in an efficient and timely manner, in compliance with the law and ED guidance, to the broadest possible group but also prioritizing students with the greatest need for financial assistance.</span></p>
+<p><span style="font-weight: 400;">In June 2021, Muhlenberg distributed additional grants to students-- utilizing a portion of the CRRSAA allocation and a portion of the ARP allocation-- at $675, $2,500, and $3,200. Pell Grant recipients received $3,200, state grant recipients received $2,500, and remaining students with an EFC not exceeding tuition and fees received $675. From the ARP allocation used for these grants, 682 students received a $675 grant, 88 students received a $2,500 grant, and 408 students received a $3,200 grant.</span></p>
+<p><span style="font-weight: 400;">Supplemental grants were once again awarded to students utilizing a rolling application process to support eligible students with qualifying expenses. Students are still eligible to apply for supplemental grants.&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><em><em><span style="font-weight: 400;">Any instructions, directions, or guidance provided by the institution to students concerning the Emergency Financial Aid Grants.</span></em></em></li>
+</ul>
+<p><a href="/media/contentassets/pdf/about/finaid/HEERF III Student Email .pdf">HEERF III Emails to Students</a></p>
+<h4>Report Archive</h4>
+<hr>
+<p><a href="/media/contentassets/pdf/about/finaid/muhlenberg-college-HEERF-III-january-reporting.pdf">January 7, 2022</a></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#CARESActInstitutionalPortionFinalReport2" 
+     aria-expanded="false" 
+     aria-controls="CARESActInstitutionalPortionFinalReport2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="CARESActInstitutionalPortionFinalReport">
+      <p class="panel-title pull-left">
+          HEERF I, II, and III Institutional Portion Final Reports
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="CARESActInstitutionalPortionFinalReport2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="CARESActInstitutionalPortionFinalReport">
+    <div class="panel-body">
+        <p style="text-align: left;"><strong><span style="font-weight: 400;"><a href="/media/contentassets/pdf/about/finaid/arpheerfiiiquarterlyreport - Muhlenberg.pdf">Muhlenberg College CRRSAA and ARP HEERF Institutional Portion Final Report</a></span></strong></p>
+<p style="text-align: left;"><strong><span style="font-weight: 400;"><a href="/media/contentassets/pdf/campuslife/Muhlenberg College CARES Act Institutional Portion Final Report.pdf">Muhlenberg College CARES Act Institutional Portion Final Report</a></span></strong></p>
+    </div>
+  </div>
+</div><p>&nbsp;</p>
+<hr>
+<p><strong><br>Muhlenberg College Professional Development Internship<br></strong></p>
+<p><strong><span style="font-weight: 400;">This innovative summer program</span><span style="font-weight: 400;">&nbsp;provides 10 weeks of financial support for current Muhlenberg students while&nbsp;offering students&nbsp; a professional development curriculum and structured experiential opportunities.&nbsp;The goal of this program is to assist students in obtaining professional skills and experiences necessary for future employment or academic pursuits.</span></strong></p>
+<p><a href="https://muhlenberg.joinhandshake.com/jobs/3755537/share_preview">Apply for the program here</a>.</p><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#ProfDevInternshipInfo2" 
+     aria-expanded="false" 
+     aria-controls="ProfDevInternshipInfo2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="ProfDevInternshipInfo">
+      <p class="panel-title pull-left">
+          Professional Development Internship Information
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="ProfDevInternshipInfo2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="ProfDevInternshipInfo">
+    <div class="panel-body">
+        <p><strong>Muhlenberg Summer 2020 Professional Development Internship</strong></p>
+<p><span style="font-weight: 400;">An innovative summer program,</span> <span style="font-weight: 400;">the Professional Development Internship provides 10 weeks of financial support for current Muhlenberg students while providing students with a professional development curriculum and structured experiential opportunities.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">The goal of this program is to assist students in obtaining professional skills and experiences necessary for future employment or academic pursuits. The program provides up to 15 students with an hourly rate of pay, training in a variety of professional skills and structured work experiences to help offset negatively affected summer jobs and internships as a result of COVID-19 pandemic and the challenges of virtual working transitions and conditions.</span></p>
+<p><span style="font-weight: 400;">Selected students will receive an hourly rate of $9 for up to 20 hours per week from May 26, 2020 through July 31, 2020. Students will work remotely on various projects submitted by departments across Muhlenberg College. Professional skills training will be provided by the Career Center, dean of students office and religious life. Applications are due Wednesday, May 13th, 2020. Selected students will be informed on Wednesday, May 20, 2020.&nbsp;</span></p>
+<p><span style="font-weight: 400;">All students are eligible to apply, however the following considerations will be prioritized in our selection of interns.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Students who are ineligible to work off campus;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Students who have demonstrated significant financial hardship;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Students who are able to complete work and meetings remotely (no in person work is possible right now);</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Students who are interested in completing critical work projects to support the College and are also developing professional and leadership development skills;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Students who are not employed in another summer College opportunity (eg. Summer digital learning assistants).</span></li>
+</ul>
+<p><span style="font-weight: 400;">Apply through Handshake: </span><a href="https://muhlenberg.joinhandshake.com/jobs/3755537/share_preview"><span style="font-weight: 400;">https://muhlenberg.joinhandshake.com/jobs/3755537/share_preview</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">For any questions, contact Samantha Hof, Career Center (samanthahof@muhlenberg.edu)</span></p>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">Contact Us</span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Dean of Students</span>
+													</h2>
+													
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:deanofstudents@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">deanofstudents@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3182">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3182</span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">Dean of Students</span>
+														
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

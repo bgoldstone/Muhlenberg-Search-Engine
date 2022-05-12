@@ -1,0 +1,2664 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>General Information | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="General Information">
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+  
+  
+    
+  
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  
+  
+ 
+
+  
+  <!-- old css -->
+      <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+
+  <!-- for slideshow -->
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css"  href="/media/kdmedia/css/owl.transitions.css" />
+    <script type="text/javascript" src="/media/kdmedia/js/owl.carousel.min.js"></script>
+  
+  
+  
+  <!----------------------------------------------->
+  
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/registrar/">Registrar</a></li><li class="linkitem"><a href="/offices/registrar/registration/">Registration</a></li><li class="linkitem"><a href="/offices/registrar/registration/generalinformation/">General Information</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">General Information</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+          <!-- cbrownray 2022/03/2 -->
+          <!--
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'></div>
+          -->
+          			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/rightnavigation/tower1220x523.jpg"}}'"></div>
+          
+          
+			<div class="page_header_inner gradient_4">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/registrar/">Registrar</a></li><li class="linkitem"><a href="/offices/registrar/registration/">Registration</a></li><li class="linkitem"><a href="/offices/registrar/registration/generalinformation/">General Information</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">General Information</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="General Information">
+							<span class="sub_nav_handle_label">General Information</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/offices/registrar/registration/instructions/">Instructions</a></li><li class="sub_nav_item"><a href="/continuingstudies/courseschedules/summersemester/">Summer Instructions</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/offices/registrar/registration/generalinformation/">General Information</a></span></li><li class="sub_nav_item"><a href="/offices/registrar/courses/generalacademicrequirements/">General Academic Requirements</a></li><li class="sub_nav_item"><a href="/media/contentassets/pdf/about/registrar/glossary.pdf" target="_blank">Course Listings Glossary</a></li><li class="sub_nav_item"><a href="https://capstone3.muhlenberg.edu/frmss03.html" target="_blank">Master Course Listings</a></li><li class="sub_nav_item"><a href="/media/contentassets/pdf/about/registrar/scheduling_grid.pdf" target="_blank">Scheduling Grid</a></li><li class="sub_nav_item"><a href="/media/contentassets/pdf/about/registrar/reigstration_worksheet_fall2013.pdf" target="_blank">Registration Worksheet</a></li><li class="sub_nav_item"><a href="/main/aboutus/registrar/registration/instructions/#advisors">Advisors</a></li><li class="sub_nav_item"><a href="https://www.muhlenberg.edu/offices/registrar/registration/instructions/#time">Time Schedule</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/aboutus/">Who We Are</a></li><li class="linkitem"><a href="/offices/">College Offices</a></li><li class="linkitem"><a href="/offices/registrar/">Registrar</a></li><li class="linkitem"><a href="/offices/registrar/registration/">Registration</a></li><li class="linkitem"><a href="/offices/registrar/registration/generalinformation/">General Information</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+
+
+              
+              <!------------------------------------------->
+                <!-- ADD- KRK -->
+                 <!-- navigation object : General Page - Image --> 
+                  <!-- navigation object : Large Image Header -->
+            
+                <!-------------------------------------------><div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    
+    <!-- navigation object : Collapsible Accordion Content (2) --><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p style="text-align: center;"><a href="#a">A</a> | <a href="#b">B</a> | <a href="#c">C</a> | <a href="#d">D</a> | <a href="#e">E</a> | <a href="#f">F</a> | <a href="#g">G</a> | <a href="#h">H</a> | <a href="#i">I</a> | J | K | <a href="#l">L</a> | <a href="#m">M</a> | <a href="#n">N</a> | <a href="#o">O</a> | <a href="#p">P</a> | Q | <a href="#r">R</a> | <a href="#s">S</a> | <a href="#t">T</a> | U | V | <a href="#w">W</a> | X | Y | Z<strong><br /></strong></p>
+<p style="text-align: right;"><a href="http://www.muhlenberg.edu/media/contentassets/pdf/about/registrar/general_reg_info.pdf">Printable Version</a></p>
+<h3><strong><a id="a"></a>A</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#22" 
+     aria-expanded="false" 
+     aria-controls="22">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="2">
+      <p class="panel-title pull-left">
+          ACADEMIC DIFFICULTY - Warning and Formal Probation
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="22" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="2">
+    <div class="panel-body">
+        <p align="justify">The College endeavors to help students avoid academic difficulty. &nbsp;Historically, the most successful students attend class regularly, complete and submit assignments in a timely fashion, and seek assistance from instructors, advisors, Student Health Services, or the Academic Resource Center at the first signs of trouble. &nbsp;Moreover, students who are successful academically have learned to balance extracurricular activities with academics.</p>
+<p align="justify">Academic&nbsp;performance is monitored closely by the Dean of Academic Life each term. &nbsp;The Dean will contact students at the conclusion of each term whose academic performance indicates a cause for concern.</p>
+<p align="justify"><strong>Academic Warning&nbsp;</strong>may be triggered by any&nbsp;combination of two or more failing grades, incomplete grades, unsatisfactory grades, or course withdrawals in a term; a term grade point average below 1.80; or a cumulative grade point average less than the standards described in the table that follows.</p>
+<p align="justify">Formal <strong>academic probation</strong> indicates that the quality of the student's work is below the level that might reasonably be expected to lead to graduation. &nbsp;A term grade point average below 1.00 or a cumulative grade point average less than the standards described below identify those students eligible for formal probation. &nbsp;All student performance indicating eligibility for formal probation will be reviewed by the Dean of Academic Life. &nbsp;After the review has been completed, students experiencing the most serious academic difficulties will be placed on formal probation. &nbsp;Student progress during the probationary period &nbsp;will &nbsp;be &nbsp;carefully &nbsp;examined. &nbsp;</p>
+<p align="justify">At any time during the period, typically no more than two terms, the College can elect to remove the student from probation, continue the student on probation, or dismiss the student from Muhlenberg. &nbsp;Furthermore, students on formal probation seeking to enroll additional courses beyond what is considered a "normal load", either at Muhlenberg or elsewhere, are permitted to do so only at the discretion of the Dean of Academic Life; this provision includes enrollment in any type of summer term.</p>
+<p align="justify">Cumulative academic performance is gauged on the number of course units <em><span class="italic">attempted </span></em> at Muhlenberg plus any transferred course units. &nbsp;Cumulative grade point averages less than the standards described in the table indicate the specific level of academic difficulty.</p>
+<div class="center">
+<table class="table border" style="border: 1px solid #000000; width: 100%;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p align="center"><strong> Attempted Course Units </strong></p>
+</td>
+<td>
+<p class="center" style="text-align: center;"><strong>Academic Probation <br> or Suspension</strong></p>
+</td>
+<td>
+<p align="center"><strong>Academic Warning</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5 or less</p>
+</td>
+<td>
+<p>&nbsp;&nbsp; Less than 1.50</p>
+</td>
+<td>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Less than 1.80</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p align="center"><strong> Attempted Course Units </strong></p>
+</td>
+<td>
+<p align="center"><strong>Academic Probation</strong></p>
+</td>
+<td>
+<p align="center"><strong>Academic Warning</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.25 through 10</p>
+</td>
+<td>
+<p>&nbsp;&nbsp; Less than 1.80</p>
+</td>
+<td>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Less than 2.00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>More than 10</p>
+</td>
+<td>
+<p>&nbsp;&nbsp; Less than 2.00</p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p align="justify">Finally, the College takes the position that any student permitted to enroll should be allowed to judge the wisdom of participating in extracurricular activities. &nbsp;Accordingly, a student experiencing academic difficulty may participate in such activities. &nbsp;Any student receiving an academic warning or placed on formal probation, however, is urged to give thoughtful consideration, in consultation with his or her academic advisor, to the structure of the total College program, curricular and extracurricular. &nbsp;(Contact the Dean of Academic Life with any questions.)</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#12" 
+     aria-expanded="false" 
+     aria-controls="12">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="1">
+      <p class="panel-title pull-left">
+          ACADEMIC INTEGRITY CODE
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="12" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="1">
+    <div class="panel-body">
+        <p align="justify">The Academic Integrity Code is a communal expression of the importance of academic honesty and integrity. &nbsp;The Code, to which every student is required to subscribe, governs all activities involving the academic work of the student. &nbsp;The Code also governs the bases for evaluating intellectual achievement, written or oral, including examinations, quizzes, tests, themes, reports, recitations, and laboratory exercises. &nbsp;The Academic Integrity Code is printed in full in the Student Policy and Information Guide, and students and faculty should familiarize themselves with its provisions.</p>
+<p><strong><span class="italic"><em>Adherence to the Policies of the Academic Integrity Code:</em> </span></strong></p>
+<p align="justify">Muhlenberg College has established an Academic Integrity Code because of its belief that academic honesty is a matter of individual responsibility and that, when standards of honesty are violated, members of the community are harmed.&nbsp; As a prerequisite for matriculation each student must pledge to adhere to the provisions of this Academic Integrity Code. &nbsp;On all work submitted for a grade students shall write and sign the following pledge: "I pledge that I have complied with the Academic Integrity Code in this work." &nbsp;Some faculty will accept "AIC". &nbsp;Violations of the Academic Integrity Code include, but are not limited to, cheating during examinations, plagiarism, collusion, false information, and helping or hindering others.</p>
+<p align="justify">Each faculty member shall identify the procedures to be used for classroom examinations and other assignments in each course. &nbsp;<span class="italic"><em>It is against College policy for a faculty member to accept any work submitted for a grade without the student's signed Academic Integrity Code pledge.</em> </span></p>
+<p align="justify">Class tests and final examinations should be proctored. &nbsp;Proctoring is defined as having a faculty member present in the room. &nbsp;Proctoring is the responsibility of the faculty member teaching the course but, in special situations, that responsibility may be delegated to faculty colleagues.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#102" 
+     aria-expanded="false" 
+     aria-controls="102">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="10">
+      <p class="panel-title pull-left">
+          ADDING COURSES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="102" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="10">
+    <div class="panel-body">
+        <p align="justify">Students may add courses without faculty approval through the first five class days of the traditional semester; courses may continue to be added through the following three class days of the traditional semester with faculty approval; courses may be dropped without approval or academic penalty through the first eight class days of the traditional semester. &nbsp;Enrollment in courses is closed at the conclusion of the add/drop period. The last day to add and drop is identified each semester on the College's academic calendar.</p>
+<p align="justify">A student may enroll in a course until the deadline specified on the Academic Calendar which is published on the web. &nbsp;Course entry is accomplished by logging in to CapStone Online, adding the course on the registration form, and submitting the form. &nbsp;Students are informed of success or failure to add via notes written at the top of the screen. &nbsp;All adds must be accomplished before the posted deadline. &nbsp;Failure to add the course by the deadline will result in lack of registration and may result in denial of course credit.</p>
+<p align="justify">First-semester students interested in registering for Ensembles or Applied Music will do so in the Music Office (CA 155). &nbsp;Starting in their second semester, students will register for Ensembles and Applied Music on Capstone. &nbsp;For voice lessons, students will need approval from their desired instructor before registering; new voice students should contact the Music Office to set up an audition and be assigned a voice teacher. Registration for instrumental lessons is unrestricted. &nbsp;Once registered, students will select a lesson time by following the "Applied Lessons" link from the Music Department web page. &nbsp;There is an additional fee for lessons.</p>
+<p align="justify"><strong>All students are responsible for their own enrollment. &nbsp;Failure to properly add, drop, or withdraw from a course may result in no course units awarded and/or a failing grade. </strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#122" 
+     aria-expanded="false" 
+     aria-controls="122">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="12">
+      <p class="panel-title pull-left">
+          ADMINISTRATIVE DROPS
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="122" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="12">
+    <div class="panel-body">
+        <p align="justify">A student who does not attend the first meeting of a course <strong>may be</strong> dropped from the course in order to make room for students waiting to enroll. <strong><span class="italic"><em>Students should not assume, however, that missing the first course meeting ensures that they will be dropped from a course</em>. </span></strong>Non-attendance drops will be processed only at the instructor's request. &nbsp;Again, all students are responsible for their own enrollment; failure to properly add, drop, or withdraw from a course may result in the award of no course units and/or a failing grade.</p>
+<p align="justify">Any instructor who wishes to drop a student following the FIRST day of class should send an email to the Office of the Registrar. Please indicate the student's name, BergID, and the course number. The Registrar's staff will send a letter to the student, advisor, and instructor informing them of the drop. &nbsp;Should the student wish to get back into the course, s/he must add the course by using CapStone Online. Any problems (i.e. course is closed) must be addressed with the instructor of the course.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#162" 
+     aria-expanded="false" 
+     aria-controls="162">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="16">
+      <p class="panel-title pull-left">
+          APPLIED MUSIC COURSES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="162" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="16">
+    <div class="panel-body">
+        <p align="justify">Study in voice, piano, organ, and the various string, brass, woodwind, and percussion instruments is available in the form of thirteen 45-minute lessons or ten 60-minute lessons with a minimum of five hours of mandatory practice time per week. &nbsp;Attendance at recitals and concerts is required. &nbsp;An additional fee is charged for this instruction and <strong>is not refundable following the official add/drop period</strong>. Applied music may not be taken pass/fail. Two half-unit individual applied music courses in one instrument or voice may be counted as one course to satisfy the Arts Division (AR) requirement.</p>
+<p align="justify">First-semester students interested in registering for Applied Music will do so in the Music Office (CA 155). Starting in their second semester, students will register for Applied Music on Capstone. &nbsp;For voice lessons students will need prior approval from their desired instructor before registering; new voice students should contact the Music Office to set up an audition and be assigned a voice teacher. Registration for instrumental lessons is unrestricted. Once registered, students will select a lesson time by following the "Applied Lessons" link from the Music Department web page.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#182" 
+     aria-expanded="false" 
+     aria-controls="182">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="18">
+      <p class="panel-title pull-left">
+          AUDITING COURSES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="182" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="18">
+    <div class="panel-body">
+        <p>Students in good academic standing may audit one course per semester with the approval of the instructor. Instructors must explicitly detail their expectations for students auditing their courses at the beginning of the semester, and students must seek the consent of their faculty advisor. Typically, students auditing a course are expected to complete all assignments and participate in class discussions but may not be required to submit written work or take exams. Students may change a course from audit (no course unit attempted) to a regular course unit basis or vice versa during the add/drop period with the approval of the instructor and the faculty advisor by completing an Audit Request form and submitting it to the Office of the Registrar. The student's transcript will list the audited course with a grade of "AU" if the student has satisfactorily completed the audit. If the student fails to fulfill the expectations of the audit, no notation will appear on the transcript. Because an audit carries no course credit, a student may register for up to 5.5 course units and audit a class in the same semester.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="b"></a>B <a href="#up">&zwnj;</a></strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#berg2" 
+     aria-expanded="false" 
+     aria-controls="berg2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="berg">
+      <p class="panel-title pull-left">
+          'Berg Bookshop
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="berg2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="berg">
+    <div class="panel-body">
+        <p>See <a href="http://bergbookshop.com/home.aspx" target="_blank">'Berg Bookshop</a></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="c"></a>C</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#212" 
+     aria-expanded="false" 
+     aria-controls="212">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="21">
+      <p class="panel-title pull-left">
+          CAPSTONE ONLINE
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="212" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="21">
+    <div class="panel-body">
+        <p align="justify">Capstone Online permits Muhlenberg College faculty, staff, and students immediate access to the most accurate and up-to-date student enrollment records. To enter Capstone Online, individuals must access a secure server. The server helps to protect the privacy of information shared via Capstone Online. It uses digital certificates to verify the source of Capstone Online data as genuine and a secure socket layer to encrypt data transfers, making it very difficult for unauthorized parties to intercept or copy information.</p>
+<p align="justify"><strong>Training for Faculty and Staff: </strong>all new faculty and staff should attend one of the training sessions offered by the Office of the Registrar on how to use Capstone Online to access class lists, obtain information on advisees and students in course(s), and enter mid-semester and final grades. After the training a profile will be created and a password assigned.</p>
+<p align="justify"><strong>Training for Students: </strong>all first year students receive a password in the mail to their home address in July. Also included in the letter are basic instructions to help students access Capstone Online. Additional information and assistance may be obtained in the Office of the Registrar.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#222" 
+     aria-expanded="false" 
+     aria-controls="222">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="22">
+      <p class="panel-title pull-left">
+          CLASS ATTENDANCE
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="222" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="22">
+    <div class="panel-body">
+        <p align="justify">Students are expected to attend classes regularly and are responsible for governing themselves in this matter. Interaction in the classroom enhances learning and is usually a significant part of how students' overall performance will be evaluated.</p>
+<p align="justify">While the College recognizes the value of extracurricular experience, the academic program has priority at Muhlenberg. &nbsp;Moreover, scheduled classes have priority over all other activities. In cases of unavoidable conflicts, students have the responsibility of informing their instructors as soon as possible and reaching some kind of acceptable resolution. &nbsp;Absence from a class will not be accepted as an excuse for not mastering class material. The student is responsible for all information presented and for the discussion and conceptual analysis that take place during classes. &nbsp;(See also Religious Holidays and Class Attendance)</p>
+<p align="justify">Instructors should inform students in the first week of class of their policy regarding the relationship between attendance, interaction in the classroom, and evaluation in the course.</p>
+<p align="justify">A student who does not attend the first meeting of a course <strong>may be</strong> dropped from the course in order to make room for students waiting to enroll. <em><strong><span class="italic">Students should not assume, however, that </span></strong></em><span class="italic"> <strong><em>missing the first course meeting ensures that they will be dropped from a course</em>.</strong>&nbsp;&nbsp;</span>Non-attendance drops will be processed only at the instructor's request. &nbsp;All students are responsible for their own enrollment; failure to properly add, drop, or withdraw from a course may result in the award of no course units and/or a failing grade.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#252" 
+     aria-expanded="false" 
+     aria-controls="252">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="25">
+      <p class="panel-title pull-left">
+          CLOSED COURSES (Fully Enrolled)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="252" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="25">
+    <div class="panel-body">
+        <p>Department Chairs and Program Directors set the course enrollment limits when planning the Master Course Schedule. If a course closes during registration, the student must see the Department Chair or Program Director who controls the seat limits during the registration period. &nbsp;The Office of the Registrar does not keep waiting lists. During the add/drop period the instructor may allow a student into a closed course by entering a Course Permission in Capstone Online. The student will then need to register for the course.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#262" 
+     aria-expanded="false" 
+     aria-controls="262">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="26">
+      <p class="panel-title pull-left">
+          CLUSTER REQUIREMENT
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="262" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="26">
+    <div class="panel-body">
+        <p align="justify">The Cluster requirement is one of the elements in the general education program and must be completed by all students matriculating Fall 2013 through Spring 2017, typically in their sophomore year. (Students matriculating Fall 2017 and after should see the <strong>Integrative Learning Requirement</strong>.)&nbsp;Successfully completing the cluster will demonstrate that students have achieved Muhlenberg's learning goal of building a broad disciplinary and interdisciplinary knowledge base.</p>
+<p align="justify">1. Cluster courses support the development of integrative learning.</p>
+<ul style="list-style-type: circle;">
+<li>
+<p>The challenges facing us are increasingly complex and will become more so in our information-rich environment. To navigate these complexities and work toward just solutions, students need the ability to integrate knowledge from more than one perspective or discipline in order to understand and solve real-world problems.&nbsp;</p>
+</li>
+<li>
+<p>Cluster courses include integrated learning assignments - assignments incorporating two or more disciplines as a way to develop complex and interdisciplinary thinking.</p>
+</li>
+</ul>
+<p>2. Interdisciplinary thinking and learning is a necessary skill for today's graduates as they pursue careers in multiple fields.</p>
+<ul style="list-style-type: circle;">
+<li>
+<p>Increasingly, employers cite the ability to think creatively across different disciplines as essential to success in the modern job market.</p>
+</li>
+<li>
+<p>Clustering provides opportunities for students to learn and use concepts, research methods, and theories of two related academic disciplines to inquire into common questions, problems, and themes posed by faculty with complementary expertise.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#292" 
+     aria-expanded="false" 
+     aria-controls="292">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="29">
+      <p class="panel-title pull-left">
+          COURSE LOADS
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="292" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="29">
+    <div class="panel-body">
+        <p align="justify">A full-time degree candidate typically enrolls for 4 course units per semester. &nbsp;The maximum course load for students during their first semester is 4.5 course units. &nbsp;During all other fall or spring terms, the maximum course load for students is 5.5 course units. &nbsp;Summer load is 2 courses at a time for a maximum combined summer load of 4 course units.</p>
+<p align="justify">While students may register for up to 5.5 units following their first semester, the limit during the class registration days is 4.5 units.&nbsp; After the official registration days are complete, students may add an additional unit if they wish.</p>
+<p align="justify">In order to maintain full-time status, a student must register for at least 3 course units per semester. &nbsp;Students who wish to register for fewer than 3 course units may apply for part-time status in the Office of the Registrar. &nbsp;Part-time students will incur tuition charges at the current per course unit rate plus all fees, may live in college-owned housing only with permission from Residential Services, generally cannot participate in extracurricular activities sponsored by the College, including intercollegiate athletics, and do not qualify for assistance under the College's financial aid program.</p>
+<table style="width: 100%;" cellpadding="3" align="center">
+<tbody>
+<tr>
+<td style="border: 1px solid #000000;">Full-time status:<br><br></td>
+<td style="border: 1px solid #000000;">3 to 5.5 course units per semester<br><br></td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;">Normal course load for students matriculating prior to Fall 2017:<br><br></td>
+<td style="border: 1px solid #000000;">4 course units/semester x 6 semesters = 24 course units<br><br></td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;">&nbsp;</td>
+<td style="border: 1px solid #000000;">5 course units/semester x 2 semesters = 10 course units<br><br></td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;">&nbsp;</td>
+<td style="border: 1px solid #000000;">Total required for graduation = 34 course units<br><br></td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;">Normal course load for students matriculating Fall 2017 and later:<br><br></td>
+<td style="border: 1px solid #000000;">4 course units/semester x 8 semesters = 32 course units<br><br></td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;">&nbsp;</td>
+<td style="border: 1px solid #000000;">Total required for graduation = 32 course units<br><br></td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000;">Summer load limit:<br><br></td>
+<td style="border: 1px solid #000000;">2 courses at a time for maximum combined summer load of 4 course units<br><br></td>
+</tr>
+</tbody>
+</table>
+<p>See also <strong>PART-TIME STATUS&nbsp; and WITHDRAWAL FROM A COURSE</strong></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="d"></a>D</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#362" 
+     aria-expanded="false" 
+     aria-controls="362">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="36">
+      <p class="panel-title pull-left">
+          DEAN'S LIST
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="362" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="36">
+    <div class="panel-body">
+        <p><span>Outstanding academic achievement will be recognized by the Deans of the College each fall and spring semester. Students enrolled for 3 or more course units, having a&nbsp;semester GPA of at least 3.50 with no grades of D, F, U, VF or VW for the semester will be eligible for Dean‚s List.&nbsp;Students with an incomplete or NG grade will not be eligible for inclusion on the Dean‚s List until the work is completed and a final grade is recorded.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#432" 
+     aria-expanded="false" 
+     aria-controls="432">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="43">
+      <p class="panel-title pull-left">
+          DIRECTORY INFORMATION
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="432" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="43">
+    <div class="panel-body">
+        <p align="justify">Muhlenberg College, in compliance with the Family Educational Rights and Privacy Act of 1974, has designated the following items as <strong>Directory Information:</strong></p>
+<div>
+<ul>
+<ul style="list-style-type: disc;">
+<li>student's name</li>
+<li>College mail box &amp; telephone number</li>
+<li>email address</li>
+<li>Permanent home address &amp; telephone number</li>
+<li>class year</li>
+<li>major field of study</li>
+<li>student status (full-time/part-time)</li>
+<li>dates of attendance</li>
+<li>degree(s) and/or awards received</li>
+<li>College (Day or Wescoe)</li>
+<li>Participation in&nbsp; officially&nbsp; recognized&nbsp; College activities (including but not limited to intercollegiate athletics)</li>
+<li>Height and weight of student athlete</li>
+</ul>
+</ul>
+</div>
+<p align="justify"><span class="underline">Muhlenberg College may disclose any of the above listed items without the student's prior written consent, unless the Office of the Registrar is notified in writing to the contrary.</span></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#442" 
+     aria-expanded="false" 
+     aria-controls="442">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="44">
+      <p class="panel-title pull-left">
+          DISABILITIES: Students with Disabilities or Special Needs
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="442" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="44">
+    <div class="panel-body">
+        <p align="justify">Muhlenberg College is committed to ensuring that all qualified students with disabilities are provided reasonable accommodations, auxiliary aids, and services to ensure full access to programs, services, and activities. Students with disabilities who are the most successful at the post-secondary level are those who are appropriately qualified and prepared for independent academic study, have full knowledge of the impact of their disability, and who demonstrate well-developed self-advocacy skills.</p>
+<p align="justify">The criteria for eligibility at postsecondary institutions are different than those used for eligibility determination in the K-12 arena. Under the ADA 1990, a disability is defined as "a physical or mental impairment that substantially limits one or more major life activities, or having a record of such an impairment, or being regarded as having such an impairment". Disability Documentation submitted to obtain accommodations, auxiliary aids, and services at the postsecondary level must identify the disability, provide evidence of the disability's impact on the major life activity, and suggest recommendations for accommodations.&nbsp;</p>
+<p align="justify">At the postsecondary level it is the student's responsibility to disclose his/her disability, to request academic adjustments, and to follow established procedures for requesting those accommodations. Muhlenberg College students with disabilities who request accommodations, auxiliary aids, and services are encouraged to identify these needs to the Office of Disability Services as soon as possible after their application to the College has been accepted and their decision to attend has been confirmed. &nbsp;Submission of current, detailed documentation of the student's disability with a completed Disability Disclosure Document is required in order to process requests. &nbsp;(Preferably, before the advising period in June.)</p>
+<p align="justify">The Office of Disability Services will review submitted documentation, including the completed Disability Disclosure Document, and will consult with the appropriate campus professionals for further action. The student will be invited to discuss the disclosed disability and the requested accommodations, auxiliary aids, and services with the designated campus departments that include the Academic Resource Center, Student Health Services, and Counseling Services.</p>
+<p align="justify">Students with documented disabilities may receive approval for reasonable accommodations to address their particular needs. Accommodations are determined on a case-by-case basis and must be requested by the student each semester.</p>
+<p align="justify">After the point of documentation and disclosure, it is the student's responsibility to begin a working relationship with his/her instructor by providing a letter of recommended accommodations from the appropriate college office. The student should then meet with each faculty member and describe how the disability will impact the course in question.</p>
+<p align="justify">It is very important for students to work closely with faculty members when the disability impacts coursework. They are valuable resources and can usually help the student navigate the course requirements more efficiently.</p>
+<p align="justify">For further information refer to the Students with Disabilities web page at <a href="http://www.muhlenberg.edu/main/aboutus/disabilities/"><strong>www.muhlenberg.edu/main/aboutus/disabilities</strong></a>.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#452" 
+     aria-expanded="false" 
+     aria-controls="452">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="45">
+      <p class="panel-title pull-left">
+          DROPPING COURSES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="452" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="45">
+    <div class="panel-body">
+        <p align="justify">A student may drop courses during the add/drop period in any semester, without academic penalty. &nbsp;For courses withdrawn after the add/drop period and before the end of the ninth academic week of the semester a grade of "W" is assigned. &nbsp;Both faculty advisor and course instructor signatures are required to withdraw from a course.</p>
+<p align="justify">No course may be withdrawn after the 45<sup>th</sup> day of a semester, except for medical reasons certified by the Executive Director of Health and Counseling Services. &nbsp;If a student stops attending a course and does not process the appropriate form, a grade of "F" will be assigned. &nbsp;</p>
+<p align="justify">A student who does not attend the first meeting of a course <em><span class="italic">may </span></em> be dropped from the roster in order to make room for students waiting to register for the course. &nbsp;The professor must provide the Registrar with the names of any student dropped from his or her course as a result of this policy.</p>
+<p align="justify">Non-attendance on the first day of classes does not mean that a student is automatically dropped from a course. &nbsp;Non-attendance drops will be processed only at the instructor's request.&nbsp; It is the student's responsibility to make sure his or her registration of courses is accurate.</p>
+<p align="justify">All students are responsible for their own enrollment. &nbsp;Failure to properly add, drop, or withdraw from a course may result in no course units awarded and/or a failing grade.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="e"></a>E</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#462" 
+     aria-expanded="false" 
+     aria-controls="462">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="46">
+      <p class="panel-title pull-left">
+          ELECTIVES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="462" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="46">
+    <div class="panel-body">
+        <p>Electives are courses that do not satisfy either major, minor, or General Academic requirements. &nbsp;They count toward the course units required for graduation.&nbsp;&nbsp;</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="f"></a>F</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#502" 
+     aria-expanded="false" 
+     aria-controls="502">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="50">
+      <p class="panel-title pull-left">
+          FERPA (Family Educational Rights and Privacy Act)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="502" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="50">
+    <div class="panel-body">
+        <p align="justify">Muhlenberg College strictly complies with all provisions of the Family Educational Rights and Privacy Act (FERPA), a federal statute passed into law in 1974 that provides the basis for dealing with student information at educational institutions. &nbsp;FERPA regulations ensure a standard for the access to, the use of, and the release of information from education records.</p>
+<p align="justify">The Family Educational Rights and Privacy Act (FERPA) affords students certain rights with respect to their education records. &nbsp;They are: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<ul>
+<li>
+<p>The right to inspect and review their education records within forty-five (45) days of the day an appropriate College official receives a written request for access.</p>
+</li>
+<li>
+<p>The right to<span class="content-add05"> request the amendment of education records that the student believes are inaccurate or misleading. &nbsp;</span>The College must provide reasonable accommodations to accomplish these tasks. &nbsp;The office that creates and maintains the record in question is responsible for determining what is reasonable.</p>
+</li>
+<li>
+<p><span class="content-add05">The&nbsp; right&nbsp; to&nbsp; consent&nbsp; to&nbsp; disclosures&nbsp; of personally identifiable information contained in the student's education records, except to the extent that FERPA authorizes disclosure without consent.</span></p>
+</li>
+<li>
+<p><span class="content-add05"></span>Legal exceptions to this specific prohibition include: information released to school officials with a legitimate educational interest, compliance with a lawfully issued subpoena, provisions for directory information, and the release of information to parents of financially dependent students.</p>
+</li>
+<li>
+<p>Failure to comply strictly with FERPA regulations would damage our reputation and could ultimately jeopardize any monies we receive either directly or indirectly from the federal government, including student financial aid.</p>
+</li>
+</ul>
+<p>More information about Muhlenberg's FERPA policy can be found through the Office of the Registrar (<a href="http://www.muhlenberg.edu/main/aboutus/registrar/">www.muhlenberg.edu/main/aboutus/registrar</a>). &nbsp;See also Student Information Release Policy - FERPA.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#522" 
+     aria-expanded="false" 
+     aria-controls="522">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="52">
+      <p class="panel-title pull-left">
+          FINAL EXAMINATIONS
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="522" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="52">
+    <div class="panel-body">
+        <p>Except for independent study, independent research, internships, physical education, and applied music, a final evaluation is required for all courses. &nbsp;An instructor may arrange to use a final examination or some other means of evaluation. &nbsp;The final examination schedule for a term will be available on the web approximately four weeks after the start of classes. &nbsp;Faculty are not allowed to change either the date or time of a final examination. &nbsp;These requests must go through the Provost.</p>
+<p>Two final examinations scheduled at the same time or three in one day constitute a conflict for the student. &nbsp;In order for a makeup examination to be given, a conflict must be filed in the Office of the Registrar by the date indicated on the semester calendar. &nbsp;</p>
+<p>Means of assessing a student's efforts and progress should be assigned periodically throughout a semester by the faculty member teaching the course. &nbsp;Any test or exercise that is to count more than the value of a regular class exercise should be announced at least two weeks in advance. &nbsp;Typically, the final examination should not count for more than 50% of the course grade. &nbsp;Final examinations and other graded materials, if not returned to the student in some manner that insures receipt by the student, should be kept on file by the instructor until the end of the semester following that for which the material was submitted.</p>
+<p>All faculty, staff, and students must be available until the semester concludes (the last day with College scheduled final exams) at 3:00 p.m. each semester.<strong> <br /></strong></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#532" 
+     aria-expanded="false" 
+     aria-controls="532">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="53">
+      <p class="panel-title pull-left">
+          FINANCIAL OBLIGATIONS
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="532" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="53">
+    <div class="panel-body">
+        <p>The comprehensive fee, room and board, and other charges incurred by the student, regardless of nature, must be paid prior to registration. Students will be notified prior to registration by the Controller or Residential Services and may have a hold placed on their account. Transcripts can also be held for financial obligations as well as the diploma at the time of graduation.<span class="italic"><strong> <br /></strong></span></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="g"></a>G</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#622" 
+     aria-expanded="false" 
+     aria-controls="622">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="62">
+      <p class="panel-title pull-left">
+          GRADE CHANGES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="622" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="62">
+    <div class="panel-body">
+        <p>Only the instructor issuing the original grade may change a grade. Once a grade has been submitted, an instructor cannot verbally communicate a grade change to the Registrar. The instructor must complete a Change of Grade form with the student's new grade, either online or via a paper change of grade form, and the reason for the grade change. After the change the student will be able to review the revised grade on Capstone Online.</p>
+<p>Students are expected to request a review of academic progress during the semester in which a course runs. If the final grade is in question, a student is expected to request a review within a reasonable time period after grades have been posted, not to exceed 60 days of the end of the semester or end of an extension, if an Incomplete was granted. This will foster an environment of a timely resolution and prevent issues from arising semesters or years after a grade has been posted.</p>
+<p>Once a semester has been completed and a student has been awarded a final grade (not an Incomplete or In Progress grade), the student is not allowed to turn in additional work, extra credit work, or work that was required earlier in the semester in order to raise the grade. Students may always request that a faculty member review previous work which determined the final grade, but no new work can be submitted once a final grade has been submitted. If, before final grades are posted, the faculty member and student agree that additional work can be submitted, the student should be granted an Incomplete in accordance with the Incomplete Policy.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#652" 
+     aria-expanded="false" 
+     aria-controls="652">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="65">
+      <p class="panel-title pull-left">
+          GRADE REPORTS
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="652" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="65">
+    <div class="panel-body">
+        <p>A record of each semester's grades may be found on the web via Capstone Online. Students and advisors may log in to the secure site and review and print copies of the semester grades.<br><br>If a student needs a comprehensive record of all coursework, s/he should request an official transcript. In addition, the comprehensive record is also available on the web via Capstone Online.<br><br>Students who require a copy of their grades may submit that request to the Office of the Registrar. Under no condition will grades be released by telephone or to third parties, including parents. It is the policy of the Office of the Registrar not to release grades prior to the final deadline for receiving grades from all faculty members.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="h"></a>H</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#trexler2" 
+     aria-expanded="false" 
+     aria-controls="trexler2">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="trexler">
+      <p class="panel-title pull-left">
+          Harry C. Trexler Library
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="trexler2" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="trexler">
+    <div class="panel-body">
+        <p>See <a href="http://trexler.muhlenberg.edu/" target="_blank">Harry C. Trexler Library</a></p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="i"></a>I</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#702" 
+     aria-expanded="false" 
+     aria-controls="702">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="70">
+      <p class="panel-title pull-left">
+          INCOMPLETE GRADES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="702" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="70">
+    <div class="panel-body">
+        <p>All requests for a grade of Incomplete must be made directly by the student to the course instructor, specifying a compelling reason beyond the student‚s control in the final weeks of the term. Normally, a student must be passing the course in order to be granted an incomplete. Examples of reasons for granting an incomplete may include:</p>
+<ol>
+<li>Student illness that occurred that affected course completion</li>
+<li>Serious illness or death of an immediate family member or</li>
+<li>Other unusual or exceptional events that would prevent a student from completing the course on time (e.g., now working full time to help support family, difficulty completing assignments and taking courses due to home environment/technology limitations).</li>
+</ol>
+<p>In the event that an Incomplete is granted, the faculty member will put in writing to the student and the registrar the required work to be done, the consequences of not completing the work, and the deadline for submission. The faculty member is responsible for submitting a letter grade by the deadline of no later than five weeks after the last day of exams for the respective term. Letter grades submitted during the Incomplete period extend from the grading policies established by the faculty member's syllabus or the written agreement between the student and faculty member.</p>
+<p>Prior to the deadline set by the instructor for completion of the course requirements, the student and instructor may agree on an extension of time. For fall Incompletes, the latest date for extensions will be the last day of classes for the spring semester. For spring or summer Incompletes, the latest date for extensions will be the last day of classes for the fall semester. The extension details must include, in writing to the student and the registrar, the required work to be done and the extended deadline for submission. Extensions for other than medical or mental health reasons may be made at the discretion of the faculty member following consultation with the Dean of Academic Life. Extensions based on medical or mental health reasons must follow the procedures set forth above.</p>
+<p>A student with three or more pending Incompletes will not be permitted to begin a new academic term, even if the subsequent term begins within the period before the Incomplete grade due-by date. For example, students with three or more unresolved fall Incompletes may not return for the spring semester.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#722" 
+     aria-expanded="false" 
+     aria-controls="722">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="72">
+      <p class="panel-title pull-left">
+          INDIVIDUALIZED INSTRUCTION (Independent Study/Research/Internships/Practica)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="722" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="72">
+    <div class="panel-body">
+        <p>No more than a total of 4 course units may be earned through any type of individualized instruction to meet the course unit degree requirement except as required by special programs. No internship, practicum, or independent study/research course may be used to satisfy a general academic requirement. Approval of the appropriate department chair, academic advisor, and a faculty sponsor are required for all internships, practica, and independent study/research courses.<br><br>Students may enroll only one internship or practicum during a term except for internships taken as part of approved programs such as the Semester in Washington D.C., Dana Scholars, and study abroad. Students may enroll for more than one independent study/research course during a term, but only one independent study/research course may be taken concurrently with an internship or practicum. Students participating in special programs, such as the Washington Semester or study abroad, are exempt from term-based enrollment limits on internships, practica, or independent study/research courses.</p>
+<p><strong>Independent Study/Research</strong><br><br>An independent study/research course can vary by academic department or discipline. It may be a student-inspired and student-initiated project or a faculty-directed research project. Each independent study/research course is to be designed in consultation with the faculty sponsor and usually does not cover the same material as or material similar to that covered in regularly offered courses. For student-inspired and student-initiated independent study/research courses the student must submit a detailed proposal to the faculty sponsor before registering for the independent study/research. Typically, no more than one course unit is awarded for each independent study/research course, and no fewer than 9-12 hours of work per week (Fall/Spring) or 126-168 hours per semester (Fall/Spring/Summer) are required for each course unit earned.<br><br>Independent study/research courses must have assigned letter grades, A through F, and must be registered by the add/drop deadline of the semester in which they are recorded. A learning contract will describe the goals of all independent study/research courses and specify what work the student will do. Course units for independent study/research cannot be awarded retroactively.<br><br><strong>Internships and Practica</strong><br><br>An internship is work experience undertaken for the purpose of learning in which the student assumes a responsible role in an organization and actively reflects on what he or she is doing and observing. A practicum is an internship required by a major. Internships and practica are limited to full-time, degree-seeking students who have completed at least 16 course units in good academic standing or students enrolled through the Wescoe School.<br><br>Each internship and practicum is to be designed in consultation with a faculty sponsor and an on-site supervisor and will include an academic project to be defined by the student, in consultation with the faculty sponsor, and submitted to the faculty sponsor for evaluation. This academic project may be written or presented, at the discretion of the faculty sponsor. Typically, no more than one course unit is awarded for each internship or practicum, and no fewer than 9-12 hours of work per week (Fall/Spring) or 126-168 hours per semester (Fall/Spring/Summer) are required for each course unit earned.<br><br>Typically, an internship site may not be repeated unless the responsibilities are approved by the faculty sponsor. No internship may take place at the same site for more than two units. Students are expected to avoid conflicts of interest, such as direct supervision by a parent or supervision by someone who reports to or is a close colleague of a family member.<br><br>For all internships and practica the faculty sponsor must explicitly detail his or her expectations for the student as early as possible in planning the experience. This learning contract describes the goals and what work will be done for each internship or practicum.<br><br>Internships and practica must be registered by the end of the third week of the term in which the work is recorded. For the summer term, internships and practica must be registered no later than a date listed in the summer academic calendar. The student will be billed for the credit earned. Internships taken during the summer for a Muhlenbeg course unit will be subject to the tuition cost of one course unit.<br><br>The deadline for submitting final grades for internships and practica is that term's deadline for final grades. The course units for internships and practica cannot be awarded retroactively.<br><br>The internship or practicum on-site supervisor will submit a written evaluation of the student's work which the faculty sponsor will take into consideration when assigning a grade. The faculty sponsor typically evaluates a student's work in an individualized instruction course according to standards at least as high as those used to evaluate work in traditional courses. Internships will be graded pass/fail. (Internships do not count toward the three course pass/fail limit.) Practica must have assigned letter grades, A through F.<br><br>An internship manual with guidelines and sample learning contracts is available through the Office of the Dean of Academic Life and the Career Center (www. muhlenberg.edu/careercenter/ jobs.html).</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#742" 
+     aria-expanded="false" 
+     aria-controls="742">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="74">
+      <p class="panel-title pull-left">
+          INTERDISCIPLINARY STUDIES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="742" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="74">
+    <div class="panel-body">
+        <p>Interdisciplinary studies combine courses from more than one discipline, permitting students to explore an area of interest from several perspectives. In some cases, two fields are combined to form one major. In others, several disciplines are represented in the major or minor requirements. Where a major or minor is not available, students may concentrate on a topic of interest as they complete the general academic requirements and choose their electives. In this way, they may elect clusters of courses of special interest to them.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="l"></a>L</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#782" 
+     aria-expanded="false" 
+     aria-controls="782">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="78">
+      <p class="panel-title pull-left">
+          LEHIGH VALLEY ASSOCIATION OF INDEPENDENT COLLEGES (LVAIC)
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="782" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="78">
+    <div class="panel-body">
+        <p>Full-time, degree-seeking students who have completed at least 4 course units in good academic standing may enroll for up to two courses per semester at any one of the LVAIC member institutions (Cedar Crest College, DeSales University, Lafayette College, Lehigh University, and Moravian College). The student must obtain approvals from his or her faculty advisor. &nbsp;Courses must not be offered regularly by Muhlenberg College and must be within the bounds of a regular course load. All courses enrolled through the LVAIC cross-registration process are considered Muhlenberg courses for degree requirement and grade point average purposes. Further information may be obtained in the Office of the Registrar. &nbsp;(See Cross-Registration )<br /><br />For information concerning additional ways the LVAIC institutions collaborate contact, Diane Dimitroff, Executive Director LVAIC, www.lvaic.org (610-625-7892).</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="m"></a>M</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#832" 
+     aria-expanded="false" 
+     aria-controls="832">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="83">
+      <p class="panel-title pull-left">
+          MEDICAL WITHDRAWAL
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="832" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="83">
+    <div class="panel-body">
+        <p>Please see the, <a href="/offices/deanst/services/medicalleaveofabsencepolicy/">Medical Leave of Absence Policy</a></p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#842" 
+     aria-expanded="false" 
+     aria-controls="842">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="84">
+      <p class="panel-title pull-left">
+          MID-SEMESTER GRADES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="842" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="84">
+    <div class="panel-body">
+        <p>All first-year students and students on academic probation or warning are to receive mid-term grades. These grades are vital in helping the College monitor and assist some of our most vulnerable students. Mid-semester grades will be available on Capstone Online two days after the grades were due. Mid-semester grades provide only a preliminary evaluation of work in each course, and as such, are advisory in nature.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="n"></a>N</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#872" 
+     aria-expanded="false" 
+     aria-controls="872">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="87">
+      <p class="panel-title pull-left">
+          NO SHOW POLICY
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="872" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="87">
+    <div class="panel-body">
+        <p>No Show Definition: A student who registers for classes for a semester, but who does not come to campus, and does not check in to housing, and does not attend or participate in any educational activity through the eighth class day of the semester. <br><br>Policy Statement: Students who register for classes for a semester but who do not come to campus, do not check in to housing, and do not attend or participate in educational activities through the eighth class day of the semester will be Unofficially Withdrawn from the College. The registered classes will be dropped with no W grade assigned, and an application for readmission must be made to the Dean of Academic Life.<br><br>Procedure: Upon notification of a potential No Show, Registrar staff will request verification of activity from Financial Aid, Student Accounts, Housing, OIT, Campus Safety, and faculty. The staff will also attempt to contact the student via U.S. mail to determine if there are extenuating circumstances that need to be considered. If the student does not respond and after receipt of verification from the offices, the determination will be made whether the student is deemed a No Show or a drop/withdrawal. If deemed a No Show, the registered classes will be dropped with no W grade assigned, and the student will be Unofficially Withdrawn from the College. If s/he wishes to return, an application for readmission must be made to the Dean of Academic Life.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="o"></a>O</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#882" 
+     aria-expanded="false" 
+     aria-controls="882">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="88">
+      <p class="panel-title pull-left">
+          OVERLOADS
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="882" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="88">
+    <div class="panel-body">
+        <p>Full-time, degree-seeking students typically enroll four (4) course units per term. The maximum course load for students during their first term is 4.5 course units.&nbsp; During all other fall or spring terms, the maximum course load for students is 5.5 course units.</p>
+<p>During the class registration days, students may register for up to 4.5 course units.&nbsp; Following the official registration period, students may register for up to 5.5 course units should they wish.<br><br>A student seeking to register for more than 5.5 course units must complete an Overload Request form and submit it to the Dean of Academic Life with the advisor's signature. If approved by the Dean, the student will enroll the approved additional course(s) using an add/drop form that is brought to the Registrar's Office for entry. Students seeking to register for an overload must have a required minimum GPA of at least 2.50 in order to petition. Course loads over 5.5 course units will be charged the per course unit fee.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="p"></a>P</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#902" 
+     aria-expanded="false" 
+     aria-controls="902">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="90">
+      <p class="panel-title pull-left">
+          PASS/FAIL COURSES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="902" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="90">
+    <div class="panel-body">
+        <p align="justify">Full-time, degree-seeking students who have completed at least 16 units with a cumulative GPA of 2.00 or more may elect to enroll for one course unit per semester on a pass/fail basis up to a total limit of three. One of the three pass/fail courses may be taken in the same academic division as the student's major or minor. &nbsp;Courses designated "pass/fail only" are exempt from the pass/fail requirements described here. No course for which a student elects to enroll on a pass/fail basis may be used to satisfy a general academic requirement or major/minor requirement. In addition, "pass/fail only" courses offered within the student's major or minor do not meet any degree requirement.</p>
+<p align="justify">Final grades submitted to the Registrar for these students must be either "P" or "F". &nbsp;A "P" should be considered the equivalent of a traditional "D" or higher.</p>
+<p align="justify">Courses enrolled on a pass/fail basis that are awarded a grade of "P" will not be used in computing the GPA but will be counted as course units toward graduation; courses failed will be computed in the GPA. Students may change a course from pass/fail to traditional grading or vice-versa only through the add/drop period of the semester.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="r"></a>R</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#1002" 
+     aria-expanded="false" 
+     aria-controls="1002">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="100">
+      <p class="panel-title pull-left">
+          REPEATED COURSES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="1002" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="100">
+    <div class="panel-body">
+        <p>Courses in which the student earns a ‚B-‚ or greater cannot be repeated.&nbsp;&nbsp;No course shall be repeated after a subsequent course is taken (i.e. one for which the first is a prerequisite).&nbsp;When a course is repeated, only the most recent grade is included in the calculation of the cumulative grade point average and the average in the major or minor. A passing grade in a repeated course counts only once for credit toward the course units required for graduation. Both grades, however, appear on the permanent record, with a symbol next to the original grade indicating that the course was later repeated.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="s"></a>S</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#1072" 
+     aria-expanded="false" 
+     aria-controls="1072">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="107">
+      <p class="panel-title pull-left">
+          SPECIAL ARRANGEMENT COURSES
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="1072" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="107">
+    <div class="panel-body">
+        <p>Students may register a course as a "special arrangement" if a course is cancelled due to low enrollment or is required for the major for graduation but is not being offered in the current semester.&nbsp; A special arrangement is individualized instruction but the title will include the actual title of the course.&nbsp; Example: The course is listed as ENG 990-00 Special Arrangement but the second line of the course title reads, ENG 373 The Literary Marketplace. Forms are available in the Office of the Registrar.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#1102" 
+     aria-expanded="false" 
+     aria-controls="1102">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="110">
+      <p class="panel-title pull-left">
+          STUDY ABROAD PROGRAM
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="1102" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="110">
+    <div class="panel-body">
+        <p align="justify">In a world that is becoming increasingly interdependent, study abroad represents a significant means by which students may better prepare themselves to face challenges of the future. Muhlenberg College encourages students in all majors to study overseas at quality institutions in Europe, Oceania, Asia, Latin America, and Africa. Our list of over 150 approved programs in 60 countries enables students to engage in the academic and social life of host institutions abroad. In addition, some programs provide opportunities for experiential learning through internships and field work research projects that integrate student involvement in local communities.</p>
+<p align="justify">Muhlenberg supports two faculty-led, discipline-specific, study abroad opportunities: the program for Accounting, Business, Economics, and Finance majors at the University of Maastricht in the Netherlands during the fall semester; and the Media and Communication and Film Studies program at Dublin City University in Ireland during the spring semester.</p>
+<p align="justify">Students study abroad after completing their sophomore year, for either a semester or for the academic year during their junior year. Upon receiving approval from the Dean of Academic Life, due to extraordinary circumstances, students may study abroad during the fall semester of their senior year. &nbsp;Students who study abroad during the academic year receive the same financial aid package that would be provided were they to remain on the Muhlenberg campus.</p>
+<p align="justify">Opportunities for summer study are available through several Muhlenberg departments. Other summer programs must be approved by the Office of Global Education before students can apply to them.</p>
+<p align="justify">Students interested in study abroad programs should consult with their faculty advisor and the Office of Global Education staff during the fall semester of their sophomore year. To apply for study abroad, students must first complete a Muhlenberg College Study Abroad application. &nbsp;Once approved to study abroad by Muhlenberg, students complete host institution application materials.&nbsp; &nbsp;&nbsp;</p>
+<p align="justify"><span class="italic">Program Policies and Procedures:</span></p>
+<p align="justify">1. Any student in good standing may apply for admission to an education abroad program.</p>
+<p align="justify">2. All education abroad applications must be made through the Office of Global Education which is also able to provide detailed application procedures.</p>
+<p align="justify">3. Students must be enrolled as full-time Muhlenberg students when participating in any affiliated or other College approved education abroad program offered during the regular academic year.</p>
+<p align="justify">4. Students enrolling in any summer education abroad program for which credit transfer is desired must receive prior approval of the program from the Dean of Global Education.</p>
+<p align="justify">5. Credits earned abroad in any non-approved education abroad program will not be accepted for transfer.</p>
+<p align="justify">6. Application forms must be completed and returned to the Office of Global Education by the deadline date(s) specified.</p>
+<p align="justify">7. Students are competitively selected based on academic performance, conformity with College standards of social behavior, and other relevant considerations. Where the program preference of the student is considered inappropriate (e.g., because of GPA requirements or academic major/minor), alternative programs will be suggested to the student by the Global Education Coordinator.</p>
+<p align="justify">8. Late applications are considered on a space availability basis.</p>
+<p align="justify">9. Once a commitment, as evidenced by payment of the required acceptance deposit, to participate in an education abroad program has been made, a student will not be allowed to enroll in any Muhlenberg courses or apply for Muhlenberg housing during the period for which he or she will be enrolled in the education aboard program.</p>
+<p align="justify">10. For most programs students accepted by the Office of Global Education must apply for admission to the host institution. &nbsp;In such cases, the decision to admit the student is the prerogative of the host institution. Some programs do have GPA requirements of 3.3 or higher.</p>
+<p align="justify">11. Program participation balance consistent with the financial requirements of the College will be maintained. At this time, approximately 60 percent of education abroad enrollments will take place during the fall semester.</p>
+<p align="justify">12. Any questions should be addressed to the Office of Global Education.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="t"></a>T</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#1172" 
+     aria-expanded="false" 
+     aria-controls="1172">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="117">
+      <p class="panel-title pull-left">
+          TUTORING
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="1172" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="117">
+    <div class="panel-body">
+        <p align="justify">Peer tutoring is provided by students who have been recommended by the faculty and then selected and trained by the Academic Resource Center. Muhlenberg College's Peer Tutoring program is certified by the College Reading and Learning Association to the Master Tutor Level.&nbsp;</p>
+<p align="justify">Tutoring is available in most subject areas through individual or small group sessions. Full-time day students who wish to receive tutoring should fill out an application in the Academic Resource Center before the seventh week of the semester. A student may receive tutoring from one to two hours per week, per subject area, based on academic need and tutor availability.</p>
+<p align="justify">Study skills seminars are offered during the academic year. Topics generally include test taking, time management, textbook reading, note-taking, learning styles instruction, and metacognition. Individual academic assistance is provided by appointment with a Learning Specialist throughout the academic year. Students may receive assistance in determining their academic strengths and in developing their study skills and learning strategies.</p>
+    </div>
+  </div>
+</div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <h3><strong><a id="w"></a>W</strong></h3></div>
+
+</div>
+</div>
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#1202" 
+     aria-expanded="false" 
+     aria-controls="1202">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="120">
+      <p class="panel-title pull-left">
+          WAITING LISTS
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="1202" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="120">
+    <div class="panel-body">
+        <p>Some departments maintain waiting lists to enroll in a course closed at registration. Students should speak with the department chair or instructor of the course. The waiting list does not negate the College-wide deadline for adding a course or constitute a promise on the part of the College that a closed course will be open at a later date. The Registrar does not maintain waiting lists.</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#1222" 
+     aria-expanded="false" 
+     aria-controls="1222">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="122">
+      <p class="panel-title pull-left">
+          WITHDRAWAL FROM A COURSE
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="1222" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="122">
+    <div class="panel-body">
+        <p align="justify">A student may withdraw from a course after the add/drop period until the end of the 45<sup>th</sup> class day with the approval of his or her academic advisor. The student must process a withdrawal form, available from and returned to the Office of the Registrar, by the deadline. Both the instructor of the course and the student's advisor must sign the form. A "W" grade will be assigned indicating that the student has withdrawn from the course. The last day to withdraw is identified each semester on the College's academic calendar.</p>
+<p align="justify">A full-time student seeking to withdraw from a course or courses so that s/he will earn fewer than 3 course units, must consult with his/her academic advisor concerning such a withdrawal. The advisor then consults with the Dean of Academic Life. If the Dean approves the withdrawal, s/he will forward the completed withdrawal form to the Office of the Registrar for processing.</p>
+<p align="justify">No course may be withdrawn after the 45<sup>th</sup> class day except for documented medical reasons certified by the Executive Director of Health and Counseling Services.</p>
+<p align="justify">A student who attends a different section of a course than the section registered must make the correction to his/her schedule by dropping the course online or processing a withdrawal form. Students who fail to correct registration errors or officially drop will receive a failing grade (F).</p>
+    </div>
+  </div>
+</div><div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#1242" 
+     aria-expanded="false" 
+     aria-controls="1242">
+  	<div class="panel-heading" 
+       role="tab" 
+       id="124">
+      <p class="panel-title pull-left">
+          WRITING PROGRAM
+  </p>
+      <p class="panel-title pull-right">
+        
+            <span class='fa fa-plus-square-o' ></span>
+      </p>	
+       
+
+
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="1242" 
+       class="panel-collapse collapse" 
+       role="tabpanel" 
+       aria-labelledby="124">
+    <div class="panel-body">
+        <p align="justify">Muhlenberg College offers cross-curricular writing programs in which faculty from every department participate. In specially designated writing-intensive courses, students attend to writing in context - within particular disciplines - but also with attention to ways in which effective writing shares similar traits across the disciplines. The aim of the program is to equip students to write analytically in a variety of writing situations.</p>
+<p align="justify">The basic premise of the writing program is that writing is necessary to thinking and learning; it is an essential way of acquiring knowledge and of arriving at ideas about it. &nbsp;Another primary assumption of the program is that the ability to write well is not a skill one can acquire in a semester of grammar study. Instead, students are encouraged to take a number of writing-intensive courses throughout their careers at the College. The Writing Program is supported by a Writing Center that is staffed by trained peer tutors with majors in a wide range of disciplines.</p>
+<p align="justify">A writing-intensive course is a regular academic course in which enrollment is limited to twenty students, and students will complete a minimum of fifteen pages of writing broken into at least three assignments. One of these assignments must be a revision in response to the instructor's written comments. As a requirement for graduation, students are required to take a minimum of three writing-intensive (W) courses - one First-Year Seminar, one W-course selected from anywhere in the curriculum, and one W-course designated by the student's major.</p>
+<p align="justify">In exceptional cases, students may appeal to the Writing Program Committee to receive special W-credit for a course that is not designated as a W. The fact that a student has done a significant amount of writing in a course is not, of itself, sufficient reason for assigning special W-credit, since a writing-intensive course is a particular kind of collaborative learning experience.</p>
+<p align="justify">For questions or additional information see Dr. Jill Stephen or Dr. David Rosenwasser, Department of English.</p>
+    </div>
+  </div>
+</div>
+    
+  </div>
+</div>
+                  </div></div></div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keyword‚¶">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+
+
+
+<!-- old Js -->
+<script type="text/javascript" src="/media/demofastspot/oldJs.js"></script>
+<!-- Admission Counselor -->
+
+
+<!-- old bootstrap -->
+ <script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>

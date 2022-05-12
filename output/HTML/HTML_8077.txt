@@ -1,0 +1,3061 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Faculty Scholarship | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Faculty Scholarship">
+  
+	<meta property="og:type" content="website">
+	
+  
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+
+<!-- Facebook Meta Tag -->
+<meta name="facebook-domain-verification" content="cb8krgcm37cb6syvm7emng8nz1mxjk" />
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Request Info</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/mediacom/">Media &amp; Communication</a></li><li class="linkitem"><a href="/academics/mediacom/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/mediacom/facultystaff/facultyscholarship/">Faculty Scholarship</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Faculty Scholarship</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+		
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Faculty Scholarship">
+							<span class="sub_nav_handle_label">Faculty Scholarship</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="/academics/mediacom/missiongoals/">Mission &amp; Goals</a></li><li class="sub_nav_item"><a href="/academics/mediacom/requirementscourses/">Requirements &amp; Courses</a></li><li class="sub_nav_item"><a href="/academics/mediacom/currentstudents/">Student Portal</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/academics/mediacom/facultystaff/">Faculty &amp; Staff</a></span></li><li class="sub_nav_item"><a href="/academics/mediacom/internships/">Internships</a></li><li class="sub_nav_item"><a href="/academics/mediacom/semesterabroaddublincityuniversity/">Semester Abroad: Dublin City University</a></li><li class="sub_nav_item"><a href="/academics/mediacom/honors/">Honors</a></li><li class="sub_nav_item"><a href="/academics/mediacom/srsj/">Media Research Social Justice</a></li><li class="sub_nav_item"><a href="/academics/mediacom/newsevents/">News &amp; Events</a></li><li class="sub_nav_item"><a href="http://mc2alumninetwork.org">Alumni Week</a></li><li class="sub_nav_item"><a href="/academics/mediacom/contactus/">Contact Us</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/academics/">Academics</a></li><li class="linkitem"><a href="/academics/majorsandprograms.html">Majors, Minors &amp; Certifications</a></li><li class="linkitem"><a href="/academics/mediacom/">Media &amp; Communication</a></li><li class="linkitem"><a href="/academics/mediacom/facultystaff/">Faculty &amp; Staff</a></li><li class="linkitem"><a href="/academics/mediacom/facultystaff/facultyscholarship/">Faculty Scholarship</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <p style="color: #7a0109;"><strong>Faculty Scholarship/Artisitic Work</strong></p>
+<p style="margin-left: 12px;"><span>The Department of Media &amp; Communication prides itself on its outsanding faculty who are dedicated to expanding knowledge in the field. Faculty are active scholars contributing vitally to the discipline. The diversity of faculty interests are partially captured in the sample of publications from the past five years below.<strong>&nbsp;</strong></span></p>
+<p style="margin-left: 12px;"><span><strong><img src="/media/contentassets/images/academics/mediacom/scholarship/faculty scholarship-460x345.jpg" alt="" style="     " /></strong></span></p></div>
+
+</div>
+</div>
+<style>
+h2 .mix-item-title 
+{
+font-size: 1.5em !important;
+} 
+</style>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.cambridge.org/core/books/society-on-the-edge/4893ED7E8DAD5A457544A73057ACB664">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/9781108732192.jpg" alt="Image for &quot;Society on the Edge: Social Science and Public Policy in the Postwar United States&quot;" data-caption="&quot;Society on the Edge: Social Science and Public Policy in the Postwar United States&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Jeff Pooley's Book</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.cambridge.org/core/books/society-on-the-edge/4893ED7E8DAD5A457544A73057ACB664">
+															<span class="mix_item_title_label">&quot;Society on the Edge: Social Science and Public Policy in the Postwar United States&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.cambridge.org/core/books/society-on-the-edge/4893ED7E8DAD5A457544A73057ACB664">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/9781108732192.jpg" alt="Image for &quot;Society on the Edge: Social Science and Public Policy in the Postwar United States&quot;" data-caption="&quot;Society on the Edge: Social Science and Public Policy in the Postwar United States&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.cambridge.org/core/books/society-on-the-edge/4893ED7E8DAD5A457544A73057ACB664" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.mediastudies.press/liberty-and-the-news">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/51606172996485.png" alt="Image for &quot;The Twin Crises of Democracy and Journalism&quot;" data-caption="&quot;The Twin Crises of Democracy and Journalism&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Sue Curry Jansen's introduction </span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.mediastudies.press/liberty-and-the-news">
+															<span class="mix_item_title_label">&quot;The Twin Crises of Democracy and Journalism&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.mediastudies.press/liberty-and-the-news">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/51606172996485.png" alt="Image for &quot;The Twin Crises of Democracy and Journalism&quot;" data-caption="&quot;The Twin Crises of Democracy and Journalism&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.mediastudies.press/liberty-and-the-news" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://books.emeraldinsight.com/page/detail/International-Perspectives-on-Policies-Practices-Pedagogies-for-Promoting-Social-Responsibility-in-Higher-Education/?k=9781839098550">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/9781839098550.jpg" alt="Image for &quot;Dispatches from the Radical Center: Fostering Engaged Citizenship and Investigating Authority in Community-Based Documentary Classrooms&quot;" data-caption="&quot;Dispatches from the Radical Center: Fostering Engaged Citizenship and Investigating Authority in Community-Based Documentary Classrooms&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Professor Kate Ranieri's Chapter</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://books.emeraldinsight.com/page/detail/International-Perspectives-on-Policies-Practices-Pedagogies-for-Promoting-Social-Responsibility-in-Higher-Education/?k=9781839098550">
+															<span class="mix_item_title_label">&quot;Dispatches from the Radical Center: Fostering Engaged Citizenship and Investigating Authority in Community-Based Documentary Classrooms&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://books.emeraldinsight.com/page/detail/International-Perspectives-on-Policies-Practices-Pedagogies-for-Promoting-Social-Responsibility-in-Higher-Education/?k=9781839098550">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/9781839098550.jpg" alt="Image for &quot;Dispatches from the Radical Center: Fostering Engaged Citizenship and Investigating Authority in Community-Based Documentary Classrooms&quot;" data-caption="&quot;Dispatches from the Radical Center: Fostering Engaged Citizenship and Investigating Authority in Community-Based Documentary Classrooms&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://books.emeraldinsight.com/page/detail/International-Perspectives-on-Policies-Practices-Pedagogies-for-Promoting-Social-Responsibility-in-Higher-Education/?k=9781839098550" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.onlinelibrary.wiley.com/doi/10.1002/9781405165518.wbeosa074.pub2">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/9781405165518.cover.jpg" alt="Image for &quot;Audiences&quot;" data-caption="&quot;Audiences&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. John Sullivan's Article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.onlinelibrary.wiley.com/doi/10.1002/9781405165518.wbeosa074.pub2">
+															<span class="mix_item_title_label">&quot;Audiences&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.onlinelibrary.wiley.com/doi/10.1002/9781405165518.wbeosa074.pub2">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/9781405165518.cover.jpg" alt="Image for &quot;Audiences&quot;" data-caption="&quot;Audiences&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.onlinelibrary.wiley.com/doi/10.1002/9781405165518.wbeosa074.pub2" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.mediastudies.press/masters-voice">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/51593961014232.png" alt="Image for &quot;Our Master's Voice: Advertising.&quot;" data-caption="&quot;Our Master's Voice: Advertising.&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Jeff Pooley's Introduction </span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.mediastudies.press/masters-voice">
+															<span class="mix_item_title_label">&quot;Our Master's Voice: Advertising.&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.mediastudies.press/masters-voice">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/51593961014232.png" alt="Image for &quot;Our Master's Voice: Advertising.&quot;" data-caption="&quot;Our Master's Voice: Advertising.&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.mediastudies.press/masters-voice" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.tandfonline.com/doi/abs/10.1080/17404622.2020.1834593?journalCode=rcmt20">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/IMG_6312.jpg" alt="Image for &quot;A service-learning and integrative-learning model for media advocacy on behalf of nonprofit organizations&quot;" data-caption="&quot;A service-learning and integrative-learning model for media advocacy on behalf of nonprofit organizations&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Susan Kahlenberg's Article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.tandfonline.com/doi/abs/10.1080/17404622.2020.1834593?journalCode=rcmt20">
+															<span class="mix_item_title_label">&quot;A service-learning and integrative-learning model for media advocacy on behalf of nonprofit organizations&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.tandfonline.com/doi/abs/10.1080/17404622.2020.1834593?journalCode=rcmt20">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/IMG_6312.jpg" alt="Image for &quot;A service-learning and integrative-learning model for media advocacy on behalf of nonprofit organizations&quot;" data-caption="&quot;A service-learning and integrative-learning model for media advocacy on behalf of nonprofit organizations&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.tandfonline.com/doi/abs/10.1080/17404622.2020.1834593?journalCode=rcmt20" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.mcall.com/opinion/mc-opi-post-office-importance-danger-funding-20200830-hlbwduv3xbf6ph3igjmvghdeqm-story.html">
+													<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &ldquo;Your View by Muhlenberg professor: Why we must fortify and expand the postal service&quot;" data-caption="&ldquo;Your View by Muhlenberg professor: Why we must fortify and expand the postal service&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Lora Taub's Article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.mcall.com/opinion/mc-opi-post-office-importance-danger-funding-20200830-hlbwduv3xbf6ph3igjmvghdeqm-story.html">
+															<span class="mix_item_title_label">&ldquo;Your View by Muhlenberg professor: Why we must fortify and expand the postal service&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.mcall.com/opinion/mc-opi-post-office-importance-danger-funding-20200830-hlbwduv3xbf6ph3igjmvghdeqm-story.html">
+															<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &ldquo;Your View by Muhlenberg professor: Why we must fortify and expand the postal service&quot;" data-caption="&ldquo;Your View by Muhlenberg professor: Why we must fortify and expand the postal service&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.mcall.com/opinion/mc-opi-post-office-importance-danger-funding-20200830-hlbwduv3xbf6ph3igjmvghdeqm-story.html" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://academic.oup.com/ct/advance-article-abstract/doi/10.1093/ct/qtaa017/5895169?redirectedFrom=fulltext">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/m_comthe_30_4cover.png" alt="Image for &quot;The Mediatization of Human Rights Memory in Chile&quot;" data-caption="&quot;The Mediatization of Human Rights Memory in Chile&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Harry Sim&oacute;n Salazar's Paper</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://academic.oup.com/ct/advance-article-abstract/doi/10.1093/ct/qtaa017/5895169?redirectedFrom=fulltext">
+															<span class="mix_item_title_label">&quot;The Mediatization of Human Rights Memory in Chile&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://academic.oup.com/ct/advance-article-abstract/doi/10.1093/ct/qtaa017/5895169?redirectedFrom=fulltext">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/m_comthe_30_4cover.png" alt="Image for &quot;The Mediatization of Human Rights Memory in Chile&quot;" data-caption="&quot;The Mediatization of Human Rights Memory in Chile&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://academic.oup.com/ct/advance-article-abstract/doi/10.1093/ct/qtaa017/5895169?redirectedFrom=fulltext" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://ijoc.org/index.php/ijoc/article/view/14480/3014">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Capture.PNG" alt="Image for &quot;The House of Truth&quot;" data-caption="&quot;The House of Truth&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Sue Curry Jansen's Journal Article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://ijoc.org/index.php/ijoc/article/view/14480/3014">
+															<span class="mix_item_title_label">&quot;The House of Truth&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://ijoc.org/index.php/ijoc/article/view/14480/3014">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Capture.PNG" alt="Image for &quot;The House of Truth&quot;" data-caption="&quot;The House of Truth&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://ijoc.org/index.php/ijoc/article/view/14480/3014" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://blogs.lse.ac.uk/impactofsocialsciences/2020/02/21/read-and-publish-open-access-deals-are-heightening-global-inequalities-in-access-to-publication/">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/pooley 2.20.png" alt="Image for &quot;Read-and-Publish Open Access deals are heightening global inequalities in access to publication.&quot;" data-caption="&quot;Read-and-Publish Open Access deals are heightening global inequalities in access to publication.&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2020 Dr. Jeff Pooley's Article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://blogs.lse.ac.uk/impactofsocialsciences/2020/02/21/read-and-publish-open-access-deals-are-heightening-global-inequalities-in-access-to-publication/">
+															<span class="mix_item_title_label">&quot;Read-and-Publish Open Access deals are heightening global inequalities in access to publication.&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://blogs.lse.ac.uk/impactofsocialsciences/2020/02/21/read-and-publish-open-access-deals-are-heightening-global-inequalities-in-access-to-publication/">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/pooley 2.20.png" alt="Image for &quot;Read-and-Publish Open Access deals are heightening global inequalities in access to publication.&quot;" data-caption="&quot;Read-and-Publish Open Access deals are heightening global inequalities in access to publication.&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://blogs.lse.ac.uk/impactofsocialsciences/2020/02/21/read-and-publish-open-access-deals-are-heightening-global-inequalities-in-access-to-publication/" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.mcall.com/sports/college/mc-spt-muhlenberg-receivers-mccallum-20191212-7zaffesskndxfc6kebi6aesaeu-story.html">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/McCallum12.19.png" alt="Image for Jack McCallum's &quot;Muhlenberg leaning on its dynamic duo to lead it to a national championship&quot;" data-caption="Jack McCallum's &quot;Muhlenberg leaning on its dynamic duo to lead it to a national championship&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Part-Time Instructor Jack McCallum's Article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.mcall.com/sports/college/mc-spt-muhlenberg-receivers-mccallum-20191212-7zaffesskndxfc6kebi6aesaeu-story.html">
+															<span class="mix_item_title_label">Jack McCallum's &quot;Muhlenberg leaning on its dynamic duo to lead it to a national championship&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.mcall.com/sports/college/mc-spt-muhlenberg-receivers-mccallum-20191212-7zaffesskndxfc6kebi6aesaeu-story.html">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/McCallum12.19.png" alt="Image for Jack McCallum's &quot;Muhlenberg leaning on its dynamic duo to lead it to a national championship&quot;" data-caption="Jack McCallum's &quot;Muhlenberg leaning on its dynamic duo to lead it to a national championship&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.mcall.com/sports/college/mc-spt-muhlenberg-receivers-mccallum-20191212-7zaffesskndxfc6kebi6aesaeu-story.html" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/2056305119880002">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/sage journals.PNG" alt="Image for &quot;The Platforms of Podcasting: Past and Present.&quot;" data-caption="&quot;The Platforms of Podcasting: Past and Present.&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Dr John Sullivan's Article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/2056305119880002">
+															<span class="mix_item_title_label">&quot;The Platforms of Podcasting: Past and Present.&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/2056305119880002">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/sage journals.PNG" alt="Image for &quot;The Platforms of Podcasting: Past and Present.&quot;" data-caption="&quot;The Platforms of Podcasting: Past and Present.&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/2056305119880002" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.macmillanihe.com/page/detail/Print-Cultures/?K=9780230280915">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/jansen censor-230x355.png" alt="Image for Jansen's &quot;The Censor's New Clothes&quot; was anthonlogized in &quot;Print Cultures&quot;" data-caption="Jansen's &quot;The Censor's New Clothes&quot; was anthonlogized in &quot;Print Cultures&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">Dr. Sue Curry Jansen's chapter was anthonlogized</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.macmillanihe.com/page/detail/Print-Cultures/?K=9780230280915">
+															<span class="mix_item_title_label">Jansen's &quot;The Censor's New Clothes&quot; was anthonlogized in &quot;Print Cultures&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.macmillanihe.com/page/detail/Print-Cultures/?K=9780230280915">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/jansen censor-230x355.png" alt="Image for Jansen's &quot;The Censor's New Clothes&quot; was anthonlogized in &quot;Print Cultures&quot;" data-caption="Jansen's &quot;The Censor's New Clothes&quot; was anthonlogized in &quot;Print Cultures&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.macmillanihe.com/page/detail/Print-Cultures/?K=9780230280915" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://us.sagepub.com/en-us/nam/media-audiences/book258868#description">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Sullivan9.19-230x439.png" alt="Image for &quot;Media Audiences Effects, Users, Institutions, and Power&quot; second edition" data-caption="&quot;Media Audiences Effects, Users, Institutions, and Power&quot; second edition">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Dr. john Sullivan's book</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://us.sagepub.com/en-us/nam/media-audiences/book258868#description">
+															<span class="mix_item_title_label">&quot;Media Audiences Effects, Users, Institutions, and Power&quot; second edition</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://us.sagepub.com/en-us/nam/media-audiences/book258868#description">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Sullivan9.19-230x439.png" alt="Image for &quot;Media Audiences Effects, Users, Institutions, and Power&quot; second edition" data-caption="&quot;Media Audiences Effects, Users, Institutions, and Power&quot; second edition">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://us.sagepub.com/en-us/nam/media-audiences/book258868#description" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://items.ssrc.org/parameters/the-library-solution-how-academic-libraries-could-end-the-apc-scourge/">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley9.3.19-230x115.png" alt="Image for &quot;The Library Solution: How Academic Libraries Could End the APC Scourge&quot;" data-caption="&quot;The Library Solution: How Academic Libraries Could End the APC Scourge&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://items.ssrc.org/parameters/the-library-solution-how-academic-libraries-could-end-the-apc-scourge/">
+															<span class="mix_item_title_label">&quot;The Library Solution: How Academic Libraries Could End the APC Scourge&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://items.ssrc.org/parameters/the-library-solution-how-academic-libraries-could-end-the-apc-scourge/">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley9.3.19-230x115.png" alt="Image for &quot;The Library Solution: How Academic Libraries Could End the APC Scourge&quot;" data-caption="&quot;The Library Solution: How Academic Libraries Could End the APC Scourge&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://items.ssrc.org/parameters/the-library-solution-how-academic-libraries-could-end-the-apc-scourge/" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.muhlenberg.edu/news/2019/theapptrap.html">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley8.29.19-230x226.png" alt="Image for The App Trap" data-caption="The App Trap">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.muhlenberg.edu/news/2019/theapptrap.html">
+															<span class="mix_item_title_label">The App Trap</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.muhlenberg.edu/news/2019/theapptrap.html">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley8.29.19-230x226.png" alt="Image for The App Trap" data-caption="The App Trap">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.muhlenberg.edu/news/2019/theapptrap.html" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.intellectbooks.com/world-wide-walks">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Tafler 3_31_18-230x230.png" alt="Image for World-Wide-Walks" data-caption="World-Wide-Walks">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Dr. David Tafler's co-edited book</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.intellectbooks.com/world-wide-walks">
+															<span class="mix_item_title_label">World-Wide-Walks</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.intellectbooks.com/world-wide-walks">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Tafler 3_31_18-230x230.png" alt="Image for World-Wide-Walks" data-caption="World-Wide-Walks">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.intellectbooks.com/world-wide-walks" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://academic.oup.com/joc/article/69/1/26/5281189">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley 2_19-212x304.png" alt="Image for &quot;Idols of Promotion: The Triumph of Self-Branding in an Age of Precarity&quot;" data-caption="&quot;Idols of Promotion: The Triumph of Self-Branding in an Age of Precarity&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Dr. Jeff Pooley's co-authored journal article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://academic.oup.com/joc/article/69/1/26/5281189">
+															<span class="mix_item_title_label">&quot;Idols of Promotion: The Triumph of Self-Branding in an Age of Precarity&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://academic.oup.com/joc/article/69/1/26/5281189">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley 2_19-212x304.png" alt="Image for &quot;Idols of Promotion: The Triumph of Self-Branding in an Age of Precarity&quot;" data-caption="&quot;Idols of Promotion: The Triumph of Self-Branding in an Age of Precarity&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://academic.oup.com/joc/article/69/1/26/5281189" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.tandfonline.com/eprint/FdCbx4rMfuzwDAVMRRSn/full?target=10.1080%2F17404622.2019.1575438&amp;">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Kahlenberg11.17-184x240.png" alt="Image for &quot;Fusing social justice with social scientific perspectives to teach content analysis in Media, Theory and Methods&quot;" data-caption="&quot;Fusing social justice with social scientific perspectives to teach content analysis in Media, Theory and Methods&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2019 Dr. Susan Kahlenberg's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.tandfonline.com/eprint/FdCbx4rMfuzwDAVMRRSn/full?target=10.1080%2F17404622.2019.1575438&amp;">
+															<span class="mix_item_title_label">&quot;Fusing social justice with social scientific perspectives to teach content analysis in Media, Theory and Methods&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.tandfonline.com/eprint/FdCbx4rMfuzwDAVMRRSn/full?target=10.1080%2F17404622.2019.1575438&amp;">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Kahlenberg11.17-184x240.png" alt="Image for &quot;Fusing social justice with social scientific perspectives to teach content analysis in Media, Theory and Methods&quot;" data-caption="&quot;Fusing social justice with social scientific perspectives to teach content analysis in Media, Theory and Methods&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.tandfonline.com/eprint/FdCbx4rMfuzwDAVMRRSn/full?target=10.1080%2F17404622.2019.1575438&amp;" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.jstor.org/stable/j.ctvnb7q2v">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley1.19-230x344.png" alt="Image for &quot;Edward Shils and the Intellectuals,&quot; in The Calling of Social Thought: Rediscovering the Work of Edward Shils" data-caption="&quot;Edward Shils and the Intellectuals,&quot; in The Calling of Social Thought: Rediscovering the Work of Edward Shils">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">Dr. Jeff Pooley's book chapter</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.jstor.org/stable/j.ctvnb7q2v">
+															<span class="mix_item_title_label">&quot;Edward Shils and the Intellectuals,&quot; in The Calling of Social Thought: Rediscovering the Work of Edward Shils</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.jstor.org/stable/j.ctvnb7q2v">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Pooley1.19-230x344.png" alt="Image for &quot;Edward Shils and the Intellectuals,&quot; in The Calling of Social Thought: Rediscovering the Work of Edward Shils" data-caption="&quot;Edward Shils and the Intellectuals,&quot; in The Calling of Social Thought: Rediscovering the Work of Edward Shils">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.jstor.org/stable/j.ctvnb7q2v" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.washingtonpost.com/outlook/2018/10/30/when-historians-traffic-fake-news/">
+													<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;When Historians Traffic in Fake News&quot;" data-caption="&quot;When Historians Traffic in Fake News&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2018 Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.washingtonpost.com/outlook/2018/10/30/when-historians-traffic-fake-news/">
+															<span class="mix_item_title_label">&quot;When Historians Traffic in Fake News&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.washingtonpost.com/outlook/2018/10/30/when-historians-traffic-fake-news/">
+															<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;When Historians Traffic in Fake News&quot;" data-caption="&quot;When Historians Traffic in Fake News&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.washingtonpost.com/outlook/2018/10/30/when-historians-traffic-fake-news/" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://culturedigitally.org/2018/07/the-trials-of-media-research/">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/pooley18.jpg" alt="Image for &quot;The Trials of Media Research,&quot; Culture Digitally" data-caption="&quot;The Trials of Media Research,&quot; Culture Digitally">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2018 Dr. Jeff Pooley's Essay</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://culturedigitally.org/2018/07/the-trials-of-media-research/">
+															<span class="mix_item_title_label">&quot;The Trials of Media Research,&quot; Culture Digitally</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://culturedigitally.org/2018/07/the-trials-of-media-research/">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/pooley18.jpg" alt="Image for &quot;The Trials of Media Research,&quot; Culture Digitally" data-caption="&quot;The Trials of Media Research,&quot; Culture Digitally">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://culturedigitally.org/2018/07/the-trials-of-media-research/" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.palgrave.com/us/book/9783319900551">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/sullivanpodcast.jpg" alt="Image for &quot;Podcast Movement: Aspirational Labour and the Formalisation of Podcasting as a Cultural Industry.&quot;, Podcasting - New Aural Cultures and Digital Media" data-caption="&quot;Podcast Movement: Aspirational Labour and the Formalisation of Podcasting as a Cultural Industry.&quot;, Podcasting - New Aural Cultures and Digital Media">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2018 Dr. John Sullivan's Book Chapter</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.palgrave.com/us/book/9783319900551">
+															<span class="mix_item_title_label">&quot;Podcast Movement: Aspirational Labour and the Formalisation of Podcasting as a Cultural Industry.&quot;, Podcasting - New Aural Cultures and Digital Media</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.palgrave.com/us/book/9783319900551">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/sullivanpodcast.jpg" alt="Image for &quot;Podcast Movement: Aspirational Labour and the Formalisation of Podcasting as a Cultural Industry.&quot;, Podcasting - New Aural Cultures and Digital Media" data-caption="&quot;Podcast Movement: Aspirational Labour and the Formalisation of Podcasting as a Cultural Industry.&quot;, Podcasting - New Aural Cultures and Digital Media">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.palgrave.com/us/book/9783319900551" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://jacobinmag.com/2017/12/republican-tax-plan-apple-town-squares">
+													<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;The Commons, by Apple, Jacobin Magazine" data-caption="&quot;The Commons, by Apple, Jacobin Magazine">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 - Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://jacobinmag.com/2017/12/republican-tax-plan-apple-town-squares">
+															<span class="mix_item_title_label">&quot;The Commons, by Apple, Jacobin Magazine</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://jacobinmag.com/2017/12/republican-tax-plan-apple-town-squares">
+															<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;The Commons, by Apple, Jacobin Magazine" data-caption="&quot;The Commons, by Apple, Jacobin Magazine">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://jacobinmag.com/2017/12/republican-tax-plan-apple-town-squares" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://nextcity.org/daily/entry/voter-turnout-campaigns-civic-engagement">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/nextcity.jpg" alt="Image for &quot;In a City Where 15 Percent of Voters Elected the Mayor, Downtown Is Claiming Power&quot;, Next City" data-caption="&quot;In a City Where 15 Percent of Voters Elected the Mayor, Downtown Is Claiming Power&quot;, Next City">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 Emery Newman '18, Prof. Bazaz &amp; Prof. Vigneri</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://nextcity.org/daily/entry/voter-turnout-campaigns-civic-engagement">
+															<span class="mix_item_title_label">&quot;In a City Where 15 Percent of Voters Elected the Mayor, Downtown Is Claiming Power&quot;, Next City</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://nextcity.org/daily/entry/voter-turnout-campaigns-civic-engagement">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/nextcity.jpg" alt="Image for &quot;In a City Where 15 Percent of Voters Elected the Mayor, Downtown Is Claiming Power&quot;, Next City" data-caption="&quot;In a City Where 15 Percent of Voters Elected the Mayor, Downtown Is Claiming Power&quot;, Next City">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://nextcity.org/daily/entry/voter-turnout-campaigns-civic-engagement" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://rowman.com/ISBN/9781498539579/Heroes-Heroines-and-Everything-in-Between-Challenging-Gender-and-Sexuality-Stereotypes-in-Children's-Entertainment-Media">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Kahlenberg.jpg" alt="Image for &quot;Heroes, Heroines, and Everything in Between - Challenging Gender and Sexuality Stereotypes in Children's Entertainment Media&quot;" data-caption="&quot;Heroes, Heroines, and Everything in Between - Challenging Gender and Sexuality Stereotypes in Children's Entertainment Media&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 - Dr. Kahlenberg's co-authored introduction</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://rowman.com/ISBN/9781498539579/Heroes-Heroines-and-Everything-in-Between-Challenging-Gender-and-Sexuality-Stereotypes-in-Children's-Entertainment-Media">
+															<span class="mix_item_title_label">&quot;Heroes, Heroines, and Everything in Between - Challenging Gender and Sexuality Stereotypes in Children's Entertainment Media&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://rowman.com/ISBN/9781498539579/Heroes-Heroines-and-Everything-in-Between-Challenging-Gender-and-Sexuality-Stereotypes-in-Children's-Entertainment-Media">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Kahlenberg.jpg" alt="Image for &quot;Heroes, Heroines, and Everything in Between - Challenging Gender and Sexuality Stereotypes in Children's Entertainment Media&quot;" data-caption="&quot;Heroes, Heroines, and Everything in Between - Challenging Gender and Sexuality Stereotypes in Children's Entertainment Media&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://rowman.com/ISBN/9781498539579/Heroes-Heroines-and-Everything-in-Between-Challenging-Gender-and-Sexuality-Stereotypes-in-Children's-Entertainment-Media" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/08/15/scholarly-communications-shouldnt-just-be-open-but-non-profit-too/">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/scholarcom.jpg" alt="Image for &quot;Scholarly communications shouldn&rsquo;t just be open, but non-profit too&quot;, LSE" data-caption="&quot;Scholarly communications shouldn&rsquo;t just be open, but non-profit too&quot;, LSE">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/08/15/scholarly-communications-shouldnt-just-be-open-but-non-profit-too/">
+															<span class="mix_item_title_label">&quot;Scholarly communications shouldn&rsquo;t just be open, but non-profit too&quot;, LSE</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/08/15/scholarly-communications-shouldnt-just-be-open-but-non-profit-too/">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/scholarcom.jpg" alt="Image for &quot;Scholarly communications shouldn&rsquo;t just be open, but non-profit too&quot;, LSE" data-caption="&quot;Scholarly communications shouldn&rsquo;t just be open, but non-profit too&quot;, LSE">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://blogs.lse.ac.uk/impactofsocialsciences/2017/08/15/scholarly-communications-shouldnt-just-be-open-but-non-profit-too/" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://ijoc.org/index.php/ijoc/article/view/7543/2077">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/ijoc.jpg" alt="Image for &quot;A Curious Tale of Economics and Common Carriage (Net Neutrality) at the FCC: A Reply to Faulhaber, Singer, and Urschel&quot;, IJOC" data-caption="&quot;A Curious Tale of Economics and Common Carriage (Net Neutrality) at the FCC: A Reply to Faulhaber, Singer, and Urschel&quot;, IJOC">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 - Dr. Jeff Pooley's co-authored journal</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://ijoc.org/index.php/ijoc/article/view/7543/2077">
+															<span class="mix_item_title_label">&quot;A Curious Tale of Economics and Common Carriage (Net Neutrality) at the FCC: A Reply to Faulhaber, Singer, and Urschel&quot;, IJOC</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://ijoc.org/index.php/ijoc/article/view/7543/2077">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/ijoc.jpg" alt="Image for &quot;A Curious Tale of Economics and Common Carriage (Net Neutrality) at the FCC: A Reply to Faulhaber, Singer, and Urschel&quot;, IJOC" data-caption="&quot;A Curious Tale of Economics and Common Carriage (Net Neutrality) at the FCC: A Reply to Faulhaber, Singer, and Urschel&quot;, IJOC">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://ijoc.org/index.php/ijoc/article/view/7543/2077" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.benton.org/blog/information-laundering-economists-and-ajit-pais-race-roll-back-obama-era-fccs-net-neutrality">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/pooley-460x147.jpg" alt="Image for &quot;Information Laundering, Economists and Ajit Pai&rsquo;s Race to Roll-Back the Obama-era FCC&rsquo;s Net Neutrality Rules&quot;Benton Institute for Broadband &amp; Society" data-caption="&quot;Information Laundering, Economists and Ajit Pai&rsquo;s Race to Roll-Back the Obama-era FCC&rsquo;s Net Neutrality Rules&quot;Benton Institute for Broadband &amp; Society">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 Dr. Jeff Pooley's co-authored article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.benton.org/blog/information-laundering-economists-and-ajit-pais-race-roll-back-obama-era-fccs-net-neutrality">
+															<span class="mix_item_title_label">&quot;Information Laundering, Economists and Ajit Pai&rsquo;s Race to Roll-Back the Obama-era FCC&rsquo;s Net Neutrality Rules&quot;Benton Institute for Broadband &amp; Society</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.benton.org/blog/information-laundering-economists-and-ajit-pais-race-roll-back-obama-era-fccs-net-neutrality">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/pooley-460x147.jpg" alt="Image for &quot;Information Laundering, Economists and Ajit Pai&rsquo;s Race to Roll-Back the Obama-era FCC&rsquo;s Net Neutrality Rules&quot;Benton Institute for Broadband &amp; Society" data-caption="&quot;Information Laundering, Economists and Ajit Pai&rsquo;s Race to Roll-Back the Obama-era FCC&rsquo;s Net Neutrality Rules&quot;Benton Institute for Broadband &amp; Society">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.benton.org/blog/information-laundering-economists-and-ajit-pais-race-roll-back-obama-era-fccs-net-neutrality" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://www.iupress.indiana.edu/product_info.php?products_id=808575">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/gaming.jpg" alt="Image for &quot;Journey into the Techno-Primitive Desert&quot; Gaming Representation: Race, Gender, and Sexuality in Video Games" data-caption="&quot;Journey into the Techno-Primitive Desert&quot; Gaming Representation: Race, Gender, and Sexuality in Video Games">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 Dr. Irene Chien's chapter</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://www.iupress.indiana.edu/product_info.php?products_id=808575">
+															<span class="mix_item_title_label">&quot;Journey into the Techno-Primitive Desert&quot; Gaming Representation: Race, Gender, and Sexuality in Video Games</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://www.iupress.indiana.edu/product_info.php?products_id=808575">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/gaming.jpg" alt="Image for &quot;Journey into the Techno-Primitive Desert&quot; Gaming Representation: Race, Gender, and Sexuality in Video Games" data-caption="&quot;Journey into the Techno-Primitive Desert&quot; Gaming Representation: Race, Gender, and Sexuality in Video Games">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://www.iupress.indiana.edu/product_info.php?products_id=808575" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://academic.oup.com/joc/article/67/3/E6/4642144">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/schudson.jpg" alt="Image for &quot;The Rise of the Right to Know: Politics and the Culture of Transparency, 1945&ndash;1975&quot;" data-caption="&quot;The Rise of the Right to Know: Politics and the Culture of Transparency, 1945&ndash;1975&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 Dr. Sue Curry Jansen's book review</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://academic.oup.com/joc/article/67/3/E6/4642144">
+															<span class="mix_item_title_label">&quot;The Rise of the Right to Know: Politics and the Culture of Transparency, 1945&ndash;1975&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://academic.oup.com/joc/article/67/3/E6/4642144">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/schudson.jpg" alt="Image for &quot;The Rise of the Right to Know: Politics and the Culture of Transparency, 1945&ndash;1975&quot;" data-caption="&quot;The Rise of the Right to Know: Politics and the Culture of Transparency, 1945&ndash;1975&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://academic.oup.com/joc/article/67/3/E6/4642144" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://jitp.commons.gc.cuny.edu/practicing-digital-literacy-in-the-liberal-arts-a-qualitative-analysis-of-students-online-research-journals/?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/digital.jpg" alt="Image for &quot;Practicing Digital Literacy in the Liberal Arts: A Qualitative Analysis of Students&rsquo; Online Research Journals&quot; JITP" data-caption="&quot;Practicing Digital Literacy in the Liberal Arts: A Qualitative Analysis of Students&rsquo; Online Research Journals&quot; JITP">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017- Dr. Lora Taub and Jennifer Jarson</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://jitp.commons.gc.cuny.edu/practicing-digital-literacy-in-the-liberal-arts-a-qualitative-analysis-of-students-online-research-journals/?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_">
+															<span class="mix_item_title_label">&quot;Practicing Digital Literacy in the Liberal Arts: A Qualitative Analysis of Students&rsquo; Online Research Journals&quot; JITP</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://jitp.commons.gc.cuny.edu/practicing-digital-literacy-in-the-liberal-arts-a-qualitative-analysis-of-students-online-research-journals/?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/digital.jpg" alt="Image for &quot;Practicing Digital Literacy in the Liberal Arts: A Qualitative Analysis of Students&rsquo; Online Research Journals&quot; JITP" data-caption="&quot;Practicing Digital Literacy in the Liberal Arts: A Qualitative Analysis of Students&rsquo; Online Research Journals&quot; JITP">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://jitp.commons.gc.cuny.edu/practicing-digital-literacy-in-the-liberal-arts-a-qualitative-analysis-of-students-online-research-journals/?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://theconversation.com/putins-flacks-russias-stealth-public-relations-war-80133?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_2017_10_13&amp;utm_medium=email&amp;utm_term=0_82ed2ba182-647b3f2">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/putin.jpg" alt="Image for &quot;Putin&rsquo;s flacks: Russia&rsquo;s stealth public relations war&quot; The Conversation" data-caption="&quot;Putin&rsquo;s flacks: Russia&rsquo;s stealth public relations war&quot; The Conversation">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 Dr. Sue Curry Jansen's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://theconversation.com/putins-flacks-russias-stealth-public-relations-war-80133?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_2017_10_13&amp;utm_medium=email&amp;utm_term=0_82ed2ba182-647b3f2">
+															<span class="mix_item_title_label">&quot;Putin&rsquo;s flacks: Russia&rsquo;s stealth public relations war&quot; The Conversation</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://theconversation.com/putins-flacks-russias-stealth-public-relations-war-80133?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_2017_10_13&amp;utm_medium=email&amp;utm_term=0_82ed2ba182-647b3f2">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/putin.jpg" alt="Image for &quot;Putin&rsquo;s flacks: Russia&rsquo;s stealth public relations war&quot; The Conversation" data-caption="&quot;Putin&rsquo;s flacks: Russia&rsquo;s stealth public relations war&quot; The Conversation">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://theconversation.com/putins-flacks-russias-stealth-public-relations-war-80133?utm_source=faculty&amp;utm_campaign=647b3f2bde-EMAIL_CAMPAIGN_2017_10_13&amp;utm_medium=email&amp;utm_term=0_82ed2ba182-647b3f2" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://beta.prx.org/stories/212376">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/jansen.jpg" alt="Image for &quot;Stealth Communications&quot; PRX" data-caption="&quot;Stealth Communications&quot; PRX">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2017 Dr. Sue Curry Jansen's Audio Story</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://beta.prx.org/stories/212376">
+															<span class="mix_item_title_label">&quot;Stealth Communications&quot; PRX</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://beta.prx.org/stories/212376">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/jansen.jpg" alt="Image for &quot;Stealth Communications&quot; PRX" data-caption="&quot;Stealth Communications&quot; PRX">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://beta.prx.org/stories/212376" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://www.wiley.com/WileyCD A/WileyTitle/productCd-0745664822.html">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Screenshot 2016-11-14 15.09.35.jpg" alt="Image for &quot;Stealth Communications: The Spectacular Rise of Public Relations&quot; " data-caption="&quot;Stealth Communications: The Spectacular Rise of Public Relations&quot; ">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2016 Dr. Sue Curry Jansen's book</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://www.wiley.com/WileyCD A/WileyTitle/productCd-0745664822.html">
+															<span class="mix_item_title_label">&quot;Stealth Communications: The Spectacular Rise of Public Relations&quot; </span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://www.wiley.com/WileyCD A/WileyTitle/productCd-0745664822.html">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/Screenshot 2016-11-14 15.09.35.jpg" alt="Image for &quot;Stealth Communications: The Spectacular Rise of Public Relations&quot; " data-caption="&quot;Stealth Communications: The Spectacular Rise of Public Relations&quot; ">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://www.wiley.com/WileyCD A/WileyTitle/productCd-0745664822.html" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.peterlang.com/view /product/28453?format=EPDF">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/carey-1.jpg" alt="Image for &quot;James W. Carey and Communication Research&quot; " data-caption="&quot;James W. Carey and Communication Research&quot; ">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2016 Dr. Jeff Pooley's book</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.peterlang.com/view /product/28453?format=EPDF">
+															<span class="mix_item_title_label">&quot;James W. Carey and Communication Research&quot; </span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.peterlang.com/view /product/28453?format=EPDF">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/carey-1.jpg" alt="Image for &quot;James W. Carey and Communication Research&quot; " data-caption="&quot;James W. Carey and Communication Research&quot; ">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.peterlang.com/view /product/28453?format=EPDF" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://michaeljacksonstudies.org/podcasts/">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/mj.jpg" alt="Image for The Journal of Michael Jackson Academic Studies episodes 8 and 9" data-caption="The Journal of Michael Jackson Academic Studies episodes 8 and 9">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2016 Professor Roberta Meek's podcast</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://michaeljacksonstudies.org/podcasts/">
+															<span class="mix_item_title_label">The Journal of Michael Jackson Academic Studies episodes 8 and 9</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://michaeljacksonstudies.org/podcasts/">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/mj.jpg" alt="Image for The Journal of Michael Jackson Academic Studies episodes 8 and 9" data-caption="The Journal of Michael Jackson Academic Studies episodes 8 and 9">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://michaeljacksonstudies.org/podcasts/" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://theconversation.com/apple-watch-pivots-to-fitness-and-focuses-on-a-different-style-of-self-help-65079">
+													<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;Apple Watch pivots to fitness &ndash; and focuses on a different style of self-help&quot; The Conversation" data-caption="&quot;Apple Watch pivots to fitness &ndash; and focuses on a different style of self-help&quot; The Conversation">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2016 Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://theconversation.com/apple-watch-pivots-to-fitness-and-focuses-on-a-different-style-of-self-help-65079">
+															<span class="mix_item_title_label">&quot;Apple Watch pivots to fitness &ndash; and focuses on a different style of self-help&quot; The Conversation</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://theconversation.com/apple-watch-pivots-to-fitness-and-focuses-on-a-different-style-of-self-help-65079">
+															<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;Apple Watch pivots to fitness &ndash; and focuses on a different style of self-help&quot; The Conversation" data-caption="&quot;Apple Watch pivots to fitness &ndash; and focuses on a different style of self-help&quot; The Conversation">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://theconversation.com/apple-watch-pivots-to-fitness-and-focuses-on-a-different-style-of-self-help-65079" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="https://www.mcall.com/opinion/mc-texas-abortion-clinics-supreme-court-ranieri-yv-0701-20160701-story.html">
+													<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;Kate Ranieri: Supreme Court abortion ruling supports women's rights&quot; Mcall.com" data-caption="&quot;Kate Ranieri: Supreme Court abortion ruling supports women's rights&quot; Mcall.com">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2016 Dr. Kate Ranieri's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="https://www.mcall.com/opinion/mc-texas-abortion-clinics-supreme-court-ranieri-yv-0701-20160701-story.html">
+															<span class="mix_item_title_label">&quot;Kate Ranieri: Supreme Court abortion ruling supports women's rights&quot; Mcall.com</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="https://www.mcall.com/opinion/mc-texas-abortion-clinics-supreme-court-ranieri-yv-0701-20160701-story.html">
+															<img class="mix_item_media_image" src="/media/contentassets/images/topicrow/TopicRowMuhlenbergLogo.png" alt="Image for &quot;Kate Ranieri: Supreme Court abortion ruling supports women's rights&quot; Mcall.com" data-caption="&quot;Kate Ranieri: Supreme Court abortion ruling supports women's rights&quot; Mcall.com">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="https://www.mcall.com/opinion/mc-texas-abortion-clinics-supreme-court-ranieri-yv-0701-20160701-story.html" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_gray type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://www.jeffpooley.com/pubs/PooleyBehavioralSciences2016.pdf">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/image1-460x388.PNG" alt="Image for &ldquo;Not Particularly Felicitous&rdquo; Phrase: A History of the &ldquo;Behavioral Sciences&rdquo; Label" data-caption="&ldquo;Not Particularly Felicitous&rdquo; Phrase: A History of the &ldquo;Behavioral Sciences&rdquo; Label">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2016 Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://www.jeffpooley.com/pubs/PooleyBehavioralSciences2016.pdf">
+															<span class="mix_item_title_label">&ldquo;Not Particularly Felicitous&rdquo; Phrase: A History of the &ldquo;Behavioral Sciences&rdquo; Label</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://www.jeffpooley.com/pubs/PooleyBehavioralSciences2016.pdf">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/image1-460x388.PNG" alt="Image for &ldquo;Not Particularly Felicitous&rdquo; Phrase: A History of the &ldquo;Behavioral Sciences&rdquo; Label" data-caption="&ldquo;Not Particularly Felicitous&rdquo; Phrase: A History of the &ldquo;Behavioral Sciences&rdquo; Label">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://www.jeffpooley.com/pubs/PooleyBehavioralSciences2016.pdf" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section><section class="mix_listing theme_white type_news">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="mix_listing_inner">
+								<ul class="mix_list">
+									<li class="mix_item layout_no_description">
+										<article class="mix_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+											<div class="mix_item_media mix_item_media_lg">
+												<a class="mix_item_media_link" target="_blank" href="http://sms.sagepub.com/content/2/1/2056305116632777.abstract">
+													<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/image2.PNG" alt="Image for &quot;The Four Cultures: Media Studies at the Crossroads.&quot;" data-caption="&quot;The Four Cultures: Media Studies at the Crossroads.&quot;">
+												</a>
+											</div>
+											<div class="mix_item_wrapper">
+												<header class="mix_item_header">
+													<span class="mix_item_label">2016 Dr. Jeff Pooley's article</span>
+													<h2 class="mix_item_title" itemprop="headline">
+														
+                                                      
+                                                        <a class="mix_item_title_link" target="_blank" href="http://sms.sagepub.com/content/2/1/2056305116632777.abstract">
+															<span class="mix_item_title_label">&quot;The Four Cultures: Media Studies at the Crossroads.&quot;</span>
+														</a>
+                                                      
+													</h2>
+												</header>
+												<div class="mix_item_body">
+													<div class="mix_item_media mix_item_media_sm">
+														<a class="mix_item_media_link" target="_blank" href="http://sms.sagepub.com/content/2/1/2056305116632777.abstract">
+															<img class="mix_item_media_image" src="/media/contentassets/images/academics/mediacom/scholarship/image2.PNG" alt="Image for &quot;The Four Cultures: Media Studies at the Crossroads.&quot;" data-caption="&quot;The Four Cultures: Media Studies at the Crossroads.&quot;">
+														</a>
+													</div>
+												</div>
+												<footer class="mix_item_footer">
+													
+                                                  
+                                                    <a class="mix_item_link" target="_blank" href="http://sms.sagepub.com/content/2/1/2056305116632777.abstract" aria-label="Muhlenberg College&#39;s Institute of Public Opinion Earns Top Rating" itemprop="url">
+														<span class="mix_item_link_label">more</span>
+														<span class="mix_item_link_icon"><svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</article>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                     <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/diversityatmuhlenberg/'>
+											<span class='footer_nav_link_label'>Diversity &amp; Inclusion</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+<!-- Start Link 9 -->
+ <li class="footer_nav_item">
+    
+                                      
+										<a class='footer_nav_link' target='_blank' href='https://weather.bergbuilds.domains/'>
+											<span class='footer_nav_link_label'>Weather Update</span>
+										</a>
+                                      
+
+</li>
+
+<!-- end link 9 -->
+                                  
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							&copy;
+													</span>
+						<script type="text/javascript">var d = new Date();document.write( d.getFullYear());</script><span class="footer_credit_label"> Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/president/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Office of the President</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/earlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/regulardecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Graduate Studies</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/fye/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>First-Year Experience</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Adult Accelerated &amp; Evening Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/continuingstudies/courseschedules/summersemester/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Summer Study</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/graduatestudies/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Graduate Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li> 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							
+                                                                                                                                   <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                                                                                                                                   
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+ 
+
+                                                                                                                           
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Request Info</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/alumni/'>
+								<span class='utility_nav_link_label'>Alumni &amp; Friends</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/calendar/'>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+                   <!-- START INSERT QUICK LINK 5 -->
+                 <ul class="quick_nav_list">
+				 <li class="quick_nav_item">
+							<a class='quick_nav_link' href='/offices/healthcenter/coronavirus/'>
+								<span class='quick_nav_link_label'>COVID-19 Info</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   <li class="quick_nav_item">&nbsp;</li>
+                   
+					</ul>
+                  <!-- END INSERT QUICK LINK 5 -->
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>
