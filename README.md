@@ -11,3 +11,8 @@
   - Run 'main.py' to generate the data from muhlenberg.edu
   - Run 'cli.py' for a CLI search
   - Run 'gui.py' for a GUI search
+
+## Backend
+- Uses nltk for Porter Stemming
+- Uses cosine similarity ranking for results
+  - Uses **Term Frequency** and **Inverted Document Frequency** as weights for ranking
