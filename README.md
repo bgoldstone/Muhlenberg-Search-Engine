@@ -3,7 +3,7 @@
 ## Requirements
 
 - Python must be installed on your machine
-- In a terminal navigate the current directory run 'pip install -r requirements.txt' or 'pip install nltk'
+- In a terminal navigate the current directory run <code>pip install -r requirements.txt</code> or <code>pip install nltk</code>
 
 ## Run Instructions
 - Run executable from releases (**zip highly recommended**)
