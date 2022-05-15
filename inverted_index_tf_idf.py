@@ -1,3 +1,8 @@
+"""
+    inverted_index_tf_idf.py Functions for gerating inverted indexes, term frequencies, and inverted document frequencies.
+    Date: 5/15/2022
+    Name: Ben Goldstone
+"""
 import json
 import os
 import statistics

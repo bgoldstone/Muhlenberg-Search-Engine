@@ -1,3 +1,8 @@
+"""
+    gui.py  Graphical User Interface for searching the Muhlenberg website
+    Date: 5/15/2022
+    Name: Ben Goldstone
+"""
 import os
 import webbrowser
 from tkinter import (LEFT, RIGHT, Button, Checkbutton, E, Entry, Frame, IntVar,

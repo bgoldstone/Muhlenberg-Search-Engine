@@ -1,3 +1,8 @@
+"""
+    cli.py Command line interface for searching the Muhlenberg website
+    Date: 5/15/2022
+    Name: Ben Goldstone
+"""
 from query import query_website
 import os
 DATA = os.path.join(os.path.abspath(__file__), "..", "data")

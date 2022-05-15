@@ -1,3 +1,6 @@
+"""
+    query.py Function for querying Muhlenberg website data and returning URLs and title.
+"""
 import json
 import math
 import os

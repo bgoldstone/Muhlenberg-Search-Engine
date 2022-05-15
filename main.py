@@ -1,9 +1,15 @@
+"""
+    main.py The main runner for grabbing the data from the website.
+    Date: 5/15/2022
+    Name: Ben Goldstone
+"""
 import gc
 import os
 
 from inverted_index_tf_idf import create_inverted_index
 from scrape import scrape_data
 
+# Constants
 WEB_SCRAPE_OUTPUT = os.path.join(os.path.abspath(__file__), "..", "output")
 JSON_OUTPUT = os.path.join(os.path.abspath(__file__), "..", "data")
 
