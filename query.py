@@ -1,5 +1,7 @@
 """
     query.py Function for querying Muhlenberg website data and returning URLs and title.
+    Date: 5/15/2022
+    Name: Ben Goldstone
 """
 import json
 import math
